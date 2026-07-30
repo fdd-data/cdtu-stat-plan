@@ -568,6 +568,15 @@ footer { text-align: center; padding: 36px 20px; color: var(--text-muted); font-
   flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .notice-item a:hover { color: var(--primary-light); }
+.notice-lang { font-size: .7rem; margin-left: 4px; flex-shrink: 0; }
+.notice-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 16px; font-size: .7rem; color: var(--text-muted);
+  border-top: 1px dashed var(--border); flex-wrap: wrap; gap: 4px;
+}
+.notice-auto-badge { opacity: .7; }
+.notice-rss-links a { color: var(--text-muted); text-decoration: none; }
+.notice-rss-links a:hover { color: var(--primary-light); }
 
 /* ── About Section ── */
 .about-grid {

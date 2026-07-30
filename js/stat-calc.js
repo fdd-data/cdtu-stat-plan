@@ -139,7 +139,11 @@
 
   // ── Panel ──
   function togglePanel() {
-    if(!panelEl) { buildPanel(); }
+    // Ensure panelEl is set (defensive, in case init() didn't run)
+    if(!panelEl) { panelEl = document.getElementById('app-stat-panel'); }
+    if(!panelEl) return;
+    // Ensure panel is built
+    if(!panelEl.querySelector('.stat-panel-inner')) buildPanel();
     var open = panelEl.classList.contains('open');
     if(open) { closePanel(); } else { openPanel(); }
   }
@@ -219,12 +223,6 @@
     init: function(){
       toggleBtn = document.querySelector('.stat-toggle');
       panelEl = document.getElementById('app-stat-panel');
-      if(toggleBtn){
-        toggleBtn.addEventListener('click', function(){
-          if(!panelEl.querySelector('.stat-panel-inner')) buildPanel();
-          togglePanel();
-        });
-      }
     },
     togglePanel: togglePanel,
     openPanel: openPanel,
@@ -236,10 +234,13 @@
   window.CDTU = window.CDTU || {};
   window.CDTU.StatCalc = StatCalc;
 
-  // Auto-init: attach click handler when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function(){ StatCalc.init(); });
-  } else {
+  // Auto-init when DOM ready
+  function autoInit() {
     StatCalc.init();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', autoInit);
+  } else {
+    autoInit();
   }
 })();

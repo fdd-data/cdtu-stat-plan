@@ -23,7 +23,7 @@
     });
     html += '</div>';
     html += '<div class="nav-actions">';
-    html += '<button class="stat-toggle nav-btn" title="描述统计计算器"><span class="nav-btn-icon">📊</span></button>';
+    html += '<button class="stat-toggle nav-btn" title="描述统计计算器" onclick="CDTU.StatCalc.togglePanel()"><span class="nav-btn-icon">📊</span></button>';
     html += '<button class="nav-btn" id="search-trigger" title="搜索 (Ctrl+K)">🔍</button>';
     html += '<button class="theme-toggle nav-btn" id="theme-toggle-btn" title="切换暗色/亮色模式">🌓</button>';
     html += '</div>';
