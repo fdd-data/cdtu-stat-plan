@@ -74,8 +74,9 @@
     el.innerHTML = '<footer>' +
       '<div class="footer-brand">📊 应用统计学 · 四年学业规划 &nbsp;|&nbsp; 成都工业学院 · 大数据与人工智能学院</div>' +
       '<div class="footer-motto">保持好奇心，保持学习习惯。统计学不是一门课，是一种看世界的方式。</div>' +
-      '<div class="footer-creator">创作者：<strong>FDD</strong></div>' +
-      '<div class="footer-copy">© 2026 成都工业学院 · 大数据与人工智能学院 &nbsp;|&nbsp; 最后更新：2026 年 7 月</div>' +
+      '<div class="footer-creator">👨‍💻 创作者：<strong>FDD</strong> &nbsp;|&nbsp; <a href="https://github.com/fdd-data/cdtu-stat-plan" target="_blank" rel="noopener" class="footer-gh-link">💻 查看源代码</a></div>' +
+      '<div class="footer-tech">🛠️ 纯静态 · GitHub Pages · 零框架 · RSS 自动更新 · PWA 离线可用</div>' +
+      '<div class="footer-copy">© 2026 · 最后更新：2026 年 7 月 &nbsp;|&nbsp; <span id="visit-count" class="visit-count"></span></div>' +
       '</footer>';
   }
 
@@ -188,6 +189,12 @@
     renderReadingBar();
     renderSearch();
     renderFooter();
+
+    // Visit counter
+    var visits = parseInt(localStorage.getItem('cdtu-visits') || '0') + 1;
+    localStorage.setItem('cdtu-visits', visits);
+    var vcEl = document.getElementById('visit-count');
+    if (vcEl) vcEl.textContent = '👀 你已访问 ' + visits + ' 次';
 
     // Stat calculator init (if module loaded)
     if (window.CDTU.StatCalc) {

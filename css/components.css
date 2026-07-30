@@ -599,7 +599,26 @@ footer { text-align: center; padding: 36px 20px; color: var(--text-muted); font-
 .about-card h3 { font-size: .95rem; margin-bottom: 8px; color: var(--text); }
 .about-card p { font-size: .85rem; color: var(--text-muted); line-height: 1.6; }
 
-/* ── Footer ── */
+/* ── About Site ── */
+.about-site {
+  background: var(--card-bg); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px 28px;
+}
+.about-site p { font-size: .88rem; color: var(--text-muted); line-height: 1.8; margin-bottom: 8px; }
+.about-site p strong { color: var(--text); }
+.about-cta {
+  display: flex; align-items: center; gap: 16px; margin-top: 16px;
+  padding-top: 14px; border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+.gh-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 10px 22px; background: #24292e; color: #fff;
+  border-radius: 8px; text-decoration: none; font-weight: 700; font-size: .9rem;
+  transition: transform .15s, box-shadow .15s;
+}
+.gh-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,.18); }
+.about-license { font-size: .78rem; color: var(--text-muted); opacity: .7; }
 footer {
   text-align: center; padding: 32px 20px 24px;
   border-top: 1px solid var(--border); margin-top: 40px;
@@ -607,8 +626,13 @@ footer {
 }
 .footer-brand { font-weight: 700; color: var(--text); font-size: .92rem; }
 .footer-motto { opacity: .65; font-style: italic; margin: 4px 0; }
-.footer-creator { font-weight: 700; color: var(--primary); font-size: 1rem; margin: 8px 0; }
+.footer-creator { font-size: .9rem; margin: 8px 0; }
+.footer-creator strong { color: var(--primary); }
+.footer-gh-link { color: var(--primary-light); text-decoration: none; font-weight: 600; }
+.footer-gh-link:hover { text-decoration: underline; }
+.footer-tech { font-size: .72rem; opacity: .5; margin: 6px 0; letter-spacing: .5px; }
 .footer-copy { font-size: .75rem; opacity: .5; margin-top: 8px; }
+.visit-count { font-weight: 600; color: var(--primary-light); }
 
 /* ── Mobile ── */
 @media (max-width: 640px) {
