@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Beginner’s Guide to Working with Claude Design",
+    "url": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
+    "description": "Claude Design is a research preview under Anthropic Labs, powered by Claude Opus' vision capability, generating interactive prototypes with working na",
+    "date": "2026-07-30",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "7 Machine Learning Algorithms That Still Matter",
     "url": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
     "description": "Discover 7 essential machine learning algorithms that every data scientist should know before reaching for LLMs and generative AI, with simple explana",
@@ -75,14 +83,6 @@
     "title": "Language Model Hallucination Evaluation with GraphEval",
     "url": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
     "description": "Turning the key principles and methodological stages of GraphEval into a simulated practical scenario to better understand its usefulness and key impl",
-    "date": "2026-07-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Key Concepts Behind Agentic AI Every Engineer Must Understand",
-    "url": "https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand",
-    "description": "This article walks through and explains the five ideas that actually hold agentic systems together.",
     "date": "2026-07-24",
     "cat": "技术",
     "lang": "en"
