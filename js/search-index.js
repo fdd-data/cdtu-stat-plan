@@ -9,7 +9,7 @@
   window.CDTU.SearchIndex = [
     // ── Home ──
     { title: '核心目标', snippet: '本科毕业即具备独立胜任数据分析/商业分析类岗位的能力，拥有完整项目作品集与实习经验', url: 'index.html', page: '首页', keywords: '目标 就业 数据分析 商业分析' },
-    { title: '德厚流光 栋立苍穹', snippet: '成都工业学院 · 大数据与人工智能学院 · 2026–2030 · 创作者：FDD', url: 'index.html', page: '首页', keywords: '校训 motto 成都工业学院' },
+    { title: '德厚流光 栋立苍穹', snippet: '成都工业学院 · 大数据与人工智能学院 · 应用统计学专业 · 创作者：FDD', url: 'index.html', page: '首页', keywords: '校训 motto 成都工业学院' },
 
     // ── Plan ──
     { title: '大一·筑基期', snippet: '适应大学生活、打好数学基础、建立编程思维、探索方向。高数、线代、Python入门', url: 'plan.html', page: '四年规划', keywords: '大一 筑基 数学分析 高等数学 线性代数 Python' },

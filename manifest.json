@@ -1,7 +1,7 @@
 {
-  "name": "成都工业学院 · 应用统计学四年规划",
-  "short_name": "应统四规",
-  "description": "应用统计学专业四年大学学习规划，涵盖课程、技能、竞赛、就业",
+  "name": "应用统计学专业 | 成都工业学院",
+  "short_name": "应统专业",
+  "description": "成都工业学院应用统计学专业——四年培养方案、技能路线、竞赛指导、就业方向、互动学习工具",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f8f9fa",

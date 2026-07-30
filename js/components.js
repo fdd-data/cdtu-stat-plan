@@ -72,10 +72,10 @@
     var el = document.getElementById('app-footer');
     if (!el) return;
     el.innerHTML = '<footer>' +
-      '📊 应用统计学 · 四年大学规划 &nbsp;|&nbsp; 成都工业学院 · 大数据与人工智能学院 &nbsp;|&nbsp; 2026–2030<br>' +
-      '<span style="opacity:.6">保持好奇心，保持学习习惯。统计学不是一门课，是一种看世界的方式。</span><br>' +
-      '<span style="font-weight:700;color:var(--primary);font-size:1rem;">创作者：FDD</span><br>' +
-      '<span style="opacity:.5;font-size:.78rem;">Made with ❤️ &nbsp;|&nbsp; 最后更新：2026 年 7 月</span>' +
+      '<div class="footer-brand">📊 应用统计学 · 四年学业规划 &nbsp;|&nbsp; 成都工业学院 · 大数据与人工智能学院</div>' +
+      '<div class="footer-motto">保持好奇心，保持学习习惯。统计学不是一门课，是一种看世界的方式。</div>' +
+      '<div class="footer-creator">创作者：<strong>FDD</strong></div>' +
+      '<div class="footer-copy">© 2026 成都工业学院 · 大数据与人工智能学院 &nbsp;|&nbsp; 最后更新：2026 年 7 月</div>' +
       '</footer>';
   }
 
