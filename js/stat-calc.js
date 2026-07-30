@@ -235,4 +235,11 @@
 
   window.CDTU = window.CDTU || {};
   window.CDTU.StatCalc = StatCalc;
+
+  // Auto-init: attach click handler when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function(){ StatCalc.init(); });
+  } else {
+    StatCalc.init();
+  }
 })();
