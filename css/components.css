@@ -62,27 +62,34 @@
   .nav-actions { margin-left: auto; }
 }
 
-/* ── Music Player ── */
-.music-toggle {
+/* ── Pomodoro Timer ── */
+.pomodoro-toggle {
   width: 42px; height: 42px; border-radius: 50%; border: 2px solid var(--border);
   background: var(--card-bg);
   font-size: 1.1rem; cursor: pointer; transition: all .25s;
   display: flex; align-items: center; justify-content: center;
   position: relative;
 }
-.music-toggle:hover { transform: scale(1.1); border-color: var(--accent); }
-.music-toggle.playing {
-  border-color: var(--accent);
-  animation: music-pulse 2s ease-in-out infinite;
+.pomodoro-toggle:hover { transform: scale(1.1); border-color: var(--danger); }
+.pomodoro-toggle.pomodoro-running {
+  border-color: var(--danger);
+  animation: pomodoro-pulse 2s ease-in-out infinite;
 }
-@keyframes music-pulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(230,126,34,.4); }
-  50% { box-shadow: 0 0 0 10px rgba(230,126,34,0); }
+@keyframes pomodoro-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(231,76,60,.4); }
+  50% { box-shadow: 0 0 0 10px rgba(231,76,60,0); }
 }
 
-.music-player-panel {
+/* Panel */
+#app-pomodoro-panel {
   position: fixed; bottom: 80px; right: 20px; z-index: 500;
-  width: 360px; max-width: calc(100vw - 40px);
+  width: 340px; max-width: calc(100vw - 40px);
+}
+#app-pomodoro-panel.open .pomodoro-panel-inner {
+  transform: translateY(0) scale(1);
+  opacity: 1; visibility: visible;
+}
+.pomodoro-panel-inner {
   background: var(--card-bg); border-radius: var(--radius);
   box-shadow: var(--shadow-lg); border: 1px solid var(--border);
   padding: 20px;
@@ -90,66 +97,105 @@
   opacity: 0; visibility: hidden;
   transition: all .3s cubic-bezier(.4,0,.2,1);
 }
-.music-player-panel.open {
-  transform: translateY(0) scale(1);
-  opacity: 1; visibility: visible;
-}
 
-.music-panel-header {
+.pomodoro-panel-header {
   display: flex; justify-content: space-between; align-items: center;
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
-.music-panel-header h3 { font-size: 1.05rem; display: flex; align-items: center; gap: 8px; }
-.music-close {
+.pomodoro-panel-header h3 { font-size: 1.05rem; display: flex; align-items: center; gap: 8px; }
+.pomodoro-close {
   width: 32px; height: 32px; border-radius: 50%; border: none;
   background: var(--border); cursor: pointer; font-size: 1rem;
   display: flex; align-items: center; justify-content: center;
   transition: background .2s;
 }
-.music-close:hover { background: var(--danger); color: #fff; }
+.pomodoro-close:hover { background: var(--danger); color: #fff; }
 
-.music-selector {
-  display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px;
+/* Timer Ring */
+.pomodoro-ring-wrap {
+  position: relative; width: 160px; height: 160px;
+  margin: 0 auto 16px;
 }
-.music-tag {
-  padding: 6px 14px; border-radius: 99px; border: 1px solid var(--border);
-  background: transparent; color: var(--text-muted); cursor: pointer;
-  font-size: .82rem; font-weight: 500; transition: all .2s;
+.pomodoro-ring-svg {
+  width: 100%; height: 100%;
+  transform: rotate(-90deg);
+}
+.pomodoro-ring-bg {
+  fill: none; stroke: var(--border); stroke-width: 8;
+}
+.pomodoro-ring-fill {
+  fill: none;
+  stroke: var(--danger);
+  stroke-width: 8;
+  stroke-linecap: round;
+  stroke-dasharray: 534;
+  stroke-dashoffset: calc(534 * (1 - var(--progress, 100%) / 100));
+  transition: stroke-dashoffset 1s linear;
+}
+.pomodoro-time {
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem; font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+.pomodoro-label {
+  text-align: center; font-size: .85rem; font-weight: 600;
+  color: var(--text-muted); margin-top: -8px; margin-bottom: 12px;
+}
+
+/* Mode buttons */
+.pomodoro-modes {
+  display: flex; gap: 6px; margin-bottom: 14px;
+}
+.pomodoro-mode-btn {
+  flex: 1; padding: 8px 6px; border-radius: 8px;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--text-muted); cursor: pointer;
+  font-size: .78rem; font-weight: 600; transition: all .2s;
+  font-family: inherit; text-align: center;
+}
+.pomodoro-mode-btn:hover { border-color: var(--primary-light); color: var(--primary-light); }
+.pomodoro-mode-btn.active {
+  background: var(--danger); color: #fff; border-color: var(--danger);
+}
+
+/* Controls */
+.pomodoro-controls {
+  display: flex; align-items: center; gap: 10px; justify-content: center;
+}
+.pomodoro-main-btn {
+  padding: 10px 32px; border-radius: 99px; border: none;
+  background: var(--danger); color: #fff; font-size: 1rem;
+  font-weight: 700; cursor: pointer; transition: all .2s;
   font-family: inherit;
 }
-.music-tag:hover { border-color: var(--accent); color: var(--accent); }
-.music-tag.active { background: var(--accent); color: #fff; border-color: var(--accent); }
-
-.music-controls {
-  display: flex; align-items: center; gap: 12px;
+.pomodoro-main-btn:hover { transform: scale(1.05); filter: brightness(1.1); }
+.pomodoro-main-btn.running {
+  background: var(--warning, #f39c12);
 }
-.music-play-btn {
-  width: 48px; height: 48px; border-radius: 50%; border: none;
-  background: var(--accent); color: #fff; font-size: 1.3rem;
-  cursor: pointer; transition: all .2s;
+.pomodoro-skip-btn, .pomodoro-reset-btn {
+  width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--border);
+  background: var(--card-bg); color: var(--text-muted); cursor: pointer;
+  font-size: 1.1rem; transition: all .2s;
   display: flex; align-items: center; justify-content: center;
-  flex-shrink: 0;
 }
-.music-play-btn:hover { transform: scale(1.08); filter: brightness(1.1); }
+.pomodoro-skip-btn:hover, .pomodoro-reset-btn:hover {
+  border-color: var(--text-muted); color: var(--text);
+}
 
-.music-info { flex: 1; min-width: 0; }
-.music-track-title { font-weight: 700; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.music-track-artist { font-size: .78rem; color: var(--text-muted); }
+/* Session counter */
+.pomodoro-sessions {
+  text-align: center; margin-top: 12px;
+  font-size: 1.1rem; font-weight: 700; color: var(--danger);
+}
+.pomodoro-hint {
+  text-align: center; margin-top: 4px;
+  font-size: .75rem; color: var(--text-muted); opacity: .7;
+}
 
-.music-volume {
-  display: flex; align-items: center; gap: 8px; margin-top: 12px;
-}
-.music-volume input[type="range"] {
-  flex: 1; accent-color: var(--accent); height: 4px;
-}
-.music-vol-icon { font-size: 1rem; flex-shrink: 0; }
-
-.music-youtube-wrap {
-  width: 100%; height: 0; overflow: hidden; position: relative;
-}
-.music-youtube-wrap iframe {
-  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-  border: none; border-radius: 8px;
+@media (max-width: 640px) {
+  #app-pomodoro-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
 }
 
 /* ── Hero ── */
@@ -556,7 +602,7 @@ footer { text-align: center; padding: 36px 20px; color: var(--text-muted); font-
   .schedule-table th, .schedule-table td { padding: 6px 4px; }
   .gpa-table { font-size: .78rem; }
   .gpa-table th, .gpa-table td { padding: 6px 8px; }
-  .music-player-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
+  #app-pomodoro-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
   .search-box { max-width: 95vw; }
 }
 

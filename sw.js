@@ -25,7 +25,7 @@ var PRECACHE_URLS = [
   'js/skill-checklist.js',
   'js/search.js',
   'js/search-index.js',
-  'js/music-player.js',
+  'js/pomodoro.js',
   'js/app.js',
   'manifest.json'
 ];

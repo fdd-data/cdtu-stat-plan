@@ -77,7 +77,7 @@ strong { font-weight: 700; }
 /* ── Print ── */
 @media print {
   .nav, .theme-toggle, #app-back-top, #app-reading-bar, #app-search-overlay,
-  .music-toggle, .music-player-panel, .hamburger-btn { display: none !important; }
+  .pomodoro-toggle, #app-pomodoro-panel, .hamburger-btn { display: none !important; }
   .hero { padding: 24px; }
   .tab-btn:not(.active) { display: none; }
   .tab-panel { display: block !important; margin-bottom: 24px; }
