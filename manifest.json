@@ -1,0 +1,16 @@
+{
+  "name": "成都工业学院 · 应用统计学四年规划",
+  "short_name": "应统四规",
+  "description": "应用统计学专业四年大学学习规划，涵盖课程、技能、竞赛、就业",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a5276",
+  "lang": "zh-CN",
+  "icons": [{
+    "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%231a5276'/%3E%3Ctext x='96' y='120' text-anchor='middle' font-size='80' font-weight='bold' fill='white'%3E📊%3C/text%3E%3C/svg%3E",
+    "sizes": "192x192",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
