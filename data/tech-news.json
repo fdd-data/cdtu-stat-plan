@@ -1,7 +1,122 @@
 [
-  {"title": "Python 3.13 发布：GIL 移除实验性支持，性能大幅提升", "url": "https://docs.python.org/3.13/whatsnew/3.13.html", "description": "Python 最新版本带来突破性性能改进，数据分析任务运行速度显著加快", "date": "2026-07-25", "cat": "技术", "lang": "zh"},
-  {"title": "Pandas 3.0 正式版发布：Arrow 后端成为默认，内存效率提升 5 倍", "url": "https://pandas.pydata.org/", "description": "数据处理核心库重大更新，大规模数据集处理能力质的飞跃", "date": "2026-07-18", "cat": "技术", "lang": "zh"},
-  {"title": "Scikit-learn 1.7 引入全新 AutoML 模块，自动模型选择与超参调优", "url": "https://scikit-learn.org/", "description": "机器学习入门者的福音，一行代码完成模型筛选", "date": "2026-07-12", "cat": "技术", "lang": "zh"},
-  {"title": "Tableau 2026.3 发布：原生 AI 问答功能，自然语言生成可视化", "url": "https://www.tableau.com/", "description": "BI 工具加入大语言模型能力，口语化提问即可生成图表", "date": "2026-07-05", "cat": "技术", "lang": "zh"},
-  {"title": "统计之都论坛：大语言模型在统计推断中的应用综述", "url": "https://cosx.org/", "description": "COS 年度热门讨论，LLM 与传统统计方法的结合点", "date": "2026-06-28", "cat": "学术", "lang": "zh"}
+  {
+    "title": "When Kernel Ridge Regression Meets the H\\\"older-Zygmund Class: Minimax Optimality and Failure of Properness",
+    "url": "https://arxiv.org/abs/2607.26065",
+    "description": "arXiv:2607.26065v1 Announce Type: new \nAbstract: We study kernel ridge regression for nonparametric regression over the H\\\"older-Zygmund class. Using ",
+    "date": "2026-07-30",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Coherent Measures of Discrepancy, Uncertainty and Dependence, with Applications to Bayesian Predictive Experimental Design",
+    "url": "https://arxiv.org/abs/2607.26077",
+    "description": "arXiv:2607.26077v1 Announce Type: new \nAbstract: We show how, associated with any decision problem, we may derive related functions measuring uncertai",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Mean-Tilted Relaxed Quantile Regression: Fixed-Content Interval Functionals and Generalized-Bayes Computation",
+    "url": "https://arxiv.org/abs/2607.26098",
+    "description": "arXiv:2607.26098v1 Announce Type: new \nAbstract: Probability content does not by itself determine interval placement. We study the interval functional",
+    "date": "2026-07-30",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "The Dirichlet Process as sampling distribution",
+    "url": "https://arxiv.org/abs/2607.26185",
+    "description": "arXiv:2607.26185v1 Announce Type: new \nAbstract: The Dirichlet process (DP) is the most common bayesian nonparametric prior, however, its properties a",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Statistical Learning of Pediatric Mental Health-Related Emergency Department Visits Across COVID-19 Pandemic Periods",
+    "url": "https://arxiv.org/abs/2607.26210",
+    "description": "arXiv:2607.26210v1 Announce Type: new \nAbstract: This article presents a statistical learning framework for studying the evolution of pediatric mental",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Retrospective Orthogonal Design: Response-Surface Reconstruction from Observational Data",
+    "url": "https://arxiv.org/abs/2607.26219",
+    "description": "arXiv:2607.26219v1 Announce Type: new \nAbstract: Regression estimates from observational data can depend on specification under multicollinearity, whi",
+    "date": "2026-07-30",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Conditional copula representations and extremal bounds for multivariate statistical functionals",
+    "url": "https://arxiv.org/abs/2607.26256",
+    "description": "arXiv:2607.26256v1 Announce Type: new \nAbstract: In this paper, we derive a conditional copula representation for expectations of the form $\\mathbb{E}",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Reclaiming the \"frequentist\" role of marginal likelihood in Bayesian belief revision",
+    "url": "https://arxiv.org/abs/2607.26259",
+    "description": "arXiv:2607.26259v1 Announce Type: new \nAbstract: In modern Bayesian computation and parametric estimation, the marginal likelihood, serving as the den",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Denoising growth complexity: Data geometry and certified schedules for diffusion sampling",
+    "url": "https://arxiv.org/abs/2607.26285",
+    "description": "arXiv:2607.26285v1 Announce Type: new \nAbstract: Two central challenges in diffusion-based sampling are the theoretical one of understanding their rem",
+    "date": "2026-07-30",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Studying Competing Events with Federated Cumulative Incidence Curves",
+    "url": "https://arxiv.org/abs/2607.26287",
+    "description": "arXiv:2607.26287v1 Announce Type: new \nAbstract: Combining electronic health record (EHR) data from multiple institutions is a valuable strategy for c",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "The Confounder Trap: Treatment-Encoding Representations in Causal Inference with Text",
+    "url": "https://arxiv.org/abs/2607.26309",
+    "description": "arXiv:2607.26309v1 Announce Type: new \nAbstract: Estimating causal effects of linguistic properties from observational text is difficult because the s",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Toward a Unified Statistical Theory of Unsupervised Pretraining and Supervised Neural Knowledge Graph Learning",
+    "url": "https://arxiv.org/abs/2607.26346",
+    "description": "arXiv:2607.26346v1 Announce Type: new \nAbstract: Knowledge graph learning provides a powerful framework for representing and inferring structured know",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Optimizing Efficiency and Convergence in MMRM: Practical Considerations for Longitudinal Data Analysis",
+    "url": "https://arxiv.org/abs/2607.26362",
+    "description": "arXiv:2607.26362v1 Announce Type: new \nAbstract: Mixed models for repeated measures (MMRM) are a popular method for analyzing longitudinal data in cli",
+    "date": "2026-07-30",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "A Lower Bound on the Sliced Wasserstein Comparison Constant for Translated Measures",
+    "url": "https://arxiv.org/abs/2607.26399",
+    "description": "arXiv:2607.26399v1 Announce Type: new \nAbstract: We provide closed-form expressions for standard 1-Wasserstein distance ($W_1$) and Sliced 1-Wasserste",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Origins and mitigation of double descent in reduced order modeling",
+    "url": "https://arxiv.org/abs/2607.26414",
+    "description": "arXiv:2607.26414v1 Announce Type: new \nAbstract: Latent low-dimensional structure in datasets of natural and engineered systems enables their sparse s",
+    "date": "2026-07-30",
+    "cat": "学术",
+    "lang": "en"
+  }
 ]
