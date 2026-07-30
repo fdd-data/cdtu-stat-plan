@@ -148,7 +148,7 @@ def main():
     static_announcements = [
         {"title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止", "url": "skills.html", "description": "CUMCM 国内规模最大的建模竞赛", "date": "2026-07-28", "cat": "竞赛", "lang": "zh"},
         {"title": "暑期数据分析实习岗位汇总（成都地区）——持续更新中", "url": "career.html", "description": "涵盖互联网/金融/咨询行业实习机会", "date": "2026-07-20", "cat": "实习", "lang": "zh"},
-        {"title": ""统计学在工业界的应用"——优秀校友经验分享会（8月5日）", "url": "plan.html", "description": "校友分享工业界实战经验", "date": "2026-07-15", "cat": "讲座", "lang": "zh"},
+        {"title": "「统计学在工业界的应用」——优秀校友经验分享会（8月5日）", "url": "plan.html", "description": "校友分享工业界实战经验", "date": "2026-07-15", "cat": "讲座", "lang": "zh"},
     ]
 
     for section, filename in SECTION_FILES.items():
