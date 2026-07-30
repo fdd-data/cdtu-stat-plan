@@ -99,8 +99,13 @@
   }
 
   // ── Auto-sync scheduler ──
+  var lastSyncAttempt = 0;
+  var MIN_SYNC_INTERVAL = 30000; // Don't sync more than once per 30s
+  var consecutiveFailures = 0;
+  var MAX_FAILURES = 5; // After 5 failures, back off for 10 minutes
+
   function markDirty() {
-    localStorage.setItem(DIRTY_KEY, '1');
+    try { localStorage.setItem(DIRTY_KEY, '1'); } catch(e) {}
     scheduleSync();
   }
 
@@ -111,11 +116,32 @@
 
   function doSync() {
     if (!getToken()) return;
+    // Rate limit: no more than once per 30s
+    if (Date.now() - lastSyncAttempt < MIN_SYNC_INTERVAL) {
+      // Reschedule for later
+      syncTimer = setTimeout(doSync, MIN_SYNC_INTERVAL);
+      return;
+    }
+    // Skip if browser reports offline
+    if (!navigator.onLine) return;
+    // Back off if too many failures
+    if (consecutiveFailures >= MAX_FAILURES) {
+      syncTimer = setTimeout(function() { consecutiveFailures = 0; doSync(); }, 600000);
+      return;
+    }
+
+    lastSyncAttempt = Date.now();
     syncToGist().then(function() {
-      localStorage.setItem(LAST_SYNC_KEY, Date.now());
-      localStorage.removeItem(DIRTY_KEY);
+      try {
+        localStorage.setItem(LAST_SYNC_KEY, Date.now());
+        localStorage.removeItem(DIRTY_KEY);
+      } catch(e) {}
+      consecutiveFailures = 0;
       updateStatus();
-    }).catch(function() { /* silent fail */ });
+    }).catch(function() {
+      consecutiveFailures++;
+      /* silent - will retry later */;
+    });
   }
 
   // ── UI ──
@@ -249,12 +275,14 @@
     updateStatus();
   }
 
-  // Hook into existing tools: mark dirty on localStorage changes
-  var originalSetItem = localStorage.setItem;
+  // Hook into localStorage — only for cdtu- keys, minimal overhead
+  var originalSetItem = localStorage.setItem.bind(localStorage);
   localStorage.setItem = function(key, value) {
-    originalSetItem.call(localStorage, key, value);
-    for (var p = 0; p < PREFIXES.length; p++) {
-      if (key.indexOf(PREFIXES[p]) === 0) { markDirty(); break; }
+    originalSetItem(key, value);
+    // Quick prefix check — only for our keys
+    if (key.length > 4 && key.charCodeAt(0) === 99 && key.charCodeAt(1) === 100 &&
+        key.charCodeAt(2) === 116 && key.charCodeAt(3) === 117 && key.charCodeAt(4) === 45) {
+      markDirty();
     }
   };
 
