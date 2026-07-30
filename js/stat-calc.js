@@ -63,6 +63,62 @@
     return n>3 ? ((n*(n+1)*m4 - 3*(n-1)*m2*m2*(n-1)) / ((n-1)*(n-2)*(n-3)*m2*m2)) : 0;
   }
 
+  // ── SVG Histogram ──
+  function renderHistogram(sorted, min, max) {
+    var n = sorted.length;
+    // Sturges' rule for bin count
+    var nBins = Math.max(5, Math.min(20, Math.ceil(1 + 3.322 * Math.log10(n))));
+    var binW = (max - min) / nBins || 1;
+    var bins = [];
+    for (var i = 0; i < nBins; i++) {
+      bins.push({ lo: min + i * binW, hi: min + (i + 1) * binW, count: 0 });
+    }
+    // Count values into bins
+    var bi = 0;
+    for (var j = 0; j < sorted.length; j++) {
+      while (bi < nBins - 1 && sorted[j] >= bins[bi].hi) bi++;
+      if (sorted[j] >= bins[bi].lo && sorted[j] <= bins[bi].hi) bins[bi].count++;
+    }
+    var maxCount = Math.max.apply(null, bins.map(function(b) { return b.count; })) || 1;
+
+    var W = 360, H = 140, padL = 40, padR = 10, padT = 10, padB = 24;
+    var plotW = W - padL - padR, plotH = H - padT - padB;
+    var barGap = 1;
+    var barW = Math.max(2, (plotW / nBins) - barGap);
+
+    var svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" class="stat-hist-svg" aria-label="数据分布直方图">';
+
+    // Y axis grid lines
+    for (var g = 0; g <= 4; g++) {
+      var y = padT + plotH * (1 - g/4);
+      svg += '<line x1="' + padL + '" y1="' + y + '" x2="' + (W-padR) + '" y2="' + y + '" stroke="var(--border)" stroke-width="0.5"/>';
+      svg += '<text x="' + (padL-6) + '" y="' + (y+3) + '" text-anchor="end" font-size="9" fill="var(--text-muted)">' + Math.round(maxCount*g/4) + '</text>';
+    }
+
+    // Bars
+    var barColors = ['#2980b9','#3498db','#5dade2','#85c1e9','#aed6f1','#d6eaf8'];
+    bins.forEach(function(b, i) {
+      var barH = (b.count / maxCount) * plotH;
+      var x = padL + i * (barW + barGap);
+      var yBar = padT + plotH - barH;
+      var col = barColors[i % barColors.length];
+      svg += '<rect x="' + x + '" y="' + yBar + '" width="' + barW + '" height="' + barH + '" fill="' + col + '" rx="1">';
+      svg += '<title>' + b.lo.toFixed(1) + ' – ' + b.hi.toFixed(1) + ': ' + b.count + ' 个</title>';
+      svg += '</rect>';
+    });
+
+    // X axis
+    svg += '<line x1="' + padL + '" y1="' + (padT+plotH) + '" x2="' + (W-padR) + '" y2="' + (padT+plotH) + '" stroke="var(--border)" stroke-width="1"/>';
+    // X labels: show first, middle, last
+    [0, Math.floor(nBins/2), nBins-1].forEach(function(i) {
+      var x = padL + i * (barW + barGap) + barW/2;
+      svg += '<text x="' + x + '" y="' + (padT+plotH+14) + '" text-anchor="middle" font-size="9" fill="var(--text-muted)">' + bins[i].lo.toFixed(1) + '</text>';
+    });
+
+    svg += '</svg>';
+    return '<div class="stat-hist"><div class="stat-hist-title">📊 数据分布 (' + nBins + ' 组)</div>' + svg + '</div>';
+  }
+
   // ── Parse input ──
   function parseNumbers(text) {
     // Split by comma, space, newline, semicolon, tab
@@ -134,6 +190,8 @@
     else interp += '· 📊 接近正态峰度';
 
     html += '<div class="stat-interp">'+interp+'</div>';
+    // Add histogram
+    html += renderHistogram(sorted, sorted[0], sorted[n-1]);
     result.innerHTML = html;
   }
 
