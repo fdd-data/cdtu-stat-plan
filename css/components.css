@@ -62,140 +62,86 @@
   .nav-actions { margin-left: auto; }
 }
 
-/* ── Pomodoro Timer ── */
-.pomodoro-toggle {
+/* ── Statistics Calculator Panel ── */
+.stat-toggle {
   width: 42px; height: 42px; border-radius: 50%; border: 2px solid var(--border);
   background: var(--card-bg);
   font-size: 1.1rem; cursor: pointer; transition: all .25s;
   display: flex; align-items: center; justify-content: center;
   position: relative;
 }
-.pomodoro-toggle:hover { transform: scale(1.1); border-color: var(--danger); }
-.pomodoro-toggle.pomodoro-running {
-  border-color: var(--danger);
-  animation: pomodoro-pulse 2s ease-in-out infinite;
-}
-@keyframes pomodoro-pulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(231,76,60,.4); }
-  50% { box-shadow: 0 0 0 10px rgba(231,76,60,0); }
-}
+.stat-toggle:hover { transform: scale(1.1); border-color: var(--primary-light); }
 
-/* Panel */
-#app-pomodoro-panel {
+#app-stat-panel {
   position: fixed; bottom: 80px; right: 20px; z-index: 500;
-  width: 340px; max-width: calc(100vw - 40px);
+  width: 380px; max-width: calc(100vw - 32px);
 }
-#app-pomodoro-panel.open .pomodoro-panel-inner {
+#app-stat-panel.open .stat-panel-inner {
   transform: translateY(0) scale(1);
   opacity: 1; visibility: visible;
 }
-.pomodoro-panel-inner {
+.stat-panel-inner {
   background: var(--card-bg); border-radius: var(--radius);
   box-shadow: var(--shadow-lg); border: 1px solid var(--border);
-  padding: 20px;
+  padding: 16px;
   transform: translateY(20px) scale(.95);
   opacity: 0; visibility: hidden;
-  transition: all .3s cubic-bezier(.4,0,.2,1);
+  transition: all .25s cubic-bezier(.4,0,.2,1);
 }
 
-.pomodoro-panel-header {
+.stat-panel-header {
   display: flex; justify-content: space-between; align-items: center;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
-.pomodoro-panel-header h3 { font-size: 1.05rem; display: flex; align-items: center; gap: 8px; }
-.pomodoro-close {
-  width: 32px; height: 32px; border-radius: 50%; border: none;
-  background: var(--border); cursor: pointer; font-size: 1rem;
+.stat-panel-header h3 { font-size: 1rem; display: flex; align-items: center; gap: 8px; }
+.stat-close {
+  width: 28px; height: 28px; border-radius: 50%; border: none;
+  background: var(--border); cursor: pointer; font-size: .9rem;
   display: flex; align-items: center; justify-content: center;
   transition: background .2s;
 }
-.pomodoro-close:hover { background: var(--danger); color: #fff; }
+.stat-close:hover { background: var(--danger); color: #fff; }
 
-/* Timer Ring */
-.pomodoro-ring-wrap {
-  position: relative; width: 160px; height: 160px;
-  margin: 0 auto 16px;
+.stat-input {
+  width: 100%; box-sizing: border-box;
+  padding: 10px 12px; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--bg);
+  color: var(--text); font-family: 'Consolas','Monaco',monospace;
+  font-size: .82rem; line-height: 1.5; resize: vertical;
+  transition: border-color .2s;
 }
-.pomodoro-ring-svg {
-  width: 100%; height: 100%;
-  transform: rotate(-90deg);
-}
-.pomodoro-ring-bg {
-  fill: none; stroke: var(--border); stroke-width: 8;
-}
-.pomodoro-ring-fill {
-  fill: none;
-  stroke: var(--danger);
-  stroke-width: 8;
-  stroke-linecap: round;
-  stroke-dasharray: 534;
-  stroke-dashoffset: calc(534 * (1 - var(--progress, 100%) / 100));
-  transition: stroke-dashoffset 1s linear;
-}
-.pomodoro-time {
-  position: absolute; top: 50%; left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 2rem; font-weight: 800;
-  font-variant-numeric: tabular-nums;
-  color: var(--text);
-}
-.pomodoro-label {
-  text-align: center; font-size: .85rem; font-weight: 600;
-  color: var(--text-muted); margin-top: -8px; margin-bottom: 12px;
-}
+.stat-input:focus { outline: none; border-color: var(--primary-light); }
 
-/* Mode buttons */
-.pomodoro-modes {
-  display: flex; gap: 6px; margin-bottom: 14px;
+.stat-actions {
+  display: flex; gap: 8px; margin-top: 8px;
 }
-.pomodoro-mode-btn {
-  flex: 1; padding: 8px 6px; border-radius: 8px;
-  border: 1px solid var(--border); background: transparent;
-  color: var(--text-muted); cursor: pointer;
-  font-size: .78rem; font-weight: 600; transition: all .2s;
-  font-family: inherit; text-align: center;
-}
-.pomodoro-mode-btn:hover { border-color: var(--primary-light); color: var(--primary-light); }
-.pomodoro-mode-btn.active {
-  background: var(--danger); color: #fff; border-color: var(--danger);
-}
-
-/* Controls */
-.pomodoro-controls {
-  display: flex; align-items: center; gap: 10px; justify-content: center;
-}
-.pomodoro-main-btn {
-  padding: 10px 32px; border-radius: 99px; border: none;
-  background: var(--danger); color: #fff; font-size: 1rem;
-  font-weight: 700; cursor: pointer; transition: all .2s;
-  font-family: inherit;
-}
-.pomodoro-main-btn:hover { transform: scale(1.05); filter: brightness(1.1); }
-.pomodoro-main-btn.running {
-  background: var(--warning, #f39c12);
-}
-.pomodoro-skip-btn, .pomodoro-reset-btn {
-  width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--border);
+.stat-btn {
+  padding: 6px 14px; border-radius: 6px; border: 1px solid var(--border);
   background: var(--card-bg); color: var(--text-muted); cursor: pointer;
-  font-size: 1.1rem; transition: all .2s;
-  display: flex; align-items: center; justify-content: center;
+  font-size: .78rem; font-family: inherit; transition: all .15s;
 }
-.pomodoro-skip-btn:hover, .pomodoro-reset-btn:hover {
-  border-color: var(--text-muted); color: var(--text);
-}
+.stat-btn:hover { border-color: var(--primary-light); color: var(--primary-light); }
+.stat-btn-example:hover { border-color: var(--success); color: var(--success); }
+.stat-btn-clear:hover { border-color: var(--danger); color: var(--danger); }
 
-/* Session counter */
-.pomodoro-sessions {
-  text-align: center; margin-top: 12px;
-  font-size: 1.1rem; font-weight: 700; color: var(--danger);
-}
-.pomodoro-hint {
-  text-align: center; margin-top: 4px;
-  font-size: .75rem; color: var(--text-muted); opacity: .7;
+.stat-result { margin-top: 10px; max-height: 60vh; overflow-y: auto; }
+.stat-placeholder { text-align: center; color: var(--text-muted); font-size: .82rem; padding: 20px 0; opacity: .6; }
+.stat-error { text-align: center; color: var(--danger); font-size: .82rem; padding: 12px 0; }
+
+.stat-table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+.stat-table td { padding: 5px 10px; border-bottom: 1px solid var(--border); }
+.stat-table tr:last-child td { border-bottom: none; }
+.st-label { color: var(--text-muted); font-weight: 500; white-space: nowrap; width: 40%; }
+.st-value { color: var(--text); font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; }
+
+.stat-interp {
+  margin-top: 10px; padding: 8px 12px; border-radius: 6px;
+  background: color-mix(in srgb, var(--primary-light) 10%, transparent);
+  font-size: .78rem; color: var(--text-muted); text-align: center;
 }
 
 @media (max-width: 640px) {
-  #app-pomodoro-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
+  #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
 }
 
 /* ── Hero ── */
@@ -663,7 +609,7 @@ footer {
   .schedule-table th, .schedule-table td { padding: 6px 4px; }
   .gpa-table { font-size: .78rem; }
   .gpa-table th, .gpa-table td { padding: 6px 8px; }
-  #app-pomodoro-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
+  #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
   .search-box { max-width: 95vw; }
 }
 

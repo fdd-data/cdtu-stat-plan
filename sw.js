@@ -2,7 +2,7 @@
    sw.js — Service Worker (offline support)
    CDTU 应用统计学四年规划 | FDD
    ═══════════════════════════════════════════ */
-var CACHE_NAME = 'cdtu-stat-v1';
+var CACHE_NAME = 'cdtu-stat-v2';
 var PRECACHE_URLS = [
   './',
   'index.html',
@@ -23,9 +23,8 @@ var PRECACHE_URLS = [
   'js/progress-tracker.js',
   'js/gpa-calculator.js',
   'js/skill-checklist.js',
-  'js/search.js',
   'js/search-index.js',
-  'js/pomodoro.js',
+  'js/stat-calc.js',
   'js/app.js',
   'manifest.json'
 ];
