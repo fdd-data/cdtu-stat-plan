@@ -145,6 +145,25 @@
 [data-theme="dark"] .stat-hist-svg line { stroke: #2a2a4a; }
 [data-theme="dark"] .stat-hist-svg text { fill: #8899aa; }
 
+/* ── Backup ── */
+.backup-box {
+  background: var(--card-bg); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 24px; text-align: center;
+}
+.backup-box h4 { font-size: 1.1rem; margin-bottom: 6px; }
+.backup-desc { font-size: .85rem; color: var(--text-muted); margin-bottom: 16px; }
+.backup-btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.backup-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 10px 22px; border-radius: 10px; font-weight: 700; font-size: .88rem;
+  cursor: pointer; transition: all .15s; border: none; font-family: inherit;
+}
+.backup-btn-save { background: var(--success); color: #fff; }
+.backup-btn-save:hover { filter: brightness(1.15); transform: translateY(-1px); }
+.backup-btn-load { background: var(--primary-light); color: #fff; }
+.backup-btn-load:hover { filter: brightness(1.15); transform: translateY(-1px); }
+.backup-status { margin-top: 12px; font-size: .8rem; }
+
 @media (max-width: 640px) {
   #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
 }

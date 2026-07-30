@@ -10,7 +10,7 @@ var PRECACHE_URLS = [
   'js/utils.js', 'js/theme.js', 'js/navigation.js', 'js/components.js',
   'js/animations.js', 'js/tabs.js', 'js/faq.js', 'js/progress-tracker.js',
   'js/gpa-calculator.js', 'js/skill-checklist.js', 'js/search-index.js',
-  'js/news.js', 'js/stat-calc.js', 'js/app.js',
+  'js/news.js', 'js/stat-calc.js', 'js/backup.js', 'js/app.js',
   'manifest.json', 'sitemap.xml'
 ];
 
