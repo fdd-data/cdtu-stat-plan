@@ -175,9 +175,6 @@
 .backup-hint a { color: var(--primary-light); }
 .backup-link { background: none; border: none; color: var(--primary-light); cursor: pointer; text-decoration: underline; font: inherit; }
 
-@media (max-width: 640px) {
-  #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
-}
 
 /* ── Hero ── */
 .hero {
@@ -673,19 +670,35 @@ footer {
 
 /* ── Mobile ── */
 @media (max-width: 640px) {
+  /* Hero */
   .hero h1 { font-size: 1.5rem; }
   .hero .badge-row { gap: 8px; }
   .hero .badge { font-size: .78rem; padding: 4px 12px; }
+  /* Navigation */
   .tabs { flex-direction: column; }
   .tab-btn { border-radius: 0 !important; }
   .year-card { padding: 24px 18px; }
-  .nav a, .nav .nav-btn { padding: 10px 12px; font-size: .78rem; }
-  .schedule-table { font-size: .7rem; }
+  .nav a, .nav .nav-btn { padding: 12px 10px; font-size: .8rem; }
+  /* Tables */
+  .schedule-table { font-size: .75rem; }
   .schedule-table th, .schedule-table td { padding: 6px 4px; }
   .gpa-table { font-size: .78rem; }
   .gpa-table th, .gpa-table td { padding: 6px 8px; }
+  /* Panels */
   #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
   .search-box { max-width: 95vw; }
+  /* Touch targets: 44px minimum */
+  .stat-close { width: 44px; height: 44px; font-size: 1.2rem; }
+  .stat-toggle, .theme-toggle, .nav-btn { min-width: 44px; min-height: 44px; }
+  /* Prevent iOS auto-zoom on input focus */
+  .stat-input, .backup-token-input { font-size: 16px; }
+  /* Readability */
+  .stat-table td { padding: 8px 8px; font-size: .85rem; }
+  .backup-setup { flex-direction: column; }
+  .backup-token-input { max-width: 100%; }
+  /* Notice list */
+  .notice-item { flex-wrap: wrap; padding: 10px 12px; }
+  .notice-date { min-width: auto; font-size: .75rem; }
 }
 
 /* ── Tablet ── */
