@@ -163,6 +163,17 @@
 .backup-btn-load { background: var(--primary-light); color: #fff; }
 .backup-btn-load:hover { filter: brightness(1.15); transform: translateY(-1px); }
 .backup-status { margin-top: 12px; font-size: .8rem; }
+.backup-setup { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 8px; }
+.backup-token-input {
+  flex: 1; min-width: 220px; max-width: 380px;
+  padding: 10px 14px; border-radius: 8px; border: 1px solid var(--border);
+  background: var(--bg); color: var(--text); font-family: 'Consolas',monospace;
+  font-size: .82rem;
+}
+.backup-token-input:focus { outline: none; border-color: var(--primary-light); }
+.backup-hint { font-size: .75rem; color: var(--text-muted); opacity: .7; margin-top: 12px; }
+.backup-hint a { color: var(--primary-light); }
+.backup-link { background: none; border: none; color: var(--primary-light); cursor: pointer; text-decoration: underline; font: inherit; }
 
 @media (max-width: 640px) {
   #app-stat-panel { width: calc(100vw - 32px); right: 8px; bottom: 72px; }
