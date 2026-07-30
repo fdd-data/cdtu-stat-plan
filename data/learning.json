@@ -1,0 +1,7 @@
+[
+  {"title": "免费课程：Google Advanced Data Analytics 专业证书（含助学金）", "url": "https://www.coursera.org/professional-certificates/google-advanced-data-analytics", "description": "Coursera 上 Google 官方出品，7 门课覆盖回归/分类/ML/Tableau", "date": "2026-07-20", "cat": "资源", "lang": "zh"},
+  {"title": "新书推荐：《实用统计学习——基于Python的ISLR配套实战》", "url": "https://www.statlearning.com/", "description": "经典教材 ISLR 的 Python 实战版，含 Jupyter Notebook 全代码", "date": "2026-07-15", "cat": "书单", "lang": "zh"},
+  {"title": "Kaggle 新增 3 个入门级竞赛：医疗/金融/零售数据集", "url": "https://www.kaggle.com/competitions", "description": "适合学生练手的入门竞赛，含完整教程和基线模型", "date": "2026-07-10", "cat": "资源", "lang": "zh"},
+  {"title": "清华大学《统计学习理论与应用》慕课新学期开课（免费）", "url": "https://www.xuetangx.com/", "description": "学堂在线国家级精品课，系统讲解统计学习核心算法", "date": "2026-07-05", "cat": "资源", "lang": "zh"},
+  {"title": "推荐书：《统计学完全教程（第二版）》Wasserman著，中文版已出版", "url": "https://book.douban.com/", "description": "统计推断领域经典教材，从概率论到非参数方法的全面覆盖", "date": "2026-06-25", "cat": "书单", "lang": "zh"}
+]

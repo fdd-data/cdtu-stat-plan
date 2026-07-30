@@ -1,98 +1,96 @@
 /* ═══════════════════════════════════════════
-   news.js — Dynamic announcement loader
-   Reads data/announcements.json, renders notice list
-   Auto-refreshes via GitHub Actions every 6 hours
+   news.js — Generic dynamic feed loader
+   Renders data/*.json into any container
    CDTU 应用统计学四年规划 | FDD
    ═══════════════════════════════════════════ */
 (function() {
   'use strict';
 
-  var DATA_URL = 'data/announcements.json';
-  var CACHE_KEY = 'cdtu-news-cache';
-  var CACHE_TTL = 60 * 60 * 1000; // 1 hour client cache
+  var CACHE_TTL = 60 * 60 * 1000; // 1 hour
 
   var catTagMap = {
-    '竞赛': 'tag-competition',
-    '实习': 'tag-internship',
-    '讲座': 'tag-lecture',
-    '考研': 'tag-academic',
-    '技术': 'tag-lecture',
-    '学术': 'tag-academic'
+    '竞赛': 'tag-competition', '实习': 'tag-internship',
+    '讲座': 'tag-lecture',     '考研': 'tag-academic',
+    '技术': 'tag-lecture',     '学术': 'tag-academic',
+    '书单': 'tag-internship',  '资源': 'tag-academic'
   };
-
-  function renderAnnouncements(items, isFresh) {
-    var el = document.getElementById('notice-list');
-    if (!el) return;
-
-    if (!items || items.length === 0) return; // Keep static HTML fallback
-
-    var html = '';
-    items.forEach(function(item) {
-      var tagClass = catTagMap[item.cat] || 'tag-lecture';
-      html += '<div class="notice-item">';
-      html += '<span class="notice-date">' + escapeHtml(item.date) + '</span>';
-      html += '<span class="notice-tag ' + tagClass + '">' + escapeHtml(item.cat) + '</span>';
-      html += '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">' + escapeHtml(item.title) + '</a>';
-      if (item.lang === 'en') {
-        html += '<span class="notice-lang" title="英文来源">🌐</span>';
-      }
-      html += '</div>';
-    });
-
-    // Add auto-update indicator
-    if (isFresh) {
-      html += '<div class="notice-footer">' +
-        '<span class="notice-auto-badge">🤖 自动聚合 · RSS 源每 6 小时更新</span>' +
-        '<span class="notice-rss-links">' +
-          '<a href="https://cosx.org/feed" target="_blank" rel="noopener" title="统计之都">COS</a> · ' +
-          '<a href="https://www.kdnuggets.com/feed" target="_blank" rel="noopener" title="KDnuggets">KDn</a> · ' +
-          '<a href="http://export.arxiv.org/rss/stat" target="_blank" rel="noopener" title="arXiv Stat">arXiv</a>' +
-        '</span>' +
-      '</div>';
-    }
-
-    el.innerHTML = html;
-  }
 
   function escapeHtml(str) {
     if (!str) return '';
-    return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  function load() {
-    // Try cache first
+  function render(el, items, showFooter) {
+    if (!el || !items || !items.length) return;
+    var html = '';
+    items.forEach(function(item) {
+      var tc = catTagMap[item.cat] || 'tag-lecture';
+      html += '<div class="notice-item">';
+      html += '<span class="notice-date">' + escapeHtml(item.date) + '</span>';
+      html += '<span class="notice-tag ' + tc + '">' + escapeHtml(item.cat) + '</span>';
+      html += '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">' + escapeHtml(item.title) + '</a>';
+      if (item.lang === 'en') html += '<span class="notice-lang" title="英文来源">🌐</span>';
+      html += '</div>';
+    });
+    if (showFooter) {
+      html += '<div class="notice-footer">' +
+        '<span class="notice-auto-badge">🤖 RSS 自动聚合 · 每6小时更新</span>' +
+        '<span class="notice-rss-links">' +
+          '<a href="https://cosx.org/feed" target="_blank" rel="noopener">COS</a> · ' +
+          '<a href="https://www.kdnuggets.com/feed" target="_blank" rel="noopener">KDn</a> · ' +
+          '<a href="http://export.arxiv.org/rss/stat" target="_blank" rel="noopener">arXiv</a>' +
+        '</span></div>';
+    }
+    el.innerHTML = html;
+  }
+
+  function loadFeed(url, containerId, showFooter) {
+    var el = document.getElementById(containerId);
+    if (!el) return;
+
+    // Try cache
+    var cacheKey = 'cdtu-feed-' + containerId;
     try {
-      var cached = JSON.parse(localStorage.getItem(CACHE_KEY));
-      if (cached && cached.ts && (Date.now() - cached.ts < CACHE_TTL) && cached.data && cached.data.length > 0) {
-        renderAnnouncements(cached.data, true);
+      var cached = JSON.parse(localStorage.getItem(cacheKey));
+      if (cached && cached.ts && (Date.now() - cached.ts < CACHE_TTL) && cached.data && cached.data.length) {
+        render(el, cached.data, showFooter);
       }
-    } catch(e) { /* ignore */ }
+    } catch(e) {}
 
     // Fetch latest
-    fetch(DATA_URL)
-      .then(function(r) {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      })
+    fetch(url)
+      .then(function(r) { if (!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
       .then(function(data) {
-        if (data && data.length > 0) {
-          renderAnnouncements(data, true);
-          // Update cache
-          try {
-            localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), data: data }));
-          } catch(e) { /* quota exceeded, ignore */ }
+        if (data && data.length) {
+          render(el, data, showFooter);
+          try { localStorage.setItem(cacheKey, JSON.stringify({ts:Date.now(),data:data})); }
+          catch(e) {}
         }
       })
-      .catch(function() {
-        // Fetch failed — keep whatever is showing (cached or static HTML)
-        console.log('📡 News fetch failed, using cached/static content');
-      });
+      .catch(function() { /* keep cached/static fallback */ });
   }
 
-  // Auto-load when DOM ready
+  // Auto-discover feeds from DOM: data-feed="url" data-container="id"
+  function autoDiscover() {
+    var feedEls = document.querySelectorAll('[data-feed]');
+    feedEls.forEach(function(el) {
+      var url = el.getAttribute('data-feed');
+      var container = el.getAttribute('data-container') || el.id;
+      var showFooter = el.hasAttribute('data-show-footer');
+      if (url && container) {
+        loadFeed(url, container, showFooter);
+      }
+    });
+  }
+
+  // Manual API
+  window.CDTU = window.CDTU || {};
+  window.CDTU.FeedLoader = { load: loadFeed, autoDiscover: autoDiscover };
+
+  // Auto-discover on load
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', load);
+    document.addEventListener('DOMContentLoaded', autoDiscover);
   } else {
-    load();
+    autoDiscover();
   }
 })();

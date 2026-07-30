@@ -1,0 +1,7 @@
+[
+  {"title": "Python 3.13 发布：GIL 移除实验性支持，性能大幅提升", "url": "https://docs.python.org/3.13/whatsnew/3.13.html", "description": "Python 最新版本带来突破性性能改进，数据分析任务运行速度显著加快", "date": "2026-07-25", "cat": "技术", "lang": "zh"},
+  {"title": "Pandas 3.0 正式版发布：Arrow 后端成为默认，内存效率提升 5 倍", "url": "https://pandas.pydata.org/", "description": "数据处理核心库重大更新，大规模数据集处理能力质的飞跃", "date": "2026-07-18", "cat": "技术", "lang": "zh"},
+  {"title": "Scikit-learn 1.7 引入全新 AutoML 模块，自动模型选择与超参调优", "url": "https://scikit-learn.org/", "description": "机器学习入门者的福音，一行代码完成模型筛选", "date": "2026-07-12", "cat": "技术", "lang": "zh"},
+  {"title": "Tableau 2026.3 发布：原生 AI 问答功能，自然语言生成可视化", "url": "https://www.tableau.com/", "description": "BI 工具加入大语言模型能力，口语化提问即可生成图表", "date": "2026-07-05", "cat": "技术", "lang": "zh"},
+  {"title": "统计之都论坛：大语言模型在统计推断中的应用综述", "url": "https://cosx.org/", "description": "COS 年度热门讨论，LLM 与传统统计方法的结合点", "date": "2026-06-28", "cat": "学术", "lang": "zh"}
+]
