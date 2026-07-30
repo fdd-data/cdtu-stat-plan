@@ -178,6 +178,13 @@
   position: relative; z-index: 1;
   animation: shimmer 3s ease-in-out infinite;
 }
+.hero .motto-sub {
+  font-size: clamp(1rem, 2.5vw, 1.4rem); font-weight: 700;
+  letter-spacing: .08em; margin-top: 8px;
+  background: linear-gradient(135deg, #85c1e9, #aed6f1, #85c1e9);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 @keyframes shimmer {
   0%, 100% { filter: brightness(1); }
   50% { filter: brightness(1.2); }
@@ -186,7 +193,7 @@
 .hero .badge { background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.24); padding: 6px 18px; border-radius: 99px; font-size: .9rem; }
 
 /* ── Section ── */
-section { margin: 52px 0; scroll-margin-top: 60px; }
+section { margin: 52px 0; scroll-margin-top: 60px; content-visibility: auto; contain-intrinsic-size: auto 500px; }
 .section-title { font-size: 1.65rem; font-weight: 700; display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
 .section-title .icon { font-size: 1.5rem; }
 .section-desc { color: var(--text-muted); margin-bottom: 24px; }

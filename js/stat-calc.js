@@ -123,10 +123,12 @@
   function parseNumbers(text) {
     // Split by comma, space, newline, semicolon, tab
     var parts = text.split(/[,\s;，\t\n]+/).filter(function(x){ return x.trim()!==''; });
+    // Safety: limit input size to prevent browser hang
+    if (parts.length > 10000) parts = parts.slice(0, 10000);
     var nums = [];
     for(var i=0;i<parts.length;i++){
       var v = parseFloat(parts[i]);
-      if(!isNaN(v)) nums.push(v);
+      if(!isNaN(v) && isFinite(v)) nums.push(v);
     }
     return nums;
   }
