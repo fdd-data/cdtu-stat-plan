@@ -1,121 +1,121 @@
 [
   {
-    "title": "When Kernel Ridge Regression Meets the H\\\"older-Zygmund Class: Minimax Optimality and Failure of Properness",
-    "url": "https://arxiv.org/abs/2607.26065",
-    "description": "arXiv:2607.26065v1 Announce Type: new \nAbstract: We study kernel ridge regression for nonparametric regression over the H\\\"older-Zygmund class. Using ",
-    "date": "2026-07-30",
+    "title": "Estimating Treatment Effects for Depression in Longitudinal Therapy Switching Settings",
+    "url": "https://arxiv.org/abs/2607.27214",
+    "description": "arXiv:2607.27214v1 Announce Type: new \nAbstract: Depression treatment often requires switching medications due to inadequate response or adverse effec",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Foundation-Model Earth Representations Enable Regional-Scale Forest Aboveground Biomass Monitoring Across the Northeastern United States",
+    "url": "https://arxiv.org/abs/2607.27217",
+    "description": "arXiv:2607.27217v1 Announce Type: new \nAbstract: Forest aboveground biomass (AGB) is a critical indicator of ecosystem productivity and terrestrial ca",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Psych-ECA: A Reproducible Semi-Synthetic Benchmark for Synthetic Control Arms in Longitudinal Psychiatry",
+    "url": "https://arxiv.org/abs/2607.27224",
+    "description": "arXiv:2607.27224v1 Announce Type: new \nAbstract: External and synthetic control arms (ECAs) are entering psychiatric drug development, but the field l",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "More Data, Worse Decisions? Preference Reversals in Neural Networks under Gram Incompatibility",
+    "url": "https://arxiv.org/abs/2607.27255",
+    "description": "arXiv:2607.27255v1 Announce Type: new \nAbstract: Neural networks increasingly combine data across populations, time periods, and operating conditions ",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Expected Survival-Time Bounds for Robust Optimization Over Time under Isotropic Gaussian Dynamics",
+    "url": "https://arxiv.org/abs/2607.27280",
+    "description": "arXiv:2607.27280v1 Announce Type: new \nAbstract: Robust Optimization Over Time (ROOT) is a recent branch of evolutionary dynamic optimization that see",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "An analysis of binary isotonic regression: degrees of freedom and implications for calibration",
+    "url": "https://arxiv.org/abs/2607.27301",
+    "description": "arXiv:2607.27301v1 Announce Type: new \nAbstract: Isotonic regression is a canonical tool for estimating monotone functions and calibrating probabilist",
+    "date": "2026-07-31",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Coherent Measures of Discrepancy, Uncertainty and Dependence, with Applications to Bayesian Predictive Experimental Design",
-    "url": "https://arxiv.org/abs/2607.26077",
-    "description": "arXiv:2607.26077v1 Announce Type: new \nAbstract: We show how, associated with any decision problem, we may derive related functions measuring uncertai",
-    "date": "2026-07-30",
+    "title": "Power-Optimal Covariate Adjustment for Switchback Experiments",
+    "url": "https://arxiv.org/abs/2607.27376",
+    "description": "arXiv:2607.27376v1 Announce Type: new \nAbstract: In switchback experiments with unequal cluster sizes, outcome dispersion across randomization units i",
+    "date": "2026-07-31",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Mean-Tilted Relaxed Quantile Regression: Fixed-Content Interval Functionals and Generalized-Bayes Computation",
-    "url": "https://arxiv.org/abs/2607.26098",
-    "description": "arXiv:2607.26098v1 Announce Type: new \nAbstract: Probability content does not by itself determine interval placement. We study the interval functional",
-    "date": "2026-07-30",
+    "title": "A New Measure of Dependence Between Continuous and Multinomial Random Variables",
+    "url": "https://arxiv.org/abs/2607.27381",
+    "description": "arXiv:2607.27381v1 Announce Type: new \nAbstract: A novel measure of dependence between a continuous random variable and a multinomial random variable ",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Handling Missingness and Censoring in Dirichlet Mixture Models",
+    "url": "https://arxiv.org/abs/2607.27403",
+    "description": "arXiv:2607.27403v1 Announce Type: new \nAbstract: Incomplete compositional data analysis faces a fundamental limitation: likelihood-based methods for c",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Discrete to continuum limits in Bayesian inverse problems",
+    "url": "https://arxiv.org/abs/2607.27408",
+    "description": "arXiv:2607.27408v1 Announce Type: new \nAbstract: We develop a posterior-level discrete-to-continuum theory for Bayesian inverse problems whose finite-",
+    "date": "2026-07-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Adaptive Nystr\\\"om for Gaussian Process Regression",
+    "url": "https://arxiv.org/abs/2607.27427",
+    "description": "arXiv:2607.27427v1 Announce Type: new \nAbstract: Gaussian Process Regression (GPR) is a robust framework for uncertainty quantification, yet its $O(n^",
+    "date": "2026-07-31",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "The Dirichlet Process as sampling distribution",
-    "url": "https://arxiv.org/abs/2607.26185",
-    "description": "arXiv:2607.26185v1 Announce Type: new \nAbstract: The Dirichlet process (DP) is the most common bayesian nonparametric prior, however, its properties a",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Statistical Learning of Pediatric Mental Health-Related Emergency Department Visits Across COVID-19 Pandemic Periods",
-    "url": "https://arxiv.org/abs/2607.26210",
-    "description": "arXiv:2607.26210v1 Announce Type: new \nAbstract: This article presents a statistical learning framework for studying the evolution of pediatric mental",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Retrospective Orthogonal Design: Response-Surface Reconstruction from Observational Data",
-    "url": "https://arxiv.org/abs/2607.26219",
-    "description": "arXiv:2607.26219v1 Announce Type: new \nAbstract: Regression estimates from observational data can depend on specification under multicollinearity, whi",
-    "date": "2026-07-30",
+    "title": "Co-clustering of Response and Covariate Variables by Tri-Factorizing Their Non-negative Regression Coefficient Matrix",
+    "url": "https://arxiv.org/abs/2607.27474",
+    "description": "arXiv:2607.27474v1 Announce Type: new \nAbstract: Two-block data---two sets of variables measured on the same individuals, such as microbial taxa and m",
+    "date": "2026-07-31",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Conditional copula representations and extremal bounds for multivariate statistical functionals",
-    "url": "https://arxiv.org/abs/2607.26256",
-    "description": "arXiv:2607.26256v1 Announce Type: new \nAbstract: In this paper, we derive a conditional copula representation for expectations of the form $\\mathbb{E}",
-    "date": "2026-07-30",
+    "title": "Sample Complexity for the 2-Gromov-Wasserstein Distance",
+    "url": "https://arxiv.org/abs/2607.27514",
+    "description": "arXiv:2607.27514v1 Announce Type: new \nAbstract: In this paper, we study the sample complexity of the empirical plug-in estimator for the $2$-Gromov-W",
+    "date": "2026-07-31",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Reclaiming the \"frequentist\" role of marginal likelihood in Bayesian belief revision",
-    "url": "https://arxiv.org/abs/2607.26259",
-    "description": "arXiv:2607.26259v1 Announce Type: new \nAbstract: In modern Bayesian computation and parametric estimation, the marginal likelihood, serving as the den",
-    "date": "2026-07-30",
-    "cat": "学术",
+    "title": "The Continuous Latent Ornstein-Uhlenbeck Dynamics Framework: A Scalable Latent Process Model for Multivariate Longitudinal Categorical Data",
+    "url": "https://arxiv.org/abs/2607.27520",
+    "description": "arXiv:2607.27520v1 Announce Type: new \nAbstract: Longitudinal biomedical studies increasingly collect irregularly sampled, multivariate categorical da",
+    "date": "2026-07-31",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Denoising growth complexity: Data geometry and certified schedules for diffusion sampling",
-    "url": "https://arxiv.org/abs/2607.26285",
-    "description": "arXiv:2607.26285v1 Announce Type: new \nAbstract: Two central challenges in diffusion-based sampling are the theoretical one of understanding their rem",
-    "date": "2026-07-30",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Studying Competing Events with Federated Cumulative Incidence Curves",
-    "url": "https://arxiv.org/abs/2607.26287",
-    "description": "arXiv:2607.26287v1 Announce Type: new \nAbstract: Combining electronic health record (EHR) data from multiple institutions is a valuable strategy for c",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "The Confounder Trap: Treatment-Encoding Representations in Causal Inference with Text",
-    "url": "https://arxiv.org/abs/2607.26309",
-    "description": "arXiv:2607.26309v1 Announce Type: new \nAbstract: Estimating causal effects of linguistic properties from observational text is difficult because the s",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Toward a Unified Statistical Theory of Unsupervised Pretraining and Supervised Neural Knowledge Graph Learning",
-    "url": "https://arxiv.org/abs/2607.26346",
-    "description": "arXiv:2607.26346v1 Announce Type: new \nAbstract: Knowledge graph learning provides a powerful framework for representing and inferring structured know",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Optimizing Efficiency and Convergence in MMRM: Practical Considerations for Longitudinal Data Analysis",
-    "url": "https://arxiv.org/abs/2607.26362",
-    "description": "arXiv:2607.26362v1 Announce Type: new \nAbstract: Mixed models for repeated measures (MMRM) are a popular method for analyzing longitudinal data in cli",
-    "date": "2026-07-30",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "A Lower Bound on the Sliced Wasserstein Comparison Constant for Translated Measures",
-    "url": "https://arxiv.org/abs/2607.26399",
-    "description": "arXiv:2607.26399v1 Announce Type: new \nAbstract: We provide closed-form expressions for standard 1-Wasserstein distance ($W_1$) and Sliced 1-Wasserste",
-    "date": "2026-07-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Origins and mitigation of double descent in reduced order modeling",
-    "url": "https://arxiv.org/abs/2607.26414",
-    "description": "arXiv:2607.26414v1 Announce Type: new \nAbstract: Latent low-dimensional structure in datasets of natural and engineered systems enables their sparse s",
-    "date": "2026-07-30",
+    "title": "HOMER: Huber-of-Means for Efficient and Robust Estimation in Hilbert Spaces",
+    "url": "https://arxiv.org/abs/2607.27532",
+    "description": "arXiv:2607.27532v1 Announce Type: new \nAbstract: Heavy tails weaken high-confidence control for the empirical mean. Geometric median-of-means (MOM) al",
+    "date": "2026-07-31",
     "cat": "学术",
     "lang": "en"
   }
