@@ -1,5 +1,13 @@
 [
   {
+    "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
+    "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
+    "description": "A Beginner's Guide to Working with Claude Design • 5 Best AI Tools for Data Analysis You Should Try in 2026 • 5 Books That Will Deepen Your Understand",
+    "date": "2026-08-01",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Building Voice-Controlled AI Agents",
     "url": "https://www.kdnuggets.com/building-voice-controlled-ai-agents",
     "description": "Building a voice-controlled AI agents isn't hard, this article breaks the pipeline into its real components: streaming speech recognition, turn detect",
@@ -75,14 +83,6 @@
     "title": "Is KimiClaw a Useful Tool?",
     "url": "https://www.kdnuggets.com/is-kimiclaw-a-useful-tool",
     "description": "Compare KimiClaw's cloud-hosted AI agent platform against self-hosted OpenClaw across setup, privacy, and automation capabilities.",
-    "date": "2026-07-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "7 Steps to Building and Deploying Your First Autonomous Agent",
-    "url": "https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent",
-    "description": "This article shows you up all the steps in building and deploying your first autonomous AI agents from start to finish.",
     "date": "2026-07-27",
     "cat": "技术",
     "lang": "en"
