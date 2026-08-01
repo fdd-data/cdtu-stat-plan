@@ -1,5 +1,21 @@
 [
   {
+    "title": "Little useless-useful R functions – Honest geographical location signposts",
+    "url": "https://www.r-bloggers.com/2026/08/little-useless-useful-r-functions-honest-geographical-location-signposts/",
+    "description": "We have all seen colourful signposts with great cities and their distances – how far each is from this current standpoint. And fundamental question is",
+    "date": "2026-08-01",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Evaluating LLMs/AI for Media Planning in R",
+    "url": "https://www.r-bloggers.com/2026/07/evaluating-llms-ai-for-media-planning-in-r/",
+    "description": "LLMs can produce a convincing media recommendation in a few seconds. The more useful question is whether the recommendation is correct: are the reach ",
+    "date": "2026-08-01",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Botched map of Africa in U.S. government presentation",
     "url": "https://flowingdata.com/2026/07/31/botched-map-of-africa-in-u-s-government-presentation/",
     "description": "In a presentation by the State Department, a generated map provides all the&#8230;Tags: generative, presentation, Reuters",
@@ -100,22 +116,6 @@
     "url": "https://flowingdata.com/2026/07/28/sons-of-the-president-invest-in-defense-businesses/",
     "description": "The Washington Post reports on the large investments in defense tech by the&#8230;Tags: conflict, defense, government, investments, Washington Post",
     "date": "2026-07-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Using ghost text and next edit suggestions to learn agentic coding",
-    "url": "https://www.r-bloggers.com/2026/07/using-ghost-text-and-next-edit-suggestions-to-learn-agentic-coding/",
-    "description": "I’m a big fan of Github Copilots ghost text and next edit suggestions. As a data analyst they give you much more control over the pace and direction o",
-    "date": "2026-07-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "June 2026 Top 40 New CRAN Packages",
-    "url": "https://www.r-bloggers.com/2026/07/june-2026-top-40-new-cran-packages/",
-    "description": "Four hundred twelve new packages were submitted to CRAN in June. Here are my Top 40 picks in nineteen categories: Bioarchaeology, Biology, Climate Stu",
-    "date": "2026-07-27",
     "cat": "技术",
     "lang": "en"
   }
