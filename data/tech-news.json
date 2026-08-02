@@ -8,6 +8,14 @@
     "lang": "en"
   },
   {
+    "title": "‘garchf’: GARCH probabilistic forecasting with package ‘forecast’-style interface (and ‘rugarch’ under the hood)",
+    "url": "https://www.r-bloggers.com/2026/07/garchf-garch-probabilistic-forecasting-with-package-forecast-style-interface-and-rugarch-under-the-hood/",
+    "description": "The package garchf wraps\nthe extensive GARCH modeling machinery in\nrugarch\nbehind a\nforecast-style\ninterface, so that GARCH-based forecasts can be pro",
+    "date": "2026-08-01",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Evaluating LLMs/AI for Media Planning in R",
     "url": "https://www.r-bloggers.com/2026/07/evaluating-llms-ai-for-media-planning-in-r/",
     "description": "LLMs can produce a convincing media recommendation in a few seconds. The more useful question is whether the recommendation is correct: are the reach ",
@@ -35,6 +43,14 @@
     "title": "English word teachings as a window into how everyday life changed",
     "url": "https://flowingdata.com/2026/07/31/english-word-teachings-as-a-window-into-how-everyday-life-changed/",
     "description": "For the Pudding, Jasmine Nackash compared the dictionary of essential words taught to&#8230;Tags: English, Jasmine Nackash, Pudding, words",
+    "date": "2026-07-31",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "US oil stocks by @ellis2013nz",
+    "url": "https://www.r-bloggers.com/2026/07/us-oil-stocks-by-ellis2013nz/",
+    "description": "Like many people I have been keeping track of the slow-burn fuel crisis arising from the war in Iran, its possible expansion to the Red Sea, and exace",
     "date": "2026-07-31",
     "cat": "技术",
     "lang": "en"
@@ -101,22 +117,6 @@
     "description": "This release adds feedback from students and instructors\n\n\nContinue reading: Spurious correlations 0.2 is on CRAN!",
     "date": "2026-07-29",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "ntroduction to All Things About bpvars, the R package for Forecasting with Bayesian Panel Vector Autoregressions workshop",
-    "url": "https://www.r-bloggers.com/2026/07/ntroduction-to-all-things-about-bpvars-the-r-package-for-forecasting-with-bayesian-panel-vector-autoregressions-workshop/",
-    "description": "Join our workshop on Introduction to All Things About bpvars, the R package for Forecasting with Bayesian Panel Vector Autoregressions,  which is a pa",
-    "date": "2026-07-29",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Sons of the president invest in defense businesses",
-    "url": "https://flowingdata.com/2026/07/28/sons-of-the-president-invest-in-defense-businesses/",
-    "description": "The Washington Post reports on the large investments in defense tech by the&#8230;Tags: conflict, defense, government, investments, Washington Post",
-    "date": "2026-07-28",
-    "cat": "技术",
     "lang": "en"
   }
 ]
