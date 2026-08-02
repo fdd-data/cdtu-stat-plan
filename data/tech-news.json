@@ -1,5 +1,13 @@
 [
   {
+    "title": "JAGS 5.0.0 is released",
+    "url": "https://www.r-bloggers.com/2026/08/jags-5-0-0-is-released/",
+    "description": "After an extended beta period, JAGS 5.0.0 is now available. The release is more of a process than a single event, but we have started by uploading the",
+    "date": "2026-08-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Analyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin",
     "url": "https://www.r-bloggers.com/2026/08/analyzing-financial-trends-kalman-filtering-for-gold-vs-bitcoin/",
     "description": "In their paper “A Synchronized Multi‑IMU Wearable System for Tracking of Joint‑Angles in Sports Motion Analysis” (arXiv:2607.26027v1), Samarasekera an",
@@ -107,14 +115,6 @@
     "title": "Timeline of the war in Iran, seen through daily attacks",
     "url": "https://flowingdata.com/2026/07/29/timeline-of-the-war-in-iran-seen-through-daily-attacks/",
     "description": "Adina Renner, reporting for the New York Times, provides a timeline of the&#8230;Tags: Iran, New York Times, timeline, war",
-    "date": "2026-07-29",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Mapping the rising cost of goods and services for U.S. consumers",
-    "url": "https://flowingdata.com/2026/07/29/mapping-cost-of-goods-and-services/",
-    "description": "A landscape of year-over-year price changes, without the cherrypicking.Tags: inflation",
     "date": "2026-07-29",
     "cat": "技术",
     "lang": "en"
