@@ -1,5 +1,13 @@
 [
   {
+    "title": "Analyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin",
+    "url": "https://www.r-bloggers.com/2026/08/analyzing-financial-trends-kalman-filtering-for-gold-vs-bitcoin/",
+    "description": "In their paper “A Synchronized Multi‑IMU Wearable System for Tracking of Joint‑Angles in Sports Motion Analysis” (arXiv:2607.26027v1), Samarasekera an",
+    "date": "2026-08-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Little useless-useful R functions – Honest geographical location signposts",
     "url": "https://www.r-bloggers.com/2026/08/little-useless-useful-r-functions-honest-geographical-location-signposts/",
     "description": "We have all seen colourful signposts with great cities and their distances – how far each is from this current standpoint. And fundamental question is",
@@ -109,14 +117,6 @@
     "description": "A landscape of year-over-year price changes, without the cherrypicking.Tags: inflation",
     "date": "2026-07-29",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Spurious correlations 0.2 is on CRAN!",
-    "url": "https://www.r-bloggers.com/2026/07/spurious-correlations-0-2-is-on-cran/",
-    "description": "This release adds feedback from students and instructors\n\n\nContinue reading: Spurious correlations 0.2 is on CRAN!",
-    "date": "2026-07-29",
-    "cat": "书单",
     "lang": "en"
   }
 ]
