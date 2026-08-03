@@ -1,5 +1,21 @@
 [
   {
+    "title": "Does MiniMax Agent Actually Make Work Easier?",
+    "url": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
+    "description": "Read about MiniMax's own architecture, and see how it runs a real task against the actual API. Learn the pieces of the MiniMax story that weren't cove",
+    "date": "2026-08-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "A Guide to Saving Token Usage with Multi-Agent AI",
+    "url": "https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai",
+    "description": "Scaling up and streamlining a multi-agent architecture doesn't necessarily entail escalated costs if you know how to properly implement these four str",
+    "date": "2026-08-03",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
     "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
     "description": "A Beginner's Guide to Working with Claude Design • 5 Best AI Tools for Data Analysis You Should Try in 2026 • 5 Books That Will Deepen Your Understand",
@@ -64,28 +80,12 @@
     "lang": "en"
   },
   {
-    "title": "5 Best AI Tools for Data Analysis You Should Try in 2026",
-    "url": "https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026",
-    "description": "Discover five of the best AI tools for data analysis that can clean data, write code, create visualizations, and generate insights faster.",
-    "date": "2026-07-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
     "date": "2026-07-28",
     "cat": "竞赛",
     "lang": "zh"
-  },
-  {
-    "title": "Is KimiClaw a Useful Tool?",
-    "url": "https://www.kdnuggets.com/is-kimiclaw-a-useful-tool",
-    "description": "Compare KimiClaw's cloud-hosted AI agent platform against self-hosted OpenClaw across setup, privacy, and automation capabilities.",
-    "date": "2026-07-27",
-    "cat": "技术",
-    "lang": "en"
   },
   {
     "title": "暑期数据分析实习岗位汇总（成都地区）——持续更新中",
