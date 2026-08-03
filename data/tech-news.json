@@ -1,122 +1,122 @@
 [
   {
-    "title": "JAGS 5.0.0 is released",
-    "url": "https://www.r-bloggers.com/2026/08/jags-5-0-0-is-released/",
-    "description": "After an extended beta period, JAGS 5.0.0 is now available. The release is more of a process than a single event, but we have started by uploading the",
-    "date": "2026-08-02",
-    "cat": "技术",
+    "title": "Fracture Risk Prediction in Adults Over 50 Years Old Using DXA and EHR: Comparison of Traditional and Machine Learning Models in Two Large Cohorts",
+    "url": "https://arxiv.org/abs/2607.28671",
+    "description": "arXiv:2607.28671v1 Announce Type: new \nAbstract: Accurate fracture risk prediction is important for osteoporosis management, but commonly used clinica",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Analyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin",
-    "url": "https://www.r-bloggers.com/2026/08/analyzing-financial-trends-kalman-filtering-for-gold-vs-bitcoin/",
-    "description": "In their paper “A Synchronized Multi‑IMU Wearable System for Tracking of Joint‑Angles in Sports Motion Analysis” (arXiv:2607.26027v1), Samarasekera an",
-    "date": "2026-08-02",
-    "cat": "技术",
+    "title": "Accelerated Random-Sweep Gibbs Sampling for Gaussian Graphical Models via Dual Normal Factor Graphs",
+    "url": "https://arxiv.org/abs/2607.28706",
+    "description": "arXiv:2607.28706v1 Announce Type: new \nAbstract: We study the convergence properties of the random-sweep Gibbs sampler for Gaussian graphical models w",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Little useless-useful R functions – Honest geographical location signposts",
-    "url": "https://www.r-bloggers.com/2026/08/little-useless-useful-r-functions-honest-geographical-location-signposts/",
-    "description": "We have all seen colourful signposts with great cities and their distances – how far each is from this current standpoint. And fundamental question is",
-    "date": "2026-08-01",
+    "title": "Multiplicative Errors-in-Variables Models for Hyperspectral Unmixing",
+    "url": "https://arxiv.org/abs/2607.28743",
+    "description": "arXiv:2607.28743v1 Announce Type: new \nAbstract: Estimating endmember spectra and their corresponding abundances from hyperspectral images is a fundam",
+    "date": "2026-08-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bits per Spike as a Betting Game: An Interpretable Unit for Held-Out Log-Likelihood in Neural Data Analysis",
+    "url": "https://arxiv.org/abs/2607.28779",
+    "description": "arXiv:2607.28779v1 Announce Type: new \nAbstract: Held-out log-likelihood is the standard currency for comparing statistical models of neural spike tra",
+    "date": "2026-08-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "How should we select test-negative controls? A causal perspective in the era of multiplex respiratory testing",
+    "url": "https://arxiv.org/abs/2607.28792",
+    "description": "arXiv:2607.28792v1 Announce Type: new \nAbstract: The test-negative design (TND) is widely used to estimate vaccine effectiveness (VE) for respiratory ",
+    "date": "2026-08-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bayesian Mediation Analysis for Individualized Treatment Rules",
+    "url": "https://arxiv.org/abs/2607.28804",
+    "description": "arXiv:2607.28804v1 Announce Type: new \nAbstract: The value of an individualized treatment rule (ITR), defined as the expected outcome under treatment ",
+    "date": "2026-08-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Seeing the Forest for the Trees: The Gaussian Process Limit of BART",
+    "url": "https://arxiv.org/abs/2607.28844",
+    "description": "arXiv:2607.28844v1 Announce Type: new \nAbstract: Bayesian Additive Regression Trees (BART) have shown state-of-the-art performance in both prediction ",
+    "date": "2026-08-03",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "‘garchf’: GARCH probabilistic forecasting with package ‘forecast’-style interface (and ‘rugarch’ under the hood)",
-    "url": "https://www.r-bloggers.com/2026/07/garchf-garch-probabilistic-forecasting-with-package-forecast-style-interface-and-rugarch-under-the-hood/",
-    "description": "The package garchf wraps\nthe extensive GARCH modeling machinery in\nrugarch\nbehind a\nforecast-style\ninterface, so that GARCH-based forecasts can be pro",
-    "date": "2026-08-01",
-    "cat": "技术",
+    "title": "Upper Confidence Bounds for the Prediction Error of Kernel Ridge Regression via Gaussian Refitting",
+    "url": "https://arxiv.org/abs/2607.28846",
+    "description": "arXiv:2607.28846v1 Announce Type: new \nAbstract: Assessing a single model fit requires a computable upper confidence bound for the gap between the fit",
+    "date": "2026-08-03",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Evaluating LLMs/AI for Media Planning in R",
-    "url": "https://www.r-bloggers.com/2026/07/evaluating-llms-ai-for-media-planning-in-r/",
-    "description": "LLMs can produce a convincing media recommendation in a few seconds. The more useful question is whether the recommendation is correct: are the reach ",
-    "date": "2026-08-01",
-    "cat": "技术",
+    "title": "The Debiased Score Test: Hunt-and-test for Semiparametric Hypotheses",
+    "url": "https://arxiv.org/abs/2607.28861",
+    "description": "arXiv:2607.28861v1 Announce Type: new \nAbstract: The parametric score test assesses a hypothesis through derivatives of the log-likelihood, whose expe",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Botched map of Africa in U.S. government presentation",
-    "url": "https://flowingdata.com/2026/07/31/botched-map-of-africa-in-u-s-government-presentation/",
-    "description": "In a presentation by the State Department, a generated map provides all the&#8230;Tags: generative, presentation, Reuters",
-    "date": "2026-07-31",
-    "cat": "技术",
+    "title": "Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression",
+    "url": "https://arxiv.org/abs/2607.28864",
+    "description": "arXiv:2607.28864v1 Announce Type: new \nAbstract: Tree-based diffusion models fit flexible conditional predictive distributions for tabular regression ",
+    "date": "2026-08-03",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Google makes it easy to generate fake satellite imagery",
-    "url": "https://flowingdata.com/2026/07/31/google-makes-it-easy-to-generate-fake-satellite-imagery/",
-    "description": "Google&#8217;s image generation model Nano Banana is now a few clicks away in&#8230;Tags: ethics, generative, Google, Nano Banana, satellite imagery",
-    "date": "2026-07-31",
-    "cat": "技术",
+    "title": "Active Learning for Data-Efficient Calibration of Stochastic Simulation Models",
+    "url": "https://arxiv.org/abs/2607.28874",
+    "description": "arXiv:2607.28874v1 Announce Type: new \nAbstract: Simulation-based calibration aims to infer unknown parameters of complex simulation models by alignin",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "English word teachings as a window into how everyday life changed",
-    "url": "https://flowingdata.com/2026/07/31/english-word-teachings-as-a-window-into-how-everyday-life-changed/",
-    "description": "For the Pudding, Jasmine Nackash compared the dictionary of essential words taught to&#8230;Tags: English, Jasmine Nackash, Pudding, words",
-    "date": "2026-07-31",
-    "cat": "技术",
+    "title": "Log-F-penalized Conditional Logistic Regression for Sparse Data",
+    "url": "https://arxiv.org/abs/2607.28899",
+    "description": "arXiv:2607.28899v1 Announce Type: new \nAbstract: We investigate penalized likelihood methods for estimation and inference in conditional logistic regr",
+    "date": "2026-08-03",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "US oil stocks by @ellis2013nz",
-    "url": "https://www.r-bloggers.com/2026/07/us-oil-stocks-by-ellis2013nz/",
-    "description": "Like many people I have been keeping track of the slow-burn fuel crisis arising from the war in Iran, its possible expansion to the Red Sea, and exace",
-    "date": "2026-07-31",
-    "cat": "技术",
+    "title": "Structured Neural Chaos: An Adaptive Surrogate Modeling Framework for Functional Uncertainty Quantification and Global Sensitivity Analysis",
+    "url": "https://arxiv.org/abs/2607.28903",
+    "description": "arXiv:2607.28903v1 Announce Type: new \nAbstract: Variance-based global sensitivity analysis (GSA) plays a key role in uncertainty quantification by id",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Classic literature journeys mapped",
-    "url": "https://flowingdata.com/2026/07/30/classic-literature-journeys-mapped/",
-    "description": "While we&#8217;re on the subject of mapping fiction, PlotLines by Chris Moran is&#8230;Tags: Chris Moran, fiction, literature, travel",
-    "date": "2026-07-30",
-    "cat": "技术",
+    "title": "Comparing Two Survival Functions at a Fixed Timepoint",
+    "url": "https://arxiv.org/abs/2607.28929",
+    "description": "arXiv:2607.28929v1 Announce Type: new \nAbstract: For comparing two survival curves at a fixed timepoint with right censoring, a standard method uses a",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Hand-drawn, retro video game maps",
-    "url": "https://flowingdata.com/2026/07/30/hand-drawn-retro-video-game-maps/",
-    "description": "Hand-Drawn Game Guides is a project by Philip Summers that is exactly what&#8230;Tags: Philip Summers, retro, video games",
-    "date": "2026-07-30",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "✚ Visualization tools, datasets, and resources — July 2026 roundup",
-    "url": "https://flowingdata.com/2026/07/30/process-399-roundup/",
-    "description": "Here is what happened in July.Tags: roundup",
-    "date": "2026-07-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Map of James Bond filming locations and notable events",
-    "url": "https://flowingdata.com/2026/07/30/map-of-james-bond-filming-locations-and-notable-events/",
-    "description": "I like the framing of this interactive map &#8220;from a Bond fan to&#8230;Tags: film, James Bond",
-    "date": "2026-07-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "era 0.6.0: chronological comparison and difference",
-    "url": "https://www.r-bloggers.com/2026/07/era-0-6-0-chronological-comparison-and-difference/",
-    "description": "era v0.6.0 is now available on CRAN:\ninstall.packages(\"era\")\nlibrary(era)\nThis minor release adds functions for chronological comparison of year vecto",
-    "date": "2026-07-30",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Timeline of the war in Iran, seen through daily attacks",
-    "url": "https://flowingdata.com/2026/07/29/timeline-of-the-war-in-iran-seen-through-daily-attacks/",
-    "description": "Adina Renner, reporting for the New York Times, provides a timeline of the&#8230;Tags: Iran, New York Times, timeline, war",
-    "date": "2026-07-29",
-    "cat": "技术",
+    "title": "A Simple Example of Bayesian Nonparametric Inconsistency",
+    "url": "https://arxiv.org/abs/2607.28958",
+    "description": "arXiv:2607.28958v1 Announce Type: new \nAbstract: I present a very simple example in which a full-support prior over distribution functions has an inco",
+    "date": "2026-08-03",
+    "cat": "学术",
     "lang": "en"
   }
 ]
