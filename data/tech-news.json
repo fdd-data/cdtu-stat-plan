@@ -1,121 +1,121 @@
 [
   {
-    "title": "Fracture Risk Prediction in Adults Over 50 Years Old Using DXA and EHR: Comparison of Traditional and Machine Learning Models in Two Large Cohorts",
-    "url": "https://arxiv.org/abs/2607.28671",
-    "description": "arXiv:2607.28671v1 Announce Type: new \nAbstract: Accurate fracture risk prediction is important for osteoporosis management, but commonly used clinica",
-    "date": "2026-08-03",
+    "title": "On the Asymptotics of Item Selection in Multidimensional Computerized Adaptive Testing",
+    "url": "https://arxiv.org/abs/2608.00201",
+    "description": "arXiv:2608.00201v1 Announce Type: new \nAbstract: We study Fisher-information-based item-selection rules for multidimensional computerized adaptive tes",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Accelerated Random-Sweep Gibbs Sampling for Gaussian Graphical Models via Dual Normal Factor Graphs",
-    "url": "https://arxiv.org/abs/2607.28706",
-    "description": "arXiv:2607.28706v1 Announce Type: new \nAbstract: We study the convergence properties of the random-sweep Gibbs sampler for Gaussian graphical models w",
-    "date": "2026-08-03",
+    "title": "An Optimal False Discovery Rate Controlling Procedure for Changepoint Detection",
+    "url": "https://arxiv.org/abs/2608.00219",
+    "description": "arXiv:2608.00219v1 Announce Type: new \nAbstract: We consider the problem of detecting and localizing a growing number of changepoints in a sequence of",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Multiplicative Errors-in-Variables Models for Hyperspectral Unmixing",
-    "url": "https://arxiv.org/abs/2607.28743",
-    "description": "arXiv:2607.28743v1 Announce Type: new \nAbstract: Estimating endmember spectra and their corresponding abundances from hyperspectral images is a fundam",
-    "date": "2026-08-03",
+    "title": "Regularized-Likelihood Deconvolution with Posterior-Density Reconstruction",
+    "url": "https://arxiv.org/abs/2608.00240",
+    "description": "arXiv:2608.00240v1 Announce Type: new \nAbstract: Density deconvolution is an ill-posed inverse problem, as recovering the latent distribution amplifie",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bits per Spike as a Betting Game: An Interpretable Unit for Held-Out Log-Likelihood in Neural Data Analysis",
-    "url": "https://arxiv.org/abs/2607.28779",
-    "description": "arXiv:2607.28779v1 Announce Type: new \nAbstract: Held-out log-likelihood is the standard currency for comparing statistical models of neural spike tra",
-    "date": "2026-08-03",
+    "title": "Bridging extrinsic and intrinsic variable importance",
+    "url": "https://arxiv.org/abs/2608.00247",
+    "description": "arXiv:2608.00247v1 Announce Type: new \nAbstract: Variable importance may describe either intrinsic predictive information in a population or extrinsic",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "How should we select test-negative controls? A causal perspective in the era of multiplex respiratory testing",
-    "url": "https://arxiv.org/abs/2607.28792",
-    "description": "arXiv:2607.28792v1 Announce Type: new \nAbstract: The test-negative design (TND) is widely used to estimate vaccine effectiveness (VE) for respiratory ",
-    "date": "2026-08-03",
+    "title": "A reproducible and extensible framework for benchmarking competing risks survival models",
+    "url": "https://arxiv.org/abs/2608.00271",
+    "description": "arXiv:2608.00271v1 Announce Type: new \nAbstract: A wide range of statistical and machine learning methods have been proposed for survival analysis wit",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Mediation Analysis for Individualized Treatment Rules",
-    "url": "https://arxiv.org/abs/2607.28804",
-    "description": "arXiv:2607.28804v1 Announce Type: new \nAbstract: The value of an individualized treatment rule (ITR), defined as the expected outcome under treatment ",
-    "date": "2026-08-03",
+    "title": "Extensions in Semiparametric Geostatistical Models",
+    "url": "https://arxiv.org/abs/2608.00276",
+    "description": "arXiv:2608.00276v1 Announce Type: new \nAbstract: In spatial statistics, the incorrect selection of an appropriate covariance function may lead to infe",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Seeing the Forest for the Trees: The Gaussian Process Limit of BART",
-    "url": "https://arxiv.org/abs/2607.28844",
-    "description": "arXiv:2607.28844v1 Announce Type: new \nAbstract: Bayesian Additive Regression Trees (BART) have shown state-of-the-art performance in both prediction ",
-    "date": "2026-08-03",
+    "title": "Multi-output Orthogonal Gaussian Processes for Noisy Simulator Outputs",
+    "url": "https://arxiv.org/abs/2608.00287",
+    "description": "arXiv:2608.00287v1 Announce Type: new \nAbstract: Computer simulations can model physical processes but are often too expensive to produce enough runs ",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Backward Bayesian Outcome Weighted Learning",
+    "url": "https://arxiv.org/abs/2608.00317",
+    "description": "arXiv:2608.00317v1 Announce Type: new \nAbstract: A central objective of precision medicine is learning optimal dynamic treatment regimes (DTRs) from d",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Debiased inference for proximal dose-response function",
+    "url": "https://arxiv.org/abs/2608.00404",
+    "description": "arXiv:2608.00404v1 Announce Type: new \nAbstract: In this paper, we study nonparametric inference for the causal dose-response curve of a continuous-tr",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Efficient Variance Estimation for the Polytomous Discrimination Index",
+    "url": "https://arxiv.org/abs/2608.00413",
+    "description": "arXiv:2608.00413v1 Announce Type: new \nAbstract: Evaluating diagnostic accuracy for multi-category outcomes remains a significant challenge, primarily",
+    "date": "2026-08-04",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Exact detection threshold of the packing test",
+    "url": "https://arxiv.org/abs/2608.00445",
+    "description": "arXiv:2608.00445v1 Announce Type: new \nAbstract: Using Poisson approximation techniques, we derive the detection threshold of the packing test in \\cit",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Total Statistical Error Framework for Comparing Census Data Collection Methods",
+    "url": "https://arxiv.org/abs/2608.00511",
+    "description": "arXiv:2608.00511v1 Announce Type: new \nAbstract: Population censuses increasingly rely on imputation to assign usual-residence addresses for non-respo",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "On the Log Determinant of Sample Correlation Matrices under Gaussianity",
+    "url": "https://arxiv.org/abs/2608.00565",
+    "description": "arXiv:2608.00565v1 Announce Type: new \nAbstract: We prove a central limit theorem for the log determinant of a Gaussian Pearson sample correlation mat",
+    "date": "2026-08-04",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Signed Matrix Thinning and Projection Estimation for Integer-Valued Autoregressive Models",
+    "url": "https://arxiv.org/abs/2608.00609",
+    "description": "arXiv:2608.00609v1 Announce Type: new \nAbstract: Integer-valued time series are ubiquitous in fields such as finance, economics, and epidemiology. As ",
+    "date": "2026-08-04",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Upper Confidence Bounds for the Prediction Error of Kernel Ridge Regression via Gaussian Refitting",
-    "url": "https://arxiv.org/abs/2607.28846",
-    "description": "arXiv:2607.28846v1 Announce Type: new \nAbstract: Assessing a single model fit requires a computable upper confidence bound for the gap between the fit",
-    "date": "2026-08-03",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "The Debiased Score Test: Hunt-and-test for Semiparametric Hypotheses",
-    "url": "https://arxiv.org/abs/2607.28861",
-    "description": "arXiv:2607.28861v1 Announce Type: new \nAbstract: The parametric score test assesses a hypothesis through derivatives of the log-likelihood, whose expe",
-    "date": "2026-08-03",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression",
-    "url": "https://arxiv.org/abs/2607.28864",
-    "description": "arXiv:2607.28864v1 Announce Type: new \nAbstract: Tree-based diffusion models fit flexible conditional predictive distributions for tabular regression ",
-    "date": "2026-08-03",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Active Learning for Data-Efficient Calibration of Stochastic Simulation Models",
-    "url": "https://arxiv.org/abs/2607.28874",
-    "description": "arXiv:2607.28874v1 Announce Type: new \nAbstract: Simulation-based calibration aims to infer unknown parameters of complex simulation models by alignin",
-    "date": "2026-08-03",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Log-F-penalized Conditional Logistic Regression for Sparse Data",
-    "url": "https://arxiv.org/abs/2607.28899",
-    "description": "arXiv:2607.28899v1 Announce Type: new \nAbstract: We investigate penalized likelihood methods for estimation and inference in conditional logistic regr",
-    "date": "2026-08-03",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Structured Neural Chaos: An Adaptive Surrogate Modeling Framework for Functional Uncertainty Quantification and Global Sensitivity Analysis",
-    "url": "https://arxiv.org/abs/2607.28903",
-    "description": "arXiv:2607.28903v1 Announce Type: new \nAbstract: Variance-based global sensitivity analysis (GSA) plays a key role in uncertainty quantification by id",
-    "date": "2026-08-03",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Comparing Two Survival Functions at a Fixed Timepoint",
-    "url": "https://arxiv.org/abs/2607.28929",
-    "description": "arXiv:2607.28929v1 Announce Type: new \nAbstract: For comparing two survival curves at a fixed timepoint with right censoring, a standard method uses a",
-    "date": "2026-08-03",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Simple Example of Bayesian Nonparametric Inconsistency",
-    "url": "https://arxiv.org/abs/2607.28958",
-    "description": "arXiv:2607.28958v1 Announce Type: new \nAbstract: I present a very simple example in which a full-support prior over distribution functions has an inco",
-    "date": "2026-08-03",
+    "title": "Empirical optimal transport potentials: fast rates and a functional central limit theorem",
+    "url": "https://arxiv.org/abs/2608.00649",
+    "description": "arXiv:2608.00649v1 Announce Type: new \nAbstract: Optimal transport potentials are fundamental objects in statistics, economics, and machine learning: ",
+    "date": "2026-08-04",
     "cat": "学术",
     "lang": "en"
   }
