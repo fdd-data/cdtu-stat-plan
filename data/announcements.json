@@ -1,5 +1,21 @@
 [
   {
+    "title": "Getting Started with GitHub Agentic Workflows",
+    "url": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
+    "description": "GitHub Agentic Workflows are in public preview. Find out all about them here.",
+    "date": "2026-08-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Turn Any CSV into an Executive Report with Python and AI",
+    "url": "https://www.kdnuggets.com/turn-any-csv-into-an-executive-report-with-python-and-ai",
+    "description": "Learn to implement a repeatable pipeline that cleans a CSV, finds the story, and writes it up.",
+    "date": "2026-08-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
     "url": "https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review",
     "description": "The All-In-One AI Powerhouse: A Comprehensive Review of Abacus AI’s Full Ecosystem\nAn in-depth look at how the platform integrates 100+ AI models, aut",
@@ -61,22 +77,6 @@
     "description": "Check out these five books on building, fine-tuning, and deploying large language models.",
     "date": "2026-07-31",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "A Beginner’s Guide to Working with Claude Design",
-    "url": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
-    "description": "Claude Design is a research preview under Anthropic Labs, powered by Claude Opus' vision capability, generating interactive prototypes with working na",
-    "date": "2026-07-30",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "7 Machine Learning Algorithms That Still Matter",
-    "url": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
-    "description": "Discover 7 essential machine learning algorithms that every data scientist should know before reaching for LLMs and generative AI, with simple explana",
-    "date": "2026-07-30",
-    "cat": "技术",
     "lang": "en"
   },
   {
