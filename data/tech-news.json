@@ -1,121 +1,121 @@
 [
   {
-    "title": "On the Asymptotics of Item Selection in Multidimensional Computerized Adaptive Testing",
-    "url": "https://arxiv.org/abs/2608.00201",
-    "description": "arXiv:2608.00201v1 Announce Type: new \nAbstract: We study Fisher-information-based item-selection rules for multidimensional computerized adaptive tes",
-    "date": "2026-08-04",
+    "title": "Conformal confidence intervals with an application to small area estimation",
+    "url": "https://arxiv.org/abs/2608.02766",
+    "description": "arXiv:2608.02766v1 Announce Type: new \nAbstract: Conformal prediction inference yields intervals for out-of-sample random outcomes with designated cov",
+    "date": "2026-08-05",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "An Optimal False Discovery Rate Controlling Procedure for Changepoint Detection",
-    "url": "https://arxiv.org/abs/2608.00219",
-    "description": "arXiv:2608.00219v1 Announce Type: new \nAbstract: We consider the problem of detecting and localizing a growing number of changepoints in a sequence of",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Regularized-Likelihood Deconvolution with Posterior-Density Reconstruction",
-    "url": "https://arxiv.org/abs/2608.00240",
-    "description": "arXiv:2608.00240v1 Announce Type: new \nAbstract: Density deconvolution is an ill-posed inverse problem, as recovering the latent distribution amplifie",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bridging extrinsic and intrinsic variable importance",
-    "url": "https://arxiv.org/abs/2608.00247",
-    "description": "arXiv:2608.00247v1 Announce Type: new \nAbstract: Variable importance may describe either intrinsic predictive information in a population or extrinsic",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A reproducible and extensible framework for benchmarking competing risks survival models",
-    "url": "https://arxiv.org/abs/2608.00271",
-    "description": "arXiv:2608.00271v1 Announce Type: new \nAbstract: A wide range of statistical and machine learning methods have been proposed for survival analysis wit",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Extensions in Semiparametric Geostatistical Models",
-    "url": "https://arxiv.org/abs/2608.00276",
-    "description": "arXiv:2608.00276v1 Announce Type: new \nAbstract: In spatial statistics, the incorrect selection of an appropriate covariance function may lead to infe",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Multi-output Orthogonal Gaussian Processes for Noisy Simulator Outputs",
-    "url": "https://arxiv.org/abs/2608.00287",
-    "description": "arXiv:2608.00287v1 Announce Type: new \nAbstract: Computer simulations can model physical processes but are often too expensive to produce enough runs ",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Backward Bayesian Outcome Weighted Learning",
-    "url": "https://arxiv.org/abs/2608.00317",
-    "description": "arXiv:2608.00317v1 Announce Type: new \nAbstract: A central objective of precision medicine is learning optimal dynamic treatment regimes (DTRs) from d",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Debiased inference for proximal dose-response function",
-    "url": "https://arxiv.org/abs/2608.00404",
-    "description": "arXiv:2608.00404v1 Announce Type: new \nAbstract: In this paper, we study nonparametric inference for the causal dose-response curve of a continuous-tr",
-    "date": "2026-08-04",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Efficient Variance Estimation for the Polytomous Discrimination Index",
-    "url": "https://arxiv.org/abs/2608.00413",
-    "description": "arXiv:2608.00413v1 Announce Type: new \nAbstract: Evaluating diagnostic accuracy for multi-category outcomes remains a significant challenge, primarily",
-    "date": "2026-08-04",
+    "title": "DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing",
+    "url": "https://arxiv.org/abs/2608.02769",
+    "description": "arXiv:2608.02769v1 Announce Type: new \nAbstract: Multimodal supervised learning seeks to leverage multiple heterogeneous data sources to improve predi",
+    "date": "2026-08-05",
     "cat": "竞赛",
     "lang": "en"
   },
   {
-    "title": "Exact detection threshold of the packing test",
-    "url": "https://arxiv.org/abs/2608.00445",
-    "description": "arXiv:2608.00445v1 Announce Type: new \nAbstract: Using Poisson approximation techniques, we derive the detection threshold of the packing test in \\cit",
-    "date": "2026-08-04",
+    "title": "A Hyperfinite Framework for Score-Based Generative Modeling",
+    "url": "https://arxiv.org/abs/2608.02799",
+    "description": "arXiv:2608.02799v1 Announce Type: new \nAbstract: Score-based diffusion models are typically formulated using continuous-time stochastic differential e",
+    "date": "2026-08-05",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Total Statistical Error Framework for Comparing Census Data Collection Methods",
-    "url": "https://arxiv.org/abs/2608.00511",
-    "description": "arXiv:2608.00511v1 Announce Type: new \nAbstract: Population censuses increasingly rely on imputation to assign usual-residence addresses for non-respo",
-    "date": "2026-08-04",
+    "title": "Proper-score observation-driven filters: local geometry, estimation, and continuous-time limits",
+    "url": "https://arxiv.org/abs/2608.02828",
+    "description": "arXiv:2608.02828v1 Announce Type: new \nAbstract: Observation-driven filters update a time-varying parameter with the likelihood score, linking the rec",
+    "date": "2026-08-05",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "On the Log Determinant of Sample Correlation Matrices under Gaussianity",
-    "url": "https://arxiv.org/abs/2608.00565",
-    "description": "arXiv:2608.00565v1 Announce Type: new \nAbstract: We prove a central limit theorem for the log determinant of a Gaussian Pearson sample correlation mat",
-    "date": "2026-08-04",
+    "title": "Particle-based Generalised Stochastic Optimisation",
+    "url": "https://arxiv.org/abs/2608.02844",
+    "description": "arXiv:2608.02844v1 Announce Type: new \nAbstract: We develop a class of diffusion-based stochastic particle optimisation methods for loss functions wit",
+    "date": "2026-08-05",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Signed Matrix Thinning and Projection Estimation for Integer-Valued Autoregressive Models",
-    "url": "https://arxiv.org/abs/2608.00609",
-    "description": "arXiv:2608.00609v1 Announce Type: new \nAbstract: Integer-valued time series are ubiquitous in fields such as finance, economics, and epidemiology. As ",
-    "date": "2026-08-04",
+    "title": "Modelling temporal dynamics of suicidal ideation and behaviour across pre- to early adolescence using a Markov framework",
+    "url": "https://arxiv.org/abs/2608.02896",
+    "description": "arXiv:2608.02896v1 Announce Type: new \nAbstract: Understanding the dynamics of suicidal ideation and behaviour in youth and the factors associated wit",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Survival Isotonic Distributional Regression",
+    "url": "https://arxiv.org/abs/2608.02914",
+    "description": "arXiv:2608.02914v1 Announce Type: new \nAbstract: We introduce Survival-IDR (S-IDR), a nonparametric estimator of conditional survival distributions un",
+    "date": "2026-08-05",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Empirical optimal transport potentials: fast rates and a functional central limit theorem",
-    "url": "https://arxiv.org/abs/2608.00649",
-    "description": "arXiv:2608.00649v1 Announce Type: new \nAbstract: Optimal transport potentials are fundamental objects in statistics, economics, and machine learning: ",
-    "date": "2026-08-04",
+    "title": "Spectral clustering of network time series via the sample covariance matrix",
+    "url": "https://arxiv.org/abs/2608.02922",
+    "description": "arXiv:2608.02922v1 Announce Type: new \nAbstract: Spectral clustering for community detection is analysed in multivariate time series models whose depe",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Estimating Climate Sensitivity Using Bayesian Model Averaging for CMIP Models",
+    "url": "https://arxiv.org/abs/2608.02923",
+    "description": "arXiv:2608.02923v1 Announce Type: new \nAbstract: The Transient Climate Response to cumulative CO2 Emissions (TCRE) is a key metric for linking greenho",
+    "date": "2026-08-05",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Calibrated Bayesian Inference for Stochastic Intervention Effects",
+    "url": "https://arxiv.org/abs/2608.02924",
+    "description": "arXiv:2608.02924v1 Announce Type: new \nAbstract: Causal inference increasingly extends beyond classical causal effects defined by deterministic treatm",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Weighted k-Sample Kolmogorov-Smirnov, Cramer-von Mises, and Anderson-Darling Tests for Assessing Covariate Balance",
+    "url": "https://arxiv.org/abs/2608.02929",
+    "description": "arXiv:2608.02929v1 Announce Type: new \nAbstract: Weighted distributional tests for covariate balance are currently limited to two-group comparisons. W",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Proof of the Convergence a Lipschitz Upper Confidence Bound",
+    "url": "https://arxiv.org/abs/2608.03081",
+    "description": "arXiv:2608.03081v1 Announce Type: new \nAbstract: This document presents a proof of the estimation of a lipschitz parameter by constructing a consisten",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Causal Inference with Unstructured Outcomes",
+    "url": "https://arxiv.org/abs/2608.03085",
+    "description": "arXiv:2608.03085v1 Announce Type: new \nAbstract: Causal inference has traditionally centered on scalar outcomes: whether a patient recovers, how much ",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A New Approach to Goodness of Fit for Ergodic Markov Processes",
+    "url": "https://arxiv.org/abs/2608.03088",
+    "description": "arXiv:2608.03088v1 Announce Type: new \nAbstract: We introduce a new density-based goodness of fit test for ergodic Markov processes. Our test compares",
+    "date": "2026-08-05",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "As Good as it Gets: Bounds for Oracle Time-Varying Treatment Strategies",
+    "url": "https://arxiv.org/abs/2608.03133",
+    "description": "arXiv:2608.03133v1 Announce Type: new \nAbstract: Much causal inference research is focused on methods for optimizing dynamic treatment regimes (Murphy",
+    "date": "2026-08-05",
     "cat": "学术",
     "lang": "en"
   }
