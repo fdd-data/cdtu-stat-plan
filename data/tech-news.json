@@ -1,121 +1,121 @@
 [
   {
-    "title": "Conformal confidence intervals with an application to small area estimation",
-    "url": "https://arxiv.org/abs/2608.02766",
-    "description": "arXiv:2608.02766v1 Announce Type: new \nAbstract: Conformal prediction inference yields intervals for out-of-sample random outcomes with designated cov",
-    "date": "2026-08-05",
+    "title": "A Multi-Cohort Validation of Censoring-Aware Conformal Lower Predictive Bounds for Pathology Survival Models",
+    "url": "https://arxiv.org/abs/2608.04025",
+    "description": "arXiv:2608.04025v1 Announce Type: new \nAbstract: Whole-slide survival models commonly provide risk rankings without calibrated statements about indivi",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing",
-    "url": "https://arxiv.org/abs/2608.02769",
-    "description": "arXiv:2608.02769v1 Announce Type: new \nAbstract: Multimodal supervised learning seeks to leverage multiple heterogeneous data sources to improve predi",
-    "date": "2026-08-05",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "A Hyperfinite Framework for Score-Based Generative Modeling",
-    "url": "https://arxiv.org/abs/2608.02799",
-    "description": "arXiv:2608.02799v1 Announce Type: new \nAbstract: Score-based diffusion models are typically formulated using continuous-time stochastic differential e",
-    "date": "2026-08-05",
+    "title": "Statistical learning theory and Occam's razor: Regularization",
+    "url": "https://arxiv.org/abs/2608.04049",
+    "description": "arXiv:2608.04049v1 Announce Type: new \nAbstract: The principle of Occam's razor, which instructs us to prefer simplicity in inductive inference, has a",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Proper-score observation-driven filters: local geometry, estimation, and continuous-time limits",
-    "url": "https://arxiv.org/abs/2608.02828",
-    "description": "arXiv:2608.02828v1 Announce Type: new \nAbstract: Observation-driven filters update a time-varying parameter with the likelihood score, linking the rec",
-    "date": "2026-08-05",
+    "title": "Discrete-Time Survival Analysis for Heart Failure Mortality Prediction",
+    "url": "https://arxiv.org/abs/2608.04140",
+    "description": "arXiv:2608.04140v1 Announce Type: new \nAbstract: Accurate heart-failure prognosis relies on tracking clinical risk over time, yet many machine-learnin",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Particle-based Generalised Stochastic Optimisation",
-    "url": "https://arxiv.org/abs/2608.02844",
-    "description": "arXiv:2608.02844v1 Announce Type: new \nAbstract: We develop a class of diffusion-based stochastic particle optimisation methods for loss functions wit",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Modelling temporal dynamics of suicidal ideation and behaviour across pre- to early adolescence using a Markov framework",
-    "url": "https://arxiv.org/abs/2608.02896",
-    "description": "arXiv:2608.02896v1 Announce Type: new \nAbstract: Understanding the dynamics of suicidal ideation and behaviour in youth and the factors associated wit",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Survival Isotonic Distributional Regression",
-    "url": "https://arxiv.org/abs/2608.02914",
-    "description": "arXiv:2608.02914v1 Announce Type: new \nAbstract: We introduce Survival-IDR (S-IDR), a nonparametric estimator of conditional survival distributions un",
-    "date": "2026-08-05",
+    "title": "Regression-Based Proximal Reconciliation of Conflicting Trials with Unmeasured Effect Modifiers",
+    "url": "https://arxiv.org/abs/2608.04202",
+    "description": "arXiv:2608.04202v1 Announce Type: new \nAbstract: Randomized controlled trials with similar protocols may yield conflicting findings when the distribut",
+    "date": "2026-08-06",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Spectral clustering of network time series via the sample covariance matrix",
-    "url": "https://arxiv.org/abs/2608.02922",
-    "description": "arXiv:2608.02922v1 Announce Type: new \nAbstract: Spectral clustering for community detection is analysed in multivariate time series models whose depe",
-    "date": "2026-08-05",
+    "title": "Estimating Heterogeneity in Travel Mode Choice Shifts with Causal Forests",
+    "url": "https://arxiv.org/abs/2608.04208",
+    "description": "arXiv:2608.04208v1 Announce Type: new \nAbstract: Objectives: While causal analysis of travel behavior is an emerging field, estimating heterogeneity i",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Estimating Climate Sensitivity Using Bayesian Model Averaging for CMIP Models",
-    "url": "https://arxiv.org/abs/2608.02923",
-    "description": "arXiv:2608.02923v1 Announce Type: new \nAbstract: The Transient Climate Response to cumulative CO2 Emissions (TCRE) is a key metric for linking greenho",
-    "date": "2026-08-05",
+    "title": "Multimodal Alignment Through Joint Kernel Entropic Gromov--Wasserstein Optimal Transport",
+    "url": "https://arxiv.org/abs/2608.04234",
+    "description": "arXiv:2608.04234v1 Announce Type: new \nAbstract: We study the problem of aligning data from multiple modalities into a shared representation space, fo",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "When Is a Conformal Guarantee Fair? Auditing Silent Subgroup Under-Coverage in Alzheimer's Disease Longitudinal Prediction",
+    "url": "https://arxiv.org/abs/2608.04254",
+    "description": "arXiv:2608.04254v1 Announce Type: new \nAbstract: Longitudinal prediction of Alzheimer's disease biomarkers increasingly informs clinical decisions, an",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Diffeomorphic Markov Chain Monte Carlo: fast mixing for heavy-tailed distributions",
+    "url": "https://arxiv.org/abs/2608.04284",
+    "description": "arXiv:2608.04284v1 Announce Type: new \nAbstract: We introduce a new class of uniformly ergodic MCMC algorithms, termed Diffeomorphic Contraction Sampl",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Fixed-Point Characterisations of Extremal Distributions under Partial Distributional Constraints",
+    "url": "https://arxiv.org/abs/2608.04315",
+    "description": "arXiv:2608.04315v1 Announce Type: new \nAbstract: We present a methodological framework for solving robust inference problems with partially specified ",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bivariate Prior Specification for Bayesian Decision Making in Early Phase Clinical Trials",
+    "url": "https://arxiv.org/abs/2608.04335",
+    "description": "arXiv:2608.04335v1 Announce Type: new \nAbstract: Bayesian Go/No-Go decisions with co-primary endpoints require specifying prior distributions under th",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Best for which estimand? A known-truth benchmark of longitudinal-matching and target-trial-emulation methods for time-varying treatments",
+    "url": "https://arxiv.org/abs/2608.04414",
+    "description": "arXiv:2608.04414v1 Announce Type: new \nAbstract: On a non-collapsible survival mechanism, longitudinal-matching and target-trial-emulation methods are",
+    "date": "2026-08-06",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Semiparametric robust mixture of experts based on nonparametric maximum likelihood",
+    "url": "https://arxiv.org/abs/2608.04561",
+    "description": "arXiv:2608.04561v1 Announce Type: new \nAbstract: The mixture of experts (MoE) model provides a flexible approach for modeling heterogeneous regression",
+    "date": "2026-08-06",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Calibrated Bayesian Inference for Stochastic Intervention Effects",
-    "url": "https://arxiv.org/abs/2608.02924",
-    "description": "arXiv:2608.02924v1 Announce Type: new \nAbstract: Causal inference increasingly extends beyond classical causal effects defined by deterministic treatm",
-    "date": "2026-08-05",
+    "title": "Optimal minimization of an unknown function in a nonparametric multivariate regression model thanks to a dimension reduction approach",
+    "url": "https://arxiv.org/abs/2608.04566",
+    "description": "arXiv:2608.04566v1 Announce Type: new \nAbstract: In this paper, we propose a novel approach for estimating the minimum of a smooth function and its lo",
+    "date": "2026-08-06",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Automatic Statistical Test for Rationally Expressible Algorithms by Selective Inference, with Applications to Feature Selection",
+    "url": "https://arxiv.org/abs/2608.04667",
+    "description": "arXiv:2608.04667v1 Announce Type: new \nAbstract: Selective inference (SI) provides statistically valid $p$-values for hypotheses selected by applying ",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Weighted k-Sample Kolmogorov-Smirnov, Cramer-von Mises, and Anderson-Darling Tests for Assessing Covariate Balance",
-    "url": "https://arxiv.org/abs/2608.02929",
-    "description": "arXiv:2608.02929v1 Announce Type: new \nAbstract: Weighted distributional tests for covariate balance are currently limited to two-group comparisons. W",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Proof of the Convergence a Lipschitz Upper Confidence Bound",
-    "url": "https://arxiv.org/abs/2608.03081",
-    "description": "arXiv:2608.03081v1 Announce Type: new \nAbstract: This document presents a proof of the estimation of a lipschitz parameter by constructing a consisten",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Causal Inference with Unstructured Outcomes",
-    "url": "https://arxiv.org/abs/2608.03085",
-    "description": "arXiv:2608.03085v1 Announce Type: new \nAbstract: Causal inference has traditionally centered on scalar outcomes: whether a patient recovers, how much ",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A New Approach to Goodness of Fit for Ergodic Markov Processes",
-    "url": "https://arxiv.org/abs/2608.03088",
-    "description": "arXiv:2608.03088v1 Announce Type: new \nAbstract: We introduce a new density-based goodness of fit test for ergodic Markov processes. Our test compares",
-    "date": "2026-08-05",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "As Good as it Gets: Bounds for Oracle Time-Varying Treatment Strategies",
-    "url": "https://arxiv.org/abs/2608.03133",
-    "description": "arXiv:2608.03133v1 Announce Type: new \nAbstract: Much causal inference research is focused on methods for optimizing dynamic treatment regimes (Murphy",
-    "date": "2026-08-05",
+    "title": "Consistent community recovery in stochastic block Ornstein-Uhlenbeck processes",
+    "url": "https://arxiv.org/abs/2608.04700",
+    "description": "arXiv:2608.04700v1 Announce Type: new \nAbstract: We propose the stochastic block Ornstein-Uhlenbeck (SBOU) process, a continuous-time multivariate mod",
+    "date": "2026-08-06",
     "cat": "学术",
     "lang": "en"
   }
