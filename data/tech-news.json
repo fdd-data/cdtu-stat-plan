@@ -1,121 +1,121 @@
 [
   {
-    "title": "A Multi-Cohort Validation of Censoring-Aware Conformal Lower Predictive Bounds for Pathology Survival Models",
-    "url": "https://arxiv.org/abs/2608.04025",
-    "description": "arXiv:2608.04025v1 Announce Type: new \nAbstract: Whole-slide survival models commonly provide risk rankings without calibrated statements about indivi",
-    "date": "2026-08-06",
+    "title": "Quality Diversity for Reliable Data Driven Time-Use Optimization",
+    "url": "https://arxiv.org/abs/2608.05230",
+    "description": "arXiv:2608.05230v1 Announce Type: new \nAbstract: The daily allocation of the finite 24-hour time budget is strongly associated with physical, mental, ",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Statistical learning theory and Occam's razor: Regularization",
-    "url": "https://arxiv.org/abs/2608.04049",
-    "description": "arXiv:2608.04049v1 Announce Type: new \nAbstract: The principle of Occam's razor, which instructs us to prefer simplicity in inductive inference, has a",
-    "date": "2026-08-06",
+    "title": "A Unified Causal Inference Framework for the Desirability of Outcome Ranking Paradigm in Benefit-Risk Evaluation",
+    "url": "https://arxiv.org/abs/2608.05244",
+    "description": "arXiv:2608.05244v1 Announce Type: new \nAbstract: We developed a unified covariate-adjusted causal inference framework for estimating the desirability ",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Discrete-Time Survival Analysis for Heart Failure Mortality Prediction",
-    "url": "https://arxiv.org/abs/2608.04140",
-    "description": "arXiv:2608.04140v1 Announce Type: new \nAbstract: Accurate heart-failure prognosis relies on tracking clinical risk over time, yet many machine-learnin",
-    "date": "2026-08-06",
+    "title": "Soprano voices in opera seria: a corpus-based inquiry into eighteenth-century vocal types",
+    "url": "https://arxiv.org/abs/2608.05257",
+    "description": "arXiv:2608.05257v1 Announce Type: new \nAbstract: Eighteenth-century Italian opera seria was dominated by soprano voices. Although masculine roles were",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Regression-Based Proximal Reconciliation of Conflicting Trials with Unmeasured Effect Modifiers",
-    "url": "https://arxiv.org/abs/2608.04202",
-    "description": "arXiv:2608.04202v1 Announce Type: new \nAbstract: Randomized controlled trials with similar protocols may yield conflicting findings when the distribut",
-    "date": "2026-08-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Estimating Heterogeneity in Travel Mode Choice Shifts with Causal Forests",
-    "url": "https://arxiv.org/abs/2608.04208",
-    "description": "arXiv:2608.04208v1 Announce Type: new \nAbstract: Objectives: While causal analysis of travel behavior is an emerging field, estimating heterogeneity i",
-    "date": "2026-08-06",
+    "title": "Improving the efficiency of infectious disease prevention trials using negative control outcome event times",
+    "url": "https://arxiv.org/abs/2608.05261",
+    "description": "arXiv:2608.05261v1 Announce Type: new \nAbstract: Baseline covariate adjustment can enhance the efficiency of randomized trials by improving precision ",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Multimodal Alignment Through Joint Kernel Entropic Gromov--Wasserstein Optimal Transport",
-    "url": "https://arxiv.org/abs/2608.04234",
-    "description": "arXiv:2608.04234v1 Announce Type: new \nAbstract: We study the problem of aligning data from multiple modalities into a shared representation space, fo",
-    "date": "2026-08-06",
+    "title": "Precision and Decisiveness as Goals: Reliable Sequential Hypothesis Testing with a Dual Stopping Criterion",
+    "url": "https://arxiv.org/abs/2608.05301",
+    "description": "arXiv:2608.05301v1 Announce Type: new \nAbstract: Sequential hypothesis testing offers flexibility over fixed-sample designs, but stopping rules couple",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "When Is a Conformal Guarantee Fair? Auditing Silent Subgroup Under-Coverage in Alzheimer's Disease Longitudinal Prediction",
-    "url": "https://arxiv.org/abs/2608.04254",
-    "description": "arXiv:2608.04254v1 Announce Type: new \nAbstract: Longitudinal prediction of Alzheimer's disease biomarkers increasingly informs clinical decisions, an",
-    "date": "2026-08-06",
+    "title": "Joint Spatial and Temporal Generalized Dissimilarity Mixed Modeling (stGDMM) for Beta Diversity",
+    "url": "https://arxiv.org/abs/2608.05352",
+    "description": "arXiv:2608.05352v1 Announce Type: new \nAbstract: Generalized dissimilarity models (GDMs) have emerged as a valuable tool for formal statistical analys",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Diffeomorphic Markov Chain Monte Carlo: fast mixing for heavy-tailed distributions",
-    "url": "https://arxiv.org/abs/2608.04284",
-    "description": "arXiv:2608.04284v1 Announce Type: new \nAbstract: We introduce a new class of uniformly ergodic MCMC algorithms, termed Diffeomorphic Contraction Sampl",
-    "date": "2026-08-06",
+    "title": "Conditional multivariate functional PCA for the reconstruction of temperature and salinity profiles partially sampled by deep-diving marine mammals",
+    "url": "https://arxiv.org/abs/2608.05376",
+    "description": "arXiv:2608.05376v1 Announce Type: new \nAbstract: We present a statistical method to reconstruct the vertical thermohaline conditions in the Indian Sec",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Fixed-Point Characterisations of Extremal Distributions under Partial Distributional Constraints",
-    "url": "https://arxiv.org/abs/2608.04315",
-    "description": "arXiv:2608.04315v1 Announce Type: new \nAbstract: We present a methodological framework for solving robust inference problems with partially specified ",
-    "date": "2026-08-06",
+    "title": "Sparse Principal Component Analysis via Wavelets for Distributed Data",
+    "url": "https://arxiv.org/abs/2608.05386",
+    "description": "arXiv:2608.05386v1 Announce Type: new \nAbstract: The large volume of data and concerns about data privacy have motivated the development of techniques",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bivariate Prior Specification for Bayesian Decision Making in Early Phase Clinical Trials",
-    "url": "https://arxiv.org/abs/2608.04335",
-    "description": "arXiv:2608.04335v1 Announce Type: new \nAbstract: Bayesian Go/No-Go decisions with co-primary endpoints require specifying prior distributions under th",
-    "date": "2026-08-06",
+    "title": "Inference for subgraph densities in noisy dynamic networks",
+    "url": "https://arxiv.org/abs/2608.05407",
+    "description": "arXiv:2608.05407v1 Announce Type: new \nAbstract: In this work we develop statistical methodology to estimate and perform inference on subgraph densiti",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Best for which estimand? A known-truth benchmark of longitudinal-matching and target-trial-emulation methods for time-varying treatments",
-    "url": "https://arxiv.org/abs/2608.04414",
-    "description": "arXiv:2608.04414v1 Announce Type: new \nAbstract: On a non-collapsible survival mechanism, longitudinal-matching and target-trial-emulation methods are",
-    "date": "2026-08-06",
+    "title": "From Continuous Dynamics to Practical Gradient-Based Samplers",
+    "url": "https://arxiv.org/abs/2608.05425",
+    "description": "arXiv:2608.05425v1 Announce Type: new \nAbstract: Gradient-based Markov chain Monte Carlo methods are often introduced as a catalog of algorithms: Hami",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Semiparametric robust mixture of experts based on nonparametric maximum likelihood",
-    "url": "https://arxiv.org/abs/2608.04561",
-    "description": "arXiv:2608.04561v1 Announce Type: new \nAbstract: The mixture of experts (MoE) model provides a flexible approach for modeling heterogeneous regression",
-    "date": "2026-08-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Optimal minimization of an unknown function in a nonparametric multivariate regression model thanks to a dimension reduction approach",
-    "url": "https://arxiv.org/abs/2608.04566",
-    "description": "arXiv:2608.04566v1 Announce Type: new \nAbstract: In this paper, we propose a novel approach for estimating the minimum of a smooth function and its lo",
-    "date": "2026-08-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Automatic Statistical Test for Rationally Expressible Algorithms by Selective Inference, with Applications to Feature Selection",
-    "url": "https://arxiv.org/abs/2608.04667",
-    "description": "arXiv:2608.04667v1 Announce Type: new \nAbstract: Selective inference (SI) provides statistically valid $p$-values for hypotheses selected by applying ",
-    "date": "2026-08-06",
+    "title": "Characterizations of independence between order statistics and rank indicators",
+    "url": "https://arxiv.org/abs/2608.05428",
+    "description": "arXiv:2608.05428v1 Announce Type: new \nAbstract: We study the independence between an order statistic and its corresponding rank indicator for indepen",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Consistent community recovery in stochastic block Ornstein-Uhlenbeck processes",
-    "url": "https://arxiv.org/abs/2608.04700",
-    "description": "arXiv:2608.04700v1 Announce Type: new \nAbstract: We propose the stochastic block Ornstein-Uhlenbeck (SBOU) process, a continuous-time multivariate mod",
-    "date": "2026-08-06",
+    "title": "Risk-Aware Quantile Learning for Personalized Dynamic Treatment Regimes",
+    "url": "https://arxiv.org/abs/2608.05434",
+    "description": "arXiv:2608.05434v1 Announce Type: new \nAbstract: Sequential clinical decision-making often involves more than maximizing average efficacy. Clinicians ",
+    "date": "2026-08-07",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Modeling E-Bike Route Choice in Washington, DC: A Path Size Logit Approach",
+    "url": "https://arxiv.org/abs/2608.05449",
+    "description": "arXiv:2608.05449v1 Announce Type: new \nAbstract: Understanding e-bike route choice is essential for developing effective cycling infrastructure, yet e",
+    "date": "2026-08-07",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "How Infrastructure and Streetscape Shape E-Scooter Route Choice: Evidence from Washington, DC",
+    "url": "https://arxiv.org/abs/2608.05465",
+    "description": "arXiv:2608.05465v1 Announce Type: new \nAbstract: E-scooters have emerged as an important micromobility mode for short urban trips, yet evidence on rou",
+    "date": "2026-08-07",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Fast Power Evaluation under Biased-Coin Minimization: Sampling and Randomization Calibration",
+    "url": "https://arxiv.org/abs/2608.05527",
+    "description": "arXiv:2608.05527v1 Announce Type: new \nAbstract: Design-stage power and sample-size evaluation under biased-coin minimization can be computationally i",
+    "date": "2026-08-07",
     "cat": "学术",
     "lang": "en"
   }

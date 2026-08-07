@@ -1,5 +1,29 @@
 [
   {
+    "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
+    "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
+    "description": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
+    "date": "2026-08-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "The Minimal AI Engineer Toolkit for 2026",
+    "url": "https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026",
+    "description": "Discover the six essential tools AI engineers need in 2026 to build and deploy production-grade autonomous systems.",
+    "date": "2026-08-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 Best Web Crawling Tools and APIs in 2026",
+    "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026",
+    "description": "Learn about the best web crawling tools for collecting website content, crawling subpages, generating clean web data, and powering AI agents.",
+    "date": "2026-08-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Getting Started with GitHub Agentic Workflows",
     "url": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
     "description": "GitHub Agentic Workflows are in public preview. Find out all about them here.",
@@ -53,30 +77,6 @@
     "description": "Scaling up and streamlining a multi-agent architecture doesn't necessarily entail escalated costs if you know how to properly implement these four str",
     "date": "2026-08-03",
     "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
-    "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
-    "description": "A Beginner's Guide to Working with Claude Design • 5 Best AI Tools for Data Analysis You Should Try in 2026 • 5 Books That Will Deepen Your Understand",
-    "date": "2026-08-01",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Building Voice-Controlled AI Agents",
-    "url": "https://www.kdnuggets.com/building-voice-controlled-ai-agents",
-    "description": "Building a voice-controlled AI agents isn't hard, this article breaks the pipeline into its real components: streaming speech recognition, turn detect",
-    "date": "2026-07-31",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Books That Will Deepen Your Understanding of Large Language Models",
-    "url": "https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models",
-    "description": "Check out these five books on building, fine-tuning, and deploying large language models.",
-    "date": "2026-07-31",
-    "cat": "书单",
     "lang": "en"
   },
   {
