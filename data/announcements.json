@@ -1,5 +1,21 @@
 [
   {
+    "title": "Small Language Models with Hugging Face transformers Library + smolLM3",
+    "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
+    "description": "Running a 70B model in production is expensive, and for many tasks, unnecessary. If you're building a focused pipeline, a well-trained 3B model will m",
+    "date": "2026-08-07",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Free Courses to Learn Modern AI and LLMs",
+    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
+    "description": "Learn how to use generative AI at work, build RAG and agentic apps, fine-tune models, work with the Hugging Face ecosystem, and prototype AI products ",
+    "date": "2026-08-07",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
     "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
     "description": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
@@ -61,22 +77,6 @@
     "description": "From quantization to speculative decoding, here are seven engineering strategies to ship faster, more responsive generative AI applications in product",
     "date": "2026-08-04",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Does MiniMax Agent Actually Make Work Easier?",
-    "url": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
-    "description": "Read about MiniMax's own architecture, and see how it runs a real task against the actual API. Learn the pieces of the MiniMax story that weren't cove",
-    "date": "2026-08-03",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "A Guide to Saving Token Usage with Multi-Agent AI",
-    "url": "https://www.kdnuggets.com/a-guide-to-saving-token-usage-with-multi-agent-ai",
-    "description": "Scaling up and streamlining a multi-agent architecture doesn't necessarily entail escalated costs if you know how to properly implement these four str",
-    "date": "2026-08-03",
-    "cat": "资源",
     "lang": "en"
   },
   {
