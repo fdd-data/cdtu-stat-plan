@@ -1,5 +1,13 @@
 [
   {
+    "title": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+    "url": "https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing",
+    "description": "Written for CEOs, CTOs, CIOs, and technology executives, our new free ebook \"Understanding Agentic AI: An Executive Briefing\" walks through the compon",
+    "date": "2026-08-10",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Specification Engineering: The New Skill After Prompt Engineering",
     "url": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
     "description": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work.",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/turn-any-csv-into-an-executive-report-with-python-and-ai",
     "description": "Learn to implement a repeatable pipeline that cleans a CSV, finds the story, and writes it up.",
     "date": "2026-08-05",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
-    "url": "https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review",
-    "description": "The All-In-One AI Powerhouse: A Comprehensive Review of Abacus AI’s Full Ecosystem\nAn in-depth look at how the platform integrates 100+ AI models, aut",
-    "date": "2026-08-04",
     "cat": "技术",
     "lang": "en"
   },
