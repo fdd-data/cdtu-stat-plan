@@ -1,121 +1,121 @@
 [
   {
-    "title": "Bayesian Distilled Clustering for High-Dimensional Mixture Models",
-    "url": "https://arxiv.org/abs/2608.06509",
-    "description": "arXiv:2608.06509v1 Announce Type: new \nAbstract: Latent subgroup analysis is central to fields such as genomics, precision medicine, and social scienc",
-    "date": "2026-08-10",
+    "title": "RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity Is Not Enough",
+    "url": "https://arxiv.org/abs/2608.07583",
+    "description": "arXiv:2608.07583v1 Announce Type: new \nAbstract: Multi-agent LLM systems route among model-backed advisors, yet a deployer rarely knows before shippin",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Latent Trajectory Analysis for Multivariate Outcomes with Mixed-Scale: Application to Alzheimer's Disease Neuroimaging Initiative",
-    "url": "https://arxiv.org/abs/2608.06514",
-    "description": "arXiv:2608.06514v1 Announce Type: new \nAbstract: Latent trajectory analysis is a statistical method for explaining heterogeneity by partitioning patie",
-    "date": "2026-08-10",
+    "title": "Distribution-Free Conformal Prediction for Steel Fatigue Strength: Marginal Validity Is Not Enough",
+    "url": "https://arxiv.org/abs/2608.07589",
+    "description": "arXiv:2608.07589v1 Announce Type: new \nAbstract: Predicting fatigue failure in steel components experimentally is costly because it requires testing a",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Authentic Multinational Federated Time-to-Event Analyses Among People with HIV in Latin America",
-    "url": "https://arxiv.org/abs/2608.06540",
-    "description": "arXiv:2608.06540v1 Announce Type: new \nAbstract: Multinational HIV cohort studies face regulatory barriers to cross-border sharing of individual parti",
-    "date": "2026-08-10",
+    "title": "Uncertainty-Aware Missing-Data Multimodal Latent for Fetal-Growth Analysis",
+    "url": "https://arxiv.org/abs/2608.07590",
+    "description": "arXiv:2608.07590v1 Announce Type: new \nAbstract: Objective: Routine third-trimester examination yields fetal biometry, maternal, Doppler and fetal-car",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Mixed Gaussian Projections for Two-Sample Testing of Functional Data",
-    "url": "https://arxiv.org/abs/2608.06542",
-    "description": "arXiv:2608.06542v1 Announce Type: new \nAbstract: Random-projection tests for functional data depend on the probability law used to generate projection",
-    "date": "2026-08-10",
+    "title": "Hit Selection Using SSMD-Based Machine Learning Performance Metrics in High-Throughput Screening Assays",
+    "url": "https://arxiv.org/abs/2608.07609",
+    "description": "arXiv:2608.07609v1 Announce Type: new \nAbstract: High-throughput screening (HTS) assays are central to early-stage drug discovery but are often limite",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Record Values Based Inaccuracy Measures with an Application to Testing Symmetry",
-    "url": "https://arxiv.org/abs/2608.06548",
-    "description": "arXiv:2608.06548v1 Announce Type: new \nAbstract: This paper studies information-theoretic inaccuracy measures for record values and their application ",
-    "date": "2026-08-10",
+    "title": "Stochastic gradient descent with discontinuity across a manifold",
+    "url": "https://arxiv.org/abs/2608.07618",
+    "description": "arXiv:2608.07618v1 Announce Type: new \nAbstract: Stochastic gradient descent for a loss function discontinuous across lower dimensional manifolds is a",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "An Entropy-based Coefficient of Determination with Adjustment of Optimization Bias",
-    "url": "https://arxiv.org/abs/2608.06624",
-    "description": "arXiv:2608.06624v1 Announce Type: new \nAbstract: Classical likelihood-ratio tests and $\\Delta$AIC exacerbate the statistical significance crisis by sc",
-    "date": "2026-08-10",
+    "title": "SurroPilot: An LLM-Assisted Platform for Heterogeneous Surrogate Endpoint Evaluation in Clinical Trials",
+    "url": "https://arxiv.org/abs/2608.07635",
+    "description": "arXiv:2608.07635v1 Announce Type: new \nAbstract: Surrogate endpoints are widely used in clinical trials to accelerate treatment evaluation, yet their ",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Modelling Athletic Ageing Relative to an Estimated Performance Envelope",
-    "url": "https://arxiv.org/abs/2608.06635",
-    "description": "arXiv:2608.06635v1 Announce Type: new \nAbstract: Athletic careers yield sparse, irregular longitudinal series: few seasons per athlete, incomplete pat",
-    "date": "2026-08-10",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "A Novel Tool for Evaluating Effect Modification in Older Adults with ADRD Using Medicare Claims",
-    "url": "https://arxiv.org/abs/2608.06654",
-    "description": "arXiv:2608.06654v1 Announce Type: new \nAbstract: Studying consequences following baseline exposures has become increasingly important for advancing co",
-    "date": "2026-08-10",
+    "title": "Leveraging generative models to assist Monte Carlo sampling",
+    "url": "https://arxiv.org/abs/2608.07648",
+    "description": "arXiv:2608.07648v1 Announce Type: new \nAbstract: Sampling high-dimensional probability distributions is a central task in scientific computing, with a",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Gaussian Mixture Modeling for Symmetric Matrix Variate Data",
-    "url": "https://arxiv.org/abs/2608.06658",
-    "description": "arXiv:2608.06658v1 Announce Type: new \nAbstract: Statistical inference on individual activity networks has been a historically difficult task due to t",
-    "date": "2026-08-10",
+    "title": "Sri Lanka Dengue Dashboard: A Web-Based Decision Support Tool for Dengue Surveillance in Sri Lanka",
+    "url": "https://arxiv.org/abs/2608.07650",
+    "description": "arXiv:2608.07650v1 Announce Type: new \nAbstract: These days, Sri Lanka is facing a severe dengue outbreak. In this situation, it is very useful to pro",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bootstrap validity in Bayesian semi-parametric models",
-    "url": "https://arxiv.org/abs/2608.06670",
-    "description": "arXiv:2608.06670v1 Announce Type: new \nAbstract: We discuss Bayesian inference on a low-dimensional targeted parameter in the presence of possibly hig",
-    "date": "2026-08-10",
+    "title": "Small Area Bayesian Dynamic Borrowing: Adaptive Subgroup Estimation for Large-Scale Educational Assessments",
+    "url": "https://arxiv.org/abs/2608.07708",
+    "description": "arXiv:2608.07708v1 Announce Type: new \nAbstract: Large-scale assessments suppress subgroup achievement estimates below minimum sample size thresholds,",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Latent space models for networks with nodal multiplicative effects",
-    "url": "https://arxiv.org/abs/2608.06676",
-    "description": "arXiv:2608.06676v1 Announce Type: new \nAbstract: Latent space models represent network nodes as points in a geometric space, with connection probabili",
-    "date": "2026-08-10",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "On equitable scoring functions and optimal forecasting behaviour",
-    "url": "https://arxiv.org/abs/2608.06710",
-    "description": "arXiv:2608.06710v1 Announce Type: new \nAbstract: Equitable scoring functions have a long history in meteorological forecast verification and have rece",
-    "date": "2026-08-10",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Semiparametric Functional Multistate Modeling of Alzheimer's Disease Progression with Imaging Biomarkers",
-    "url": "https://arxiv.org/abs/2608.06734",
-    "description": "arXiv:2608.06734v1 Announce Type: new \nAbstract: Medical imaging provides rich information for predicting Alzheimer's disease progression, but existin",
-    "date": "2026-08-10",
+    "title": "Conformal Calibration for Multi-Modal Regression with Missing Modalities",
+    "url": "https://arxiv.org/abs/2608.07795",
+    "description": "arXiv:2608.07795v1 Announce Type: new \nAbstract: Prediction intervals for multi-modal regression with tabular variables, text, images, or other input ",
+    "date": "2026-08-11",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Self-Supervised Representation Learning for Longitudinal Polypharmacy Patterns",
-    "url": "https://arxiv.org/abs/2608.06743",
-    "description": "arXiv:2608.06743v1 Announce Type: new \nAbstract: Polypharmacy, commonly defined as the concurrent use of multiple medications, is increasingly prevale",
-    "date": "2026-08-10",
+    "title": "Proximal Individualized Functional Treatment Regimes",
+    "url": "https://arxiv.org/abs/2608.07832",
+    "description": "arXiv:2608.07832v1 Announce Type: new \nAbstract: Estimating individualized treatment regimes (ITRs) is fundamental in data-driven personalized decisio",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bridging Balancing Weights and Augmentation in Covariate-adjusted Analyses with Time-to-Event Endpoints: Theory and Practical Recommendations",
-    "url": "https://arxiv.org/abs/2608.06774",
-    "description": "arXiv:2608.06774v1 Announce Type: new \nAbstract: Covariate adjustment improves the efficiency of treatment-effect analyses in randomized clinical tria",
-    "date": "2026-08-10",
+    "title": "Debiased Machine Learning for Partially Linear Accelerated Failure Time Models",
+    "url": "https://arxiv.org/abs/2608.07841",
+    "description": "arXiv:2608.07841v1 Announce Type: new \nAbstract: The Cox model remains the default for survival analysis, but the proportional hazards assumption is o",
+    "date": "2026-08-11",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Modified Dependence Measure Related to Chatterjee's Rank Correlation: Theoretical Properties and Asymptotic Analysis",
+    "url": "https://arxiv.org/abs/2608.07844",
+    "description": "arXiv:2608.07844v1 Announce Type: new \nAbstract: In his recent breakthrough work [JASA, 2021], Chatterjee proposed a rank-based correlation coefficien",
+    "date": "2026-08-11",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Uniform Testability Implies Asymmetric Testability",
+    "url": "https://arxiv.org/abs/2608.07854",
+    "description": "arXiv:2608.07854v1 Announce Type: new \nAbstract: We prove a filtration-level conversion from uniform fixed-time testing to all-sample one-sided error ",
+    "date": "2026-08-11",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Independence Is Not Always Consistently Testable",
+    "url": "https://arxiv.org/abs/2608.07860",
+    "description": "arXiv:2608.07860v1 Announce Type: new \nAbstract: We study the problem of testing independence between the coordinate processes of a jointly stationary",
+    "date": "2026-08-11",
     "cat": "学术",
     "lang": "en"
   }
