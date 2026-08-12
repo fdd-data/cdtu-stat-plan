@@ -1,5 +1,21 @@
 [
   {
+    "title": "Building an End-to-End Data Science Portfolio Project",
+    "url": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
+    "description": "Most portfolios stop at a notebook. Take yours all the way.",
+    "date": "2026-08-12",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "5 Easy Ways to Install Python on Windows",
+    "url": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
+    "description": "Learn how to install Python on Windows using the Python Install Manager, WinGet, uv, Miniconda, or the official Python installer, and choose the best ",
+    "date": "2026-08-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Ultimate Guide to Contributing to Open Source Projects",
     "url": "https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects",
     "description": "This guide walks through what contributing to open source projects actually covers, how to pick a project that will actually respond to you, the exact",
@@ -59,22 +75,6 @@
     "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
     "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
     "description": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
-    "date": "2026-08-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Minimal AI Engineer Toolkit for 2026",
-    "url": "https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026",
-    "description": "Discover the six essential tools AI engineers need in 2026 to build and deploy production-grade autonomous systems.",
-    "date": "2026-08-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "7 Best Web Crawling Tools and APIs in 2026",
-    "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026",
-    "description": "Learn about the best web crawling tools for collecting website content, crawling subpages, generating clean web data, and powering AI agents.",
     "date": "2026-08-06",
     "cat": "技术",
     "lang": "en"
