@@ -1,121 +1,121 @@
 [
   {
-    "title": "RouteGuard: Certifying Routing Gain in LLM Multi-Agent Systems When Complementarity Is Not Enough",
-    "url": "https://arxiv.org/abs/2608.07583",
-    "description": "arXiv:2608.07583v1 Announce Type: new \nAbstract: Multi-agent LLM systems route among model-backed advisors, yet a deployer rarely knows before shippin",
-    "date": "2026-08-11",
+    "title": "Fitting RI-CLPM Is Not Enough: Diagnostic Sensitivity and Reporting Practices in Within-Person Longitudinal Research",
+    "url": "https://arxiv.org/abs/2608.09951",
+    "description": "arXiv:2608.09951v1 Announce Type: new \nAbstract: The random-intercept cross-lagged panel model (RI-CLPM) is widely used to separate stable between-per",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Distribution-Free Conformal Prediction for Steel Fatigue Strength: Marginal Validity Is Not Enough",
-    "url": "https://arxiv.org/abs/2608.07589",
-    "description": "arXiv:2608.07589v1 Announce Type: new \nAbstract: Predicting fatigue failure in steel components experimentally is costly because it requires testing a",
-    "date": "2026-08-11",
+    "title": "Status Association Does Not Reliably Predict Decision Leakage",
+    "url": "https://arxiv.org/abs/2608.10089",
+    "description": "arXiv:2608.10089v1 Announce Type: new \nAbstract: Bias evaluations often move too quickly from evidence that a model encodes a social association to cl",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Uncertainty-Aware Missing-Data Multimodal Latent for Fetal-Growth Analysis",
-    "url": "https://arxiv.org/abs/2608.07590",
-    "description": "arXiv:2608.07590v1 Announce Type: new \nAbstract: Objective: Routine third-trimester examination yields fetal biometry, maternal, Doppler and fetal-car",
-    "date": "2026-08-11",
+    "title": "Covariate Informed Identification of Heterogeneity and Outliers in Longitudinal Data",
+    "url": "https://arxiv.org/abs/2608.10095",
+    "description": "arXiv:2608.10095v1 Announce Type: new \nAbstract: We often observe heterogeneity in longitudinal data, where the mean and variance for certain profiles",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Hit Selection Using SSMD-Based Machine Learning Performance Metrics in High-Throughput Screening Assays",
-    "url": "https://arxiv.org/abs/2608.07609",
-    "description": "arXiv:2608.07609v1 Announce Type: new \nAbstract: High-throughput screening (HTS) assays are central to early-stage drug discovery but are often limite",
-    "date": "2026-08-11",
+    "title": "Deciding When to Switch: E-Processes for Adaptive Minimax Training for Generative Adversarial Nets",
+    "url": "https://arxiv.org/abs/2608.10096",
+    "description": "arXiv:2608.10096v1 Announce Type: new \nAbstract: Modern data science increasingly gives rise to hypothesis-testing problems that are not naturally for",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Stochastic gradient descent with discontinuity across a manifold",
-    "url": "https://arxiv.org/abs/2608.07618",
-    "description": "arXiv:2608.07618v1 Announce Type: new \nAbstract: Stochastic gradient descent for a loss function discontinuous across lower dimensional manifolds is a",
-    "date": "2026-08-11",
+    "title": "Asymptotics of Nonparametric Estimation under General Non-monotone MAR Missingness: A Nonparametric Maximum Likelihood Approach",
+    "url": "https://arxiv.org/abs/2608.10113",
+    "description": "arXiv:2608.10113v1 Announce Type: new \nAbstract: Missing data constitute a pervasive challenge in empirical research. Consequently, there is an ever-g",
+    "date": "2026-08-12",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Estimating Epidemic Rate Parameters: Adaptivity, Bias, and Convolution",
+    "url": "https://arxiv.org/abs/2608.10138",
+    "description": "arXiv:2608.10138v1 Announce Type: new \nAbstract: Metrics like the case-fatality rate and reproduction number are key descriptors of epidemics from the",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "SurroPilot: An LLM-Assisted Platform for Heterogeneous Surrogate Endpoint Evaluation in Clinical Trials",
-    "url": "https://arxiv.org/abs/2608.07635",
-    "description": "arXiv:2608.07635v1 Announce Type: new \nAbstract: Surrogate endpoints are widely used in clinical trials to accelerate treatment evaluation, yet their ",
-    "date": "2026-08-11",
+    "title": "Optimal Inference with Black-box Predictions",
+    "url": "https://arxiv.org/abs/2608.10155",
+    "description": "arXiv:2608.10155v1 Announce Type: new \nAbstract: Powerful black-box predictive models have motivated many proposals for combining observed data with p",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Leveraging generative models to assist Monte Carlo sampling",
-    "url": "https://arxiv.org/abs/2608.07648",
-    "description": "arXiv:2608.07648v1 Announce Type: new \nAbstract: Sampling high-dimensional probability distributions is a central task in scientific computing, with a",
-    "date": "2026-08-11",
+    "title": "Bandable Cumulant Tensors: Optimal Estimation and Applications in Non-Gaussian Data Modeling",
+    "url": "https://arxiv.org/abs/2608.10161",
+    "description": "arXiv:2608.10161v1 Announce Type: new \nAbstract: Higher-order cumulants capture the non-Gaussian dependence that covariance misses, but they are hard ",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Sri Lanka Dengue Dashboard: A Web-Based Decision Support Tool for Dengue Surveillance in Sri Lanka",
-    "url": "https://arxiv.org/abs/2608.07650",
-    "description": "arXiv:2608.07650v1 Announce Type: new \nAbstract: These days, Sri Lanka is facing a severe dengue outbreak. In this situation, it is very useful to pro",
-    "date": "2026-08-11",
+    "title": "Estimating Media Mix Models with Demand-Marketing Interactions: A Constrained Genetic Algorithm Approach",
+    "url": "https://arxiv.org/abs/2608.10229",
+    "description": "arXiv:2608.10229v1 Announce Type: new \nAbstract: This paper proposes a novel extension to Media Mix Modeling (MMM) that introduces a multiplicative in",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Small Area Bayesian Dynamic Borrowing: Adaptive Subgroup Estimation for Large-Scale Educational Assessments",
-    "url": "https://arxiv.org/abs/2608.07708",
-    "description": "arXiv:2608.07708v1 Announce Type: new \nAbstract: Large-scale assessments suppress subgroup achievement estimates below minimum sample size thresholds,",
-    "date": "2026-08-11",
+    "title": "Joint return levels of maximum temperature and minimum relative humidity by combining copulas with an extreme value framework for bimodal data",
+    "url": "https://arxiv.org/abs/2608.10252",
+    "description": "arXiv:2608.10252v1 Announce Type: new \nAbstract: Climate change has become a growing concern, particularly in regions experiencing increasingly freque",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Conformal Calibration for Multi-Modal Regression with Missing Modalities",
-    "url": "https://arxiv.org/abs/2608.07795",
-    "description": "arXiv:2608.07795v1 Announce Type: new \nAbstract: Prediction intervals for multi-modal regression with tabular variables, text, images, or other input ",
-    "date": "2026-08-11",
+    "title": "Structured dispersion modelling for mortality data using a Conway--Maxwell--Poisson specification",
+    "url": "https://arxiv.org/abs/2608.10261",
+    "description": "arXiv:2608.10261v1 Announce Type: new \nAbstract: Mortality models that attempt to capture dispersion typically assume a fixed dispersion structure, an",
+    "date": "2026-08-12",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Cohen's f or Mean Standardized Differences? Assessing Covariate Balance with Multivalued Treatments",
+    "url": "https://arxiv.org/abs/2608.10266",
+    "description": "arXiv:2608.10266v1 Announce Type: new \nAbstract: Assessing covariate balance across more than two treatment groups has no established omnibus standard",
+    "date": "2026-08-12",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "COMPACT: Spectral Adjustment Scores from a Complete and Irreducible Causal Criterion",
+    "url": "https://arxiv.org/abs/2608.10305",
+    "description": "arXiv:2608.10305v1 Announce Type: new \nAbstract: Observational datasets frequently contain many baseline variables, yet investigators estimating causa",
+    "date": "2026-08-12",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Limit theorems for a class of martingale arrays with applications in nonlinear cointergating regression",
+    "url": "https://arxiv.org/abs/2608.10322",
+    "description": "arXiv:2608.10322v1 Announce Type: new \nAbstract: This paper develops a new asymptotic theory for a broad class of martingales, establishing convergenc",
+    "date": "2026-08-12",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Proximal Individualized Functional Treatment Regimes",
-    "url": "https://arxiv.org/abs/2608.07832",
-    "description": "arXiv:2608.07832v1 Announce Type: new \nAbstract: Estimating individualized treatment regimes (ITRs) is fundamental in data-driven personalized decisio",
-    "date": "2026-08-11",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Debiased Machine Learning for Partially Linear Accelerated Failure Time Models",
-    "url": "https://arxiv.org/abs/2608.07841",
-    "description": "arXiv:2608.07841v1 Announce Type: new \nAbstract: The Cox model remains the default for survival analysis, but the proportional hazards assumption is o",
-    "date": "2026-08-11",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Modified Dependence Measure Related to Chatterjee's Rank Correlation: Theoretical Properties and Asymptotic Analysis",
-    "url": "https://arxiv.org/abs/2608.07844",
-    "description": "arXiv:2608.07844v1 Announce Type: new \nAbstract: In his recent breakthrough work [JASA, 2021], Chatterjee proposed a rank-based correlation coefficien",
-    "date": "2026-08-11",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Uniform Testability Implies Asymmetric Testability",
-    "url": "https://arxiv.org/abs/2608.07854",
-    "description": "arXiv:2608.07854v1 Announce Type: new \nAbstract: We prove a filtration-level conversion from uniform fixed-time testing to all-sample one-sided error ",
-    "date": "2026-08-11",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Independence Is Not Always Consistently Testable",
-    "url": "https://arxiv.org/abs/2608.07860",
-    "description": "arXiv:2608.07860v1 Announce Type: new \nAbstract: We study the problem of testing independence between the coordinate processes of a jointly stationary",
-    "date": "2026-08-11",
+    "title": "Statistical analysis of block structured latent variable models",
+    "url": "https://arxiv.org/abs/2608.10328",
+    "description": "arXiv:2608.10328v1 Announce Type: new \nAbstract: This paper studies block structured latent variable models, in which observed variables are grouped i",
+    "date": "2026-08-12",
     "cat": "学术",
     "lang": "en"
   }
