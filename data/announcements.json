@@ -1,5 +1,21 @@
 [
   {
+    "title": "Building a Streaming Local AI Agent",
+    "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
+    "description": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
+    "date": "2026-08-13",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
+    "title": "Constraining Output Space for SLM Narrow Automation Optimization",
+    "url": "https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization",
+    "description": "This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniqu",
+    "date": "2026-08-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Building an End-to-End Data Science Portfolio Project",
     "url": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
     "description": "Most portfolios stop at a notebook. Take yours all the way.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
     "description": "Running a 70B model in production is expensive, and for many tasks, unnecessary. If you're building a focused pipeline, a well-trained 3B model will m",
     "date": "2026-08-07",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Free Courses to Learn Modern AI and LLMs",
-    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
-    "description": "Learn how to use generative AI at work, build RAG and agentic apps, fine-tune models, work with the Hugging Face ecosystem, and prototype AI products ",
-    "date": "2026-08-07",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
-    "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
-    "description": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
-    "date": "2026-08-06",
     "cat": "技术",
     "lang": "en"
   },
