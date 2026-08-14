@@ -1,121 +1,121 @@
 [
   {
-    "title": "Bayesian Quantile-Based Correction and Synthesis of Hydrologic Products",
-    "url": "https://arxiv.org/abs/2608.11222",
-    "description": "arXiv:2608.11222v1 Announce Type: new \nAbstract: River-flow forecasting requires predictive distributions that remain informative in both routine and ",
-    "date": "2026-08-13",
+    "title": "Black-Box Knowledge Transfer across Distinct Feature Sets",
+    "url": "https://arxiv.org/abs/2608.12403",
+    "description": "arXiv:2608.12403v1 Announce Type: new \nAbstract: Pre-trained black-box predictive functions encode knowledge distilled from massive datasets and exten",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Transit Destination Inference from Tap-In-Only Bus Smart-Card Data: A Hierarchical Bayesian Approach",
-    "url": "https://arxiv.org/abs/2608.11223",
-    "description": "arXiv:2608.11223v1 Announce Type: new \nAbstract: Entry-only automatic fare collection systems record boardings but not alightings, preventing direct c",
-    "date": "2026-08-13",
+    "title": "SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization",
+    "url": "https://arxiv.org/abs/2608.12443",
+    "description": "arXiv:2608.12443v1 Announce Type: new \nAbstract: Neural combinatorial optimization (NCO) relies on parallel solution sampling for training, yet existi",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "What public football injury reports can and cannot show about short-term match exposure: an English Premier League analysis",
-    "url": "https://arxiv.org/abs/2608.11228",
-    "description": "arXiv:2608.11228v1 Announce Type: new \nAbstract: Objectives: To determine which signals public football injury reports retain after checks for outcome",
-    "date": "2026-08-13",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Every pooling rule has its world: matching probability combination rules to situations and stakes",
-    "url": "https://arxiv.org/abs/2608.11275",
-    "description": "arXiv:2608.11275v1 Announce Type: new \nAbstract: Systems often need to combine two numerical assessments of the same yes/no question. The appropriate ",
-    "date": "2026-08-13",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Graphical Models for Multivariate Count Data",
-    "url": "https://arxiv.org/abs/2608.11366",
-    "description": "arXiv:2608.11366v1 Announce Type: new \nAbstract: The classical multinomial, negative multinomial, hypergeometric, and negative hypergeometric distribu",
-    "date": "2026-08-13",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Semiparametric efficient estimation of the Cox regression coefficient when there can be ties",
-    "url": "https://arxiv.org/abs/2608.11399",
-    "description": "arXiv:2608.11399v1 Announce Type: new \nAbstract: The Cox model and the Cox regression coefficient are widely used in applied work, although the corres",
-    "date": "2026-08-13",
+    "title": "Adaptable Fingerprinting with Nonlinear Shrinkage for Climate Change Detection and Attribution under Variance Heterogeneity",
+    "url": "https://arxiv.org/abs/2608.12496",
+    "description": "arXiv:2608.12496v1 Announce Type: new \nAbstract: Detection and attribution of climate change relies on fingerprinting--a linear errors-in-variables re",
+    "date": "2026-08-14",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Estimating the perturbed utility route choice model with trip-level data",
-    "url": "https://arxiv.org/abs/2608.11464",
-    "description": "arXiv:2608.11464v1 Announce Type: new \nAbstract: We provide an estimator for the perturbed utility route choice (PURC) model that works with data at t",
-    "date": "2026-08-13",
+    "title": "Bayesian Modeling of Gibbs Point Processes via Basis Function Expansions",
+    "url": "https://arxiv.org/abs/2608.12510",
+    "description": "arXiv:2608.12510v1 Announce Type: new \nAbstract: We present a hierarchical Bayesian framework for non-homogeneous pairwise interaction Gibbs point pro",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Time-Varying Multi-Seasonal ARMA Models",
-    "url": "https://arxiv.org/abs/2608.11481",
-    "description": "arXiv:2608.11481v1 Announce Type: new \nAbstract: We propose an ARMA model that allows for multiple seasonal periods and time varying parameters in bot",
-    "date": "2026-08-13",
+    "title": "Hierarchical Spline-Based Bayesian Beta-Binomial Regression for Estimating Time-Varying Risk in Power Outages",
+    "url": "https://arxiv.org/abs/2608.12560",
+    "description": "arXiv:2608.12560v1 Announce Type: new \nAbstract: We propose a hierarchical Bayesian model for estimating time-varying outage risk from county-level po",
+    "date": "2026-08-14",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Hierarchical Bayesian Calibration with Bayesian Committee Machine",
+    "url": "https://arxiv.org/abs/2608.12603",
+    "description": "arXiv:2608.12603v1 Announce Type: new \nAbstract: Calibrating computational models to experimental data is a core task in applied statistics, especiall",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Does a Structural Model Add Anything to the Closing Price? Calibrated forecasting, incremental information, and match leverage in the Italian Serie A",
-    "url": "https://arxiv.org/abs/2608.11505",
-    "description": "arXiv:2608.11505v1 Announce Type: new \nAbstract: Studies of association-football forecasting routinely report three-way accuracy in the low fifties an",
-    "date": "2026-08-13",
+    "title": "Density Estimation on Compact Manifolds under Intrinsic Spectral Block Variation",
+    "url": "https://arxiv.org/abs/2608.12637",
+    "description": "arXiv:2608.12637v1 Announce Type: new \nAbstract: We introduce an intrinsic spectral sparsity model for nonparametric density estimation on compact con",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Analytically Corrected Bayesian Modularization for Local Item Calibration",
-    "url": "https://arxiv.org/abs/2608.11542",
-    "description": "arXiv:2608.11542v1 Announce Type: new \nAbstract: The continuous calibration of pilot items embedded in operational assessments is challenging when pil",
-    "date": "2026-08-13",
+    "title": "Empirical Simulation of Survival and Mixed-Type Data for Clinical Trial Design",
+    "url": "https://arxiv.org/abs/2608.12641",
+    "description": "arXiv:2608.12641v1 Announce Type: new \nAbstract: Simulating realistic time-to-event data is essential for planning and evaluating complex clinical tri",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Fine-Tuning Generative Models for Extreme Events via CVaR-Penalized Wasserstein Gradient Flows",
-    "url": "https://arxiv.org/abs/2608.11544",
-    "description": "arXiv:2608.11544v1 Announce Type: new \nAbstract: We propose CVaR-penalized Generative Particle Algorithm (CVaR-GPA), a robust, tail-agnostic algorithm",
-    "date": "2026-08-13",
+    "title": "Universality of e-detectors for ARL control",
+    "url": "https://arxiv.org/abs/2608.12660",
+    "description": "arXiv:2608.12660v1 Announce Type: new \nAbstract: An e-detector for a pre-change class $\\mathcal P$ is a nonnegative process $M$ such that $\\mathbb E_P",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Process-fracture mapping of a DLP-printed photopolymer using Bayesian active learning and surrogate-based sensitivity analysis",
-    "url": "https://arxiv.org/abs/2608.11594",
-    "description": "arXiv:2608.11594v1 Announce Type: new \nAbstract: Digital light processing (DLP) enables rapid fabrication of polymer structures, but fracture performa",
-    "date": "2026-08-13",
+    "title": "Evaluating AlphaEarth Foundations Embeddings for Wildfire Susceptibility Mapping",
+    "url": "https://arxiv.org/abs/2608.12663",
+    "description": "arXiv:2608.12663v1 Announce Type: new \nAbstract: Wildfire susceptibility mapping typically relies on physical variables assembled from multiple remote",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A statistical theory of graph regularization for RNA velocity near developmental bifurcations",
-    "url": "https://arxiv.org/abs/2608.11670",
-    "description": "arXiv:2608.11670v1 Announce Type: new \nAbstract: Graph-based regularization is widely used to stabilize noisy RNA-velocity estimates by encouraging tr",
-    "date": "2026-08-13",
+    "title": "When Method Choice Changes Statistical Inference: A Comparison of a Baseline Two-Stage Approach and Bayesian Joint Modeling for Longitudinal and Survival Data in an HIV Clinical Trial",
+    "url": "https://arxiv.org/abs/2608.12682",
+    "description": "arXiv:2608.12682v1 Announce Type: new \nAbstract: The two-stage approach and Bayesian joint modeling are commonly used to analyze longitudinal biomarke",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Auditing the Global Carbon Budget: Exploring the 2024--2025 Vintage Shift",
-    "url": "https://arxiv.org/abs/2608.11821",
-    "description": "arXiv:2608.11821v1 Announce Type: new \nAbstract: The Global Carbon Budget (GCB), the community reference dataset for the carbon cycle, is reissued ann",
-    "date": "2026-08-13",
+    "title": "Sharp proper estimation of fixed-component Gaussian location mixtures in polynomial time",
+    "url": "https://arxiv.org/abs/2608.12701",
+    "description": "arXiv:2608.12701v1 Announce Type: new \nAbstract: We consider a mixture of at most $k$ unit-covariance Gaussians in $\\mathbb{R}^d$ whose means belong t",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Urban logistics dynamics: a user-centric approach to traffic modelling and kinetic parameter analysis",
-    "url": "https://arxiv.org/abs/2608.11866",
-    "description": "arXiv:2608.11866v1 Announce Type: new \nAbstract: Efficient urban logistics requires a comprehensive understanding of traffic dynamics, particularly as",
-    "date": "2026-08-13",
+    "title": "A Copula-Based Framework for Multivariate Zero-Inflated Mixed Poisson Models",
+    "url": "https://arxiv.org/abs/2608.12732",
+    "description": "arXiv:2608.12732v1 Announce Type: new \nAbstract: Multivariate count data often contain overdispersion, excess zeros, and complex dependence. Existing ",
+    "date": "2026-08-14",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Hyper-V uniform ergodicity of Markov chains",
+    "url": "https://arxiv.org/abs/2608.12738",
+    "description": "arXiv:2608.12738v1 Announce Type: new \nAbstract: We develop a new uniform drift condition and local minorization that implies a stronger weighted form",
+    "date": "2026-08-14",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Weighted Nuclear Elastic Net Estimation of (Near-) Low-Rank Drift Matrices in Ornstein-Uhlenbeck Processes",
+    "url": "https://arxiv.org/abs/2608.12838",
+    "description": "arXiv:2608.12838v1 Announce Type: new \nAbstract: We study estimation of the drift matrix in a continuously observed high-dimensional Ornstein-Uhlenbec",
+    "date": "2026-08-14",
     "cat": "学术",
     "lang": "en"
   }
