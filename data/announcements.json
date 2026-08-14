@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Build a Simple AI Web Scraper with Python",
+    "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
+    "description": "Turn any webpage into a lightweight LLM-powered QA engine by cleaning HTML, converting content to Markdown, and returning focused answers while reduci",
+    "date": "2026-08-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Fun Agentic AI Papers to Read",
+    "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
+    "description": "If you read only five papers on AI agents, make them these.",
+    "date": "2026-08-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Building a Streaming Local AI Agent",
     "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
     "description": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
     "description": "Prompt engineering taught us how to ask better questions. Specification engineering teaches us how to define better work.",
     "date": "2026-08-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Top 10 AI Influencers of 2026",
-    "url": "https://www.kdnuggets.com/top-10-ai-influencers-of-2026",
-    "description": "Ten AI influencers who are actually shaping 2026, from safe superintelligence to AI-native search. Here is who to follow and why.",
-    "date": "2026-08-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Small Language Models with Hugging Face transformers Library + smolLM3",
-    "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
-    "description": "Running a 70B model in production is expensive, and for many tasks, unnecessary. If you're building a focused pipeline, a well-trained 3B model will m",
-    "date": "2026-08-07",
     "cat": "技术",
     "lang": "en"
   },
