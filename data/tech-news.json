@@ -48,6 +48,14 @@
     "lang": "en"
   },
   {
+    "title": "Some everyday data tasks: a few hints with R",
+    "url": "https://www.r-bloggers.com/2026/08/some-everyday-data-tasks-a-few-hints-with-r-2/",
+    "description": "It is important to know how to reshape a dataframe into a form that might be more suitable for the analyses we intend to perform. For me, it is also i",
+    "date": "2026-08-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Ihaka Lecture",
     "url": "https://www.r-bloggers.com/2026/08/ihaka-lecture/",
     "description": "I gave the first of this year’s Ihaka Lectures at the University of Auckland this past July. It revisited and partially updated things I’ve been talki",
@@ -107,14 +115,6 @@
     "title": "Why ACF Is More Than Just a Plot",
     "url": "https://www.r-bloggers.com/2026/08/why-acf-is-more-than-just-a-plot/",
     "description": "1 Introduction\nTwo observations can have the same units, come from the same source, and still require a different kind of reasoning simply because one",
-    "date": "2026-08-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Resource Project: Tell R How Much Memory You Need",
-    "url": "https://www.r-bloggers.com/2026/08/the-resource-project-tell-r-how-much-memory-you-need/",
-    "description": "Fit a cross-validated elastic net with cv.glmnet(x, y) on a design matrix that comfortably fits in memory, and the call can still fail. The reason is ",
     "date": "2026-08-11",
     "cat": "技术",
     "lang": "en"
