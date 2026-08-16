@@ -1,5 +1,21 @@
 [
   {
+    "title": "[R] Environment Variables in R Shiny-Server Container: Problem and Solutions",
+    "url": "https://www.r-bloggers.com/2026/08/r-environment-variables-in-r-shiny-server-container-problem-and-solutions/",
+    "description": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/08/15/r-environment-variables-in-r-shiny-server-container/ -When dockerizing an R Shiny applica",
+    "date": "2026-08-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accepted at COPA 2026 (and to appear in the Proceedings of Machine Learning Research)",
+    "url": "https://www.r-bloggers.com/2026/08/zero-shot-probabilistic-stock-returns-forecasting-with-pretrained-rvfl-networks-accepted-at-copa-2026-and-to-appear-in-the-proceedings-of-machine-learning-research/",
+    "description": "Link to the paper and the code repository.\n\n\nContinue reading: ‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accep",
+    "date": "2026-08-15",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Emoji usage and age generations",
     "url": "https://flowingdata.com/2026/08/14/emoji-usage-and-age-generations/",
     "description": "For NYT&#8217;s the Upshot, Eve Washington, Larry Buchanan, and Claire Cain Miller examined&#8230;Tags: emoji, New York Times",
@@ -101,22 +117,6 @@
     "description": "Join our workshop on From Raw Data to Regulatory Results: Clinical Trial Programming in R using the pharmaverse,  which is a part of our workshops for",
     "date": "2026-08-12",
     "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Eclipse path in Europe",
-    "url": "https://flowingdata.com/2026/08/11/eclipse-path-in-europe/",
-    "description": "A total eclipse path is passing through Europe this week. The New York&#8230;Tags: eclipse, Europe, New York Times",
-    "date": "2026-08-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Why ACF Is More Than Just a Plot",
-    "url": "https://www.r-bloggers.com/2026/08/why-acf-is-more-than-just-a-plot/",
-    "description": "1 Introduction\nTwo observations can have the same units, come from the same source, and still require a different kind of reasoning simply because one",
-    "date": "2026-08-11",
-    "cat": "技术",
     "lang": "en"
   }
 ]
