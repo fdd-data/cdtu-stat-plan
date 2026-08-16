@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Tiny Iroshizuku Ink Shop in R",
+    "url": "https://www.r-bloggers.com/2026/08/a-tiny-iroshizuku-ink-shop-in-r/",
+    "description": "色彩雫\nI just discovered that the R script I had written while back, which was a hand-curated colour palette of Pilot Iroshizuku fountain pen inks.\nPilot",
+    "date": "2026-08-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "[R] Environment Variables in R Shiny-Server Container: Problem and Solutions",
     "url": "https://www.r-bloggers.com/2026/08/r-environment-variables-in-r-shiny-server-container-problem-and-solutions/",
     "description": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/08/15/r-environment-variables-in-r-shiny-server-container/ -When dockerizing an R Shiny applica",
@@ -107,14 +115,6 @@
     "title": "Announcing AI in Production 2027",
     "url": "https://www.r-bloggers.com/2026/08/announcing-ai-in-production-2027/",
     "description": "AI in Production is about the reality of running AI and machine learning systems, not just building them. The talks come from people who have shipped ",
-    "date": "2026-08-12",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "From Raw Data to Regulatory Results: Clinical Trial Programming in R using the pharmaverse workshop",
-    "url": "https://www.r-bloggers.com/2026/08/from-raw-data-to-regulatory-results-clinical-trial-programming-in-r-using-the-pharmaverse-workshop/",
-    "description": "Join our workshop on From Raw Data to Regulatory Results: Clinical Trial Programming in R using the pharmaverse,  which is a part of our workshops for",
     "date": "2026-08-12",
     "cat": "讲座",
     "lang": "en"
