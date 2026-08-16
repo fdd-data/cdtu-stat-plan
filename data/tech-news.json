@@ -1,5 +1,13 @@
 [
   {
+    "title": "Token Maxxing",
+    "url": "https://www.r-bloggers.com/2026/08/token-maxxing/",
+    "description": "Claude\nCodex\nUsually I don’t watch much youtube (a social phenomenon I have somewhat missed out on), but here’s an interesting video about another soc",
+    "date": "2026-08-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "A Tiny Iroshizuku Ink Shop in R",
     "url": "https://www.r-bloggers.com/2026/08/a-tiny-iroshizuku-ink-shop-in-r/",
     "description": "色彩雫\nI just discovered that the R script I had written while back, which was a hand-curated colour palette of Pilot Iroshizuku fountain pen inks.\nPilot",
@@ -109,14 +117,6 @@
     "description": "The last total solar eclipse over Europe was in 1999. One will be&#8230;Tags: eclipse, Europe, Reuters",
     "date": "2026-08-12",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Announcing AI in Production 2027",
-    "url": "https://www.r-bloggers.com/2026/08/announcing-ai-in-production-2027/",
-    "description": "AI in Production is about the reality of running AI and machine learning systems, not just building them. The talks come from people who have shipped ",
-    "date": "2026-08-12",
-    "cat": "讲座",
     "lang": "en"
   }
 ]
