@@ -1,122 +1,122 @@
 [
   {
-    "title": "More progress with Tabler for R",
-    "url": "https://www.r-bloggers.com/2026/08/more-progress-with-tabler-for-r/",
-    "description": "For R users that are just starting with R or that have been using it for years\n\n\nContinue reading: More progress with Tabler for R",
-    "date": "2026-08-15",
+    "title": "Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets",
+    "url": "https://arxiv.org/abs/2608.13629",
+    "description": "arXiv:2608.13629v1 Announce Type: new \nAbstract: Clinically actionable, patient-specific hemodynamic assessment, specifically wall shear stress, vorte",
+    "date": "2026-08-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Small Area Estimation under Spatial Regimes: Spatially Clustered Fay-Herriot Models for Agricultural Indicators",
+    "url": "https://arxiv.org/abs/2608.13638",
+    "description": "arXiv:2608.13638v1 Announce Type: new \nAbstract: Area-level small area estimation (SAE) models, such as the Fay--Herriot (FH) model, borrow strength a",
+    "date": "2026-08-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bias Reduction for Local Polynomial Derivative Estimation",
+    "url": "https://arxiv.org/abs/2608.13672",
+    "description": "arXiv:2608.13672v1 Announce Type: new \nAbstract: Local polynomial smoothing is commonly used in non-parametric regression, but local linear derivative",
+    "date": "2026-08-17",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Token Maxxing",
-    "url": "https://www.r-bloggers.com/2026/08/token-maxxing/",
-    "description": "Claude\nCodex\nUsually I don’t watch much youtube (a social phenomenon I have somewhat missed out on), but here’s an interesting video about another soc",
-    "date": "2026-08-15",
-    "cat": "技术",
+    "title": "Nonprobability Samples for Small Area Estimation: A Review and Comparative Simulation Study",
+    "url": "https://arxiv.org/abs/2608.13673",
+    "description": "arXiv:2608.13673v1 Announce Type: new \nAbstract: Nonprobability samples (NPS) are attractive because they are less costly to collect, can provide subs",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Tiny Iroshizuku Ink Shop in R",
-    "url": "https://www.r-bloggers.com/2026/08/a-tiny-iroshizuku-ink-shop-in-r/",
-    "description": "色彩雫\nI just discovered that the R script I had written while back, which was a hand-curated colour palette of Pilot Iroshizuku fountain pen inks.\nPilot",
-    "date": "2026-08-15",
-    "cat": "技术",
+    "title": "Hyperbolic Latent Position Models for Hierarchical Bipartite Data",
+    "url": "https://arxiv.org/abs/2608.13713",
+    "description": "arXiv:2608.13713v1 Announce Type: new \nAbstract: Binary bipartite data often combine row and column heterogeneity with hierarchical interaction, as wh",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "[R] Environment Variables in R Shiny-Server Container: Problem and Solutions",
-    "url": "https://www.r-bloggers.com/2026/08/r-environment-variables-in-r-shiny-server-container-problem-and-solutions/",
-    "description": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/08/15/r-environment-variables-in-r-shiny-server-container/ -When dockerizing an R Shiny applica",
-    "date": "2026-08-15",
-    "cat": "技术",
+    "title": "Detection of Structural Distortions in Functional Time Series",
+    "url": "https://arxiv.org/abs/2608.13762",
+    "description": "arXiv:2608.13762v1 Announce Type: new \nAbstract: In the era of modern data science, the rapid proliferation of high-dimensional and functional dataset",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accepted at COPA 2026 (and to appear in the Proceedings of Machine Learning Research)",
-    "url": "https://www.r-bloggers.com/2026/08/zero-shot-probabilistic-stock-returns-forecasting-with-pretrained-rvfl-networks-accepted-at-copa-2026-and-to-appear-in-the-proceedings-of-machine-learning-research/",
-    "description": "Link to the paper and the code repository.\n\n\nContinue reading: ‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accep",
-    "date": "2026-08-15",
-    "cat": "书单",
+    "title": "On the Brittleness of Maximum Likelihood Estimation for Gaussian Process Hyperparameter Optimization",
+    "url": "https://arxiv.org/abs/2608.13793",
+    "description": "arXiv:2608.13793v1 Announce Type: new \nAbstract: Machine learning (ML) has become an indispensable part of modern engineering design workflows. A cruc",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Emoji usage and age generations",
-    "url": "https://flowingdata.com/2026/08/14/emoji-usage-and-age-generations/",
-    "description": "For NYT&#8217;s the Upshot, Eve Washington, Larry Buchanan, and Claire Cain Miller examined&#8230;Tags: emoji, New York Times",
-    "date": "2026-08-14",
-    "cat": "技术",
+    "title": "Joint Temperature-Precipitation Patterns in the U.S. South Central Region: Multivariate Functional Inference and Gaussian Mixture Modeling",
+    "url": "https://arxiv.org/abs/2608.13808",
+    "description": "arXiv:2608.13808v1 Announce Type: new \nAbstract: Joint variability in temperature and precipitation is central in characterizing seasonal climate stru",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Round-robin (with Claude)",
-    "url": "https://www.r-bloggers.com/2026/08/round-robin-with-claude/",
-    "description": "A few days ago I had a coffee in Paris with my long-time friend (and former Statistics &#038; Computing editor) Gilles Celeux, and he mentioned me sto",
-    "date": "2026-08-14",
-    "cat": "技术",
+    "title": "Sharp Minimax Theory for Randomized Experiments",
+    "url": "https://arxiv.org/abs/2608.13822",
+    "description": "arXiv:2608.13822v1 Announce Type: new \nAbstract: We study minimax-optimal designs and estimators for estimating the sample average treatment effect in",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Reading notes on Code That Fits in Your Head by Mark Seemann",
-    "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-code-that-fits-in-your-head-by-mark-seemann/",
-    "description": "Last month, Vicki Boykis recommended the book “Code that Fits in Your Head” by Mark Seemann.\nI was intrigued, especially by her takeaway that “Writing",
-    "date": "2026-08-14",
-    "cat": "书单",
+    "title": "Separating Spatial and Clinical Risk with Node-Splitting SVM Survival Trees",
+    "url": "https://arxiv.org/abs/2608.13847",
+    "description": "arXiv:2608.13847v1 Announce Type: new \nAbstract: Recovering geographic variation in survival requires separating spatial risk from patients' clinical ",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "OpenAI accidentally makes attack bots",
-    "url": "https://flowingdata.com/2026/08/13/openai-accidentally-makes-attack-bots/",
-    "description": "Multiple bots exploited a vulnerability in OpenAI&#8217;s security system to gain internet access.&#8230;Tags: attack, bot, OpenAI",
-    "date": "2026-08-13",
-    "cat": "实习",
+    "title": "A semiparametric approach for the estimation of covariate-adjusted area under the receiver operating characteristic curve",
+    "url": "https://arxiv.org/abs/2608.13859",
+    "description": "arXiv:2608.13859v1 Announce Type: new \nAbstract: Receiver operating characteristic (ROC) and the area under the ROC curve (AUC) are widely used to eva",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "✚ Set expectations and verify",
-    "url": "https://flowingdata.com/2026/08/13/set-expectations-and-verify/",
-    "description": "This week, we talk flimsy results and how to work on things that build trust over content.Tags: Large Language Model, mistakes, trust",
-    "date": "2026-08-13",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Origins of American city names",
-    "url": "https://flowingdata.com/2026/08/13/origins-of-american-city-names/",
-    "description": "In the early 1900s, Henry Gannett cataloged the origins of city names in&#8230;Tags: cities, Henry Gannett, history, names, Wall Street Journal",
-    "date": "2026-08-13",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Some everyday data tasks: a few hints with R",
-    "url": "https://www.r-bloggers.com/2026/08/some-everyday-data-tasks-a-few-hints-with-r-2/",
-    "description": "It is important to know how to reshape a dataframe into a form that might be more suitable for the analyses we intend to perform. For me, it is also i",
-    "date": "2026-08-13",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Ihaka Lecture",
-    "url": "https://www.r-bloggers.com/2026/08/ihaka-lecture/",
-    "description": "I gave the first of this year’s Ihaka Lectures at the University of Auckland this past July. It revisited and partially updated things I’ve been talki",
-    "date": "2026-08-13",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "IKEA complexity index",
-    "url": "https://flowingdata.com/2026/08/12/ikea-complexity-index/",
-    "description": "Speaking of IKEA, the IKEA complexity index by Greg Technology is a catalog&#8230;Tags: complexity, furniture, Greg Technology, IKEA",
-    "date": "2026-08-12",
+    "title": "Generalization Error Estimation for Primal--Dual Algorithms in Non-Smooth Regression",
+    "url": "https://arxiv.org/abs/2608.13870",
+    "description": "arXiv:2608.13870v1 Announce Type: new \nAbstract: This paper studies trajectory-wise estimation of generalization error for primal--dual algorithms in ",
+    "date": "2026-08-17",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Most common color of IKEA sofas over time",
-    "url": "https://flowingdata.com/2026/08/12/most-common-color-of-ikea-sofas-over-time/",
-    "description": "For the European Correspondent, Toon Vos counted the color of all the couches&#8230;Tags: color, European Correspondent, furniture, IKEA",
-    "date": "2026-08-12",
-    "cat": "技术",
+    "title": "Change-Point Detection for Heterogeneous High-Dimensional Functional Time Series",
+    "url": "https://arxiv.org/abs/2608.13880",
+    "description": "arXiv:2608.13880v1 Announce Type: new \nAbstract: High-dimensional functional panels consist of temporally ordered curves observed across many subjects",
+    "date": "2026-08-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Forecast Combination Framework for Hierarchical and Grouped Time Series Reconciliatio",
+    "url": "https://arxiv.org/abs/2608.13886",
+    "description": "arXiv:2608.13886v1 Announce Type: new \nAbstract: Forecast combining and forecast reconciliation for hierarchical and grouped time series have largely ",
+    "date": "2026-08-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Deep Vision in Smart Manufacturing: MODERN Framework for Intelligent Quality Monitoring and Diagnosis",
+    "url": "https://arxiv.org/abs/2608.13937",
+    "description": "arXiv:2608.13937v1 Announce Type: new \nAbstract: Smart manufacturing processes are often installed with a large number of sensors, imaging devices and",
+    "date": "2026-08-17",
+    "cat": "学术",
     "lang": "en"
   }
 ]
