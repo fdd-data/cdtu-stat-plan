@@ -1,121 +1,121 @@
 [
   {
-    "title": "Asymptotic Normality and Convergence Rates for Tsallis Entropy Estimators via Stabilization Techniques",
-    "url": "https://arxiv.org/abs/2608.14553",
-    "description": "arXiv:2608.14553v1 Announce Type: new \nAbstract: We study nearest-neighbor-based estimators of Tsallis entropy associated with Poisson and binomial po",
-    "date": "2026-08-18",
+    "title": "Adaptive Bag of Little Bootstraps for Nonsmooth Robust Inference: A Stability-Driven Framework with Reproducible Cholera Surveillance Illustration from the Democratic Republic of the Congo",
+    "url": "https://arxiv.org/abs/2608.16892",
+    "description": "arXiv:2608.16892v1 Announce Type: new \nAbstract: Bootstrap inference is a cornerstone of computational statistics, but classical bootstrap and BCa int",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "The Boltzmann structure of sampling: Intrinsic $p$-value and its emergent closed-form expression",
-    "url": "https://arxiv.org/abs/2608.14608",
-    "description": "arXiv:2608.14608v1 Announce Type: new \nAbstract: We consider observables $X$ whose realizations in a sampled dataset are restricted, for example by me",
-    "date": "2026-08-18",
+    "title": "r2py: A Framework for AI-Assisted Conversion of R Statistical Packages to Python",
+    "url": "https://arxiv.org/abs/2608.16911",
+    "description": "arXiv:2608.16911v1 Announce Type: new \nAbstract: The R statistical computing environment hosts a large body of validated, high-performance statistical",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "ARISE: An adaptive residual-informed stability ensemble for feature selection in small-sample biomedical omics",
-    "url": "https://arxiv.org/abs/2608.14866",
-    "description": "arXiv:2608.14866v1 Announce Type: new \nAbstract: Objective: Small-sample molecular classification requires feature selectors that identify predictive,",
-    "date": "2026-08-18",
+    "title": "Diagonal Multi-omics Integration of Heterogenous Datasets",
+    "url": "https://arxiv.org/abs/2608.16968",
+    "description": "arXiv:2608.16968v1 Announce Type: new \nAbstract: In this paper, we consider methods for the diagonal multi-omics integration of heterogeneous datasets",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Quantification and Decomposition of Uncertainty Using Sliced-Normal Distribution: With Applications to NASA Data",
-    "url": "https://arxiv.org/abs/2608.14878",
-    "description": "arXiv:2608.14878v1 Announce Type: new \nAbstract: Modeling multivariate distributions with nonlinear dependence, multimodality, and tractable analytica",
-    "date": "2026-08-18",
+    "title": "Incorporating Animal Movement into Continuous-Time Spatial Capture-Recapture Models",
+    "url": "https://arxiv.org/abs/2608.17046",
+    "description": "arXiv:2608.17046v1 Announce Type: new \nAbstract: Estimation of wildlife population size and spatial dynamics is central to ecology and conservation. S",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Tensor Covariance Estimation via Kronecker-Structured Sparse Inverse Cholesky",
-    "url": "https://arxiv.org/abs/2608.14887",
-    "description": "arXiv:2608.14887v1 Announce Type: new \nAbstract: High-dimensional multi-way (tensor) data pose significant challenges for covariance estimation due to",
-    "date": "2026-08-18",
+    "title": "Statistical Assessments of Representational Reforms: A Case Study from Los Angeles",
+    "url": "https://arxiv.org/abs/2608.17083",
+    "description": "arXiv:2608.17083v1 Announce Type: new \nAbstract: Electoral reforms -- including changes to district boundaries, electoral rules, and the size of elect",
+    "date": "2026-08-19",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Randomized quasi-Monte Carlo integration",
+    "url": "https://arxiv.org/abs/2608.17143",
+    "description": "arXiv:2608.17143v1 Announce Type: new \nAbstract: Quasi-Monte Carlo sampling is a numerical integration method that uses points with a space-filling pr",
+    "date": "2026-08-19",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Policy Optimization and Statistical Inference for Online Contextual Matrix Games",
+    "url": "https://arxiv.org/abs/2608.17173",
+    "description": "arXiv:2608.17173v1 Announce Type: new \nAbstract: Online decision making often requires navigating a landscape shaped by both dynamic contexts and stra",
+    "date": "2026-08-19",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Finite-Sample Bias Correction for Plug-in Estimators of Extropy, R\\'enyi Extropy, and Tsallis Extropy",
+    "url": "https://arxiv.org/abs/2608.17185",
+    "description": "arXiv:2608.17185v1 Announce Type: new \nAbstract: This paper studies the finite-sample bias of plug-in estimators for Shannon, R\\'enyi, and Tsallis ext",
+    "date": "2026-08-19",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Identifying Model Quality Effects on User Engagement: A Within-Version Causal Estimator with Synthetic Data Validation",
+    "url": "https://arxiv.org/abs/2608.17187",
+    "description": "arXiv:2608.17187v1 Announce Type: new \nAbstract: Every team building Large Language Models (LLMs) faces a core challenge: offline benchmarks show perf",
+    "date": "2026-08-19",
     "cat": "竞赛",
     "lang": "en"
   },
   {
-    "title": "On WAIC for Dependent Data: A Covariance-Corrected Framework with Linear-Time Complexity",
-    "url": "https://arxiv.org/abs/2608.14895",
-    "description": "arXiv:2608.14895v1 Announce Type: new \nAbstract: The Widely Applicable Information Criterion (WAIC) is a cornerstone of Bayesian model selection, but ",
-    "date": "2026-08-18",
+    "title": "Nonparametric Estimation of Extropy, R\\'enyi Extropy, and Tsallis Extropy: Almost Sure Convergence and Asymptotic Normality",
+    "url": "https://arxiv.org/abs/2608.17191",
+    "description": "arXiv:2608.17191v1 Announce Type: new \nAbstract: This paper proposes a nonparametric estimation procedure for extropy and its extensions, namely the {",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Sequential Importance Sampling for Thinned Count Autoregressions via Latent Gaussian Transformations",
-    "url": "https://arxiv.org/abs/2608.14898",
-    "description": "arXiv:2608.14898v1 Announce Type: new \nAbstract: Thinned count autoregressions are popular for modelling infectious disease surveillance data due to t",
-    "date": "2026-08-18",
+    "title": "Expressivity In Multimodal Contrastive Learning",
+    "url": "https://arxiv.org/abs/2608.17203",
+    "description": "arXiv:2608.17203v1 Announce Type: new \nAbstract: Contrastive learning has become a cornerstone of modern representation learning, powering CLIP-style ",
+    "date": "2026-08-19",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Minimax Optimal Estimator and Improved Error Rate for the MLE in Logistic Regression with Gaussian Design",
+    "url": "https://arxiv.org/abs/2608.17260",
+    "description": "arXiv:2608.17260v1 Announce Type: new \nAbstract: We study finite-sample parameter estimation in logistic regression with Gaussian design, where the go",
+    "date": "2026-08-19",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Optimal Watermark Localization in Mixed-Source Large Language Model Texts",
-    "url": "https://arxiv.org/abs/2608.14906",
-    "description": "arXiv:2608.14906v1 Announce Type: new \nAbstract: Watermarking provides a principled way to authenticate text generated by large language models (LLMs)",
-    "date": "2026-08-18",
+    "title": "A functional joint model with baseline functional covariates: linking sitting accumulation patterns to physical function and mortality among older women",
+    "url": "https://arxiv.org/abs/2608.17278",
+    "description": "arXiv:2608.17278v1 Announce Type: new \nAbstract: In large-scale epidemiological studies, it is often of interest to investigate joint relationships be",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Deep Learning Model for Spatially Clustered Data via Differentiable Cluster Assignment",
-    "url": "https://arxiv.org/abs/2608.14968",
-    "description": "arXiv:2608.14968v1 Announce Type: new \nAbstract: We consider nonparametric regression when the association between a response and its covariates chang",
-    "date": "2026-08-18",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Structure-Preserving Visualization of Complex Systems through Discrete Approximation: An Application to Argo Data",
-    "url": "https://arxiv.org/abs/2608.15013",
-    "description": "arXiv:2608.15013v1 Announce Type: new \nAbstract: This paper presents a framework for constructing structure-preserving representations of complex syst",
-    "date": "2026-08-18",
+    "title": "SPACE: Sample-cloud Predictive Adaptive Conformal Ellipsoids for Multivariate Time-Series Forecasting",
+    "url": "https://arxiv.org/abs/2608.17333",
+    "description": "arXiv:2608.17333v1 Announce Type: new \nAbstract: Modern probabilistic time-series forecasters often express uncertainty through forecast samples. Whil",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Central Limit Theorem for Regularized M-Estimators",
-    "url": "https://arxiv.org/abs/2608.15034",
-    "description": "arXiv:2608.15034v1 Announce Type: new \nAbstract: We prove a quantitative central limit theorem for linear functionals of regularized empirical-risk mi",
-    "date": "2026-08-18",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Anomaly detection in autoregressive networks",
-    "url": "https://arxiv.org/abs/2608.15047",
-    "description": "arXiv:2608.15047v1 Announce Type: new \nAbstract: We study anomaly detection in temporally dependent network sequences. Methods based only on adjacency",
-    "date": "2026-08-18",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Multiplier Bootstrap and Edge Phase Transitions of High-Dimensional Covariance Matrices",
-    "url": "https://arxiv.org/abs/2608.15053",
-    "description": "arXiv:2608.15053v1 Announce Type: new \nAbstract: In this paper, we study the effects of employing multiplier bootstrap to analyze the asymptotic distr",
-    "date": "2026-08-18",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Forward-Evolution Error Analysis and Adaptive Design for Matrix-Valued Diffusion Models",
-    "url": "https://arxiv.org/abs/2608.15103",
-    "description": "arXiv:2608.15103v1 Announce Type: new \nAbstract: Diffusion models learn to reverse a predefined corruption process, but sampling still requires a cost",
-    "date": "2026-08-18",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Sufficient Dimesion Reduction via Generalized Stein's Lemma",
-    "url": "https://arxiv.org/abs/2608.15121",
-    "description": "arXiv:2608.15121v1 Announce Type: new \nAbstract: Sufficient dimension reduction (SDR) seeks the minimal subspace of the predictors that captures the f",
-    "date": "2026-08-18",
+    "title": "SDR Variance Estimates in Small Domains",
+    "url": "https://arxiv.org/abs/2608.17353",
+    "description": "arXiv:2608.17353v1 Announce Type: new \nAbstract: Successive Difference Replication (SDR) is a replication based method of variance estimation introduc",
+    "date": "2026-08-19",
     "cat": "学术",
     "lang": "en"
   }
