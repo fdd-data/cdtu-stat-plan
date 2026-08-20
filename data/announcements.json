@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Build a Career in AI: 3 Distinct Pathways",
+    "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
+    "description": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
+    "date": "2026-08-20",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+    "url": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+    "description": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
+    "date": "2026-08-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How to Answer AI System Design Interview Questions",
     "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
     "description": "The interview moved from Design YouTube to Design ChatGPT. Here's the framework.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
     "description": "If you read only five papers on AI agents, make them these.",
     "date": "2026-08-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Building a Streaming Local AI Agent",
-    "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
-    "description": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
-    "date": "2026-08-13",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Constraining Output Space for SLM Narrow Automation Optimization",
-    "url": "https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization",
-    "description": "This article will kick off a series on narrow automation optimization for SLMs, and as the first entry will cover one of the more most useful techniqu",
-    "date": "2026-08-13",
     "cat": "技术",
     "lang": "en"
   },
