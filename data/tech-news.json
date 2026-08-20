@@ -1,121 +1,121 @@
 [
   {
-    "title": "Adaptive Bag of Little Bootstraps for Nonsmooth Robust Inference: A Stability-Driven Framework with Reproducible Cholera Surveillance Illustration from the Democratic Republic of the Congo",
-    "url": "https://arxiv.org/abs/2608.16892",
-    "description": "arXiv:2608.16892v1 Announce Type: new \nAbstract: Bootstrap inference is a cornerstone of computational statistics, but classical bootstrap and BCa int",
-    "date": "2026-08-19",
+    "title": "Seasonal false alarms in customer churn and decline early-warning systems: adjacent-window labels confound seasonality with decline, and a year-over-year correction",
+    "url": "https://arxiv.org/abs/2608.18174",
+    "description": "arXiv:2608.18174v1 Announce Type: new \nAbstract: Customer decline early-warning systems feed account-manager action lists, and every flagged account c",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "r2py: A Framework for AI-Assisted Conversion of R Statistical Packages to Python",
-    "url": "https://arxiv.org/abs/2608.16911",
-    "description": "arXiv:2608.16911v1 Announce Type: new \nAbstract: The R statistical computing environment hosts a large body of validated, high-performance statistical",
-    "date": "2026-08-19",
+    "title": "Fair Multi-View Determinantal Coresets via Adaptive NEPv",
+    "url": "https://arxiv.org/abs/2608.18181",
+    "description": "arXiv:2608.18181v1 Announce Type: new \nAbstract: Selecting a small, diverse subset from a large candidate pool often means balancing several incompati",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Diagonal Multi-omics Integration of Heterogenous Datasets",
-    "url": "https://arxiv.org/abs/2608.16968",
-    "description": "arXiv:2608.16968v1 Announce Type: new \nAbstract: In this paper, we consider methods for the diagonal multi-omics integration of heterogeneous datasets",
-    "date": "2026-08-19",
+    "title": "Using Spacing to Detect Multi-Modality",
+    "url": "https://arxiv.org/abs/2608.18228",
+    "description": "arXiv:2608.18228v1 Announce Type: new \nAbstract: The spacing of a unimodal variate resembles a `U' with a flat bottom and rapidly increasing values in",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Incorporating Animal Movement into Continuous-Time Spatial Capture-Recapture Models",
-    "url": "https://arxiv.org/abs/2608.17046",
-    "description": "arXiv:2608.17046v1 Announce Type: new \nAbstract: Estimation of wildlife population size and spatial dynamics is central to ecology and conservation. S",
-    "date": "2026-08-19",
+    "title": "Sobolev Regularized Score Difference Estimation in Diffusion Models",
+    "url": "https://arxiv.org/abs/2608.18237",
+    "description": "arXiv:2608.18237v1 Announce Type: new \nAbstract: Estimating the difference of two Stein's score functions is a fundamental problem in generative model",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Statistical Assessments of Representational Reforms: A Case Study from Los Angeles",
-    "url": "https://arxiv.org/abs/2608.17083",
-    "description": "arXiv:2608.17083v1 Announce Type: new \nAbstract: Electoral reforms -- including changes to district boundaries, electoral rules, and the size of elect",
-    "date": "2026-08-19",
+    "title": "Evaluating Spacing Tests of Multi-Modality",
+    "url": "https://arxiv.org/abs/2608.18243",
+    "description": "arXiv:2608.18243v1 Announce Type: new \nAbstract: The spacing of data contains information about the underlying modality. Sections of consistent, simil",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Randomized quasi-Monte Carlo integration",
-    "url": "https://arxiv.org/abs/2608.17143",
-    "description": "arXiv:2608.17143v1 Announce Type: new \nAbstract: Quasi-Monte Carlo sampling is a numerical integration method that uses points with a space-filling pr",
-    "date": "2026-08-19",
+    "title": "How far are $d$-dimensional copulas with uniform $(d-1)$-marginals from (total) independence?",
+    "url": "https://arxiv.org/abs/2608.18286",
+    "description": "arXiv:2608.18286v1 Announce Type: new \nAbstract: We consider the family ${\\mathcal{C}}_d^{\\Pi_{d-1}}$ of all $d$-dimensional copulas whose $(d-1)$-dim",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Policy Optimization and Statistical Inference for Online Contextual Matrix Games",
-    "url": "https://arxiv.org/abs/2608.17173",
-    "description": "arXiv:2608.17173v1 Announce Type: new \nAbstract: Online decision making often requires navigating a landscape shaped by both dynamic contexts and stra",
-    "date": "2026-08-19",
+    "title": "Debiased Inference for AI-Generated Data without Gold-Standard Labels: Identification via Multiple Imperfect Measurements",
+    "url": "https://arxiv.org/abs/2608.18294",
+    "description": "arXiv:2608.18294v1 Announce Type: new \nAbstract: An increasing number of scholars use AI to measure variables they subsequently include in downstream ",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Finite-Sample Bias Correction for Plug-in Estimators of Extropy, R\\'enyi Extropy, and Tsallis Extropy",
-    "url": "https://arxiv.org/abs/2608.17185",
-    "description": "arXiv:2608.17185v1 Announce Type: new \nAbstract: This paper studies the finite-sample bias of plug-in estimators for Shannon, R\\'enyi, and Tsallis ext",
-    "date": "2026-08-19",
+    "title": "The kinematics of global warming: Semiparametric analysis of warming level, rate, and acceleration",
+    "url": "https://arxiv.org/abs/2608.18298",
+    "description": "arXiv:2608.18298v1 Announce Type: new \nAbstract: Three features of the global warming process are of central scientific interest: its level, its warmi",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Identifying Model Quality Effects on User Engagement: A Within-Version Causal Estimator with Synthetic Data Validation",
-    "url": "https://arxiv.org/abs/2608.17187",
-    "description": "arXiv:2608.17187v1 Announce Type: new \nAbstract: Every team building Large Language Models (LLMs) faces a core challenge: offline benchmarks show perf",
-    "date": "2026-08-19",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Nonparametric Estimation of Extropy, R\\'enyi Extropy, and Tsallis Extropy: Almost Sure Convergence and Asymptotic Normality",
-    "url": "https://arxiv.org/abs/2608.17191",
-    "description": "arXiv:2608.17191v1 Announce Type: new \nAbstract: This paper proposes a nonparametric estimation procedure for extropy and its extensions, namely the {",
-    "date": "2026-08-19",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Expressivity In Multimodal Contrastive Learning",
-    "url": "https://arxiv.org/abs/2608.17203",
-    "description": "arXiv:2608.17203v1 Announce Type: new \nAbstract: Contrastive learning has become a cornerstone of modern representation learning, powering CLIP-style ",
-    "date": "2026-08-19",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Minimax Optimal Estimator and Improved Error Rate for the MLE in Logistic Regression with Gaussian Design",
-    "url": "https://arxiv.org/abs/2608.17260",
-    "description": "arXiv:2608.17260v1 Announce Type: new \nAbstract: We study finite-sample parameter estimation in logistic regression with Gaussian design, where the go",
-    "date": "2026-08-19",
+    "title": "Causal Mediation Analysis for an Interrupted Time Series: Stabilized Mediator Weighting with an Application to a Vehicle Emissions Policy",
+    "url": "https://arxiv.org/abs/2608.18326",
+    "description": "arXiv:2608.18326v1 Announce Type: new \nAbstract: Population-level policies are introduced at a fixed time and evaluated from a single series of aggreg",
+    "date": "2026-08-20",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "A functional joint model with baseline functional covariates: linking sitting accumulation patterns to physical function and mortality among older women",
-    "url": "https://arxiv.org/abs/2608.17278",
-    "description": "arXiv:2608.17278v1 Announce Type: new \nAbstract: In large-scale epidemiological studies, it is often of interest to investigate joint relationships be",
-    "date": "2026-08-19",
+    "title": "Mayoral Experience or Municipal Capacity? Negative-Outcome Evidence on Municipal Budget Execution in Peru",
+    "url": "https://arxiv.org/abs/2608.18354",
+    "description": "arXiv:2608.18354v1 Announce Type: new \nAbstract: When experienced mayors govern better-performing municipalities, it is tempting to credit the leader.",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "SPACE: Sample-cloud Predictive Adaptive Conformal Ellipsoids for Multivariate Time-Series Forecasting",
-    "url": "https://arxiv.org/abs/2608.17333",
-    "description": "arXiv:2608.17333v1 Announce Type: new \nAbstract: Modern probabilistic time-series forecasters often express uncertainty through forecast samples. Whil",
-    "date": "2026-08-19",
+    "title": "Inference and Uncertainty Quantification for Streaming $r$-PCA",
+    "url": "https://arxiv.org/abs/2608.18374",
+    "description": "arXiv:2608.18374v1 Announce Type: new \nAbstract: We address two open questions in streaming PCA via Oja's algorithm: sharp operator-norm convergence f",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "SDR Variance Estimates in Small Domains",
-    "url": "https://arxiv.org/abs/2608.17353",
-    "description": "arXiv:2608.17353v1 Announce Type: new \nAbstract: Successive Difference Replication (SDR) is a replication based method of variance estimation introduc",
-    "date": "2026-08-19",
+    "title": "Algorithms for adaptive and heteroskedastic linear regression at the computational threshold",
+    "url": "https://arxiv.org/abs/2608.18402",
+    "description": "arXiv:2608.18402v1 Announce Type: new \nAbstract: We study finite-sample linear regression in the presence of varied and unknown label noise, focusing ",
+    "date": "2026-08-20",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Centroid-Referenced Mahalanobis Matching (CRM): A Scalable, Representation-Based Framework for Causal Inference in Large Observational Studies",
+    "url": "https://arxiv.org/abs/2608.18417",
+    "description": "arXiv:2608.18417v1 Announce Type: new \nAbstract: Matching for causal inference can be computationally expensive at scale and can silently change the t",
+    "date": "2026-08-20",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Boundaries of logarithmic Voronoi cells can be transcendental",
+    "url": "https://arxiv.org/abs/2608.18434",
+    "description": "arXiv:2608.18434v1 Announce Type: new \nAbstract: We show that logarithmic Voronoi boundaries for one-dimensional algebraic models in the probability s",
+    "date": "2026-08-20",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A seamless dose-optimization design for monotherapy and combination therapy",
+    "url": "https://arxiv.org/abs/2608.18435",
+    "description": "arXiv:2608.18435v1 Announce Type: new \nAbstract: The emergence of molecular-targeted agents and immune-oncology therapies has fundamentally transforme",
+    "date": "2026-08-20",
     "cat": "学术",
     "lang": "en"
   }
