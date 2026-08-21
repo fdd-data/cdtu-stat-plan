@@ -1,5 +1,21 @@
 [
   {
+    "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+    "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+    "description": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
+    "date": "2026-08-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
+    "url": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
+    "description": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
+    "date": "2026-08-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How to Build a Career in AI: 3 Distinct Pathways",
     "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
     "description": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable",
     "description": "This article covers five Python libraries that turn tedious data cleaning into something expressive and genuinely enjoyable.",
     "date": "2026-08-17",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Build a Simple AI Web Scraper with Python",
-    "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
-    "description": "Turn any webpage into a lightweight LLM-powered QA engine by cleaning HTML, converting content to Markdown, and returning focused answers while reduci",
-    "date": "2026-08-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Fun Agentic AI Papers to Read",
-    "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
-    "description": "If you read only five papers on AI agents, make them these.",
-    "date": "2026-08-14",
     "cat": "技术",
     "lang": "en"
   },
