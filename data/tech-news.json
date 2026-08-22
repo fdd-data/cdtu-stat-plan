@@ -1,122 +1,122 @@
 [
   {
-    "title": "Causal Inference under Interference with Learned Exposure Mappings",
-    "url": "https://arxiv.org/abs/2608.19224",
-    "description": "arXiv:2608.19224v1 Announce Type: new \nAbstract: Exposure mappings are often assumed to be known in causal spillover analyses. In environmental settin",
+    "title": "Steep rise in electric vehicle sales",
+    "url": "https://flowingdata.com/2026/08/21/steep-rise-in-electric-vehicle-sales/",
+    "description": "For the New York Times, Mira Rojanasakul and Brad Plumer report on the&#8230;Tags: electric vehicle, New York Times",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "TorchDCM: A Unified PyTorch-Native Package for Discrete Choice Modeling",
-    "url": "https://arxiv.org/abs/2608.19231",
-    "description": "arXiv:2608.19231v1 Announce Type: new \nAbstract: Estimating large and simulation-intensive discrete choice models (DCMs) requires repeated evaluation ",
+    "title": "Using GitHub Actions to deploy to Posit Connect Cloud",
+    "url": "https://www.r-bloggers.com/2026/08/using-github-actions-to-deploy-to-posit-connect-cloud/",
+    "description": "We’ve previously extolled the virtues of automating the repetitive chores we encounter, allowing us to focus on the tasks that matter.\nThree years ago",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "A Self-Exciting Model of Eddy Formation at Submesoscale",
-    "url": "https://arxiv.org/abs/2608.19275",
-    "description": "arXiv:2608.19275v1 Announce Type: new \nAbstract: Ocean eddies are highly dynamic structures marked by frequent splitting and merging events. They exhi",
+    "title": "socviz 2.0.0 on CRAN",
+    "url": "https://www.r-bloggers.com/2026/08/socviz-2-0-0-on-cran/",
+    "description": "In anticipation of the second edition of Data Visualization, which is coming later this year from Princeton University Press, version 2.0.0 of my socv",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Recovering Nonlinear Functions of Latent Variables: A Plausible-Value Neural Network Framework",
-    "url": "https://arxiv.org/abs/2608.19282",
-    "description": "arXiv:2608.19282v1 Announce Type: new \nAbstract: When factor scores replace true latent scores in nonlinear prediction, measurement error attenuates t",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Heteroscedastic Neural Surrogate Modeling for Robust and Rapid Bayesian Inference in Fusion Plasma Diagnostics",
-    "url": "https://arxiv.org/abs/2608.19377",
-    "description": "arXiv:2608.19377v1 Announce Type: new \nAbstract: Bayesian inference via Markov Chain Monte Carlo (MCMC) provides effective parameter estimation, but i",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Causal Generalization of Continuous Treatment Effects under Covariate Shift",
-    "url": "https://arxiv.org/abs/2608.19383",
-    "description": "arXiv:2608.19383v1 Announce Type: new \nAbstract: Average dose-response functions are widely used to summarize causal effects of continuous treatments,",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Shape-Preserving Covariate Adjustment via Empirical Likelihood in Randomized Experiment",
-    "url": "https://arxiv.org/abs/2608.19423",
-    "description": "arXiv:2608.19423v1 Announce Type: new \nAbstract: Covariate adjustment improves estimation efficiency in randomized experiments, but standard calibrati",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Dummy RAPM:Representing Low-Minute Players in Regularized Adjusted Plus-Minus",
-    "url": "https://arxiv.org/abs/2608.19454",
-    "description": "arXiv:2608.19454v1 Announce Type: new \nAbstract: Regularized Adjusted Plus-Minus (RAPM) uses stint-level lineup indicators to estimate player contribu",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Causal Inference Approach for Evaluating Diagnostic Tests and AI-Enabled Medical Devices: From Effect Modification to Information-Augmented Decision-Making",
-    "url": "https://arxiv.org/abs/2608.19501",
-    "description": "arXiv:2608.19501v1 Announce Type: new \nAbstract: Diagnostic medical tests and devices provide useful information for evaluating the potential benefits",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Estimating Negative Income Distributions via Data Fusion with Vine Copula-based Imputation",
-    "url": "https://arxiv.org/abs/2608.19585",
-    "description": "arXiv:2608.19585v1 Announce Type: new \nAbstract: Imputation-based data fusion combines datasets by imputing missing variables in one dataset using inf",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Martingale R-learner: Estimating Time-varying Heterogeneous Treatment Effects for Time-to-event Outcomes",
-    "url": "https://arxiv.org/abs/2608.19596",
-    "description": "arXiv:2608.19596v1 Announce Type: new \nAbstract: Biological research and clinical evidence suggest that treatment response may vary substantially alon",
-    "date": "2026-08-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Efficient Poisson Subsampling for the Partially Linear Additive Cox Model",
-    "url": "https://arxiv.org/abs/2608.19599",
-    "description": "arXiv:2608.19599v1 Announce Type: new \nAbstract: To address the computational and storage challenges often encountered in large-scale survival data an",
+    "title": "The boring part first: Building a crosswalk from O*NET-SOC to ANZSCO",
+    "url": "https://www.r-bloggers.com/2026/08/the-boring-part-first-building-a-crosswalk-from-onet-soc-to-anzsco/",
+    "description": "There's no official crosswalk between the ONET's occupational taxonomy and ANZSCO, which is awkward, because Australian researchers use ONET data all ",
     "date": "2026-08-21",
     "cat": "竞赛",
     "lang": "en"
   },
   {
-    "title": "Tau-Rho Equality and Other Dependence Measures of a Subclass of Factorizable Copulas",
-    "url": "https://arxiv.org/abs/2608.19608",
-    "description": "arXiv:2608.19608v1 Announce Type: new \nAbstract: Kendall's tau and Spearman's rho, two widely used dependence measures in statistics and risk manageme",
+    "title": "Learning how to extract parts of a string",
+    "url": "https://www.r-bloggers.com/2026/08/learning-how-to-extract-parts-of-a-string/",
+    "description": "This week I took time to re-read The Programmer’s Brain by Felienne Hermans. Among the many gems one idea that stuck with me is that not learning how ",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Variational Goal-Oriented Optimal Experimental Design for Mixed-Distribution Quantities of Interest: Application to Ship Roll Safety",
-    "url": "https://arxiv.org/abs/2608.19631",
-    "description": "arXiv:2608.19631v1 Announce Type: new \nAbstract: Goal-oriented optimal experimental design (GO-OED) selects experiments according to the expected info",
+    "title": "BiocJobs: declaring dispatchable jobs inside Bioconductor packages",
+    "url": "https://www.r-bloggers.com/2026/08/biocjobs-declaring-dispatchable-jobs-inside-bioconductor-packages/",
+    "description": "The gap\nMuch of what Bioconductor packages do is interactive and exploratory, and rightly belongs in an R session. But some of it is batch-shaped: a w",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "实习",
     "lang": "en"
   },
   {
-    "title": "Curvature-Calibrated Quasi-Bayesian Updating for Moment-Restricted Models",
-    "url": "https://arxiv.org/abs/2608.19634",
-    "description": "arXiv:2608.19634v1 Announce Type: new \nAbstract: Moment restrictions provide a flexible basis for quasi-Bayesian inference when a full likelihood is u",
+    "title": "Reading notes on The Programmer’s Brain by Felienne Hermans",
+    "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-the-programmers-brain-by-felienne-hermans/",
+    "description": "Prompted (😉) by some AI dread, I decided to go back to some basics and re-read The Programmer’s Brain by Felienne Hermans. Felienne Hermans’ work caug",
     "date": "2026-08-21",
-    "cat": "学术",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
+    "title": "How the U.S. national debt got to $40 trillion",
+    "url": "https://flowingdata.com/2026/08/20/how-the-u-s-national-debt-got-to-40-trillion/",
+    "description": "When you spend more than you make, you get debt. For the Washington&#8230;Tags: debt, government, revenue, spending, Washington Post",
+    "date": "2026-08-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "✚ Seeing data from different perspectives",
+    "url": "https://flowingdata.com/2026/08/20/process-402-perspective/",
+    "description": "This week is about changing perspectives so we can find and visualize new insights.Tags: perspective",
+    "date": "2026-08-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "useR! 2026: Futurize – Tearing Down Parallelization Barriers in R with Transpilers",
+    "url": "https://www.r-bloggers.com/2026/08/user-2026-futurize-tearing-down-parallelization-barriers-in-r-with-transpilers/",
+    "description": "Below are the slides for my Futurize - Tearing Down Parallelization Barriers in R with Transpilers talk that I presented at the useR! 2026 conference ",
+    "date": "2026-08-20",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
+    "title": "Google buys Spirit Airlines data in bankruptcy sale",
+    "url": "https://flowingdata.com/2026/08/19/google-buys-spirit-airlines-data-in-bankruptcy-sale/",
+    "description": "Spirit Airlines went bankrupt for real this time, and Google bought the data.&#8230;Tags: Gizmodo, Google, Spirit Airlines, training",
+    "date": "2026-08-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Trillions of dollars in AI spending not in the balance sheet yet",
+    "url": "https://flowingdata.com/2026/08/19/trillions-of-dollars-in-ai-spending-not-in-the-balance-sheet-yet/",
+    "description": "For the Wall Street Journal, Peter Rudegeair and Peter Santilli report on the&#8230;Tags: spending, technology, Wall Street Journal",
+    "date": "2026-08-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Get Sports Betting Data in R: Free APIs, Historical Odds and Daily Updates",
+    "url": "https://www.r-bloggers.com/2026/08/how-to-get-sports-betting-data-in-r-free-apis-historical-odds-and-daily-updates/",
+    "description": "Building a sports betting model in R does not begin with machine learning or a complicated statistical formula. It begins with reliable data. You need",
+    "date": "2026-08-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "McNemar’s test in R",
+    "url": "https://www.r-bloggers.com/2026/08/mcnemars-test-in-r/",
+    "description": "Introduction\nIn a previous article, we showed how to perform the Chi-square test of independence in R in order to test whether two qualitative variabl",
+    "date": "2026-08-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Amazon buying rare books in bulk for training",
+    "url": "https://flowingdata.com/2026/08/18/amazon-buying-rare-books-in-bulk-for-training/",
+    "description": "Suspecting that an anonymous order of 1,000 books was headed to an AI&#8230;Tags: 404 Media, Amazon, tracking, training",
+    "date": "2026-08-18",
+    "cat": "书单",
     "lang": "en"
   }
 ]
