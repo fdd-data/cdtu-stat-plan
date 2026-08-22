@@ -16,6 +16,14 @@
     "lang": "en"
   },
   {
+    "title": "Running local large language models not as difficult as you might think",
+    "url": "https://www.r-bloggers.com/2026/08/running-local-large-language-models-not-as-difficult-as-you-might-think/",
+    "description": "This post was originally published on our collaborative substack site. Visit the site to follow us and read more similar posts.\nJointly authored by Ch",
+    "date": "2026-08-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "socviz 2.0.0 on CRAN",
     "url": "https://www.r-bloggers.com/2026/08/socviz-2-0-0-on-cran/",
     "description": "In anticipation of the second edition of Data Visualization, which is coming later this year from Princeton University Press, version 2.0.0 of my socv",
@@ -109,14 +117,6 @@
     "description": "Introduction\nIn a previous article, we showed how to perform the Chi-square test of independence in R in order to test whether two qualitative variabl",
     "date": "2026-08-19",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Amazon buying rare books in bulk for training",
-    "url": "https://flowingdata.com/2026/08/18/amazon-buying-rare-books-in-bulk-for-training/",
-    "description": "Suspecting that an anonymous order of 1,000 books was headed to an AI&#8230;Tags: 404 Media, Amazon, tracking, training",
-    "date": "2026-08-18",
-    "cat": "书单",
     "lang": "en"
   }
 ]
