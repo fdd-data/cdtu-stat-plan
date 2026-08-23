@@ -1,5 +1,13 @@
 [
   {
+    "title": "Does state life expectancy correlate with political party voting?",
+    "url": "https://www.r-bloggers.com/2026/08/does-state-life-expectancy-correlate-with-political-party-voting/",
+    "description": "Overview\n     \nDo people in red states live shorter lives? \n     \nThis project examines whether state level life expectancy is statistically associate",
+    "date": "2026-08-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Steep rise in electric vehicle sales",
     "url": "https://flowingdata.com/2026/08/21/steep-rise-in-electric-vehicle-sales/",
     "description": "For the New York Times, Mira Rojanasakul and Brad Plumer report on the&#8230;Tags: electric vehicle, New York Times",
@@ -107,14 +115,6 @@
     "title": "How to Get Sports Betting Data in R: Free APIs, Historical Odds and Daily Updates",
     "url": "https://www.r-bloggers.com/2026/08/how-to-get-sports-betting-data-in-r-free-apis-historical-odds-and-daily-updates/",
     "description": "Building a sports betting model in R does not begin with machine learning or a complicated statistical formula. It begins with reliable data. You need",
-    "date": "2026-08-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "McNemar’s test in R",
-    "url": "https://www.r-bloggers.com/2026/08/mcnemars-test-in-r/",
-    "description": "Introduction\nIn a previous article, we showed how to perform the Chi-square test of independence in R in order to test whether two qualitative variabl",
     "date": "2026-08-19",
     "cat": "技术",
     "lang": "en"
