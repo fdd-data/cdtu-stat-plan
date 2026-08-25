@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise AI",
+    "url": "https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai",
+    "description": "If you're responsible for turning data and AI strategy into enterprise reality, this is a conversation worth being part of.",
+    "date": "2026-08-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Python Data Classes Beyond the Boilerplate",
     "url": "https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate",
     "description": "Learn how Python dataclasses go beyond reducing boilerplate with custom fields, validation, computed attributes, immutability, and memory optimization",
@@ -67,14 +75,6 @@
     "title": "How to Answer AI System Design Interview Questions",
     "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
     "description": "The interview moved from Design YouTube to Design ChatGPT. Here's the framework.",
-    "date": "2026-08-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Tools for Building and Deploying AI Agents in Production",
-    "url": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
-    "description": "This article walks through five tools, one for each layer of the stack from building the agent's logic to running all of it at scale.",
     "date": "2026-08-19",
     "cat": "技术",
     "lang": "en"
