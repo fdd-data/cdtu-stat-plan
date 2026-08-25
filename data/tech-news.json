@@ -1,121 +1,121 @@
 [
   {
-    "title": "A Complexity Bound for the Kent-Ganeiber-Mardia Sampler for the Bingham Distribution",
-    "url": "https://arxiv.org/abs/2608.20475",
-    "description": "arXiv:2608.20475v1 Announce Type: new \nAbstract: The Bingham distribution is a family of antipodally symmetric distributions on the unit sphere, chara",
-    "date": "2026-08-24",
+    "title": "Spectral partitioning for $k$-block averaging kernels of finite Markov chains",
+    "url": "https://arxiv.org/abs/2608.21466",
+    "description": "arXiv:2608.21466v1 Announce Type: new \nAbstract: We develop spectral algorithms for selecting state-space partitions that define averaging kernels for",
+    "date": "2026-08-25",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Uncertainty propagation in auto-regressive random neural network models",
-    "url": "https://arxiv.org/abs/2608.20483",
-    "description": "arXiv:2608.20483v1 Announce Type: new \nAbstract: We develop analytical and particle-based methods for uncertainty propagation in random neural network",
-    "date": "2026-08-24",
+    "title": "Gauss--Hermite Quadrature for Gaussian-Mixture Entropy with an Action-Space Hermite Surrogate",
+    "url": "https://arxiv.org/abs/2608.21467",
+    "description": "arXiv:2608.21467v1 Announce Type: new \nAbstract: Gaussian distributions are used to model uncertainty in signals and states, and Gaussian mixtures are",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Stochastics of News Article Propagation: Joint Modeling of Counts and Reliability Composition in Event-Driven News Cascades",
+    "url": "https://arxiv.org/abs/2608.21472",
+    "description": "arXiv:2608.21472v1 Announce Type: new \nAbstract: We study the news cascade triggered by a single high-impact event as a pair of coupled stochastic pro",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Data-Driven Approach to State Construction in Markov Models",
+    "url": "https://arxiv.org/abs/2608.21480",
+    "description": "arXiv:2608.21480v1 Announce Type: new \nAbstract: A Markov chain is a widely used stochastic process modelling random events over time. These models ar",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Sparse Separable Factor Analysis in the Complex Domain with an Application to Local Field Potential Data",
+    "url": "https://arxiv.org/abs/2608.21551",
+    "description": "arXiv:2608.21551v1 Announce Type: new \nAbstract: Complex-valued arrays arise in signal processing, where scientific interpretation depends on retainin",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Outlier Impact: Detection by Consequences",
+    "url": "https://arxiv.org/abs/2608.21557",
+    "description": "arXiv:2608.21557v1 Announce Type: new \nAbstract: We introduce a novel outlier detection method that utilizes a concrete measure of the statistical imp",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Random Hazard Forests",
+    "url": "https://arxiv.org/abs/2608.21597",
+    "description": "arXiv:2608.21597v1 Announce Type: new \nAbstract: Clinical data sources such as electronic health records and wearable sensors record patient status re",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "$K$-functions for point processes on complex surfaces",
+    "url": "https://arxiv.org/abs/2608.21654",
+    "description": "arXiv:2608.21654v1 Announce Type: new \nAbstract: The $K$-function is a fundamental summary statistic for assessing clustering or regularity of point p",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Sparse-Group Pliable Lasso",
+    "url": "https://arxiv.org/abs/2608.21665",
+    "description": "arXiv:2608.21665v1 Announce Type: new \nAbstract: The sparse-group pliable Lasso (SGPL) extends the pliable Lasso and group pliable Lasso by combining ",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Gaussian-efficient testing by betting on the mean of bounded data",
+    "url": "https://arxiv.org/abs/2608.21694",
+    "description": "arXiv:2608.21694v1 Announce Type: new \nAbstract: Given $[0,1]$-valued random variables $X_1,\\dots,X_n$ such that $\\mathbb{E}[X_i | X_1,\\dots,X_{i-1}]=",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Guidance for Prior Change via Density Ratio Estimation",
+    "url": "https://arxiv.org/abs/2608.21729",
+    "description": "arXiv:2608.21729v1 Announce Type: new \nAbstract: Simulation-Based Inference (SBI) serves as a vital framework for parameter inference in scientific fi",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Inferential Validity of Digital Health Measures",
+    "url": "https://arxiv.org/abs/2608.21782",
+    "description": "arXiv:2608.21782v1 Announce Type: new \nAbstract: Digital health measures increasingly inform treatment evaluation, risk classification, clinical monit",
+    "date": "2026-08-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bayesian spatio-temporal exposure modelling of air pollution in Rome, Italy, and short-term effects on cause-specific mortality",
+    "url": "https://arxiv.org/abs/2608.21848",
+    "description": "arXiv:2608.21848v1 Announce Type: new \nAbstract: Assessing fine-scale spatio-temporal air pollution contrasts in urban contexts is a major challenge f",
+    "date": "2026-08-25",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "A new matrix-variate integer-valued autoregressive process with matrical negative binomial thinning",
+    "url": "https://arxiv.org/abs/2608.21921",
+    "description": "arXiv:2608.21921v1 Announce Type: new \nAbstract: To address the overdispersion problem in matrix-variate integer-valued time series data arising in so",
+    "date": "2026-08-25",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Robust Parameter Estimation for Snow Load Induced by Annual Maximum Snow Accumulation Using Constrained Bayesian Priors",
-    "url": "https://arxiv.org/abs/2608.20484",
-    "description": "arXiv:2608.20484v1 Announce Type: new \nAbstract: This paper develops a Bayesian framework to estimate the parameters of the Generalized Extreme Value ",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Testing Additivity in Lead and Benzo[a]pyrene-induced Neurodegeneration in Caenorhabditis elegans",
-    "url": "https://arxiv.org/abs/2608.20496",
-    "description": "arXiv:2608.20496v1 Announce Type: new \nAbstract: Exposure to environmental contaminants is a recognized cause of neurotoxicity, contributing to the on",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Counterfactual Optimization of Policy Interventions: Lexical Ordering and Leapfrogging",
-    "url": "https://arxiv.org/abs/2608.20505",
-    "description": "arXiv:2608.20505v1 Announce Type: new \nAbstract: Most data-driven policy learning methods maximize average outcomes, overlooking the possibility that ",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "EDGE: a closed-form directed test for the calibration of probabilistic binary classifiers",
-    "url": "https://arxiv.org/abs/2608.20511",
-    "description": "arXiv:2608.20511v1 Announce Type: new \nAbstract: A probabilistic binary classifier is judged almost everywhere by discrimination - accuracy, the ROC c",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Statistics in the Age of AI",
-    "url": "https://arxiv.org/abs/2608.20541",
-    "description": "arXiv:2608.20541v1 Announce Type: new \nAbstract: Artificial intelligence (AI) can automate programming, model fitting, visualization, simulation, lite",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Conditional-Independence-Regularized Distributional Autoencoders for Mixed-Type Data",
-    "url": "https://arxiv.org/abs/2608.20562",
-    "description": "arXiv:2608.20562v1 Announce Type: new \nAbstract: Mixed-type data containing both numerical and categorical variables arise in many scientific and real",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Targeted Deep Survival Contrasts: Valid Inference for Treatment-Specific Survival Benefit with Neural Networks",
-    "url": "https://arxiv.org/abs/2608.20598",
-    "description": "arXiv:2608.20598v1 Announce Type: new \nAbstract: Neural survival models are increasingly asked to support counterfactual claims---how much a treatment",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Comprehensive Bayesian Approach to Entity Resolution for Data with Multiple Truths",
-    "url": "https://arxiv.org/abs/2608.20601",
-    "description": "arXiv:2608.20601v1 Announce Type: new \nAbstract: In many applications, from government to ecology, integrating data from diverse and noisy sources is ",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Let Time Tell: Identification and Gaussian Process Estimation for Interrupted Time Series",
-    "url": "https://arxiv.org/abs/2608.20610",
-    "description": "arXiv:2608.20610v1 Announce Type: new \nAbstract: We study causal inference in interrupted time series designs where a treatment affects every unit sim",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Minimax Optimality of Score-Entropy Discrete Diffusion",
-    "url": "https://arxiv.org/abs/2608.20635",
-    "description": "arXiv:2608.20635v1 Announce Type: new \nAbstract: Discrete diffusion models have demonstrated strong performance across a range of datasets, including ",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A modified score function for monotone likelihood in promotion time cure rate models",
-    "url": "https://arxiv.org/abs/2608.20641",
-    "description": "arXiv:2608.20641v1 Announce Type: new \nAbstract: Survival models that incorporate a cure fraction provide a flexible framework for jointly modeling th",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Multiscale Ball Test for Conditional Mean Independence",
-    "url": "https://arxiv.org/abs/2608.20727",
-    "description": "arXiv:2608.20727v1 Announce Type: new \nAbstract: Tests of conditional mean independence can lose power when departures are confined to a bounded part ",
-    "date": "2026-08-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Heterogeneous Effects of Continuous Treatments via Conditional Modified Treatment Policies",
-    "url": "https://arxiv.org/abs/2608.20744",
-    "description": "arXiv:2608.20744v1 Announce Type: new \nAbstract: For continuous treatments such as drug dose or ventilator intensity, a key clinically actionable ques",
-    "date": "2026-08-24",
+    "title": "Barycentric Fused Gromov-Wasserstein Balancing for Causal Inference under Multiple Treatments",
+    "url": "https://arxiv.org/abs/2608.22024",
+    "description": "arXiv:2608.22024v1 Announce Type: new \nAbstract: Estimating heterogeneous single and interaction treatment effects from observational data under multi",
+    "date": "2026-08-25",
     "cat": "学术",
     "lang": "en"
   }
