@@ -1,5 +1,21 @@
 [
   {
+    "title": "Python Data Classes Beyond the Boilerplate",
+    "url": "https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate",
+    "description": "Learn how Python dataclasses go beyond reducing boilerplate with custom fields, validation, computed attributes, immutability, and memory optimization",
+    "date": "2026-08-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "I Tried Kimi Agent and Here’s What I Found",
+    "url": "https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
+    "description": "Kimi Agent is a name that's come to cover a sprawling family, and untangling it matters before judging any piece of it.",
+    "date": "2026-08-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How to Leverage Local Small Language Models for Your Projects",
     "url": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
     "description": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered ap",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
     "description": "This article walks through five tools, one for each layer of the stack from building the agent's logic to running all of it at scale.",
     "date": "2026-08-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
-    "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
-    "description": "Download Ollama, pull and serve Qwen3.8-27B, and launch it with OpenCode using just three command lines.",
-    "date": "2026-08-18",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong",
-    "url": "https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong",
-    "description": "Is vibe coding the future of programming or a shortcut to bad code? Let’s look at what it gets right and wrong.",
-    "date": "2026-08-18",
     "cat": "技术",
     "lang": "en"
   },
