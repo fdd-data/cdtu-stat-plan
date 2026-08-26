@@ -1,5 +1,21 @@
 [
   {
+    "title": "Understanding the Impact of AI on Job Markets",
+    "url": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
+    "description": "Explore five distinct ways AI is reshaping jobs, from automating routine tasks to thinning entry-level hiring.",
+    "date": "2026-08-26",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "10 Rules for Getting Better Results from AI Coding Agents",
+    "url": "https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents",
+    "description": "Everyone's using AI coding agents. Here's how to make yours actually useful.",
+    "date": "2026-08-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise AI",
     "url": "https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai",
     "description": "If you're responsible for turning data and AI strategy into enterprise reality, this is a conversation worth being part of.",
@@ -61,22 +77,6 @@
     "description": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
     "date": "2026-08-20",
     "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
-    "url": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
-    "description": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
-    "date": "2026-08-20",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Answer AI System Design Interview Questions",
-    "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
-    "description": "The interview moved from Design YouTube to Design ChatGPT. Here's the framework.",
-    "date": "2026-08-19",
-    "cat": "技术",
     "lang": "en"
   },
   {
