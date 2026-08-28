@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Local AI Stack for Productive SLMs",
+    "url": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
+    "description": "A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval.",
+    "date": "2026-08-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Quantization and Pruning Methods to Make Your LLM Leaner",
+    "url": "https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner",
+    "description": "This article walks through what each technique actually does, why skipping them costs real money and real latency, and then gets hands-on with five sp",
+    "date": "2026-08-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "What We Can Learn From Google Engineers’ Indispensible Prompts",
     "url": "https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts",
     "description": "Hey, Google Engineers: What prompt do you personally refuse to work without, and why?",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
     "description": "Use Grok Build to create a production-ready data science workflow with EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.",
     "date": "2026-08-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
-    "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
-    "description": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
-    "date": "2026-08-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
-    "url": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
-    "description": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
-    "date": "2026-08-21",
     "cat": "技术",
     "lang": "en"
   },
