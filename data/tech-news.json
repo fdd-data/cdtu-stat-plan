@@ -1,122 +1,122 @@
 [
   {
-    "title": "Beyond Participant-Level Cross-Validation: Reliable Inference for Longitudinal Machine Learning",
-    "url": "https://arxiv.org/abs/2608.26205",
-    "description": "arXiv:2608.26205v1 Announce Type: new \nAbstract: Longitudinal sensing studies routinely collect thousands of windows from a few dozen participants. Th",
+    "title": "A third of new webpages written with AI",
+    "url": "https://flowingdata.com/2026/08/28/a-third-of-new-webpages-written-with-ai/",
+    "description": "It is trivial to generate bodies of text on infinite topics, so of&#8230;Tags: Internet, Pew Research, writing",
     "date": "2026-08-28",
-    "cat": "学术",
+    "cat": "实习",
     "lang": "en"
   },
   {
-    "title": "Copula based dependent censoring in cure models with covariates",
-    "url": "https://arxiv.org/abs/2608.26212",
-    "description": "arXiv:2608.26212v1 Announce Type: new \nAbstract: In survival analysis, the time-to-event variable T is frequently subject to right censoring. Individu",
+    "title": "rOpenSci News Digest, August 2026",
+    "url": "https://www.r-bloggers.com/2026/08/ropensci-news-digest-august-2026/",
+    "description": "Dear rOpenSci friends, it’s time for our monthly news roundup!  You can read this post on our blog. Now let’s dive into the activity at and around rOp",
     "date": "2026-08-28",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "TRACE: Retrospective Streaming Generation of Physical Fields under Sparse Structured Sensing",
-    "url": "https://arxiv.org/abs/2608.26219",
-    "description": "arXiv:2608.26219v1 Announce Type: new \nAbstract: Reconstructing continuous physical fields from sparse measurements is central to scientific monitorin",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "Amazon shutting down Mechanical Turk",
+    "url": "https://flowingdata.com/2026/08/27/amazon-shutting-down-mechanical-turk/",
+    "description": "Annie Palmer for CNBC:\n“We regularly evaluate our programs, tools and services and&#8230;Tags: Amazon, CNBC, Mechanical Turk, shutdown",
+    "date": "2026-08-27",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "A causal graph-informed temporal convolution architecture for interpretable retail electricity price forecasting",
-    "url": "https://arxiv.org/abs/2608.26234",
-    "description": "arXiv:2608.26234v1 Announce Type: new \nAbstract: Retail electricity markets in deregulated systems face significant price volatility and complex inter",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "✚ Visualization tools, datasets, and resources — August 2026 roundup",
+    "url": "https://flowingdata.com/2026/08/27/process-403-roundup/",
+    "description": "Here is what happened in August.Tags: roundup",
+    "date": "2026-08-27",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "A Coherent Framework for Semicontinuous Data Through Distributional Regularization, Censoring, and Compounded Occurrence-Severity Modeling",
-    "url": "https://arxiv.org/abs/2608.26286",
-    "description": "arXiv:2608.26286v1 Announce Type: new \nAbstract: Semicontinuous outcomes frequently present severe distributional mismatches characterized by structur",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "When politicians turned against data centers",
+    "url": "https://flowingdata.com/2026/08/27/when-politicians-turned-against-data-centers/",
+    "description": "For the Washington Post, Jeremy B. Merrill analyzed newsletters and social media posts&#8230;Tags: data center, politics, Washington Post",
+    "date": "2026-08-27",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "FLEX-CP-DT: A Flexible Conditional Power Framework for Interim Futility Analysis in Clinical Trials with Count Endpoints and Temporal Trends",
-    "url": "https://arxiv.org/abs/2608.26338",
-    "description": "arXiv:2608.26338v1 Announce Type: new \nAbstract: Many large-scale phase III trials with recurrent event endpoints include a pre-planned interim analys",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "wbstats 1.2.0 is now on CRAN",
+    "url": "https://www.r-bloggers.com/2026/08/wbstats-1-2-0-is-now-on-cran/",
+    "description": "Programmatic Access to Data and Statistics from the World Bank API\n\n\nContinue reading: wbstats 1.2.0 is now on CRAN",
+    "date": "2026-08-27",
+    "cat": "书单",
     "lang": "en"
   },
   {
-    "title": "Regularized High-Dimensional Additive Tensor Autoregressive Model",
-    "url": "https://arxiv.org/abs/2608.26366",
-    "description": "arXiv:2608.26366v1 Announce Type: new \nAbstract: High-dimensional time series has diverse applications in econometrics and finance. Recent models for ",
-    "date": "2026-08-28",
+    "title": "Reading notes on Naming Things by Tom Benner",
+    "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-naming-things-by-tom-benner/",
+    "description": "Naming Things by Tom Benner a tiny but neat book about the naming of identifies in code (variables, classes, methods, so not packages or libraries).\nI",
+    "date": "2026-08-27",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Mathematical rivers",
+    "url": "https://flowingdata.com/2026/08/26/mathematical-rivers/",
+    "description": "There is a simple law from John Hack that says the length of&#8230;Tags: drainage, Quanta, rivers",
+    "date": "2026-08-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Do you need a custom R package or Shiny app? I can build it for you",
+    "url": "https://www.r-bloggers.com/2026/08/do-you-need-a-custom-r-package-or-shiny-app-i-can-build-it-for-you/",
+    "description": "I offer turning a set of requirements into a maintainable package or dashboard\nContinue reading: Do you need a custom R package or Shiny app? I can bu",
+    "date": "2026-08-26",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Cochran’s Q test in R, or the extension of McNemar’s test for more than two groups",
+    "url": "https://www.r-bloggers.com/2026/08/cochrans-q-test-in-r-or-the-extension-of-mcnemars-test-for-more-than-two-groups/",
+    "description": "Introduction\nIn previous articles, we showed how to test whether two qualitative variables are related thanks to the Chi-square test of independence i",
+    "date": "2026-08-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Why Americans are not working",
+    "url": "https://flowingdata.com/2026/08/25/who-is-not-working-and-why/",
+    "description": "Older people are working later in life and younger people are not entering the labor force as early.Tags: labor force, work",
+    "date": "2026-08-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Trustworthy data visualization",
+    "url": "https://flowingdata.com/2026/08/24/trustworthy-data-visualization/",
+    "description": "Kieran Healy, a professor of sociology at Duke University, gives an enjoyable lecture&#8230;Tags: Kieran Healy, trust",
+    "date": "2026-08-24",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "On the Expectation-Maximization (EM) algorithm and regression models",
+    "url": "https://www.r-bloggers.com/2026/08/on-the-expectation-maximization-em-algorithm-and-regression-models/",
+    "description": "Using an iterative optimization framework to rethink regression models\nContinue reading: On the Expectation-Maximization (EM) algorithm and regression",
+    "date": "2026-08-24",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Multilevel modelling of double-sampled clustered social networks with individual-level data on between-cluster ties",
-    "url": "https://arxiv.org/abs/2608.26387",
-    "description": "arXiv:2608.26387v1 Announce Type: new \nAbstract: We consider the analysis of dyadic network data on ties between individuals in different clusters whe",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "Does state life expectancy correlate with political party voting?",
+    "url": "https://www.r-bloggers.com/2026/08/does-state-life-expectancy-correlate-with-political-party-voting/",
+    "description": "Overview\n     \nDo people in red states live shorter lives? \n     \nThis project examines whether state level life expectancy is statistically associate",
+    "date": "2026-08-22",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Marginal Structural Models for Electricity Demand under Treatment-Confounder Feedback: A Continuous-Treatment Outcome-Adaptive and Fused LASSO Approach",
-    "url": "https://arxiv.org/abs/2608.26411",
-    "description": "arXiv:2608.26411v1 Announce Type: new \nAbstract: Temperature is the most important meteorological driver of electricity demand, but its causal effect ",
-    "date": "2026-08-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Dimension comparison for Student's statistic under symmetric unimodality",
-    "url": "https://arxiv.org/abs/2608.26421",
-    "description": "arXiv:2608.26421v1 Announce Type: new \nAbstract: Let $q_n(r)$ denote the tail probability at $r$ of the self-normalized sum of $n$ independent centere",
-    "date": "2026-08-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Online detection of distributional changes for time series in metric spaces",
-    "url": "https://arxiv.org/abs/2608.26422",
-    "description": "arXiv:2608.26422v1 Announce Type: new \nAbstract: We propose an online testing framework for detecting distributional changes in serially dependent dat",
-    "date": "2026-08-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Kernelized Stein Discrepancy for Goodness-of-Fit Tests and Stein Sampling in R",
-    "url": "https://arxiv.org/abs/2608.26450",
-    "description": "arXiv:2608.26450v1 Announce Type: new \nAbstract: Stein's method constructs computable discrepancies between a target distribution and a candidate dist",
-    "date": "2026-08-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Power and Sample Size Calculations for Hybrid Controlled Trials",
-    "url": "https://arxiv.org/abs/2608.26475",
-    "description": "arXiv:2608.26475v1 Announce Type: new \nAbstract: Hybrid controlled trials (HCTs) augment randomized controls with external controls (ECs) to address p",
-    "date": "2026-08-28",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Wavelet-Based Bayesian Hierarchical Modeling with Regularized Horseshoe Priors for Spatially Correlated Functional Data",
-    "url": "https://arxiv.org/abs/2608.26510",
-    "description": "arXiv:2608.26510v1 Announce Type: new \nAbstract: Environmental monitoring networks increasingly record pollutant levels as curves observed over time a",
-    "date": "2026-08-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Frequentist prediction intervals for random-effects meta-analysis via confidence-distribution propagation",
-    "url": "https://arxiv.org/abs/2608.26527",
-    "description": "arXiv:2608.26527v1 Announce Type: new \nAbstract: Prediction intervals are increasingly recommended in random-effects meta-analysis because they descri",
-    "date": "2026-08-28",
-    "cat": "学术",
+    "title": "Steep rise in electric vehicle sales",
+    "url": "https://flowingdata.com/2026/08/21/steep-rise-in-electric-vehicle-sales/",
+    "description": "For the New York Times, Mira Rojanasakul and Brad Plumer report on the&#8230;Tags: electric vehicle, New York Times",
+    "date": "2026-08-21",
+    "cat": "技术",
     "lang": "en"
   }
 ]
