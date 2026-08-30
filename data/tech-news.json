@@ -1,5 +1,13 @@
 [
   {
+    "title": "Making Iroshizuku Interactive with Observable",
+    "url": "https://www.r-bloggers.com/2026/08/making-iroshizuku-interactive-with-observable/",
+    "description": "One tiny dataset, another rabbit hole 🐇🕳️\nIn the previous post, I turned 24 Pilot Iroshizuku fountain pen inks into a tiny shop using ggplot2.\nBut whi",
+    "date": "2026-08-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "A third of new webpages written with AI",
     "url": "https://flowingdata.com/2026/08/28/a-third-of-new-webpages-written-with-ai/",
     "description": "It is trivial to generate bodies of text on infinite topics, so of&#8230;Tags: Internet, Pew Research, writing",
@@ -108,14 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/08/does-state-life-expectancy-correlate-with-political-party-voting/",
     "description": "Overview\n     \nDo people in red states live shorter lives? \n     \nThis project examines whether state level life expectancy is statistically associate",
     "date": "2026-08-22",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Steep rise in electric vehicle sales",
-    "url": "https://flowingdata.com/2026/08/21/steep-rise-in-electric-vehicle-sales/",
-    "description": "For the New York Times, Mira Rojanasakul and Brad Plumer report on the&#8230;Tags: electric vehicle, New York Times",
-    "date": "2026-08-21",
     "cat": "技术",
     "lang": "en"
   }
