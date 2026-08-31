@@ -1,122 +1,122 @@
 [
   {
-    "title": "Making Iroshizuku Interactive with Observable",
-    "url": "https://www.r-bloggers.com/2026/08/making-iroshizuku-interactive-with-observable/",
-    "description": "One tiny dataset, another rabbit hole 🐇🕳️\nIn the previous post, I turned 24 Pilot Iroshizuku fountain pen inks into a tiny shop using ggplot2.\nBut whi",
-    "date": "2026-08-29",
-    "cat": "技术",
+    "title": "Optimal Transport for Network Comparison: A Review with Machine Learning Applications",
+    "url": "https://arxiv.org/abs/2608.27500",
+    "description": "arXiv:2608.27500v1 Announce Type: new \nAbstract: Network comparison using optimal transport is a growing area of research in network science. Unlike s",
+    "date": "2026-08-31",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A third of new webpages written with AI",
-    "url": "https://flowingdata.com/2026/08/28/a-third-of-new-webpages-written-with-ai/",
-    "description": "It is trivial to generate bodies of text on infinite topics, so of&#8230;Tags: Internet, Pew Research, writing",
-    "date": "2026-08-28",
-    "cat": "实习",
+    "title": "Bivariate geostatistical latent variable models for the analysis of antibody density data",
+    "url": "https://arxiv.org/abs/2608.27534",
+    "description": "arXiv:2608.27534v1 Announce Type: new \nAbstract: The increasing availability of serosurveys that measure antibody responses to multiple antigens requi",
+    "date": "2026-08-31",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "rOpenSci News Digest, August 2026",
-    "url": "https://www.r-bloggers.com/2026/08/ropensci-news-digest-august-2026/",
-    "description": "Dear rOpenSci friends, it’s time for our monthly news roundup!  You can read this post on our blog. Now let’s dive into the activity at and around rOp",
-    "date": "2026-08-28",
-    "cat": "技术",
+    "title": "Towards a mathematical theory of superposition",
+    "url": "https://arxiv.org/abs/2608.27540",
+    "description": "arXiv:2608.27540v1 Announce Type: new \nAbstract: We develop a mathematical theory of superposition in neural networks using tools from frame theory an",
+    "date": "2026-08-31",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Amazon shutting down Mechanical Turk",
-    "url": "https://flowingdata.com/2026/08/27/amazon-shutting-down-mechanical-turk/",
-    "description": "Annie Palmer for CNBC:\n“We regularly evaluate our programs, tools and services and&#8230;Tags: Amazon, CNBC, Mechanical Turk, shutdown",
-    "date": "2026-08-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "✚ Visualization tools, datasets, and resources — August 2026 roundup",
-    "url": "https://flowingdata.com/2026/08/27/process-403-roundup/",
-    "description": "Here is what happened in August.Tags: roundup",
-    "date": "2026-08-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "When politicians turned against data centers",
-    "url": "https://flowingdata.com/2026/08/27/when-politicians-turned-against-data-centers/",
-    "description": "For the Washington Post, Jeremy B. Merrill analyzed newsletters and social media posts&#8230;Tags: data center, politics, Washington Post",
-    "date": "2026-08-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "wbstats 1.2.0 is now on CRAN",
-    "url": "https://www.r-bloggers.com/2026/08/wbstats-1-2-0-is-now-on-cran/",
-    "description": "Programmatic Access to Data and Statistics from the World Bank API\n\n\nContinue reading: wbstats 1.2.0 is now on CRAN",
-    "date": "2026-08-27",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Reading notes on Naming Things by Tom Benner",
-    "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-naming-things-by-tom-benner/",
-    "description": "Naming Things by Tom Benner a tiny but neat book about the naming of identifies in code (variables, classes, methods, so not packages or libraries).\nI",
-    "date": "2026-08-27",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Mathematical rivers",
-    "url": "https://flowingdata.com/2026/08/26/mathematical-rivers/",
-    "description": "There is a simple law from John Hack that says the length of&#8230;Tags: drainage, Quanta, rivers",
-    "date": "2026-08-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Do you need a custom R package or Shiny app? I can build it for you",
-    "url": "https://www.r-bloggers.com/2026/08/do-you-need-a-custom-r-package-or-shiny-app-i-can-build-it-for-you/",
-    "description": "I offer turning a set of requirements into a maintainable package or dashboard\nContinue reading: Do you need a custom R package or Shiny app? I can bu",
-    "date": "2026-08-26",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Cochran’s Q test in R, or the extension of McNemar’s test for more than two groups",
-    "url": "https://www.r-bloggers.com/2026/08/cochrans-q-test-in-r-or-the-extension-of-mcnemars-test-for-more-than-two-groups/",
-    "description": "Introduction\nIn previous articles, we showed how to test whether two qualitative variables are related thanks to the Chi-square test of independence i",
-    "date": "2026-08-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Why Americans are not working",
-    "url": "https://flowingdata.com/2026/08/25/who-is-not-working-and-why/",
-    "description": "Older people are working later in life and younger people are not entering the labor force as early.Tags: labor force, work",
-    "date": "2026-08-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Trustworthy data visualization",
-    "url": "https://flowingdata.com/2026/08/24/trustworthy-data-visualization/",
-    "description": "Kieran Healy, a professor of sociology at Duke University, gives an enjoyable lecture&#8230;Tags: Kieran Healy, trust",
-    "date": "2026-08-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "On the Expectation-Maximization (EM) algorithm and regression models",
-    "url": "https://www.r-bloggers.com/2026/08/on-the-expectation-maximization-em-algorithm-and-regression-models/",
-    "description": "Using an iterative optimization framework to rethink regression models\nContinue reading: On the Expectation-Maximization (EM) algorithm and regression",
-    "date": "2026-08-24",
+    "title": "Activity-Conditioned Residual Association from Aggregated Relational Data",
+    "url": "https://arxiv.org/abs/2608.27599",
+    "description": "arXiv:2608.27599v1 Announce Type: new \nAbstract: Aggregated relational data (ARD) record how many ties sampled respondents have to predeclared groups ",
+    "date": "2026-08-31",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Does state life expectancy correlate with political party voting?",
-    "url": "https://www.r-bloggers.com/2026/08/does-state-life-expectancy-correlate-with-political-party-voting/",
-    "description": "Overview\n     \nDo people in red states live shorter lives? \n     \nThis project examines whether state level life expectancy is statistically associate",
-    "date": "2026-08-22",
-    "cat": "技术",
+    "title": "Robust model-based clustering via mixtures of multivariate pseudo-Voigt distributions",
+    "url": "https://arxiv.org/abs/2608.27606",
+    "description": "arXiv:2608.27606v1 Announce Type: new \nAbstract: We propose a multivariate extension of the pseudo-Voigt profile-a weighted convex combination of Gaus",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Algebraic implicitization techniques in the graphical models program",
+    "url": "https://arxiv.org/abs/2608.27636",
+    "description": "arXiv:2608.27636v1 Announce Type: new \nAbstract: Many aspects of daily life now rely on technology driven by advanced techniques for analyzing multiva",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Accelerating Bayesian Variable Selection using Piecewise Deterministic Markov Processes",
+    "url": "https://arxiv.org/abs/2608.27770",
+    "description": "arXiv:2608.27770v1 Announce Type: new \nAbstract: Bayesian variable selection becomes computationally challenging when models contain many dependent pa",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Exploiting Exact Conditionals Improves Conditioning: Provably Fast Mixing Time Bounds By Sampling from the Marginal",
+    "url": "https://arxiv.org/abs/2608.27884",
+    "description": "arXiv:2608.27884v1 Announce Type: new \nAbstract: The problem of sampling from a probability distribution arises in many applications such as posterior",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Parameter estimation in Conditional Sequential Monte Carlo algorithms through Particle Learning",
+    "url": "https://arxiv.org/abs/2608.28079",
+    "description": "arXiv:2608.28079v1 Announce Type: new \nAbstract: In this work, we explore particle learning strategies for the joint estimation of static parameters a",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "SCAN: Sequentially Detecting Change-points via Adaptive Nonparametric Inference",
+    "url": "https://arxiv.org/abs/2608.28110",
+    "description": "arXiv:2608.28110v1 Announce Type: new \nAbstract: Modern time series are often long, serially dependent, and non-stationary. Existing change-point meth",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Conformal Risk-Averse Decision Making with Optimized Certainty Equivalent Risk Control",
+    "url": "https://arxiv.org/abs/2608.28179",
+    "description": "arXiv:2608.28179v1 Announce Type: new \nAbstract: We study risk-averse decision making, in which an agent selects actions while being uncertain about t",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Exact two-sided p-values in natural exponential families: coincidence, non-uniqueness, and sample-size stability",
+    "url": "https://arxiv.org/abs/2608.28221",
+    "description": "arXiv:2608.28221v1 Announce Type: new \nAbstract: We study the non-uniqueness of exact two-sided $p$-values in continuous one-parameter natural exponen",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "I-FLOP: Fast Learning of Order and Parents from Interventional Data",
+    "url": "https://arxiv.org/abs/2608.28245",
+    "description": "arXiv:2608.28245v1 Announce Type: new \nAbstract: We extend the FLOP (fast learning of order and parents) algorithm recently proposed by Wien\\\"obst et ",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Response Propensity Estimation and Cross-Fitting",
+    "url": "https://arxiv.org/abs/2608.28324",
+    "description": "arXiv:2608.28324v1 Announce Type: new \nAbstract: This paper investigates whether five fold cross fitting improves nonresponse adjustment in survey est",
+    "date": "2026-08-31",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection",
+    "url": "https://arxiv.org/abs/2608.28375",
+    "description": "arXiv:2608.28375v1 Announce Type: new \nAbstract: Global goodness-of-fit and discrepancy statistics can establish that a sample departs from a referenc",
+    "date": "2026-08-31",
+    "cat": "学术",
     "lang": "en"
   }
 ]
