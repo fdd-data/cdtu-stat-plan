@@ -1,5 +1,13 @@
 [
   {
+    "title": "7 Python Mistakes Beginners Make (And What to Do Instead)",
+    "url": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
+    "description": "It's about the mistakes that make a running program wrong. Below are seven of them. For each one you get the hidden cause, plus the first thing worth ",
+    "date": "2026-08-31",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Local AI Stack for Productive SLMs",
     "url": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
     "description": "A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval.",
@@ -69,14 +77,6 @@
     "description": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered ap",
     "date": "2026-08-24",
     "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6",
-    "url": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
-    "description": "Use Grok Build to create a production-ready data science workflow with EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.",
-    "date": "2026-08-24",
-    "cat": "技术",
     "lang": "en"
   },
   {
