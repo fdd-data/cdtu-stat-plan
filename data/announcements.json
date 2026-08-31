@@ -1,5 +1,13 @@
 [
   {
+    "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
+    "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+    "description": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
+    "date": "2026-08-31",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "7 Python Mistakes Beginners Make (And What to Do Instead)",
     "url": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
     "description": "It's about the mistakes that make a running program wrong. Below are seven of them. For each one you get the hidden cause, plus the first thing worth ",
@@ -69,14 +77,6 @@
     "description": "Kimi Agent is a name that's come to cover a sprawling family, and untangling it matters before judging any piece of it.",
     "date": "2026-08-25",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Leverage Local Small Language Models for Your Projects",
-    "url": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
-    "description": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered ap",
-    "date": "2026-08-24",
-    "cat": "资源",
     "lang": "en"
   },
   {
