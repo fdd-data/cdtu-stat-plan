@@ -1,121 +1,121 @@
 [
   {
-    "title": "Optimal Transport for Network Comparison: A Review with Machine Learning Applications",
-    "url": "https://arxiv.org/abs/2608.27500",
-    "description": "arXiv:2608.27500v1 Announce Type: new \nAbstract: Network comparison using optimal transport is a growing area of research in network science. Unlike s",
-    "date": "2026-08-31",
+    "title": "Comparison of statistical methods for high-dimensional compositional data from flow cytometry: A critical perspective on log-ratio transformation and differential abundance testing",
+    "url": "https://arxiv.org/abs/2608.28760",
+    "description": "arXiv:2608.28760v1 Announce Type: new \nAbstract: Flow cytometry generates inherently compositional count data: observed cell population counts are con",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bivariate geostatistical latent variable models for the analysis of antibody density data",
-    "url": "https://arxiv.org/abs/2608.27534",
-    "description": "arXiv:2608.27534v1 Announce Type: new \nAbstract: The increasing availability of serosurveys that measure antibody responses to multiple antigens requi",
-    "date": "2026-08-31",
+    "title": "Nonparametric Efficient Estimation of Dynamic Treatment Regimes with Competing Risks",
+    "url": "https://arxiv.org/abs/2608.28797",
+    "description": "arXiv:2608.28797v1 Announce Type: new \nAbstract: Many observational studies evaluate the risks and benefits of time-varying interventions. In these lo",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Towards a mathematical theory of superposition",
-    "url": "https://arxiv.org/abs/2608.27540",
-    "description": "arXiv:2608.27540v1 Announce Type: new \nAbstract: We develop a mathematical theory of superposition in neural networks using tools from frame theory an",
-    "date": "2026-08-31",
+    "title": "CARB: A Covariate-Assessed Robust Borrowing Strategy with Literature-Informed Prior Weights for External Data",
+    "url": "https://arxiv.org/abs/2608.28810",
+    "description": "arXiv:2608.28810v1 Announce Type: new \nAbstract: Borrowing external control data can improve the efficiency of clinical trials, particularly when pati",
+    "date": "2026-09-01",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "When to take one box, when to take two: A concrete analysis of Newcomb's problem",
+    "url": "https://arxiv.org/abs/2608.28825",
+    "description": "arXiv:2608.28825v1 Announce Type: new \nAbstract: Fifty-seven years of debate have not led to a consensus on Newcomb's problem. I argue that this failu",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Activity-Conditioned Residual Association from Aggregated Relational Data",
-    "url": "https://arxiv.org/abs/2608.27599",
-    "description": "arXiv:2608.27599v1 Announce Type: new \nAbstract: Aggregated relational data (ARD) record how many ties sampled respondents have to predeclared groups ",
-    "date": "2026-08-31",
+    "title": "Quantitative Target Convergence and Uniform-in-Time Propagation of Chaos for Langevin-Regularized SVGD",
+    "url": "https://arxiv.org/abs/2608.28827",
+    "description": "arXiv:2608.28827v1 Announce Type: new \nAbstract: We establish quantitative convergence to the target and uniform-in-time propagation of chaos for Lang",
+    "date": "2026-09-01",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Orthogonal Validation-Augmented Cox Regression with Internally Validated Failure Indicators Cross-Fitted Estimation, Risk-Set Linearization, and Validation Design",
+    "url": "https://arxiv.org/abs/2608.28839",
+    "description": "arXiv:2608.28839v1 Announce Type: new \nAbstract: Incomplete adjudication and endpoint misclassification arise when gold-standard event classification ",
+    "date": "2026-09-01",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "A penalized logistic generalized regression estimator",
+    "url": "https://arxiv.org/abs/2608.28852",
+    "description": "arXiv:2608.28852v1 Announce Type: new \nAbstract: Under a model-assisted framework, a penalized logistic generalized regression estimator is developed ",
+    "date": "2026-09-01",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Robust model-based clustering via mixtures of multivariate pseudo-Voigt distributions",
-    "url": "https://arxiv.org/abs/2608.27606",
-    "description": "arXiv:2608.27606v1 Announce Type: new \nAbstract: We propose a multivariate extension of the pseudo-Voigt profile-a weighted convex combination of Gaus",
-    "date": "2026-08-31",
+    "title": "Max-Stable Survival Copulas under Dependent Censoring: Sharp Identification and Efficient Inference",
+    "url": "https://arxiv.org/abs/2608.28867",
+    "description": "arXiv:2608.28867v1 Announce Type: new \nAbstract: We study dependent censoring within a generalized Cox first-hitting-time. framework based on compensa",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Algebraic implicitization techniques in the graphical models program",
-    "url": "https://arxiv.org/abs/2608.27636",
-    "description": "arXiv:2608.27636v1 Announce Type: new \nAbstract: Many aspects of daily life now rely on technology driven by advanced techniques for analyzing multiva",
-    "date": "2026-08-31",
+    "title": "Physics-Informed Basis Functions for Nonlinear Response Curve Decomposition: A Parsimonious Alternative to Splines",
+    "url": "https://arxiv.org/abs/2608.28870",
+    "description": "arXiv:2608.28870v1 Announce Type: new \nAbstract: Curve fitting for physical, biological, and engineering data typically forces a choice between interp",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Accelerating Bayesian Variable Selection using Piecewise Deterministic Markov Processes",
-    "url": "https://arxiv.org/abs/2608.27770",
-    "description": "arXiv:2608.27770v1 Announce Type: new \nAbstract: Bayesian variable selection becomes computationally challenging when models contain many dependent pa",
-    "date": "2026-08-31",
+    "title": "External Risk Prediction Informed Bayesian Survival Analysis",
+    "url": "https://arxiv.org/abs/2608.28887",
+    "description": "arXiv:2608.28887v1 Announce Type: new \nAbstract: Prognostic factor evaluation and prediction model development are central to precision oncology, enab",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Exploiting Exact Conditionals Improves Conditioning: Provably Fast Mixing Time Bounds By Sampling from the Marginal",
-    "url": "https://arxiv.org/abs/2608.27884",
-    "description": "arXiv:2608.27884v1 Announce Type: new \nAbstract: The problem of sampling from a probability distribution arises in many applications such as posterior",
-    "date": "2026-08-31",
+    "title": "Bayesian model averaging of risk set probabilities using a geometric representation of multivariate extremes",
+    "url": "https://arxiv.org/abs/2608.28888",
+    "description": "arXiv:2608.28888v1 Announce Type: new \nAbstract: Modeling multivariate extremes using a geometric perspective leverages the shape of the multivariate ",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Parameter estimation in Conditional Sequential Monte Carlo algorithms through Particle Learning",
-    "url": "https://arxiv.org/abs/2608.28079",
-    "description": "arXiv:2608.28079v1 Announce Type: new \nAbstract: In this work, we explore particle learning strategies for the joint estimation of static parameters a",
-    "date": "2026-08-31",
+    "title": "Saturation in G: simple & robust causal inference in cluster randomized trials with informative cluster sizes",
+    "url": "https://arxiv.org/abs/2608.28943",
+    "description": "arXiv:2608.28943v1 Announce Type: new \nAbstract: Cluster randomized trials (CRTs) can exhibit informative cluster sizes (ICS) where cluster size is as",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "SCAN: Sequentially Detecting Change-points via Adaptive Nonparametric Inference",
-    "url": "https://arxiv.org/abs/2608.28110",
-    "description": "arXiv:2608.28110v1 Announce Type: new \nAbstract: Modern time series are often long, serially dependent, and non-stationary. Existing change-point meth",
-    "date": "2026-08-31",
+    "title": "The information geometry of product-reference discrete diffusion: Interaction growth complexity and optimal scheduling",
+    "url": "https://arxiv.org/abs/2608.28949",
+    "description": "arXiv:2608.28949v1 Announce Type: new \nAbstract: We study a class of product-reference diffusion algorithms for sampling from a discrete distribution.",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Conformal Risk-Averse Decision Making with Optimized Certainty Equivalent Risk Control",
-    "url": "https://arxiv.org/abs/2608.28179",
-    "description": "arXiv:2608.28179v1 Announce Type: new \nAbstract: We study risk-averse decision making, in which an agent selects actions while being uncertain about t",
-    "date": "2026-08-31",
+    "title": "Jigsaw-CRL: Recovering Global Latent Causal Order from Fragmented Multi-Client Interventions",
+    "url": "https://arxiv.org/abs/2608.28991",
+    "description": "arXiv:2608.28991v1 Announce Type: new \nAbstract: Causal representation learning (CRL) aims to recover latent causal variables and their structural rel",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Exact two-sided p-values in natural exponential families: coincidence, non-uniqueness, and sample-size stability",
-    "url": "https://arxiv.org/abs/2608.28221",
-    "description": "arXiv:2608.28221v1 Announce Type: new \nAbstract: We study the non-uniqueness of exact two-sided $p$-values in continuous one-parameter natural exponen",
-    "date": "2026-08-31",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "I-FLOP: Fast Learning of Order and Parents from Interventional Data",
-    "url": "https://arxiv.org/abs/2608.28245",
-    "description": "arXiv:2608.28245v1 Announce Type: new \nAbstract: We extend the FLOP (fast learning of order and parents) algorithm recently proposed by Wien\\\"obst et ",
-    "date": "2026-08-31",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Response Propensity Estimation and Cross-Fitting",
-    "url": "https://arxiv.org/abs/2608.28324",
-    "description": "arXiv:2608.28324v1 Announce Type: new \nAbstract: This paper investigates whether five fold cross fitting improves nonresponse adjustment in survey est",
-    "date": "2026-08-31",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Localizing Global Discrepancies: Marginal Contributions and Contextual Anomaly Detection",
-    "url": "https://arxiv.org/abs/2608.28375",
-    "description": "arXiv:2608.28375v1 Announce Type: new \nAbstract: Global goodness-of-fit and discrepancy statistics can establish that a sample departs from a referenc",
-    "date": "2026-08-31",
+    "title": "Sharp Restricted Isometry Thresholds for Global Minima of Rank-Restricted Matrix LASSO",
+    "url": "https://arxiv.org/abs/2608.29018",
+    "description": "arXiv:2608.29018v1 Announce Type: new \nAbstract: We determine the sharp restricted isometry threshold for recovery at global minima of the rank-restri",
+    "date": "2026-09-01",
     "cat": "学术",
     "lang": "en"
   }
