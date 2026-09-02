@@ -1,5 +1,29 @@
 [
   {
+    "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
+    "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
+    "description": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
+    "date": "2026-09-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "This Python Library Can Run Pandas Workloads Up to 20x Faster",
+    "url": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
+    "description": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x fa",
+    "date": "2026-09-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
+    "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
+    "description": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
+    "date": "2026-09-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Free Transcription with Speakr",
     "url": "https://www.kdnuggets.com/free-transcription-with-speakr",
     "description": "How to set up, use, and get the most out of a private, self-hosted transcription platform with full control over where your audio goes",
@@ -52,30 +76,6 @@
     "url": "https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts",
     "description": "Hey, Google Engineers: What prompt do you personally refuse to work without, and why?",
     "date": "2026-08-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Understanding the Impact of AI on Job Markets",
-    "url": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
-    "description": "Explore five distinct ways AI is reshaping jobs, from automating routine tasks to thinning entry-level hiring.",
-    "date": "2026-08-26",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "10 Rules for Getting Better Results from AI Coding Agents",
-    "url": "https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents",
-    "description": "Everyone's using AI coding agents. Here's how to make yours actually useful.",
-    "date": "2026-08-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Data & AI Leadership Questions That Will Define the Next Stage of Enterprise AI",
-    "url": "https://www.kdnuggets.com/2026/08/corinium/the-data-ai-leadership-questions-that-will-define-the-next-stage-of-enterprise-ai",
-    "description": "If you're responsible for turning data and AI strategy into enterprise reality, this is a conversation worth being part of.",
-    "date": "2026-08-25",
     "cat": "技术",
     "lang": "en"
   },
