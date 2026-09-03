@@ -1,122 +1,122 @@
 [
   {
-    "title": "Provably Efficient Federated Reinforcement Learning with Linear Function Approximation and Logarithmic Communication Cost",
-    "url": "https://arxiv.org/abs/2609.00193",
-    "description": "arXiv:2609.00193v1 Announce Type: new \nAbstract: We study federated online reinforcement learning with linear function approximation. While recent mul",
-    "date": "2026-09-02",
+    "title": "Simple Covariate Adjustment for Many Estimands Using Stable Balancing Weights",
+    "url": "https://arxiv.org/abs/2609.01638",
+    "description": "arXiv:2609.01638v1 Announce Type: new \nAbstract: Covariate adjustment can improve precision in estimating treatment effects in clinical trials, and re",
+    "date": "2026-09-03",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Exact Global MCMC with Denoising Diffusion",
-    "url": "https://arxiv.org/abs/2609.00279",
-    "description": "arXiv:2609.00279v1 Announce Type: new \nAbstract: This work shows that diffusion models learned with standard denoising loss can provide effective glob",
-    "date": "2026-09-02",
+    "title": "Matrix-Aware Proper Scoring Rules and Significance Testing for Correlation and Covariance Forecasts in Python",
+    "url": "https://arxiv.org/abs/2609.01648",
+    "description": "arXiv:2609.01648v1 Announce Type: new \nAbstract: Forecasting a correlation or covariance matrix is common in risk management and portfolio constructio",
+    "date": "2026-09-03",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Parameterising Gaussian Graphical Models",
-    "url": "https://arxiv.org/abs/2609.00288",
-    "description": "arXiv:2609.00288v1 Announce Type: new \nAbstract: Gaussian graphical models (GGMs) describe the dependence structure among jointly Gaussian random vari",
-    "date": "2026-09-02",
+    "title": "A normal-inverse-Wishart (NIW) Bayesian synthesizer for multivariate normal data with application to polygenic risk scores",
+    "url": "https://arxiv.org/abs/2609.01656",
+    "description": "arXiv:2609.01656v1 Announce Type: new \nAbstract: Bayesian synthesis, which generates synthetic data by sampling from the posterior predictive distribu",
+    "date": "2026-09-03",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Generalized Bayesian Clustering with Regression for Unaligned Longitudinal Binary Data",
-    "url": "https://arxiv.org/abs/2609.00307",
-    "description": "arXiv:2609.00307v1 Announce Type: new \nAbstract: We propose a generalized Bayesian clustering with regression model for unaligned longitudinal binary ",
-    "date": "2026-09-02",
+    "title": "Random Forest-Informed Cellular Automaton for Large-Scale Wildfire Spread Modelling",
+    "url": "https://arxiv.org/abs/2609.01675",
+    "description": "arXiv:2609.01675v1 Announce Type: new \nAbstract: Accurate large-scale wildfire spread modelling requires models that capture both the environmental co",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "On the discretization of the object space in inverse problems with application to cryo-electron microscopy",
+    "url": "https://arxiv.org/abs/2609.01688",
+    "description": "arXiv:2609.01688v1 Announce Type: new \nAbstract: In many inverse problems, the aim is to recover a probability distribution on a latent (or object sta",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Pooling and Drift in Delayed Bandits",
+    "url": "https://arxiv.org/abs/2609.01761",
+    "description": "arXiv:2609.01761v1 Announce Type: new \nAbstract: A system often has to act long before it learns whether the act worked: a recommender sees a click in",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Robust Bayesian Inference for Unnormalized Models with Mixed-Domain Data",
+    "url": "https://arxiv.org/abs/2609.01783",
+    "description": "arXiv:2609.01783v1 Announce Type: new \nAbstract: Many statistical models involve parameter-dependent normalizing constants that are computationally in",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Conditional Distribution Estimation Given Functional Covariates Using Deep Operator Networks",
+    "url": "https://arxiv.org/abs/2609.01842",
+    "description": "arXiv:2609.01842v1 Announce Type: new \nAbstract: Functional linear models are commonly used for analyzing functional data with scalar responses, parti",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Uncertainty Quantification of State Variables Trajectories in the Context of Inverse Problems: An Approach from Bayesian Inference and FDA",
+    "url": "https://arxiv.org/abs/2609.01919",
+    "description": "arXiv:2609.01919v1 Announce Type: new \nAbstract: In this article, we address the problem of uncertainty quantification of state variables in the conte",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "nethist: An R package for Nonparametric Graphon Estimation via Network Histograms",
+    "url": "https://arxiv.org/abs/2609.01937",
+    "description": "arXiv:2609.01937v1 Announce Type: new \nAbstract: Understanding the generative mechanism of real-world networks is crucial for analyzing connection pat",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Neural Networks Learning the Radon--Nikodym Derivative: Empirical Option Pricing in Incomplete Markets",
+    "url": "https://arxiv.org/abs/2609.01941",
+    "description": "arXiv:2609.01941v1 Announce Type: new \nAbstract: In incomplete markets, no-arbitrage (NFLVR) guarantees the existence, not the uniqueness, of an equiv",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bigraphical Mat\\'ern-Whittle (BMW) Processes for Fast Inference of Big Multivariate Spatial Data on General Domains",
+    "url": "https://arxiv.org/abs/2609.01950",
+    "description": "arXiv:2609.01950v1 Announce Type: new \nAbstract: Large spatial data sets now record many correlated variables at many thousands of locations, often on",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A staggered seamless dose-optimization design for co-developing monotherapy and combination therapy",
+    "url": "https://arxiv.org/abs/2609.01954",
+    "description": "arXiv:2609.01954v1 Announce Type: new \nAbstract: Contemporary oncology drug development increasingly requires efficient dose-optimization strategies t",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Merging Modal Clusters via Significance Assessment",
+    "url": "https://arxiv.org/abs/2609.01958",
+    "description": "arXiv:2609.01958v1 Announce Type: new \nAbstract: To deal with superfluous clusters and to reduce the number of clusters as often desired in practice, ",
+    "date": "2026-09-03",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Sequential Certification of Threshold Decisions in Rare-Event Risk Prediction",
+    "url": "https://arxiv.org/abs/2609.01968",
+    "description": "arXiv:2609.01968v1 Announce Type: new \nAbstract: Rare clinical outcomes pose a difficulty deeper than ordinary class imbalance: a penalized logistic m",
+    "date": "2026-09-03",
     "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "A convolutional framework for detecting event-driven dynamics in energy price series",
-    "url": "https://arxiv.org/abs/2609.00402",
-    "description": "arXiv:2609.00402v1 Announce Type: new \nAbstract: This paper develops a general convolutional neural network (CNN) framework for detecting heterogeneou",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Non-Uniform Random Scans in Gibbs Sampling and CAVI",
-    "url": "https://arxiv.org/abs/2609.00408",
-    "description": "arXiv:2609.00408v1 Announce Type: new \nAbstract: Gibbs sampling and coordinate ascent variational inference (CAVI) are two basic coordinate-wise metho",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Genetic association testing with multivariate survival phenotypes under interval censoring",
-    "url": "https://arxiv.org/abs/2609.00456",
-    "description": "arXiv:2609.00456v1 Announce Type: new \nAbstract: Set-based genetic association tests provide a powerful framework for detecting genetic effects on com",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Anytime-Valid Distribution Shift Detection via Predictive Rank Martingales",
-    "url": "https://arxiv.org/abs/2609.00536",
-    "description": "arXiv:2609.00536v1 Announce Type: new \nAbstract: Many sequential distribution shift detectors update a growing reference set with incoming observation",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "An efficient EM algorithm for both element-wise and structural missingness in matrix-variate normal mixture models",
-    "url": "https://arxiv.org/abs/2609.00616",
-    "description": "arXiv:2609.00616v1 Announce Type: new \nAbstract: Matrix-variate data with missing entries arise frequently in applications where observations are natu",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Deterministic Leave-One-Cluster-Out Cross-Validation for Multilevel Bayesian Structural Equation Models",
-    "url": "https://arxiv.org/abs/2609.00670",
-    "description": "arXiv:2609.00670v1 Announce Type: new \nAbstract: We introduce a closed-form, refit-free procedure for leave-one-cluster-out (LOCO) cross-validation in",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Robust dimension-free estimation of simple random tensors: optimal guarantees under heavy tails and adversarial contamination",
-    "url": "https://arxiv.org/abs/2609.00675",
-    "description": "arXiv:2609.00675v1 Announce Type: new \nAbstract: We study robust estimation of simple random tensors of arbitrary order $q\\in\\mathbb{N}$ under finite-",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Extending Subsampling to Sequential Stopping",
-    "url": "https://arxiv.org/abs/2609.00717",
-    "description": "arXiv:2609.00717v1 Announce Type: new \nAbstract: Fixed-width sequential stopping rules terminate a stochastic simulation once an estimated confidence ",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Deep Skew-t Mixture Models",
-    "url": "https://arxiv.org/abs/2609.00773",
-    "description": "arXiv:2609.00773v1 Announce Type: new \nAbstract: High-dimensional clustering is challenging when component distributions are both heavy-tailed and dir",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Semi-Supervised Classification with Informative Missing Labels in Weibull Mixture Models",
-    "url": "https://arxiv.org/abs/2609.00774",
-    "description": "arXiv:2609.00774v1 Announce Type: new \nAbstract: We consider semi-supervised classification from a partially classified sample arising from a two-comp",
-    "date": "2026-09-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Embedded Conditional Independence Tests for Large Language Model Generated Text with an Application to German Parliament Speeches",
-    "url": "https://arxiv.org/abs/2609.00946",
-    "description": "arXiv:2609.00946v1 Announce Type: new \nAbstract: Conditional independence tests (CITs) test for conditional dependence between two random objects $X$ ",
-    "date": "2026-09-02",
-    "cat": "学术",
     "lang": "en"
   }
 ]
