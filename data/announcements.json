@@ -1,5 +1,21 @@
 [
   {
+    "title": "I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time",
+    "url": "https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time",
+    "description": "The review pass fixed a row count and approved two wrong conclusions.",
+    "date": "2026-09-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Free Courses to Go From LLM Beginner to Practitioner",
+    "url": "https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner",
+    "description": "A curated, linear pipeline of high-signal free resources that takes you from backpropagation basics to deploying production-grade LLM applications.",
+    "date": "2026-09-03",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
     "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
     "description": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/the-local-ai-stack-for-productive-slms",
     "description": "A practical framework for choosing the right tools at each layer of your local AI setup, from model serving to context retrieval.",
     "date": "2026-08-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Quantization and Pruning Methods to Make Your LLM Leaner",
-    "url": "https://www.kdnuggets.com/quantization-and-pruning-methods-to-make-your-llm-leaner",
-    "description": "This article walks through what each technique actually does, why skipping them costs real money and real latency, and then gets hands-on with five sp",
-    "date": "2026-08-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "What We Can Learn From Google Engineers’ Indispensible Prompts",
-    "url": "https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts",
-    "description": "Hey, Google Engineers: What prompt do you personally refuse to work without, and why?",
-    "date": "2026-08-27",
     "cat": "技术",
     "lang": "en"
   },
