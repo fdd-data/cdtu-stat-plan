@@ -8,6 +8,14 @@
     "lang": "en"
   },
   {
+    "title": "Bringing BERT — R functions in Excel — up to R 4.6",
+    "url": "https://www.r-bloggers.com/2026/09/bringing-bert-r-functions-in-excel-up-to-r-4-6/",
+    "description": "BERT lets you call R functions from Excel cells, but its author stopped work in 2018. Bringing it up to R 4.6 — and to working on every R from 3.5 up ",
+    "date": "2026-09-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Form a curve, make a pot",
     "url": "https://flowingdata.com/2026/09/03/form-a-curve-make-a-pot/",
     "description": "Imagine a pottery wheel that turns clay on an axis. A potter forms&#8230;Tags: curve, Karim Douïeb, pottery",
@@ -107,14 +115,6 @@
     "title": "Map of flood in Nepal",
     "url": "https://flowingdata.com/2026/08/31/map-of-flood-in-nepal/",
     "description": "For the New York Times, Pablo Robles, Leanne Abraham, and Josh Holder mapped&#8230;Tags: flood, Nepal, New York Times",
-    "date": "2026-08-31",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Darth Vader makes the case for Flock cameras",
-    "url": "https://flowingdata.com/2026/08/31/darth-vader-makes-the-case-for-flock-cameras/",
-    "description": "Flock Safety has been getting some hate lately, because as it turns out,&#8230;Tags: Darth Vader, Flock, privacy",
     "date": "2026-08-31",
     "cat": "技术",
     "lang": "en"
