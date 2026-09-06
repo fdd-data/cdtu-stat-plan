@@ -56,6 +56,14 @@
     "lang": "en"
   },
   {
+    "title": "Slicing in tidyomics",
+    "url": "https://www.r-bloggers.com/2026/09/slicing-in-tidyomics/",
+    "description": "Introduction\nThe tidyverse verb slice() lets you select observations by position, returning a subset of the data based on integer indices. There are a",
+    "date": "2026-09-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Observable notebooks get a rewrite",
     "url": "https://flowingdata.com/2026/09/02/observable-notebooks-get-a-rewrite/",
     "description": "Observable, known for visualization-centric notebooks to share code, restarted fresh to adjust for&#8230;Tags: notebook, Observable",
@@ -109,14 +117,6 @@
     "description": "Introduction Portfolio construction often relies on mean–variance optimization or factor models. Yet, recent research highlights the importance of ske",
     "date": "2026-09-01",
     "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Repeated measures ANOVA in R",
-    "url": "https://www.r-bloggers.com/2026/08/repeated-measures-anova-in-r/",
-    "description": "Introduction\nData\nAim and hypotheses\nAssumptions\nVariable type and design\nIndependence between subjects\nNormality\nSphericity\nOutliers\nRepeated measure",
-    "date": "2026-09-01",
-    "cat": "技术",
     "lang": "en"
   }
 ]
