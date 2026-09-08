@@ -1,5 +1,29 @@
 [
   {
+    "title": "From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems",
+    "url": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
+    "description": "Over the past several years, I have worked through three successive generations of intelligent retrieval systems, each solving problems the previous g",
+    "date": "2026-09-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found",
+    "url": "https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era",
+    "description": "The way we build interfaces is changing. As AI agents write more of our code, the tools we use to render that code may need to change too.",
+    "date": "2026-09-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Ways I Access Coding Models for Free",
+    "url": "https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free",
+    "description": "Explore five free ways to access AI coding agents, proprietary coding models, and open-weight models without paying for expensive subscriptions or GPU",
+    "date": "2026-09-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Switchyard: NVIDIA’s Open Source Routing Library",
     "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
     "description": "Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
@@ -52,30 +76,6 @@
     "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
     "description": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
     "date": "2026-09-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Free Transcription with Speakr",
-    "url": "https://www.kdnuggets.com/free-transcription-with-speakr",
-    "description": "How to set up, use, and get the most out of a private, self-hosted transcription platform with full control over where your audio goes",
-    "date": "2026-09-01",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "7 Common Python Mistakes to Avoid in AI Workflows",
-    "url": "https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows",
-    "description": "A clean run proves the process executed. It says nothing about what the pipeline learned, from which rows, in what state, or whether the saved result ",
-    "date": "2026-09-01",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
-    "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
-    "description": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
-    "date": "2026-08-31",
     "cat": "技术",
     "lang": "en"
   },
