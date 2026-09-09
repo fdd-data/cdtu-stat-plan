@@ -1,5 +1,21 @@
 [
   {
+    "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
+    "url": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
+    "description": "A six-stage pipeline that checks its numbers before calling anything an answer.",
+    "date": "2026-09-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 Approaches to Efficient LLM Training on Limited Hardware",
+    "url": "https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware",
+    "description": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
+    "date": "2026-09-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "From RAG to Agentic AI: Building the Next Generation of Intelligent Enterprise Systems",
     "url": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
     "description": "Over the past several years, I have worked through three successive generations of intelligent retrieval systems, each solving problems the previous g",
@@ -59,22 +75,6 @@
     "title": "Quantifying User Behavior Patterns to Build Better Predictive Features",
     "url": "https://www.kdnuggets.com/quantifying-user-behavior-patterns-to-build-better-predictive-features",
     "description": "Simply knowing that a 35-year-old male in Seattle clicked 12 times last month tells you almost nothing about his intent.",
-    "date": "2026-09-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "This Python Library Can Run Pandas Workloads Up to 20x Faster",
-    "url": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
-    "description": "Discover how FireDucks can speed up pandas workloads with lazy execution, compiler optimization, and multithreaded processing, delivering up to 20x fa",
-    "date": "2026-09-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Real-World Applications of Agentic AI in Enterprise Automation",
-    "url": "https://www.kdnuggets.com/5-real-world-applications-of-agentic-ai-in-enterprise-automation",
-    "description": "Deploy agentic AI across SRE, finance, legal, migration, and security with deterministic safety constraints.",
     "date": "2026-09-02",
     "cat": "技术",
     "lang": "en"

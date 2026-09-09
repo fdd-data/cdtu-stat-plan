@@ -8,6 +8,14 @@
     "lang": "en"
   },
   {
+    "title": "How to Create a Function in R: Custom Median & ggplot2 Examples",
+    "url": "https://www.r-bloggers.com/2026/09/how-to-create-a-function-in-r-custom-median-ggplot2-examples/",
+    "description": "If you've written the same block of R code three times this week — a group summary, a plot, a cleanup step — you don't need another package. You need ",
+    "date": "2026-09-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "UN votes to support map projection that accurately shows the size of Africa",
     "url": "https://flowingdata.com/2026/09/08/un-votes-to-support-map-projection-that-accurately-shows-the-size-of-africa/",
     "description": "Last year, the African Union pushed for wider adoption of the Equal Area&#8230;Tags: Africa, area, cartography, Guardian, projections",
@@ -109,14 +117,6 @@
     "description": "Observable, known for visualization-centric notebooks to share code, restarted fresh to adjust for&#8230;Tags: notebook, Observable",
     "date": "2026-09-02",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "India enlists 3 million people to count the full population",
-    "url": "https://flowingdata.com/2026/09/02/india-enlists-3-million-people-to-count-the-full-population/",
-    "description": "Due to Covid, India&#8217;s census count is overdue by five years. But they&#8217;re&#8230;Tags: Bloomberg, census, India, population",
-    "date": "2026-09-02",
-    "cat": "技术",
     "lang": "en"
   }
 ]
