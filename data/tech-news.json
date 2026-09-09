@@ -1,5 +1,13 @@
 [
   {
+    "title": "Terence Tao on the paradox of solving mathematical problems",
+    "url": "https://flowingdata.com/2026/09/09/terence-tao-on-the-paradox-of-solving-mathematical-problems/",
+    "description": "Mathematician Terence Tao, a 2006 Fields Medal winner and professor at UCLA, discusses&#8230;Tags: Big Think, math, paradox, Terence Tao",
+    "date": "2026-09-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "UN votes to support map projection that accurately shows the size of Africa",
     "url": "https://flowingdata.com/2026/09/08/un-votes-to-support-map-projection-that-accurately-shows-the-size-of-africa/",
     "description": "Last year, the African Union pushed for wider adoption of the Equal Area&#8230;Tags: Africa, area, cartography, Guardian, projections",
@@ -109,14 +117,6 @@
     "description": "Due to Covid, India&#8217;s census count is overdue by five years. But they&#8217;re&#8230;Tags: Bloomberg, census, India, population",
     "date": "2026-09-02",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Z-Test in R: Complete Guide with One-Sample & Two-Sample Examples",
-    "url": "https://www.r-bloggers.com/2026/09/z-test-in-r-complete-guide-with-one-sample-two-sample-examples/",
-    "description": "Complete guide to running one-sample and two-sample Z-tests in R using BSDA::z.test(), the manual pnorm/qnorm method, and how to choose between a Z-te",
-    "date": "2026-09-02",
-    "cat": "资源",
     "lang": "en"
   }
 ]
