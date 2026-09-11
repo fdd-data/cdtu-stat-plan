@@ -1,5 +1,21 @@
 [
   {
+    "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
+    "description": "Learn how to refactor messy Python code into clean, maintainable functions.",
+    "date": "2026-09-11",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "5 Python Techniques for Efficient Resource Orchestration",
+    "url": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
+    "description": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniqu",
+    "date": "2026-09-11",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
     "url": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
     "description": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actuall",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/is-arrowjs-really-the-ui-for-the-agentic-era",
     "description": "The way we build interfaces is changing. As AI agents write more of our code, the tools we use to render that code may need to change too.",
     "date": "2026-09-08",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Ways I Access Coding Models for Free",
-    "url": "https://www.kdnuggets.com/5-ways-i-access-coding-models-for-free",
-    "description": "Explore five free ways to access AI coding agents, proprietary coding models, and open-weight models without paying for expensive subscriptions or GPU",
-    "date": "2026-09-08",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Switchyard: NVIDIA’s Open Source Routing Library",
-    "url": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
-    "description": "Stop sending every AI request to your most expensive model. See how intelligent routing can cut cost and latency without sacrificing much quality.",
-    "date": "2026-09-04",
     "cat": "技术",
     "lang": "en"
   },
