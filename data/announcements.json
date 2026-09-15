@@ -1,5 +1,21 @@
 [
   {
+    "title": "How I’m Using Google Opal for Even More AI Automations",
+    "url": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
+    "description": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Her",
+    "date": "2026-09-15",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
+    "url": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
+    "description": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, an",
+    "date": "2026-09-15",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)",
     "url": "https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss",
     "description": "Senior Python practice, watched up close, is mostly surprise reduction. These seven habits surface the surprises before production does.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing",
     "description": "Automate common CSV tasks with these 5 Python scripts for cleaning, validating, transforming, and processing CSV files using the standard library.",
     "date": "2026-09-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
-    "url": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
-    "description": "A six-stage pipeline that checks its numbers before calling anything an answer.",
-    "date": "2026-09-09",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "7 Approaches to Efficient LLM Training on Limited Hardware",
-    "url": "https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware",
-    "description": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
-    "date": "2026-09-09",
     "cat": "技术",
     "lang": "en"
   },
