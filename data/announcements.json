@@ -1,5 +1,13 @@
 [
   {
+    "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
+    "url": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
+    "description": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simpl",
+    "date": "2026-09-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How I’m Using Google Opal for Even More AI Automations",
     "url": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
     "description": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Her",
@@ -67,14 +75,6 @@
     "title": "7 Steps to Become a Forward Deployed Engineer in 2026",
     "url": "https://www.kdnuggets.com/7-steps-to-become-a-forward-deployed-engineer-in-2026",
     "description": "FDEs are becoming some of the most in-demand engineers in AI. Here’s the 7-step roadmap to becoming one in 2026.",
-    "date": "2026-09-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Useful Python Scripts to Automate CSV Processing",
-    "url": "https://www.kdnuggets.com/5-useful-python-scripts-to-automate-csv-processing",
-    "description": "Automate common CSV tasks with these 5 Python scripts for cleaning, validating, transforming, and processing CSV files using the standard library.",
     "date": "2026-09-10",
     "cat": "技术",
     "lang": "en"
