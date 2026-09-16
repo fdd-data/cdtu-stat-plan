@@ -1,121 +1,121 @@
 [
   {
-    "title": "A new six parameters generalized Weibull-Kumaraswamy-{Lomax) Distribution with a Novel Linear Series Expansion of Its Probability Density",
-    "url": "https://arxiv.org/abs/2609.13316",
-    "description": "arXiv:2609.13316v1 Announce Type: new \nAbstract: One method of generalizing a distribution is to add new parameter to the baseline distribution. In th",
-    "date": "2026-09-15",
+    "title": "Component-weighted sparse group LASSO for finite mixture regression models",
+    "url": "https://arxiv.org/abs/2609.16050",
+    "description": "arXiv:2609.16050v1 Announce Type: new \nAbstract: When analyzing heterogeneous data with latent subpopulations, finite mixture regression (FMR) models ",
+    "date": "2026-09-16",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Coherent and robust Bayesian inference under informative sampling via sample-level weight models",
+    "url": "https://arxiv.org/abs/2609.16225",
+    "description": "arXiv:2609.16225v1 Announce Type: new \nAbstract: We develop two complementary Bayesian procedures for analytic inference under informative sampling. T",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Semiparametric Hidden Markov Random Partition Fields for Factor Collapse on Graphs: A Study of Cortical Mapping of Fingertips",
-    "url": "https://arxiv.org/abs/2609.13319",
-    "description": "arXiv:2609.13319v1 Announce Type: new \nAbstract: Understanding how the brain's cortical regions respond to stimuli like fingertip tapping is a signifi",
-    "date": "2026-09-15",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "A tool for new Hybrid models: a swift algorithm to calculate the left inverse of a square root of a horizontally localized climatological ensemble covariance matrix",
-    "url": "https://arxiv.org/abs/2609.13327",
-    "description": "arXiv:2609.13327v1 Announce Type: new \nAbstract: Computing matrix inverses (or, e.g., left inverses) using known algorithms is in general computationa",
-    "date": "2026-09-15",
+    "title": "Projection, Memory, and the Validity of Scalar Early-Warning Signals: A Schur--Volterra Theory with an AMOC Application",
+    "url": "https://arxiv.org/abs/2609.16235",
+    "description": "arXiv:2609.16235v1 Announce Type: new \nAbstract: Early-warning signals are usually computed from one or a few observables, although the underlying dyn",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Stochastic Gradient Descent over P2",
-    "url": "https://arxiv.org/abs/2609.13343",
-    "description": "arXiv:2609.13343v1 Announce Type: new \nAbstract: Stochastic gradient descent (SGD) admits diffusion approximations that replace the complicated random",
-    "date": "2026-09-15",
+    "title": "Copula Adapted Directed Acyclic Graph for Cluster Representation of Biomedical Data",
+    "url": "https://arxiv.org/abs/2609.16240",
+    "description": "arXiv:2609.16240v1 Announce Type: new \nAbstract: Diagnostic errors and mislabeling are common in biomedicine, which compromise the reliability of pred",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Beyond Point Forecasts: A Survey on Probabilistic Forecasting for Time Series and Spatiotemporal Data",
-    "url": "https://arxiv.org/abs/2609.13345",
-    "description": "arXiv:2609.13345v1 Announce Type: new \nAbstract: Probabilistic forecasting is central to decision-making under uncertainty, yet its methodological lan",
-    "date": "2026-09-15",
+    "title": "Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent",
+    "url": "https://arxiv.org/abs/2609.16262",
+    "description": "arXiv:2609.16262v1 Announce Type: new \nAbstract: Pretraining followed by fine-tuning introduces a compute-allocation problem: under a fixed training b",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Wasserstein mixing of a systematic-scan random rotation sampler",
-    "url": "https://arxiv.org/abs/2609.13424",
-    "description": "arXiv:2609.13424v1 Announce Type: new \nAbstract: We study the mixing time of a systematic-scan analogue of Kac's walk that was proposed as a fast surr",
-    "date": "2026-09-15",
+    "title": "The exact dimensional threshold for Spearman rank-correlation compatibility",
+    "url": "https://arxiv.org/abs/2609.16278",
+    "description": "arXiv:2609.16278v1 Announce Type: new \nAbstract: We show that, for a given dimension, the set of Spearman's rank correlation matrices and that of line",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Temporal Fourier Likelihoods with Spatial Hilbert-Space Gaussian Process Approximations",
-    "url": "https://arxiv.org/abs/2609.13441",
-    "description": "arXiv:2609.13441v1 Announce Type: new \nAbstract: Reconstructing stationary space-time Gaussian processes at unobserved locations is costly when many s",
-    "date": "2026-09-15",
+    "title": "Nationally Consistent, Locally Incomplete: A Bayesian Remote-Sensing Audit of Rooftop Photovoltaic Registries",
+    "url": "https://arxiv.org/abs/2609.16294",
+    "description": "arXiv:2609.16294v1 Announce Type: new \nAbstract: Tracking the energy transition requires reliable statistics on renewable deployment. Rooftop photovol",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Generative bootstrap processes",
-    "url": "https://arxiv.org/abs/2609.13471",
-    "description": "arXiv:2609.13471v1 Announce Type: new \nAbstract: We study generative bootstrap processes obtained by resampling from fitted generative distributions. ",
-    "date": "2026-09-15",
+    "title": "Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT",
+    "url": "https://arxiv.org/abs/2609.16365",
+    "description": "arXiv:2609.16365v1 Announce Type: new \nAbstract: Real-world datasets often exhibit long-tailed class distributions, where a few head classes contain a",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Fingerprint Analysis for Climate Change Detection and Attribution under a Latent Factor Model",
-    "url": "https://arxiv.org/abs/2609.13488",
-    "description": "arXiv:2609.13488v1 Announce Type: new \nAbstract: Detection and attribution (D\\&A) analyses provide a statistical framework for quantifying the contrib",
-    "date": "2026-09-15",
+    "title": "bayprior: Structured Bayesian Prior Elicitation, Conflict Diagnostics, and Regulatory Reporting",
+    "url": "https://arxiv.org/abs/2609.16410",
+    "description": "arXiv:2609.16410v1 Announce Type: new \nAbstract: Bayesian clinical trials require a well-specified prior distribution, and regulators increasingly exp",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Conditional-Distribution Framework for Validating Synthetic Multivariate Data",
-    "url": "https://arxiv.org/abs/2609.13553",
-    "description": "arXiv:2609.13553v1 Announce Type: new \nAbstract: Statistical validation of synthetic multivariate data requires assessing whether a generator preserve",
-    "date": "2026-09-15",
+    "title": "Learned Look-Ahead Splitting Rule for CART",
+    "url": "https://arxiv.org/abs/2609.16440",
+    "description": "arXiv:2609.16440v1 Announce Type: new \nAbstract: Classification and regression trees are typically constructed using a greedy splitting rule that maxi",
+    "date": "2026-09-16",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Observational constraints on net radiative forcing confirm aviation contrail warming",
+    "url": "https://arxiv.org/abs/2609.16451",
+    "description": "arXiv:2609.16451v1 Announce Type: new \nAbstract: Contrail cirrus represents a critical component of aviation's non-CO2 climate impact, but its net rad",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A pullback-corrected scalar auxiliary variable optimizer with momentum and adaptive mobility",
-    "url": "https://arxiv.org/abs/2609.13569",
-    "description": "arXiv:2609.13569v1 Announce Type: new \nAbstract: Objectives in scientific machine learning are often prescribed as a sum of several terms, such as the",
-    "date": "2026-09-15",
+    "title": "Certified Inference and Training for Deep Equilibrium Networks: A Continuation Framework with Polynomial Complexity Guarantees",
+    "url": "https://arxiv.org/abs/2609.16485",
+    "description": "arXiv:2609.16485v1 Announce Type: new \nAbstract: We develop a certified continuation framework for equilibrium computation and for training deep equil",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Synthetic Nearest Neighbors: Extending Synthetic Controls for Matrix Completion with Missing Not at Random Data",
-    "url": "https://arxiv.org/abs/2609.13586",
-    "description": "arXiv:2609.13586v1 Announce Type: new \nAbstract: We develop a causal framework for matrix completion under missing not at random (MNAR) data. Drawing ",
-    "date": "2026-09-15",
+    "title": "Salient Bayesian Clustering for Proportional Data via a Multivariate Beta Mixture Model",
+    "url": "https://arxiv.org/abs/2609.16494",
+    "description": "arXiv:2609.16494v1 Announce Type: new \nAbstract: Neighborhoods are multifaceted entities whose attributes span sociocultural, economic, and environmen",
+    "date": "2026-09-16",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Locally calibrated and mesh-free inference for spatial point distributions: closed-form null, contamination law, and detectability threshold",
+    "url": "https://arxiv.org/abs/2609.16497",
+    "description": "arXiv:2609.16497v1 Announce Type: new \nAbstract: Local inference for spatial point distributions is dominated by Monte Carlo calibration. We develop a",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks",
-    "url": "https://arxiv.org/abs/2609.13590",
-    "description": "arXiv:2609.13590v1 Announce Type: new \nAbstract: AI-based item generation and NLP-based prediction of item parameters are producing item banks that ar",
-    "date": "2026-09-15",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Distribution-Free Changepoint Inference for Rainfall Patterns",
-    "url": "https://arxiv.org/abs/2609.13594",
-    "description": "arXiv:2609.13594v1 Announce Type: new \nAbstract: Long records of rainfall contain critical information about the temporal organization of precipitatio",
-    "date": "2026-09-15",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Assumption-Lean Inference for Spectral Differential Network Analysis of High-Dimensional Time Series",
-    "url": "https://arxiv.org/abs/2609.13609",
-    "description": "arXiv:2609.13609v1 Announce Type: new \nAbstract: Network analysis for multivariate time series is popular in many fields, from neuroscience to seismol",
-    "date": "2026-09-15",
+    "title": "Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration",
+    "url": "https://arxiv.org/abs/2609.16509",
+    "description": "arXiv:2609.16509v1 Announce Type: new \nAbstract: Anthropogenic forcing components follow different long-run paths, while persistent temperature change",
+    "date": "2026-09-16",
     "cat": "学术",
     "lang": "en"
   }
