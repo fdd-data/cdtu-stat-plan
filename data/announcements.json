@@ -1,5 +1,85 @@
 [
   {
+    "title": "Estimators in Scikit-LLM: A KDnuggets Cheat Sheet",
+    "url": "https://www.kdnuggets.com/estimators-in-scikit-llm-a-kdnuggets-cheat-sheet",
+    "description": "Scikit-LLM wraps language models in the scikit-learn estimator API, so it drops into a Pipeline or a cross-validation loop natively.",
+    "date": "2026-09-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Build Effective Evals for AI Agents",
+    "url": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
+    "description": "Learn how to build effective evals for AI agents, from designing clear tasks and choosing the right graders to building reliable eval harnesses and tr",
+    "date": "2026-09-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
+    "url": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
+    "description": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simpl",
+    "date": "2026-09-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How I’m Using Google Opal for Even More AI Automations",
+    "url": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
+    "description": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Her",
+    "date": "2026-09-15",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
+    "url": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
+    "description": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, an",
+    "date": "2026-09-15",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "7 Python Best Practices Senior Developers Follow (That Beginners Often Miss)",
+    "url": "https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss",
+    "description": "Senior Python practice, watched up close, is mostly surprise reduction. These seven habits surface the surprises before production does.",
+    "date": "2026-09-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
+    "url": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
+    "description": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make p",
+    "date": "2026-09-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
+    "description": "Learn how to refactor messy Python code into clean, maintainable functions.",
+    "date": "2026-09-11",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "5 Python Techniques for Efficient Resource Orchestration",
+    "url": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
+    "description": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniqu",
+    "date": "2026-09-11",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "A Candid Abacus AI Review: The All-in-One AI Platform for Professionals & Enterprises",
+    "url": "https://www.kdnuggets.com/2026/09/abacus/abacus-ai-candid-review/",
+    "description": "If you’re paying for ChatGPT, Claude, and another AI tool simultaneously, this review is for you. It covers what an AI platform like Abacus AI actuall",
+    "date": "2026-09-10",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",

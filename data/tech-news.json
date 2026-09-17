@@ -1,121 +1,121 @@
 [
   {
-    "title": "Component-weighted sparse group LASSO for finite mixture regression models",
-    "url": "https://arxiv.org/abs/2609.16050",
-    "description": "arXiv:2609.16050v1 Announce Type: new \nAbstract: When analyzing heterogeneous data with latent subpopulations, finite mixture regression (FMR) models ",
-    "date": "2026-09-16",
+    "title": "R\\'enyi Tracking Bounds for Langevin Dynamics with Moving Targets",
+    "url": "https://arxiv.org/abs/2609.17577",
+    "description": "arXiv:2609.17577v1 Announce Type: new \nAbstract: We study Langevin diffusion and Langevin Monte Carlo (LMC) when the target distribution changes over ",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bayesian Quantile Deep Echo State Networks for Nonlinear Time Series",
+    "url": "https://arxiv.org/abs/2609.17579",
+    "description": "arXiv:2609.17579v1 Announce Type: new \nAbstract: Conditional quantiles are central to asymmetric decision losses, tail-risk assessment, and interval f",
+    "date": "2026-09-17",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Coherent and robust Bayesian inference under informative sampling via sample-level weight models",
-    "url": "https://arxiv.org/abs/2609.16225",
-    "description": "arXiv:2609.16225v1 Announce Type: new \nAbstract: We develop two complementary Bayesian procedures for analytic inference under informative sampling. T",
-    "date": "2026-09-16",
+    "title": "Stability-Constrained Approximation in Spline KANs: Exact Layer Balancing and Budget-Compatible Saturation",
+    "url": "https://arxiv.org/abs/2609.17619",
+    "description": "arXiv:2609.17619v1 Announce Type: new \nAbstract: Deep spline superposition networks face a tension between approximation order and stability across de",
+    "date": "2026-09-17",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Projection, Memory, and the Validity of Scalar Early-Warning Signals: A Schur--Volterra Theory with an AMOC Application",
-    "url": "https://arxiv.org/abs/2609.16235",
-    "description": "arXiv:2609.16235v1 Announce Type: new \nAbstract: Early-warning signals are usually computed from one or a few observables, although the underlying dyn",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Copula Adapted Directed Acyclic Graph for Cluster Representation of Biomedical Data",
-    "url": "https://arxiv.org/abs/2609.16240",
-    "description": "arXiv:2609.16240v1 Announce Type: new \nAbstract: Diagnostic errors and mislabeling are common in biomedicine, which compromise the reliability of pred",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Descent",
-    "url": "https://arxiv.org/abs/2609.16262",
-    "description": "arXiv:2609.16262v1 Announce Type: new \nAbstract: Pretraining followed by fine-tuning introduces a compute-allocation problem: under a fixed training b",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "The exact dimensional threshold for Spearman rank-correlation compatibility",
-    "url": "https://arxiv.org/abs/2609.16278",
-    "description": "arXiv:2609.16278v1 Announce Type: new \nAbstract: We show that, for a given dimension, the set of Spearman's rank correlation matrices and that of line",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Nationally Consistent, Locally Incomplete: A Bayesian Remote-Sensing Audit of Rooftop Photovoltaic Registries",
-    "url": "https://arxiv.org/abs/2609.16294",
-    "description": "arXiv:2609.16294v1 Announce Type: new \nAbstract: Tracking the energy transition requires reliable statistics on renewable deployment. Rooftop photovol",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT",
-    "url": "https://arxiv.org/abs/2609.16365",
-    "description": "arXiv:2609.16365v1 Announce Type: new \nAbstract: Real-world datasets often exhibit long-tailed class distributions, where a few head classes contain a",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "bayprior: Structured Bayesian Prior Elicitation, Conflict Diagnostics, and Regulatory Reporting",
-    "url": "https://arxiv.org/abs/2609.16410",
-    "description": "arXiv:2609.16410v1 Announce Type: new \nAbstract: Bayesian clinical trials require a well-specified prior distribution, and regulators increasingly exp",
-    "date": "2026-09-16",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Learned Look-Ahead Splitting Rule for CART",
-    "url": "https://arxiv.org/abs/2609.16440",
-    "description": "arXiv:2609.16440v1 Announce Type: new \nAbstract: Classification and regression trees are typically constructed using a greedy splitting rule that maxi",
-    "date": "2026-09-16",
+    "title": "Multimodal Three-Class Alzheimer's Disease Classification: The MCI Bottleneck",
+    "url": "https://arxiv.org/abs/2609.17649",
+    "description": "arXiv:2609.17649v1 Announce Type: new \nAbstract: Alzheimer's disease is clinically staged as a three-class progression: cognitively normal (CN), mild ",
+    "date": "2026-09-17",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Observational constraints on net radiative forcing confirm aviation contrail warming",
-    "url": "https://arxiv.org/abs/2609.16451",
-    "description": "arXiv:2609.16451v1 Announce Type: new \nAbstract: Contrail cirrus represents a critical component of aviation's non-CO2 climate impact, but its net rad",
-    "date": "2026-09-16",
+    "title": "Local Epochs, Averaging, and Variable Selection in Federated Lasso",
+    "url": "https://arxiv.org/abs/2609.17685",
+    "description": "arXiv:2609.17685v1 Announce Type: new \nAbstract: Theoretical analysis and Monte Carlo simulation separate local-epoch effects from averaging and tunin",
+    "date": "2026-09-17",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Certified Inference and Training for Deep Equilibrium Networks: A Continuation Framework with Polynomial Complexity Guarantees",
-    "url": "https://arxiv.org/abs/2609.16485",
-    "description": "arXiv:2609.16485v1 Announce Type: new \nAbstract: We develop a certified continuation framework for equilibrium computation and for training deep equil",
-    "date": "2026-09-16",
+    "title": "Subgroup Inconsistency and the Dilution Effect in Levene's Test for Homoscedasticity",
+    "url": "https://arxiv.org/abs/2609.17746",
+    "description": "arXiv:2609.17746v1 Announce Type: new \nAbstract: Levene's test for homoscedasticity is a standard procedure used to evaluate whether multiple groups o",
+    "date": "2026-09-17",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Salient Bayesian Clustering for Proportional Data via a Multivariate Beta Mixture Model",
-    "url": "https://arxiv.org/abs/2609.16494",
-    "description": "arXiv:2609.16494v1 Announce Type: new \nAbstract: Neighborhoods are multifaceted entities whose attributes span sociocultural, economic, and environmen",
-    "date": "2026-09-16",
+    "title": "When AI Generates Covariates: Causal Typing and Estimand Drift in Sequential Experiments",
+    "url": "https://arxiv.org/abs/2609.17772",
+    "description": "arXiv:2609.17772v1 Announce Type: new \nAbstract: AI-generated covariates from notes, conversations, images, and wearable streams can change the causal",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Information Set Emulation: Causal Certificates for AI Derived EHR Features",
+    "url": "https://arxiv.org/abs/2609.17777",
+    "description": "arXiv:2609.17777v1 Announce Type: new \nAbstract: AI and large language models can recover clinically meaningful features from electronic health record",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Efficient estimation and the cost of complete-case coarsening under monotone sequential MAR",
+    "url": "https://arxiv.org/abs/2609.17778",
+    "description": "arXiv:2609.17778v1 Announce Type: new \nAbstract: Complete-case coarsening discards observed confounder values from partially complete records. We stud",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Online Bayesian Model Averaging with Joint Uncertainty Quantification for Models and Regression Coefficients in Binary Regression",
+    "url": "https://arxiv.org/abs/2609.17783",
+    "description": "arXiv:2609.17783v1 Announce Type: new \nAbstract: Streaming binary response data arise in many applications, including virtual learning platforms where",
+    "date": "2026-09-17",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Locally calibrated and mesh-free inference for spatial point distributions: closed-form null, contamination law, and detectability threshold",
-    "url": "https://arxiv.org/abs/2609.16497",
-    "description": "arXiv:2609.16497v1 Announce Type: new \nAbstract: Local inference for spatial point distributions is dominated by Monte Carlo calibration. We develop a",
-    "date": "2026-09-16",
+    "title": "METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling",
+    "url": "https://arxiv.org/abs/2609.17823",
+    "description": "arXiv:2609.17823v1 Announce Type: new \nAbstract: Many proteins function through transitions between conformational states, yet rare states are rarely ",
+    "date": "2026-09-17",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Anthropogenic Forcing, Climate Change, and the Shape of Warming: Statistical Inference for Distributional Cointegration",
-    "url": "https://arxiv.org/abs/2609.16509",
-    "description": "arXiv:2609.16509v1 Announce Type: new \nAbstract: Anthropogenic forcing components follow different long-run paths, while persistent temperature change",
-    "date": "2026-09-16",
+    "title": "Robust Tests for Step-Stress Models under Exponential Lifetimes",
+    "url": "https://arxiv.org/abs/2609.17827",
+    "description": "arXiv:2609.17827v1 Announce Type: new \nAbstract: Highly reliable products with extended lifetimes present a challenge in reliability analysis: obtaini",
+    "date": "2026-09-17",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Sharp margin-based generalization bounds for realizable SVM",
+    "url": "https://arxiv.org/abs/2609.17845",
+    "description": "arXiv:2609.17845v1 Announce Type: new \nAbstract: Let the exact homogeneous hard-margin support vector machine be trained on \\(m\\) independent observat",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bracketing Uncertainty in Clustering Under the Manifold Hypothesis",
+    "url": "https://arxiv.org/abs/2609.17892",
+    "description": "arXiv:2609.17892v1 Announce Type: new \nAbstract: The manifold hypothesis suggests a natural criterion for clustering: partition data according to the ",
+    "date": "2026-09-17",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Spectral Dynamics of DeepWalk Embeddings for Dynamic Network Change-Point Detection",
+    "url": "https://arxiv.org/abs/2609.17893",
+    "description": "arXiv:2609.17893v1 Announce Type: new \nAbstract: Dynamic networks describe evolving relational systems in which abrupt structural changes may signal a",
+    "date": "2026-09-17",
     "cat": "学术",
     "lang": "en"
   }
