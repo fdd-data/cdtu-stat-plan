@@ -1,121 +1,121 @@
 [
   {
-    "title": "R\\'enyi Tracking Bounds for Langevin Dynamics with Moving Targets",
-    "url": "https://arxiv.org/abs/2609.17577",
-    "description": "arXiv:2609.17577v1 Announce Type: new \nAbstract: We study Langevin diffusion and Langevin Monte Carlo (LMC) when the target distribution changes over ",
-    "date": "2026-09-17",
+    "title": "Federated Soft Clustering via Generalized Total Variation Minimization",
+    "url": "https://arxiv.org/abs/2609.19202",
+    "description": "arXiv:2609.19202v1 Announce Type: new \nAbstract: We study federated soft clustering over federated learning (FL) networks of devices that each hold a ",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Quantile Deep Echo State Networks for Nonlinear Time Series",
-    "url": "https://arxiv.org/abs/2609.17579",
-    "description": "arXiv:2609.17579v1 Announce Type: new \nAbstract: Conditional quantiles are central to asymmetric decision losses, tail-risk assessment, and interval f",
-    "date": "2026-09-17",
+    "title": "An absolute measure of heterogeneity for lnOR in meta-analysis",
+    "url": "https://arxiv.org/abs/2609.19211",
+    "description": "arXiv:2609.19211v1 Announce Type: new \nAbstract: Quantifying the heterogeneity is an important issue in meta-analysis. The conventional heterogeneity ",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "When a High Score Is an Illusion: Certifying Genuine versus Repackaged Forecasting Skill",
+    "url": "https://arxiv.org/abs/2609.19223",
+    "description": "arXiv:2609.19223v1 Announce Type: new \nAbstract: Ranks depend on the observations used for comparison. Reusing those observations can add association ",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Binning-Independent Bayesian Analysis of Time-Dependent Perturbed Angular Distribution data",
+    "url": "https://arxiv.org/abs/2609.19227",
+    "description": "arXiv:2609.19227v1 Announce Type: new \nAbstract: We propose a new approach for analyzing Time-Dependent Perturbed Angular Distribution data. In this, ",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Laplacian U-Processes for Multiple Change-Point Detection in Dependent Text Networks: An Application to Historical Chinese Articles",
+    "url": "https://arxiv.org/abs/2609.19306",
+    "description": "arXiv:2609.19306v1 Announce Type: new \nAbstract: We propose a two-view weighted-concordance operator (WCO) framework for offline change-point detectio",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Learning Submanifolds for Subsequent Inference on Random Dot Product Graphs, Part 1: Theory",
+    "url": "https://arxiv.org/abs/2609.19357",
+    "description": "arXiv:2609.19357v1 Announce Type: new \nAbstract: We propose a framework for restricted inference on random dot product graphs whose latent positions l",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "When are time-to-event models a waste of time? Bridging mixture cure models and positive-unlabeled learning for binary classification under right-censoring",
+    "url": "https://arxiv.org/abs/2609.19370",
+    "description": "arXiv:2609.19370v1 Announce Type: new \nAbstract: In clinical settings, predicting binary outcomes is often complicated by right-censoring, which preve",
+    "date": "2026-09-18",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Qualify-Then-Borrow: A Five-Step Framework for Bayesian Borrowing Beyond Outcome Agreement",
+    "url": "https://arxiv.org/abs/2609.19382",
+    "description": "arXiv:2609.19382v1 Announce Type: new \nAbstract: PURPOSE: Dynamic Bayesian borrowing methods adapt the contribution of external information according ",
+    "date": "2026-09-18",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Stability-Constrained Approximation in Spline KANs: Exact Layer Balancing and Budget-Compatible Saturation",
-    "url": "https://arxiv.org/abs/2609.17619",
-    "description": "arXiv:2609.17619v1 Announce Type: new \nAbstract: Deep spline superposition networks face a tension between approximation order and stability across de",
-    "date": "2026-09-17",
+    "title": "Omitted Variable Bias in Difference-in-Differences Designs",
+    "url": "https://arxiv.org/abs/2609.19386",
+    "description": "arXiv:2609.19386v1 Announce Type: new \nAbstract: We study the omitted variable bias (OVB) problem in canonical difference-in-differences (DiD) designs",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Multimodal Three-Class Alzheimer's Disease Classification: The MCI Bottleneck",
-    "url": "https://arxiv.org/abs/2609.17649",
-    "description": "arXiv:2609.17649v1 Announce Type: new \nAbstract: Alzheimer's disease is clinically staged as a three-class progression: cognitively normal (CN), mild ",
-    "date": "2026-09-17",
+    "title": "Robust Error Bounds for Vector-Valued Kernel Ridge Regression",
+    "url": "https://arxiv.org/abs/2609.19443",
+    "description": "arXiv:2609.19443v1 Announce Type: new \nAbstract: While kernel-based learning methods for scalar-valued functions have been extensively studied, compar",
+    "date": "2026-09-18",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Local Epochs, Averaging, and Variable Selection in Federated Lasso",
-    "url": "https://arxiv.org/abs/2609.17685",
-    "description": "arXiv:2609.17685v1 Announce Type: new \nAbstract: Theoretical analysis and Monte Carlo simulation separate local-epoch effects from averaging and tunin",
-    "date": "2026-09-17",
+    "title": "Bayesian Sample Size Determination: Sampling Distribution Estimation or Exploration?",
+    "url": "https://arxiv.org/abs/2609.19489",
+    "description": "arXiv:2609.19489v1 Announce Type: new \nAbstract: To design many Bayesian studies, the sample size is chosen to attain sufficient power to reject a nul",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Subgroup Inconsistency and the Dilution Effect in Levene's Test for Homoscedasticity",
-    "url": "https://arxiv.org/abs/2609.17746",
-    "description": "arXiv:2609.17746v1 Announce Type: new \nAbstract: Levene's test for homoscedasticity is a standard procedure used to evaluate whether multiple groups o",
-    "date": "2026-09-17",
+    "title": "Null importance: Disentangling relevance for interpretable machine learning",
+    "url": "https://arxiv.org/abs/2609.19511",
+    "description": "arXiv:2609.19511v1 Announce Type: new \nAbstract: Feature importance is central to interpretable machine learning, but the term \"importance\" encompasse",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "When AI Generates Covariates: Causal Typing and Estimand Drift in Sequential Experiments",
-    "url": "https://arxiv.org/abs/2609.17772",
-    "description": "arXiv:2609.17772v1 Announce Type: new \nAbstract: AI-generated covariates from notes, conversations, images, and wearable streams can change the causal",
-    "date": "2026-09-17",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Information Set Emulation: Causal Certificates for AI Derived EHR Features",
-    "url": "https://arxiv.org/abs/2609.17777",
-    "description": "arXiv:2609.17777v1 Announce Type: new \nAbstract: AI and large language models can recover clinically meaningful features from electronic health record",
-    "date": "2026-09-17",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Efficient estimation and the cost of complete-case coarsening under monotone sequential MAR",
-    "url": "https://arxiv.org/abs/2609.17778",
-    "description": "arXiv:2609.17778v1 Announce Type: new \nAbstract: Complete-case coarsening discards observed confounder values from partially complete records. We stud",
-    "date": "2026-09-17",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Online Bayesian Model Averaging with Joint Uncertainty Quantification for Models and Regression Coefficients in Binary Regression",
-    "url": "https://arxiv.org/abs/2609.17783",
-    "description": "arXiv:2609.17783v1 Announce Type: new \nAbstract: Streaming binary response data arise in many applications, including virtual learning platforms where",
-    "date": "2026-09-17",
+    "title": "Spatial Aggregation of ROC and Precision-Recall Curves",
+    "url": "https://arxiv.org/abs/2609.19517",
+    "description": "arXiv:2609.19517v1 Announce Type: new \nAbstract: Receiver Operating Characteristic (ROC) and Precision-Recall (PR) curves are widely used to assess th",
+    "date": "2026-09-18",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling",
-    "url": "https://arxiv.org/abs/2609.17823",
-    "description": "arXiv:2609.17823v1 Announce Type: new \nAbstract: Many proteins function through transitions between conformational states, yet rare states are rarely ",
-    "date": "2026-09-17",
+    "title": "Next-token functional estimation",
+    "url": "https://arxiv.org/abs/2609.19529",
+    "description": "arXiv:2609.19529v1 Announce Type: new \nAbstract: Suppose we observe the first $n$ points of a sequence of random variables having length $n+1$, and wi",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Robust Tests for Step-Stress Models under Exponential Lifetimes",
-    "url": "https://arxiv.org/abs/2609.17827",
-    "description": "arXiv:2609.17827v1 Announce Type: new \nAbstract: Highly reliable products with extended lifetimes present a challenge in reliability analysis: obtaini",
-    "date": "2026-09-17",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Sharp margin-based generalization bounds for realizable SVM",
-    "url": "https://arxiv.org/abs/2609.17845",
-    "description": "arXiv:2609.17845v1 Announce Type: new \nAbstract: Let the exact homogeneous hard-margin support vector machine be trained on \\(m\\) independent observat",
-    "date": "2026-09-17",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bracketing Uncertainty in Clustering Under the Manifold Hypothesis",
-    "url": "https://arxiv.org/abs/2609.17892",
-    "description": "arXiv:2609.17892v1 Announce Type: new \nAbstract: The manifold hypothesis suggests a natural criterion for clustering: partition data according to the ",
-    "date": "2026-09-17",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Spectral Dynamics of DeepWalk Embeddings for Dynamic Network Change-Point Detection",
-    "url": "https://arxiv.org/abs/2609.17893",
-    "description": "arXiv:2609.17893v1 Announce Type: new \nAbstract: Dynamic networks describe evolving relational systems in which abrupt structural changes may signal a",
-    "date": "2026-09-17",
+    "title": "Vector Vine Copula Models for Multivariate Longitudinal Data",
+    "url": "https://arxiv.org/abs/2609.19547",
+    "description": "arXiv:2609.19547v1 Announce Type: new \nAbstract: Multivariate longitudinal data may exhibit non-Gaussian margins, nonlinear dynamics, and response vec",
+    "date": "2026-09-18",
     "cat": "学术",
     "lang": "en"
   }
