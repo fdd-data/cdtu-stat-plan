@@ -1,13 +1,5 @@
 [
   {
-    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-    "url": "https://www.kdnuggets.com/2026/09/prnews.io/whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field",
-    "description": "See how SerpApi’s Markdown output can cut search-result token usage by up to 74%, reducing AI agent costs and context-window overhead.",
-    "date": "2026-09-17",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
     "title": "What’s So Good About ChatGPT Work? Here’s What I Found",
     "url": "https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found",
     "description": "This article walks through how ChatGPT Work specifically earns its reputation, where the underlying models genuinely hold up against the competition, ",
@@ -77,6 +69,14 @@
     "description": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make p",
     "date": "2026-09-14",
     "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
+    "description": "Learn how to refactor messy Python code into clean, maintainable functions.",
+    "date": "2026-09-11",
+    "cat": "资源",
     "lang": "en"
   },
   {
