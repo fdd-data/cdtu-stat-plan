@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bootstrap v traditional asymptotic normal assumptions by @ellis2013nz",
+    "url": "https://www.r-bloggers.com/2026/09/bootstrap-v-traditional-asymptotic-normal-assumptions-by-ellis2013nz/",
+    "description": "Today’s just a very short sequel to last week’s post, where I had a look at some very skewed distributions to test the idea that sample sizes sometime",
+    "date": "2026-09-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "When the economy seems good in numbers but feels bad in reality",
     "url": "https://flowingdata.com/2026/09/18/when-economy-seems-good-in-numbers-but-feels-bad-in-reality/",
     "description": "When you think about how the economy is doing these days, it can&#8230;Tags: economy, perspective, Reuters",
@@ -107,14 +115,6 @@
     "title": "Sample size needed for central limit theorem to kick in by @ellis2013nz",
     "url": "https://www.r-bloggers.com/2026/09/sample-size-needed-for-central-limit-theorem-to-kick-in-by-ellis2013nz/",
     "description": "Frank Harrell made this enlightening comment on BlueSky the other day:\n  “At the heart of the failure of the CLT (central limit theorem) is its need f",
-    "date": "2026-09-15",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Grubbs’ Test in R: grubbs.test() Explained with a Real Example",
-    "url": "https://www.r-bloggers.com/2026/09/grubbs-test-in-r-grubbs-test-explained-with-a-real-example/",
-    "description": "Run Grubbs' test in R with grubbs.test() from the outliers package. Verified mtcars example with real G, U, and p-value output, plus when the test app",
     "date": "2026-09-15",
     "cat": "技术",
     "lang": "en"
