@@ -1,5 +1,13 @@
 [
   {
+    "title": "Semi-parametric option pricing based on underlying’s historical data (accepted at the osQF 2026 (ex R/Finance) conference)",
+    "url": "https://www.r-bloggers.com/2026/09/semi-parametric-option-pricing-based-on-underlyings-historical-data-accepted-at-the-osqf-2026-ex-r-finance-conference/",
+    "description": "This post is a follow-up to my previous posts on semi-parametric option pricing. A link to the study (accepted for presentation at the osQF 2026 confe",
+    "date": "2026-09-20",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
     "title": "Bootstrap v traditional asymptotic normal assumptions by @ellis2013nz",
     "url": "https://www.r-bloggers.com/2026/09/bootstrap-v-traditional-asymptotic-normal-assumptions-by-ellis2013nz/",
     "description": "Today’s just a very short sequel to last week’s post, where I had a look at some very skewed distributions to test the idea that sample sizes sometime",
@@ -109,14 +117,6 @@
     "description": "There is a quote I really love from Marc Kéry’s book, “Introduction to WinBUGS for Ecologists” (2010, p. 11):\n“WinBUGS helps free the modeler in you.”",
     "date": "2026-09-15",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Sample size needed for central limit theorem to kick in by @ellis2013nz",
-    "url": "https://www.r-bloggers.com/2026/09/sample-size-needed-for-central-limit-theorem-to-kick-in-by-ellis2013nz/",
-    "description": "Frank Harrell made this enlightening comment on BlueSky the other day:\n  “At the heart of the failure of the CLT (central limit theorem) is its need f",
-    "date": "2026-09-15",
-    "cat": "技术",
     "lang": "en"
   }
 ]
