@@ -1,5 +1,21 @@
 [
   {
+    "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
+    "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
+    "description": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far.",
+    "date": "2026-09-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Turn a Python Script Into an AI Agent",
+    "url": "https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent",
+    "description": "Learn how to build a Python AI agent with the OpenAI Agents SDK, using tool calling and function tools to automate multi-step workflows.",
+    "date": "2026-09-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "3 Polars Tricks for High-Performance Data Manipulation",
     "url": "https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation",
     "description": "Almost every slow Polars script lacks in terms of one of these two: its expression engine written and executing in Rust across every core at its dispo",
@@ -61,22 +77,6 @@
     "description": "Explore how JONI approaches AI agent orchestration with persistent runtimes, multi-model routing, execution capabilities, and reliability beyond simpl",
     "date": "2026-09-15",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How I’m Using Google Opal for Even More AI Automations",
-    "url": "https://www.kdnuggets.com/how-im-using-google-opal-for-even-more-ai-automations",
-    "description": "Opal is Google Labs' no-code tool for turning natural language into working AI mini-apps, built on top of an internal framework called Breadboard. Her",
-    "date": "2026-09-15",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
-    "url": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
-    "description": "Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, an",
-    "date": "2026-09-15",
-    "cat": "资源",
     "lang": "en"
   },
   {
