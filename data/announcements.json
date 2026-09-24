@@ -1,5 +1,21 @@
 [
   {
+    "title": "MCP Explained in 5 Minutes",
+    "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
+    "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagr",
+    "date": "2026-09-24",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "What I’ve Learned About DeepSeek Harness",
+    "url": "https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness",
+    "description": "KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's what he found.",
+    "date": "2026-09-24",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Everything Claude Opus 5.5 Actually Ships With",
     "url": "https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with",
     "description": "This article pulls together every verifiable number and detail from Anthropic's announcement, the platform documentation, the system card, and indepen",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation",
     "description": "Almost every slow Polars script lacks in terms of one of these two: its expression engine written and executing in Rust across every core at its dispo",
     "date": "2026-09-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Reusing the Prompt Prefix with a Key-Value Cache for SLM Optimization",
-    "url": "https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization",
-    "description": "In this second article in our short series on SLM optimization techniques we focus on the reuse of the prompt prefix with a key-value cache.",
-    "date": "2026-09-18",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Prompt Optimization Strategies That Actually Improve LLM Output",
-    "url": "https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output",
-    "description": "This article covers five prompt optimization strategies such as: prompt optimization, prompt engineering, LLM output quality, few-shot prompting, chai",
-    "date": "2026-09-18",
     "cat": "技术",
     "lang": "en"
   },
