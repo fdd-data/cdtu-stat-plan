@@ -1,5 +1,21 @@
 [
   {
+    "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
+    "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
+    "description": "We finish off our short series on SLM optimization with the third entry, focused on batching by length instead of looping item by item.",
+    "date": "2026-09-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 Advanced Python Tricks to Level Up Your Coding Skills",
+    "url": "https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills",
+    "description": "Leveling up rarely means new syntax. It means learning what the language already promised you.",
+    "date": "2026-09-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "MCP Explained in 5 Minutes",
     "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
     "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagr",
@@ -59,22 +75,6 @@
     "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
     "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
     "description": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far.",
-    "date": "2026-09-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Turn a Python Script Into an AI Agent",
-    "url": "https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent",
-    "description": "Learn how to build a Python AI agent with the OpenAI Agents SDK, using tool calling and function tools to automate multi-step workflows.",
-    "date": "2026-09-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "3 Polars Tricks for High-Performance Data Manipulation",
-    "url": "https://www.kdnuggets.com/3-polars-tricks-for-high-performance-data-manipulation",
-    "description": "Almost every slow Polars script lacks in terms of one of these two: its expression engine written and executing in Rust across every core at its dispo",
     "date": "2026-09-21",
     "cat": "技术",
     "lang": "en"
