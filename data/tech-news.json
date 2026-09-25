@@ -1,121 +1,121 @@
 [
   {
-    "title": "Additive Nonparametric Regression with Spatial and Network Objects",
-    "url": "https://arxiv.org/abs/2609.26867",
-    "description": "arXiv:2609.26867v1 Announce Type: new \nAbstract: This article is motivated by an imaging application from the Adolescent Brain Cognitive Development (",
-    "date": "2026-09-24",
+    "title": "Certified Task-Conditioned Active Observability",
+    "url": "https://arxiv.org/abs/2609.28520",
+    "description": "arXiv:2609.28520v1 Announce Type: new \nAbstract: Before acting upon an unobservable physical system, an autonomous agent must determine which latent d",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Sequential Confidence Sets for Coverage-Constrained Conformal Model Selection",
+    "url": "https://arxiv.org/abs/2609.28522",
+    "description": "arXiv:2609.28522v1 Announce Type: new \nAbstract: Modern conformal forecasting systems often maintain several adaptive pipelines that differ in base fo",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Stochastic Inertial Krasnosel'skii-Mann Iteration Achieves Near-Optimal Sample Complexity",
+    "url": "https://arxiv.org/abs/2609.28543",
+    "description": "arXiv:2609.28543v1 Announce Type: new \nAbstract: We analyze a simple stochastic inertial Krasnosel'skii--Mann (iKM) method for finding a fixed point o",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "An Order-Theoretic Characterization of Consistent Inductive Inference",
+    "url": "https://arxiv.org/abs/2609.28551",
+    "description": "arXiv:2609.28551v1 Announce Type: new \nAbstract: When can a learner make only finitely many prediction errors along every infinite sequence labeled by",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Speculative Evaluation of Stochastic LLMs",
+    "url": "https://arxiv.org/abs/2609.28560",
+    "description": "arXiv:2609.28560v1 Announce Type: new \nAbstract: Evaluating a stochastic large language model is costly: benchmark scores estimate expected performanc",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Matrix Aggregation Operators",
+    "url": "https://arxiv.org/abs/2609.28562",
+    "description": "arXiv:2609.28562v1 Announce Type: new \nAbstract: Aggregation theory has traditionally focused on operators defined over vectors. However, many applica",
+    "date": "2026-09-25",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Rolling Conformal Prediction in Sequential Model Training",
-    "url": "https://arxiv.org/abs/2609.26951",
-    "description": "arXiv:2609.26951v1 Announce Type: new \nAbstract: We introduce Rolling Conformal Prediction (rolling-CP), a distribution-free predictive inference meth",
-    "date": "2026-09-24",
+    "title": "NumericJev: Jev-like LLM Numerical Decoding with Multiway Decision Trees",
+    "url": "https://arxiv.org/abs/2609.28587",
+    "description": "arXiv:2609.28587v1 Announce Type: new \nAbstract: Large language models can interpret natural lan- guage, yet robust decisions remain challenging. Jev-",
+    "date": "2026-09-25",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Tight Regret Bound for Online Inverse Linear Optimization via Multiscale Matrix Weights",
-    "url": "https://arxiv.org/abs/2609.26978",
-    "description": "arXiv:2609.26978v1 Announce Type: new \nAbstract: We study online inverse linear optimization with a fixed unknown linear utility: in each round, an en",
-    "date": "2026-09-24",
+    "title": "On Some Theoretical Aspects of Functional Data Analysis of Parametrized Curves in $\\mathbb{R}^p$",
+    "url": "https://arxiv.org/abs/2609.28689",
+    "description": "arXiv:2609.28689v1 Announce Type: new \nAbstract: In this paper, one provides a comprehensive mathematical and practical overview of Functional Data An",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Exact Bayes Regret and Asymptotic Optimality in High-Dimensional Gaussian Bandits",
+    "url": "https://arxiv.org/abs/2609.28718",
+    "description": "arXiv:2609.28718v1 Announce Type: new \nAbstract: We study Bayesian linear bandits with an isotropic Gaussian parameter, independent Gaussian candidate",
+    "date": "2026-09-25",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "CVaR anchor regression protects against rare shifts",
-    "url": "https://arxiv.org/abs/2609.27034",
-    "description": "arXiv:2609.27034v1 Announce Type: new \nAbstract: We study prediction in new environments when training data contain rare, large shifts. Anchor regress",
-    "date": "2026-09-24",
+    "title": "Selective Inference for Deep Clustering in Latent Spaces",
+    "url": "https://arxiv.org/abs/2609.28756",
+    "description": "arXiv:2609.28756v1 Announce Type: new \nAbstract: Deep clustering is a powerful approach for discovering meaningful structures in high-dimensional data",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Proper scoring rules for survival times",
+    "url": "https://arxiv.org/abs/2609.28762",
+    "description": "arXiv:2609.28762v1 Announce Type: new \nAbstract: This note presents a general form for a proper scoring rule that can be used for possibly right-censo",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A unified framework for estimating direct causal effect under spatial confounding and interference, with the R package spaci",
+    "url": "https://arxiv.org/abs/2609.28799",
+    "description": "arXiv:2609.28799v1 Announce Type: new \nAbstract: Estimating causal effects is challenging with observational data due to the lack of exchangeability, ",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "GRACE: A General, Exact Changepoint Calculus",
+    "url": "https://arxiv.org/abs/2609.28831",
+    "description": "arXiv:2609.28831v1 Announce Type: new \nAbstract: Most changepoint procedures fix segment forms and boundary relationships before estimating changepoin",
+    "date": "2026-09-25",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Reduced-Rank Autoregressive Models for Matrix Time Series",
+    "url": "https://arxiv.org/abs/2609.28841",
+    "description": "arXiv:2609.28841v1 Announce Type: new \nAbstract: Matrix time series is a series of matrix data observed over time. Analytical tools for such time seri",
+    "date": "2026-09-25",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Formulating Cross-World Mediation Estimands Through Single-World Mixtures",
-    "url": "https://arxiv.org/abs/2609.27075",
-    "description": "arXiv:2609.27075v1 Announce Type: new \nAbstract: In causal mediation analysis, natural direct and indirect effects are defined through nested counterf",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Bayesian framework for multilevel data under model mis-specification",
-    "url": "https://arxiv.org/abs/2609.27112",
-    "description": "arXiv:2609.27112v1 Announce Type: new \nAbstract: We propose a Bayesian framework for uncertainty quantification from the perspective that the working ",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bayesian Nonparametric Approaches to Ordinal Drought Modeling in the United States",
-    "url": "https://arxiv.org/abs/2609.27135",
-    "description": "arXiv:2609.27135v1 Announce Type: new \nAbstract: Data observed over space and time can exhibit dependence across both dimensions, and datasets can gro",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Elastic Multi-Fidelity Bayesian Model Calibration",
-    "url": "https://arxiv.org/abs/2609.27174",
-    "description": "arXiv:2609.27174v1 Announce Type: new \nAbstract: Bayesian calibration of functional-output computer models typically relies on dimension reduction tec",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Change detection with conformal martingales: new optimal constructions, and suboptimality of existing methods",
-    "url": "https://arxiv.org/abs/2609.27179",
-    "description": "arXiv:2609.27179v1 Announce Type: new \nAbstract: We study distribution-free sequential changepoint detection for independent observations with unknown",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Artificial intelligence surrogates for treatment effect estimation with before-and-after data",
-    "url": "https://arxiv.org/abs/2609.27180",
-    "description": "arXiv:2609.27180v1 Announce Type: new \nAbstract: Estimating the causal effects of medical treatments is difficult when clinically important outcomes a",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Model Specification Test for Stationary Functional Time Series",
-    "url": "https://arxiv.org/abs/2609.27182",
-    "description": "arXiv:2609.27182v1 Announce Type: new \nAbstract: We develop a general framework for model specification testing in stationary functional time series. ",
-    "date": "2026-09-24",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Local Optimality and Rigidity of Frobenius Tests for Dense High-Dimensional Covariance Alternatives",
-    "url": "https://arxiv.org/abs/2609.27200",
-    "description": "arXiv:2609.27200v1 Announce Type: new \nAbstract: We study identity testing for high-dimensional covariance matrices against dense alternatives of unkn",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Prediction with Expert Advice: Anytime Regret with Many Experts Matches the Fixed-Time Constant",
-    "url": "https://arxiv.org/abs/2609.27206",
-    "description": "arXiv:2609.27206v1 Announce Type: new \nAbstract: Prediction with expert advice is a fundamental problem in online learning. When the time horizon $T$ ",
-    "date": "2026-09-24",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "On the Sample Complexity of Active Learning with Membership Queries",
-    "url": "https://arxiv.org/abs/2609.27241",
-    "description": "arXiv:2609.27241v1 Announce Type: new \nAbstract: This work revisits a fundamental question in active learning: how powerful is the ability to synthesi",
-    "date": "2026-09-24",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "From Metrics to Decisions in NBA Analytics: A Critical Integrative Review and Decision-Readiness Framework",
-    "url": "https://arxiv.org/abs/2609.27245",
-    "description": "arXiv:2609.27245v1 Announce Type: new \nAbstract: National Basketball Association (NBA) teams have increasingly detailed metrics, but better prediction",
-    "date": "2026-09-24",
+    "title": "Statistical Inference for Causal Discovery under Selection and Latent Variables via Single-Target Interventions",
+    "url": "https://arxiv.org/abs/2609.28856",
+    "description": "arXiv:2609.28856v1 Announce Type: new \nAbstract: Causal discovery from observational and interventional data becomes challenging in the presence of la",
+    "date": "2026-09-25",
     "cat": "学术",
     "lang": "en"
   }
