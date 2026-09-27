@@ -24,6 +24,14 @@
     "lang": "en"
   },
   {
+    "title": "On Exact Hat Algebras",
+    "url": "https://www.r-bloggers.com/2026/09/on-exact-hat-algebras/",
+    "description": "What is a hat algebra and why it is useful to solve maximization problems\nContinue reading: On Exact Hat Algebras",
+    "date": "2026-09-25",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Quantitative Event-Driven Modeling: BTC Balance Sheet Shocks with SEC EDGAR Filings in R",
     "url": "https://www.r-bloggers.com/2026/09/quantitative-event-driven-modeling-btc-balance-sheet-shocks-with-sec-edgar-filings-in-r/",
     "description": "Executive Summary MicroStrategy (MSTR) has fundamentally transitioned from a traditional enterprise software firm into an equity-based Bitcoin (BTC) h",
@@ -109,14 +117,6 @@
     "description": "Chain-Ladder reserving in polars, validated against R and Whittaker-Henderson smoothing for a difficult development pattern.\n\n\nContinue reading: When ",
     "date": "2026-09-21",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Semi-parametric option pricing based on underlying’s historical data (accepted at the osQF 2026 (ex R/Finance) conference)",
-    "url": "https://www.r-bloggers.com/2026/09/semi-parametric-option-pricing-based-on-underlyings-historical-data-accepted-at-the-osqf-2026-ex-r-finance-conference/",
-    "description": "This post is a follow-up to my previous posts on semi-parametric option pricing. A link to the study (accepted for presentation at the osQF 2026 confe",
-    "date": "2026-09-20",
-    "cat": "讲座",
     "lang": "en"
   }
 ]
