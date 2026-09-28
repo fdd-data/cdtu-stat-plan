@@ -1,5 +1,13 @@
 [
   {
+    "title": "3 Numba Tricks for Python Runtime Optimization",
+    "url": "https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization",
+    "description": "When Numba code disappoints, it's nearly never the compiler, and usually ends up being the boundary around the compiled code: not crossing it, not mak",
+    "date": "2026-09-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
     "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
     "description": "We finish off our short series on SLM optimization with the third entry, focused on batching by length instead of looping item by item.",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
     "description": "Explore seven open-source ChatGPT alternatives, from lightweight local chat interfaces and document assistants to agent platforms, multi-user setups, ",
     "date": "2026-09-22",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
-    "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
-    "description": "A closer look at TypeSafe AI’s Jev, what it actually does, what is genuinely new, and where the hype goes too far.",
-    "date": "2026-09-21",
     "cat": "技术",
     "lang": "en"
   },
