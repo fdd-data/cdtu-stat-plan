@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ideas and thought in the detours",
+    "url": "https://flowingdata.com/2026/09/29/ideas-and-thought-in-the-detours/",
+    "description": "For NYT Opinion, Giorgia Lupi argues that the best ideas come from getting&#8230;Tags: Giorgia Lupi, New York Times, process",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Dario Amodei on SNL Weekend Update discussing doom",
+    "url": "https://flowingdata.com/2026/09/29/dario-amodei-on-snl-weekend-update-discussing-doom/",
+    "description": "Jane Wickline impersonated Anthropic CEO Dario Amodei for Saturday Night Live&#8217;s Weekend Update.&#8230;Tags: Dario Amodei, doom, humor, Jane Wick",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Celebrating the rOpenSci Community",
+    "url": "https://www.r-bloggers.com/2026/09/celebrating-the-ropensci-community/",
+    "description": "Read it in: Español. rOpenSci turns 15 and I’ve been a part of this community for a good chunk of that time. As I reflected on those years, a lot of g",
+    "date": "2026-09-29",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "Elevation map of the world",
     "url": "https://flowingdata.com/2026/09/28/elevation-map-of-the-world/",
     "description": "Bert Spaan, with help from Jules Schoonman, made an elevation map for the&#8230;Tags: Bert Spaan, elevation, world",
@@ -93,30 +117,6 @@
     "description": "Celebrating 30 seasons of the WNBA, ESPN has a fun piece on the&#8230;Tags: basketball, ESPN, WNBA",
     "date": "2026-09-24",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "✚ Visualization tools, datasets, and learning resources — September 2026 roundup",
-    "url": "https://flowingdata.com/2026/09/24/process-407-roundup/",
-    "description": "Here's what happened in September.Tags: roundup",
-    "date": "2026-09-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Biggest political donors so far",
-    "url": "https://flowingdata.com/2026/09/23/biggest-political-donors-so-far/",
-    "description": "Using data from the Federal Election Commission, the Washington Post called out the&#8230;Tags: donors, election, politics, Washington Post",
-    "date": "2026-09-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Data dictionaries for humans, agents and jumping frogs",
-    "url": "https://www.r-bloggers.com/2026/09/data-dictionaries-for-humans-agents-and-jumping-frogs/",
-    "description": "Apparently, you can rent a frog and enter a jumping competition. You might find yourself competing against teams with years or even decades of experie",
-    "date": "2026-09-23",
-    "cat": "竞赛",
     "lang": "en"
   }
 ]

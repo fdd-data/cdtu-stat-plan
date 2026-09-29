@@ -1,5 +1,13 @@
 [
   {
+    "title": "5 Free Courses to Learn AI Engineering",
+    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
+    "description": "Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and deployment with five practical courses designed to help you become a stronger AI ",
+    "date": "2026-09-29",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
     "title": "Gemini 3.5 Transcribe vs OpenAI’s GPT-Transcribe",
     "url": "https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe",
     "description": "Here's how each got to where it is, a real use case and working code for both, and a side-by-side on the numbers that actually matter.",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
     "description": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The m",
     "date": "2026-09-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Bravely AI Browsing with Leo",
-    "url": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
-    "description": "Learn about private AI browsing for data professionals.",
-    "date": "2026-09-22",
     "cat": "技术",
     "lang": "en"
   },
