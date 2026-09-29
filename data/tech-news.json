@@ -16,6 +16,22 @@
     "lang": "en"
   },
   {
+    "title": "My first attempt at porting a Shiny app failed, and not for a technical reason",
+    "url": "https://www.r-bloggers.com/2026/09/my-first-attempt-at-porting-a-shiny-app-failed-and-not-for-a-technical-reason/",
+    "description": "You can read the original post in its original format on Rtask website by ThinkR here: My first attempt at porting a Shiny app failed, and not for a t",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "August 2026 Top 40 New CRAN Packages",
+    "url": "https://www.r-bloggers.com/2026/09/august-2026-top-40-new-cran-packages/",
+    "description": "Three hundred twenty-nine new packages were submitted to CRAN in July. Here are my Top 40 picks in nineteen categories: Agriculture, Artificial Intell",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Celebrating the rOpenSci Community",
     "url": "https://www.r-bloggers.com/2026/09/celebrating-the-ropensci-community/",
     "description": "Read it in: Español. rOpenSci turns 15 and I’ve been a part of this community for a good chunk of that time. As I reflected on those years, a lot of g",
@@ -101,22 +117,6 @@
     "description": "What is a hat algebra and why it is useful to solve maximization problems\nContinue reading: On Exact Hat Algebras",
     "date": "2026-09-25",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Quantitative Event-Driven Modeling: BTC Balance Sheet Shocks with SEC EDGAR Filings in R",
-    "url": "https://www.r-bloggers.com/2026/09/quantitative-event-driven-modeling-btc-balance-sheet-shocks-with-sec-edgar-filings-in-r/",
-    "description": "Executive Summary MicroStrategy (MSTR) has fundamentally transitioned from a traditional enterprise software firm into an equity-based Bitcoin (BTC) h",
-    "date": "2026-09-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Illustration of 30 WNBA seasons",
-    "url": "https://flowingdata.com/2026/09/24/illustration-of-30-wnba-seasons/",
-    "description": "Celebrating 30 seasons of the WNBA, ESPN has a fun piece on the&#8230;Tags: basketball, ESPN, WNBA",
-    "date": "2026-09-24",
-    "cat": "技术",
     "lang": "en"
   }
 ]

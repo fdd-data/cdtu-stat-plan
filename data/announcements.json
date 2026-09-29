@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
+    "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
+    "description": "Learn how to use Julius AI to analyze Excel data, verify key findings, and turn them into an editable PowerPoint presentation.",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription",
+    "url": "https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription",
+    "description": "This is a summary of, and insights into, what I found digging into the recently-released Superwhisper S1 family of voice-to-text models.",
+    "date": "2026-09-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "5 Free Courses to Learn AI Engineering",
     "url": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
     "description": "Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and deployment with five practical courses designed to help you become a stronger AI ",
@@ -59,22 +75,6 @@
     "title": "Everything Claude Opus 5.5 Actually Ships With",
     "url": "https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with",
     "description": "This article pulls together every verifiable number and detail from Anthropic's announcement, the platform documentation, the system card, and indepen",
-    "date": "2026-09-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Why Most Data Science Notebooks Die After Day One: How to Build Ones That Survive",
-    "url": "https://www.kdnuggets.com/why-most-data-science-notebooks-die-after-day-one-how-to-build-ones-that-survive",
-    "description": "Six habits that keep a notebook runnable after you close the laptop.",
-    "date": "2026-09-23",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "High-Performance Data Processing with Polars: A KDnuggets Cheat Sheet",
-    "url": "https://www.kdnuggets.com/high-performance-data-processing-with-polars-a-cheat-sheet",
-    "description": "Polars is a DataFrame library written in Rust on the Apache Arrow memory format, and the speed comes less from the language than from the model. The m",
     "date": "2026-09-23",
     "cat": "技术",
     "lang": "en"
