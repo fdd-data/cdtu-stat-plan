@@ -1,5 +1,13 @@
 [
   {
+    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
+    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
+    "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder qu",
+    "date": "2026-09-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet",
     "url": "https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet",
     "description": "Ollama pulls model weights, keeps an HTTP server on port 11434, and hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn how ",
@@ -69,14 +77,6 @@
     "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagr",
     "date": "2026-09-24",
     "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "What I’ve Learned About DeepSeek Harness",
-    "url": "https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness",
-    "description": "KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's what he found.",
-    "date": "2026-09-24",
-    "cat": "技术",
     "lang": "en"
   },
   {
