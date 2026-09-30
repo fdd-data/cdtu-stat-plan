@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet",
+    "url": "https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet",
+    "description": "Ollama pulls model weights, keeps an HTTP server on port 11434, and hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn how ",
+    "date": "2026-09-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
     "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
     "description": "Learn how to use Julius AI to analyze Excel data, verify key findings, and turn them into an editable PowerPoint presentation.",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/what-ive-learned-about-deepseek-harness",
     "description": "KDnuggets team member Shittu Olumide tested out DeepSeek Harness. Here's what he found.",
     "date": "2026-09-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Everything Claude Opus 5.5 Actually Ships With",
-    "url": "https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with",
-    "description": "This article pulls together every verifiable number and detail from Anthropic's announcement, the platform documentation, the system card, and indepen",
-    "date": "2026-09-23",
     "cat": "技术",
     "lang": "en"
   },
