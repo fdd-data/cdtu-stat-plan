@@ -1,5 +1,13 @@
 [
   {
+    "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
+    "url": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
+    "description": "Get work done, and have seconds added back to your life since you won't be writing second, third or &mdash; *gasp!* &mdash; fourth line follow-ups to ",
+    "date": "2026-10-01",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
     "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
     "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder qu",
@@ -69,14 +77,6 @@
     "description": "Leveling up rarely means new syntax. It means learning what the language already promised you.",
     "date": "2026-09-25",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "MCP Explained in 5 Minutes",
-    "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
-    "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagr",
-    "date": "2026-09-24",
-    "cat": "资源",
     "lang": "en"
   },
   {
