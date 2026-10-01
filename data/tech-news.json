@@ -1,121 +1,121 @@
 [
   {
-    "title": "Wasserstein Causal Forests for Distribution-Valued Outcomes",
-    "url": "https://arxiv.org/abs/2609.35898",
-    "description": "arXiv:2609.35898v1 Announce Type: new \nAbstract: This paper proposes Wasserstein Causal Forests (WCF) for settings in which each unit's outcome is its",
-    "date": "2026-09-30",
+    "title": "Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust Loss Functions",
+    "url": "https://arxiv.org/abs/2609.38263",
+    "description": "arXiv:2609.38263v1 Announce Type: new \nAbstract: Feature selection in neural networks remains a challenging problem, particularly in the presence of n",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Ready for the Clinic? A Survey of Open-Source Software for Response-Adaptive Randomization in Clinical Trials",
-    "url": "https://arxiv.org/abs/2609.35939",
-    "description": "arXiv:2609.35939v1 Announce Type: new \nAbstract: Response-adaptive randomization (RAR) modifies treatment allocation probabilities during a clinical t",
-    "date": "2026-09-30",
+    "title": "Minimax and adaptive inference for branching ratios under long memory",
+    "url": "https://arxiv.org/abs/2609.38267",
+    "description": "arXiv:2609.38267v1 Announce Type: new \nAbstract: The branching ratio $\\rho$ of a self-exciting point process determines the branching margin $1-\\rho$ ",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Graph-Split Bayesian Causal Forest for Spatial Heterogeneous Treatment Effect Estimation",
-    "url": "https://arxiv.org/abs/2609.36046",
-    "description": "arXiv:2609.36046v1 Announce Type: new \nAbstract: In spatial observational studies, treatment assignment and outcomes often exhibit spatial dependence ",
-    "date": "2026-09-30",
+    "title": "Small-study effects on the hierarchical summary ROC curve: latent accuracy and threshold trends in meta-analysis of diagnostic test accuracy",
+    "url": "https://arxiv.org/abs/2609.38297",
+    "description": "arXiv:2609.38297v1 Announce Type: new \nAbstract: Diagnostic meta-analyses commonly assess small-study effects using the Deeks test, which tests for a ",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "From Weak to Strong Testing in Gaussian Models",
-    "url": "https://arxiv.org/abs/2609.36050",
-    "description": "arXiv:2609.36050v1 Announce Type: new \nAbstract: We study the computational complexity of hypothesis testing in the spiked Wigner model, a prototypica",
-    "date": "2026-09-30",
+    "title": "Inference for Standard Trial Estimands after Data-Driven Subgroup Discovery",
+    "url": "https://arxiv.org/abs/2609.38361",
+    "description": "arXiv:2609.38361v1 Announce Type: new \nAbstract: Data-driven subgroup identification is increasingly used in clinical trials, yet the effect reported ",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Bridge-Anchored Partial Identification of a Target Mean under Outcome-Model Drift",
-    "url": "https://arxiv.org/abs/2609.36132",
-    "description": "arXiv:2609.36132v1 Announce Type: new \nAbstract: Transporting an outcome relationship from a source population to a target population where the outcom",
-    "date": "2026-09-30",
+    "title": "Acceleration of Diffusion Language Model through Discrete Average Generator",
+    "url": "https://arxiv.org/abs/2609.38364",
+    "description": "arXiv:2609.38364v1 Announce Type: new \nAbstract: Discrete diffusion models and flow matching have emerged as powerful frameworks for generative modeli",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Copula Active Subspaces I: A Score-Covariance Method for Reduced-Order Non-Gaussian Density Estimation",
-    "url": "https://arxiv.org/abs/2609.36142",
-    "description": "arXiv:2609.36142v1 Announce Type: new \nAbstract: In Bayesian inference problems with non-Gaussian observation noise, the posterior is only as accurate",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "One-Step Next-Latent Prediction Is Not a World Model",
-    "url": "https://arxiv.org/abs/2609.36227",
-    "description": "arXiv:2609.36227v1 Announce Type: new \nAbstract: Next-latent prediction fits a map from the current embedding to the next one. LeNEPA carries this obj",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bayesian Selection of Edge Spectral Modes for Crash Counts on Urban Road Networks with Applications in Barcelona and Bogot\\'a",
-    "url": "https://arxiv.org/abs/2609.36268",
-    "description": "arXiv:2609.36268v1 Announce Type: new \nAbstract: Crash counts on urban road networks exhibit spatial dependence driven by road connectivity rather tha",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Faster Estimates from Binned Test Score Data---and How Accurate They Are",
-    "url": "https://arxiv.org/abs/2609.36312",
-    "description": "arXiv:2609.36312v1 Announce Type: new \nAbstract: Education agencies often summarize test score distributions by counting how many students scored in 3",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "MCMC-Free Uncertainty Quantification for Deep Generative Inference for Spatially Varying Coefficient Models at Scale",
-    "url": "https://arxiv.org/abs/2609.36325",
-    "description": "arXiv:2609.36325v1 Announce Type: new \nAbstract: Varying coefficient (VC) regression models have become indispensable tools in spatial data analysis, ",
-    "date": "2026-09-30",
+    "title": "Lower Bounds for Linear-Oracle Online Learning",
+    "url": "https://arxiv.org/abs/2609.38375",
+    "description": "arXiv:2609.38375v1 Announce Type: new \nAbstract: Can a constant number of linear minimizations per round improve on the $T^{3/4}$ regret rate of onlin",
+    "date": "2026-10-01",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Multilevel regression trees with application to wildfires in the American west",
-    "url": "https://arxiv.org/abs/2609.36328",
-    "description": "arXiv:2609.36328v1 Announce Type: new \nAbstract: We propose a Bayesian regression tree model fit within a multilevel structure and apply it to histori",
-    "date": "2026-09-30",
+    "title": "Local polynomial density ratio estimation",
+    "url": "https://arxiv.org/abs/2609.38412",
+    "description": "arXiv:2609.38412v1 Announce Type: new \nAbstract: We propose a novel local-polynomial estimator of the ratio $r=f/g$ of two $d$-dimensional densities $",
+    "date": "2026-10-01",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Generative sequence modeling for infinite memory processes via predictive states",
+    "url": "https://arxiv.org/abs/2609.38524",
+    "description": "arXiv:2609.38524v1 Announce Type: new \nAbstract: We consider estimating the one-step-ahead conditional distribution of a multivariate stochastic proce",
+    "date": "2026-10-01",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A tree-based scan statistic for database studies with time-to-event outcomes",
+    "url": "https://arxiv.org/abs/2609.38582",
+    "description": "arXiv:2609.38582v1 Announce Type: new \nAbstract: Tree-based scan statistics (TBSSs) are machine learning methods for disproportionality analyses. They",
+    "date": "2026-10-01",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Fraud Detection via Bayesian Positive--Unlabeled Learning with Gaussian Processes and Multilayer Networks",
+    "url": "https://arxiv.org/abs/2609.38586",
+    "description": "arXiv:2609.38586v1 Announce Type: new \nAbstract: Tax fraud remains a central challenge for public revenue authorities worldwide, imposing fiscal losse",
+    "date": "2026-10-01",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Generalized Fiducial Inference for Hybrid Discrete-Continuous Count Data: Theory and Application",
+    "url": "https://arxiv.org/abs/2609.38611",
+    "description": "arXiv:2609.38611v1 Announce Type: new \nAbstract: High-frequency athlete-tracking data can be summarized as quantile cubes (Thomas and Hannig, Journal ",
+    "date": "2026-10-01",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Adaptive mixture variational inference for spike-and-slab regression",
+    "url": "https://arxiv.org/abs/2609.38656",
+    "description": "arXiv:2609.38656v1 Announce Type: new \nAbstract: Correlated predictors can support competing sparse explanations with similar predictions, making join",
+    "date": "2026-10-01",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Adaptive Sampling of Costly Outcomes in Randomized Clinical Trials",
-    "url": "https://arxiv.org/abs/2609.36387",
-    "description": "arXiv:2609.36387v1 Announce Type: new \nAbstract: In some randomized trials the primary outcome is costly or slow to measure, while auxiliary variables",
-    "date": "2026-09-30",
+    "title": "Bandits with Multiple Optimal Arms: Minimax Regret and Non-Adaptivit",
+    "url": "https://arxiv.org/abs/2609.38659",
+    "description": "arXiv:2609.38659v1 Announce Type: new \nAbstract: We study multi-armed bandits (MAB) with multiple optimal arms, motivated by the fact that many practi",
+    "date": "2026-10-01",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "A Three-Stage PCA Procedure for Sequentially Arriving High-Dimensional Data",
+    "url": "https://arxiv.org/abs/2609.38681",
+    "description": "arXiv:2609.38681v1 Announce Type: new \nAbstract: We develop a three-stage adaptive procedure for principal component analysis (PCA) when high-dimensio",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Finite-Sample Theory for Fitted Q-Iteration When Actions Are Functions",
-    "url": "https://arxiv.org/abs/2609.36390",
-    "description": "arXiv:2609.36390v1 Announce Type: new \nAbstract: Offline reinforcement learning seeks optimal decision rules from previously collected data. In some a",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "LOCO-AdaMP: Built-in LOCO Inference for Adaptive Minipatch Ensembles with Enhanced Prediction",
-    "url": "https://arxiv.org/abs/2609.36396",
-    "description": "arXiv:2609.36396v1 Announce Type: new \nAbstract: As black-box machine learning models become increasingly common, extracting interpretations with unce",
-    "date": "2026-09-30",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Geographic Disparities in Hospice Quality and Family Caregiver Experience: The Roles of Ownership, Social Vulnerability, and Workforce Capacity",
-    "url": "https://arxiv.org/abs/2609.36507",
-    "description": "arXiv:2609.36507v1 Announce Type: new \nAbstract: Hospice quality should be interpreted in relation to both provider organization and the local conditi",
-    "date": "2026-09-30",
+    "title": "Imputation is all you need: double robustness, semiparametric efficiency, and automatic covariate balance for estimating the average treatment effect",
+    "url": "https://arxiv.org/abs/2609.38692",
+    "description": "arXiv:2609.38692v1 Announce Type: new \nAbstract: Imputation-based causal estimation is typically viewed as relying exclusively on an outcome model, in",
+    "date": "2026-10-01",
     "cat": "学术",
     "lang": "en"
   }
