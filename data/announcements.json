@@ -1,5 +1,29 @@
 [
   {
+    "title": "BrowserAct AI Web Scraper in 2026: Build Once, Run Repeatedly",
+    "url": "https://www.kdnuggets.com/2026/09/browseractai/browseract-ai-web-scraper-in-2026-build-once-run-repeatedly",
+    "description": "Describe your data needs in plain language and turn websites into a continuous source of fresh data.",
+    "date": "2026-10-01",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "From Messy Documents to Structured Data with Docling",
+    "url": "https://www.kdnuggets.com/from-messy-documents-to-structured-data-with-docling",
+    "description": "Docling takes documents in whatever inconsistent format they arrive in, and converts them into one unified, structured representation that both people",
+    "date": "2026-10-01",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Use Marimo for Interactive Data Analysis",
+    "url": "https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis",
+    "description": "Learn how to use Marimo for interactive data analysis with Python, Pandas, and Altair, and turn a reactive notebook into a simple shareable dashboard.",
+    "date": "2026-10-01",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
     "url": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
     "description": "Get work done, and have seconds added back to your life since you won't be writing second, third or &mdash; *gasp!* &mdash; fourth line follow-ups to ",
@@ -52,30 +76,6 @@
     "url": "https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe",
     "description": "Here's how each got to where it is, a real use case and working code for both, and a side-by-side on the numbers that actually matter.",
     "date": "2026-09-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "3 Numba Tricks for Python Runtime Optimization",
-    "url": "https://www.kdnuggets.com/3-numba-tricks-for-python-runtime-optimization",
-    "description": "When Numba code disappoints, it's nearly never the compiler, and usually ends up being the boundary around the compiled code: not crossing it, not mak",
-    "date": "2026-09-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Batching by Length Instead of Looping Item by Item for SLM Optimization",
-    "url": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
-    "description": "We finish off our short series on SLM optimization with the third entry, focused on batching by length instead of looping item by item.",
-    "date": "2026-09-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "7 Advanced Python Tricks to Level Up Your Coding Skills",
-    "url": "https://www.kdnuggets.com/7-advanced-python-tricks-to-level-up-your-coding-skills",
-    "description": "Leveling up rarely means new syntax. It means learning what the language already promised you.",
-    "date": "2026-09-25",
     "cat": "技术",
     "lang": "en"
   },
