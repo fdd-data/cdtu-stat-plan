@@ -1,122 +1,122 @@
 [
   {
-    "title": "Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust Loss Functions",
-    "url": "https://arxiv.org/abs/2609.38263",
-    "description": "arXiv:2609.38263v1 Announce Type: new \nAbstract: Feature selection in neural networks remains a challenging problem, particularly in the presence of n",
-    "date": "2026-10-01",
+    "title": "Integrating a Novel Kumaraswamy-Teissier Distribution with VARMA: A Hybrid Framework for Rainfall Modeling and Forecasting in the Northwest Himalayas",
+    "url": "https://arxiv.org/abs/2610.00060",
+    "description": "arXiv:2610.00060v1 Announce Type: new \nAbstract: Rainfall modeling in mountainous regions requires flexible statistical tools capable of capturing str",
+    "date": "2026-10-02",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Minimax and adaptive inference for branching ratios under long memory",
-    "url": "https://arxiv.org/abs/2609.38267",
-    "description": "arXiv:2609.38267v1 Announce Type: new \nAbstract: The branching ratio $\\rho$ of a self-exciting point process determines the branching margin $1-\\rho$ ",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Small-study effects on the hierarchical summary ROC curve: latent accuracy and threshold trends in meta-analysis of diagnostic test accuracy",
-    "url": "https://arxiv.org/abs/2609.38297",
-    "description": "arXiv:2609.38297v1 Announce Type: new \nAbstract: Diagnostic meta-analyses commonly assess small-study effects using the Deeks test, which tests for a ",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Inference for Standard Trial Estimands after Data-Driven Subgroup Discovery",
-    "url": "https://arxiv.org/abs/2609.38361",
-    "description": "arXiv:2609.38361v1 Announce Type: new \nAbstract: Data-driven subgroup identification is increasingly used in clinical trials, yet the effect reported ",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Acceleration of Diffusion Language Model through Discrete Average Generator",
-    "url": "https://arxiv.org/abs/2609.38364",
-    "description": "arXiv:2609.38364v1 Announce Type: new \nAbstract: Discrete diffusion models and flow matching have emerged as powerful frameworks for generative modeli",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Lower Bounds for Linear-Oracle Online Learning",
-    "url": "https://arxiv.org/abs/2609.38375",
-    "description": "arXiv:2609.38375v1 Announce Type: new \nAbstract: Can a constant number of linear minimizations per round improve on the $T^{3/4}$ regret rate of onlin",
-    "date": "2026-10-01",
+    "title": "Dynamic Spatial Bayesian Machine Learning Model: Applications to Intergenerational Economic Mobility and Geographic Income Inequality in the United States",
+    "url": "https://arxiv.org/abs/2610.00072",
+    "description": "arXiv:2610.00072v1 Announce Type: new \nAbstract: We develop a Dynamic Spatial Panel Bayesian Additive Regression Trees model with Horseshoe shrinkage ",
+    "date": "2026-10-02",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Local polynomial density ratio estimation",
-    "url": "https://arxiv.org/abs/2609.38412",
-    "description": "arXiv:2609.38412v1 Announce Type: new \nAbstract: We propose a novel local-polynomial estimator of the ratio $r=f/g$ of two $d$-dimensional densities $",
-    "date": "2026-10-01",
+    "title": "Weighted Data Selection: Sharp Upper-Half and Five-Dimensional Laws",
+    "url": "https://arxiv.org/abs/2610.00101",
+    "description": "arXiv:2610.00101v1 Announce Type: new \nAbstract: How much risk does a small reweighted training support retain? For finite weighted least squares with",
+    "date": "2026-10-02",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Generative sequence modeling for infinite memory processes via predictive states",
-    "url": "https://arxiv.org/abs/2609.38524",
-    "description": "arXiv:2609.38524v1 Announce Type: new \nAbstract: We consider estimating the one-step-ahead conditional distribution of a multivariate stochastic proce",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A tree-based scan statistic for database studies with time-to-event outcomes",
-    "url": "https://arxiv.org/abs/2609.38582",
-    "description": "arXiv:2609.38582v1 Announce Type: new \nAbstract: Tree-based scan statistics (TBSSs) are machine learning methods for disproportionality analyses. They",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Fraud Detection via Bayesian Positive--Unlabeled Learning with Gaussian Processes and Multilayer Networks",
-    "url": "https://arxiv.org/abs/2609.38586",
-    "description": "arXiv:2609.38586v1 Announce Type: new \nAbstract: Tax fraud remains a central challenge for public revenue authorities worldwide, imposing fiscal losse",
-    "date": "2026-10-01",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Generalized Fiducial Inference for Hybrid Discrete-Continuous Count Data: Theory and Application",
-    "url": "https://arxiv.org/abs/2609.38611",
-    "description": "arXiv:2609.38611v1 Announce Type: new \nAbstract: High-frequency athlete-tracking data can be summarized as quantile cubes (Thomas and Hannig, Journal ",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Adaptive mixture variational inference for spike-and-slab regression",
-    "url": "https://arxiv.org/abs/2609.38656",
-    "description": "arXiv:2609.38656v1 Announce Type: new \nAbstract: Correlated predictors can support competing sparse explanations with similar predictions, making join",
-    "date": "2026-10-01",
+    "title": "Variable Selection for Infectious Disease Transmission via Penalized Pairwise Accelerated Failure Time Models",
+    "url": "https://arxiv.org/abs/2610.00176",
+    "description": "arXiv:2610.00176v1 Announce Type: new \nAbstract: In infectious disease transmission, regression and variable selection for time-to-event outcomes are ",
+    "date": "2026-10-02",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Bandits with Multiple Optimal Arms: Minimax Regret and Non-Adaptivit",
-    "url": "https://arxiv.org/abs/2609.38659",
-    "description": "arXiv:2609.38659v1 Announce Type: new \nAbstract: We study multi-armed bandits (MAB) with multiple optimal arms, motivated by the fact that many practi",
-    "date": "2026-10-01",
+    "title": "Beyond Actor-Partner Associations: A Target-Trial Framework for Causal Spillover Effects in Longitudinal Dyadic Data",
+    "url": "https://arxiv.org/abs/2610.00181",
+    "description": "arXiv:2610.00181v1 Announce Type: new \nAbstract: Actor-partner interdependence models (APIMs) describe how one member's exposure is associated with th",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Counting the Uncounted: Population-Level Surveillance of Documented Pregnancy and Fetal Harm in Police Crash Narratives with a System One Model (Jev)",
+    "url": "https://arxiv.org/abs/2610.00213",
+    "description": "arXiv:2610.00213v1 Announce Type: new \nAbstract: Motor-vehicle crashes are a leading cause of traumatic fetal death in the United States, yet no crash",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Forecasting multiple density-valued time series",
+    "url": "https://arxiv.org/abs/2610.00215",
+    "description": "arXiv:2610.00215v1 Announce Type: new \nAbstract: Density-valued time series are common in practice. However, since these functions are non-negative an",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Transferable Graph Metanetworks",
+    "url": "https://arxiv.org/abs/2610.00420",
+    "description": "arXiv:2610.00420v1 Announce Type: new \nAbstract: A weight space network (or metanetwork) takes the weights of another neural network as input and pred",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon",
+    "url": "https://arxiv.org/abs/2610.00422",
+    "description": "arXiv:2610.00422v1 Announce Type: new \nAbstract: Neural combinatorial optimization typically assumes a centralized solver that reads the whole instanc",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Target-Dependent Limits of Causal Repair: A Leading-Log Frontier in a Gaussian Model",
+    "url": "https://arxiv.org/abs/2610.00424",
+    "description": "arXiv:2610.00424v1 Announce Type: new \nAbstract: Knowing how much a causal predictor could improve need not reveal the gain of the repair actually lea",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "ChainLoRA: Geometry-Preserving Task Vector Merging for Continual Learning in LLMs",
+    "url": "https://arxiv.org/abs/2610.00431",
+    "description": "arXiv:2610.00431v1 Announce Type: new \nAbstract: Continual parameter-efficient fine-tuning for large language models (LLMs) must balance retention of ",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Heteroskedastic Canonical Polyadic Tensor Decomposition",
+    "url": "https://arxiv.org/abs/2610.00498",
+    "description": "arXiv:2610.00498v1 Announce Type: new \nAbstract: When minimizing the squared-error loss, the popular CP decomposition can be interpreted as parameter ",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Weighted Power Fr\\'echet Means in Metric Spaces with Curvature Bounded Above",
+    "url": "https://arxiv.org/abs/2610.00501",
+    "description": "arXiv:2610.00501v1 Announce Type: new \nAbstract: We establish non-asymptotic risk bounds for power Fr\\'echet means in geodesic metric spaces with curv",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Fractional Laplace Neural Operators: Exact Architectures, an Expressivity Frontier at Criticality, and Certified Stability for Memory-Driven Network Dynamics",
+    "url": "https://arxiv.org/abs/2610.00515",
+    "description": "arXiv:2610.00515v1 Announce Type: new \nAbstract: Neural operators learn maps between function spaces, while hereditary network dynamics are described ",
+    "date": "2026-10-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Adaptive Conformal Prediction for Image Regression Models with Application to an Inertial Confinement Fusion Emulator",
+    "url": "https://arxiv.org/abs/2610.00535",
+    "description": "arXiv:2610.00535v1 Announce Type: new \nAbstract: Uncertainty quantification is critical in scientific machine learning, where black-box, image-based m",
+    "date": "2026-10-02",
     "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "A Three-Stage PCA Procedure for Sequentially Arriving High-Dimensional Data",
-    "url": "https://arxiv.org/abs/2609.38681",
-    "description": "arXiv:2609.38681v1 Announce Type: new \nAbstract: We develop a three-stage adaptive procedure for principal component analysis (PCA) when high-dimensio",
-    "date": "2026-10-01",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Imputation is all you need: double robustness, semiparametric efficiency, and automatic covariate balance for estimating the average treatment effect",
-    "url": "https://arxiv.org/abs/2609.38692",
-    "description": "arXiv:2609.38692v1 Announce Type: new \nAbstract: Imputation-based causal estimation is typically viewed as relying exclusively on an outcome model, in",
-    "date": "2026-10-01",
-    "cat": "学术",
     "lang": "en"
   }
 ]
