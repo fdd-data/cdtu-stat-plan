@@ -1,5 +1,21 @@
 [
   {
+    "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
+    "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
+    "description": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet clo",
+    "date": "2026-10-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
+    "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
+    "description": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
+    "date": "2026-10-02",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
     "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
     "description": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
@@ -61,22 +77,6 @@
     "description": "Learn how to use Julius AI to analyze Excel data, verify key findings, and turn them into an editable PowerPoint presentation.",
     "date": "2026-09-29",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "SuperWhisper s1-mini: The 600M Parameter Model Built Just for Transcription",
-    "url": "https://www.kdnuggets.com/superwhisper-s1-mini-the-600m-parameter-model-built-just-for-transcription",
-    "description": "This is a summary of, and insights into, what I found digging into the recently-released Superwhisper S1 family of voice-to-text models.",
-    "date": "2026-09-29",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Free Courses to Learn AI Engineering",
-    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
-    "description": "Learn LLM fundamentals, AI engineering, RAG, MLOps, fine-tuning, and deployment with five practical courses designed to help you become a stronger AI ",
-    "date": "2026-09-29",
-    "cat": "资源",
     "lang": "en"
   },
   {
