@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
+    "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
+    "description": "Meta has entered the AI agent race in a big way.",
+    "date": "2026-10-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "3 Statsmodels Tricks for Time Series Analysis & Forecasting",
+    "url": "https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting",
+    "description": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
+    "date": "2026-10-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
     "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
     "description": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet clo",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
     "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder qu",
     "date": "2026-09-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Ollama for Managing Local Language Models: A KDnuggets Cheat Sheet",
-    "url": "https://www.kdnuggets.com/ollama-for-managing-local-language-models-a-kdnuggets-cheat-sheet",
-    "description": "Ollama pulls model weights, keeps an HTTP server on port 11434, and hands any client an OpenAI-shaped endpoint pointed at your own machine. Learn how ",
-    "date": "2026-09-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Turn Excel Data Into PowerPoint Presentations With AI",
-    "url": "https://www.kdnuggets.com/julius.ai/how-to-turn-excel-data-into-powerpoint-presentations-with-ai",
-    "description": "Learn how to use Julius AI to analyze Excel data, verify key findings, and turn them into an editable PowerPoint presentation.",
-    "date": "2026-09-29",
     "cat": "技术",
     "lang": "en"
   },
