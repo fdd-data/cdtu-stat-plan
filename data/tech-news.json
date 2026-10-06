@@ -1,5 +1,21 @@
 [
   {
+    "title": "Beliefs in life after death",
+    "url": "https://flowingdata.com/2026/10/06/beliefs-in-life-after-death/",
+    "description": "Is there something that comes after we die? For the Pudding, Alvin Chang&#8230;Tags: Alvin Chang, life, mortality, Pudding, religion",
+    "date": "2026-10-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Exposure to tariffs in Canada",
+    "url": "https://flowingdata.com/2026/10/06/exposure-to-tariffs-in-canada/",
+    "description": "Researchers at the School of Cities, a center at the University of Toronto,&#8230;Tags: Canada, School of Cities, tariff",
+    "date": "2026-10-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Sound smart about charts",
     "url": "https://flowingdata.com/2026/10/05/sound-smart-about-charts/",
     "description": "Duncan Bradley made a zine of one-liners from data visualization folks. It is&#8230;Tags: Duncan Bradley, guide",
@@ -99,22 +115,6 @@
     "title": "Dario Amodei on SNL Weekend Update discussing doom",
     "url": "https://flowingdata.com/2026/09/29/dario-amodei-on-snl-weekend-update-discussing-doom/",
     "description": "Jane Wickline impersonated Anthropic CEO Dario Amodei for Saturday Night Live&#8217;s Weekend Update.&#8230;Tags: Dario Amodei, doom, humor, Jane Wick",
-    "date": "2026-09-29",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "My first attempt at porting a Shiny app failed, and not for a technical reason",
-    "url": "https://www.r-bloggers.com/2026/09/my-first-attempt-at-porting-a-shiny-app-failed-and-not-for-a-technical-reason/",
-    "description": "You can read the original post in its original format on Rtask website by ThinkR here: My first attempt at porting a Shiny app failed, and not for a t",
-    "date": "2026-09-29",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "August 2026 Top 40 New CRAN Packages",
-    "url": "https://www.r-bloggers.com/2026/09/august-2026-top-40-new-cran-packages/",
-    "description": "Three hundred twenty-nine new packages were submitted to CRAN in July. Here are my Top 40 picks in nineteen categories: Agriculture, Artificial Intell",
     "date": "2026-09-29",
     "cat": "技术",
     "lang": "en"

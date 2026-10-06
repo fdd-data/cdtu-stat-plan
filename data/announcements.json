@@ -1,5 +1,21 @@
 [
   {
+    "title": "Who Pays for AI Data Centers?",
+    "url": "https://www.kdnuggets.com/who-pays-for-ai-data-centers",
+    "description": "The fight is usually framed as whether data centers get built. The harder question underneath it is \"who pays and who decides?\" The costs are intertwi",
+    "date": "2026-10-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Best Practices for Building Robust Python AI Libraries",
+    "url": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
+    "description": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package f",
+    "date": "2026-10-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
     "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
     "description": "Meta has entered the AI agent race in a big way.",
@@ -61,22 +77,6 @@
     "description": "Learn how to use Marimo for interactive data analysis with Python, Pandas, and Altair, and turn a reactive notebook into a simple shareable dashboard.",
     "date": "2026-10-01",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
-    "url": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
-    "description": "Get work done, and have seconds added back to your life since you won't be writing second, third or &mdash; *gasp!* &mdash; fourth line follow-ups to ",
-    "date": "2026-10-01",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
-    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
-    "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder qu",
-    "date": "2026-09-30",
-    "cat": "技术",
     "lang": "en"
   },
   {
