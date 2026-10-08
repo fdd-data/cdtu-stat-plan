@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bridging Algorithmic Design and Regulatory Standards in Enterprise AI",
+    "url": "https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai",
+    "description": "Your models can be both cutting-edge and compliant if you stop treating governance as the final hurdle and start building it into every stage of the M",
+    "date": "2026-10-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Building AI Agents with Docker Agent",
+    "url": "https://www.kdnuggets.com/building-ai-agents-with-docker-agent",
+    "description": "Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering, installed and run as docker agent. Its own tagline states ",
+    "date": "2026-10-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "7 Best Resources to Learn About Self-Evolving AI Agents",
     "url": "https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents",
     "description": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
@@ -61,22 +77,6 @@
     "description": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
     "date": "2026-10-05",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
-    "url": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
-    "description": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet clo",
-    "date": "2026-10-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
-    "url": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
-    "description": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
-    "date": "2026-10-02",
-    "cat": "实习",
     "lang": "en"
   },
   {
