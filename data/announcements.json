@@ -1,5 +1,13 @@
 [
   {
+    "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
+    "url": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
+    "description": "MCP just got simpler. Learn how to build a stateless MCP server in Python and expose tools, resources, and prompts over HTTP.",
+    "date": "2026-10-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
     "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
     "description": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alter",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
     "description": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package f",
     "date": "2026-10-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
-    "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
-    "description": "Meta has entered the AI agent race in a big way.",
-    "date": "2026-10-05",
     "cat": "技术",
     "lang": "en"
   },
