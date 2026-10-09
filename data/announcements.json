@@ -1,5 +1,13 @@
 [
   {
+    "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
+    "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
+    "description": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alter",
+    "date": "2026-10-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Bridging Algorithmic Design and Regulatory Standards in Enterprise AI",
     "url": "https://www.kdnuggets.com/bridging-algorithmic-design-and-regulatory-standards-in-enterprise-ai",
     "description": "Your models can be both cutting-edge and compliant if you stop treating governance as the final hurdle and start building it into every stage of the M",
@@ -67,14 +75,6 @@
     "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
     "url": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
     "description": "Meta has entered the AI agent race in a big way.",
-    "date": "2026-10-05",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "3 Statsmodels Tricks for Time Series Analysis & Forecasting",
-    "url": "https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting",
-    "description": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
     "date": "2026-10-05",
     "cat": "技术",
     "lang": "en"
