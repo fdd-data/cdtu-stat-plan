@@ -1,121 +1,121 @@
 [
   {
-    "title": "The Adaptive Lasso with Weighted IPW Factor and KRR Penalty Function",
-    "url": "https://arxiv.org/abs/2610.08805",
-    "description": "arXiv:2610.08805v1 Announce Type: new \nAbstract: In this paper, we first consider a Lasso estimator incorporating a weighted IPW factor,and obtain cer",
-    "date": "2026-10-08",
+    "title": "The Quality of Lattice Sequences for Arbitrary Sample Size",
+    "url": "https://arxiv.org/abs/2610.10543",
+    "description": "arXiv:2610.10543v1 Announce Type: new \nAbstract: Extensible lattices are a common choice of nodes for approximating multidimensional integrals by a sa",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Trust-Region Optimization for Smooth Potential-Interaction Energies in Wasserstein Space",
-    "url": "https://arxiv.org/abs/2610.08883",
-    "description": "arXiv:2610.08883v1 Announce Type: new \nAbstract: Finding low-energy configurations of interacting particles and approximating probability distribution",
-    "date": "2026-10-08",
+    "title": "The optimal information complexity of VC learning",
+    "url": "https://arxiv.org/abs/2610.10600",
+    "description": "arXiv:2610.10600v1 Announce Type: new \nAbstract: Steinke and Zakynthinou(2020) introduces the Conditional Mutual Information (CMI) framework of analyz",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Projected Normal Models on Recursively Curved Tori",
-    "url": "https://arxiv.org/abs/2610.08974",
-    "description": "arXiv:2610.08974v1 Announce Type: new \nAbstract: We develop a computationally tractable statistical framework for angular data supported on a recursiv",
-    "date": "2026-10-08",
+    "title": "JevForest: Path Voting for Budgeted Feature Acquisition",
+    "url": "https://arxiv.org/abs/2610.10615",
+    "description": "arXiv:2610.10615v1 Announce Type: new \nAbstract: Choosing which information to observe is central to prediction under limited observation budgets. We ",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Graph-monotone entrywise guarantees for MLE and Rank Centrality on general comparison graphs",
-    "url": "https://arxiv.org/abs/2610.09030",
-    "description": "arXiv:2610.09030v1 Announce Type: new \nAbstract: Pairwise comparisons are widely used to infer latent scores and identify top-ranked items. Although s",
-    "date": "2026-10-08",
+    "title": "How Many Directions Must a Truncated Diffusion Sampler Retain? Matching Bounds Under Power-Law Spectra",
+    "url": "https://arxiv.org/abs/2610.10640",
+    "description": "arXiv:2610.10640v1 Announce Type: new \nAbstract: Diffusion samplers can reduce computation by generating selected spectral coordinates and filling the",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making",
-    "url": "https://arxiv.org/abs/2610.09043",
-    "description": "arXiv:2610.09043v1 Announce Type: new \nAbstract: In human-AI collaborative decision making, human review can prevent unsafe AI decisions, but each hum",
-    "date": "2026-10-08",
+    "title": "From Log-Odds to Shapley Values: An Explanatory Geometry for the Weighted Naive Bayes Classifier",
+    "url": "https://arxiv.org/abs/2610.10642",
+    "description": "arXiv:2610.10642v1 Announce Type: new \nAbstract: This paper studies the construction of an explanatory space for a weighted naive Bayes classifier fro",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Quadratic Weak-to-Strong Generalization in Random Feature Networks via Random Matrix Theory",
-    "url": "https://arxiv.org/abs/2610.09044",
-    "description": "arXiv:2610.09044v1 Announce Type: new \nAbstract: Weak-to-strong generalization is the phenomenon where a strong student model trained with labels prod",
-    "date": "2026-10-08",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Learning Transition Kernels of Jump-Diffusion Processes with Conditional Diffusion Models",
-    "url": "https://arxiv.org/abs/2610.09045",
-    "description": "arXiv:2610.09045v1 Announce Type: new \nAbstract: We study the problem of learning transition kernels for time-homogeneous jump-diffusion processes usi",
-    "date": "2026-10-08",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models",
-    "url": "https://arxiv.org/abs/2610.09070",
-    "description": "arXiv:2610.09070v1 Announce Type: new \nAbstract: Multivariate ordinal data along with covariates are commonly collected in problems ranging from align",
-    "date": "2026-10-08",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Formal Graphical Inference Framework for Combining Effect Size with Statistical Significance: Application to Multivariate and Functional Linear Models",
-    "url": "https://arxiv.org/abs/2610.09094",
-    "description": "arXiv:2610.09094v1 Announce Type: new \nAbstract: To address the critical need for statistical methods that evaluate practical magnitude alongside stat",
-    "date": "2026-10-08",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Score-Based Methods for Selecting Direct Causes in Reweighted Distributions",
-    "url": "https://arxiv.org/abs/2610.09100",
-    "description": "arXiv:2610.09100v1 Announce Type: new \nAbstract: Scoring methods based on the Bayesian information criterion (BIC) are commonly used for model selecti",
-    "date": "2026-10-08",
+    "title": "What can linear attention learn from nonlinear teachers in-context?",
+    "url": "https://arxiv.org/abs/2610.10761",
+    "description": "arXiv:2610.10761v1 Announce Type: new \nAbstract: Linear attention is a tractable model for understanding the mechanisms governing in-context learning ",
+    "date": "2026-10-09",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Local asymptotic normality for spectral-tail likelihoods under fixed-domain sampling",
-    "url": "https://arxiv.org/abs/2610.09105",
-    "description": "arXiv:2610.09105v1 Announce Type: new \nAbstract: We establish local asymptotic normality (LAN) for joint inference on scale and roughness in stationar",
-    "date": "2026-10-08",
+    "title": "Kriging and Gaussian processes: interconnected frameworks for spatial modelling and prediction",
+    "url": "https://arxiv.org/abs/2610.10783",
+    "description": "arXiv:2610.10783v1 Announce Type: new \nAbstract: Spatial modelling and inference arise across many areas of science and engineering, with Kriging and ",
+    "date": "2026-10-09",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Calibrating Ambiguity Set via Diagnostic Transport for Distributionally Robust Optimization",
+    "url": "https://arxiv.org/abs/2610.10793",
+    "description": "arXiv:2610.10793v1 Announce Type: new \nAbstract: Distributionally robust optimization (DRO) protects decisions against distributional uncertainty by o",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Sharp and Adaptive Cluster Recovery in Slowly Mixing Gaussian Hidden Markov Models",
-    "url": "https://arxiv.org/abs/2610.09123",
-    "description": "arXiv:2610.09123v1 Announce Type: new \nAbstract: We study cluster recovery in a two-state Gaussian hidden Markov model in the slowly mixing regime, wh",
-    "date": "2026-10-08",
+    "title": "Conformal Prediction under Partial Verification",
+    "url": "https://arxiv.org/abs/2610.10829",
+    "description": "arXiv:2610.10829v1 Announce Type: new \nAbstract: Conformal prediction provides prediction sets with finite-sample guarantees, but the label verificati",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "The Impact of Likelihood Tempering on the Limiting Predictive Moments of Variational Bayesian Linear Neural Networks",
-    "url": "https://arxiv.org/abs/2610.09132",
-    "description": "arXiv:2610.09132v1 Announce Type: new \nAbstract: In wide Bayesian neural networks, Gaussian mean-field variational inference is prone to \"prior domina",
-    "date": "2026-10-08",
+    "title": "Statistical Guarantees for Covariance Estimation with Adversarial Corruption under Constraints",
+    "url": "https://arxiv.org/abs/2610.10840",
+    "description": "arXiv:2610.10840v1 Announce Type: new \nAbstract: We obtain a near-minimax rate on covariance estimation of adversarially corrupted Gaussian data in Fr",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Relative Wasserstein Spatial Depth for Cluster Number Selection in Distributional Data",
-    "url": "https://arxiv.org/abs/2610.09153",
-    "description": "arXiv:2610.09153v1 Announce Type: new \nAbstract: Contemporary data in many scientific domains, such as images, media streams, biomedical omics, are na",
-    "date": "2026-10-08",
+    "title": "Estimating Optimal Dynamic Treatment Regimes for Personalized Education: A Tutorial and Applications with Machine Learning",
+    "url": "https://arxiv.org/abs/2610.10843",
+    "description": "arXiv:2610.10843v1 Announce Type: new \nAbstract: Optimal dynamic treatment regimes (ODTRs) are increasingly used to generate sequences of personalized",
+    "date": "2026-10-09",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "Treatment Effect Modification by Latent Classes",
+    "url": "https://arxiv.org/abs/2610.10851",
+    "description": "arXiv:2610.10851v1 Announce Type: new \nAbstract: Many treatments have effects that plausibly vary by latent classes. For example, the effect of person",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Detecting Unseen Jailbreak Sources: A Multi-Source Conformal Detection Perspective",
-    "url": "https://arxiv.org/abs/2610.09167",
-    "description": "arXiv:2610.09167v1 Announce Type: new \nAbstract: Jailbreak defenses for large language models are usually calibrated on a fixed set of known attack me",
-    "date": "2026-10-08",
+    "title": "On the Impossibility of Estimating the Average Mixing Time",
+    "url": "https://arxiv.org/abs/2610.10860",
+    "description": "arXiv:2610.10860v1 Announce Type: new \nAbstract: We establish nearly-matching converse bounds on the sample complexity of estimating the average mixin",
+    "date": "2026-10-09",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Transformed Samplers with Variance Reduction",
+    "url": "https://arxiv.org/abs/2610.10870",
+    "description": "arXiv:2610.10870v1 Announce Type: new \nAbstract: Markov chain Monte Carlo (MCMC) methods are the standard tool for computing expectations under comple",
+    "date": "2026-10-09",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "When Does Inexact Matching Ensure Balance and Inference without Adjustment?",
+    "url": "https://arxiv.org/abs/2610.10873",
+    "description": "arXiv:2610.10873v1 Announce Type: new \nAbstract: One-to-one matching without replacement is a classical approach to constructing comparable treated an",
+    "date": "2026-10-09",
     "cat": "学术",
     "lang": "en"
   }
