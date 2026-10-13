@@ -1,5 +1,13 @@
 [
   {
+    "title": "Searchable database of the enslaved in former British colonies",
+    "url": "https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/",
+    "description": "The Centre for the Study of the Legacies of British Slavery published a&#8230;Tags: database, Guardian, Legacies of British Slavery, slavery",
+    "date": "2026-10-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Learning is the thing",
     "url": "https://flowingdata.com/2026/10/13/learning-is-the-thing/",
     "description": "Daniel Willingham, a professor at the University of Virginia, argues that students should&#8230;Tags: Daniel Willingham, education, students",
@@ -13,6 +21,14 @@
     "description": "Data for Progress compared social activities among American adults in 1995 against 2026.&#8230;Tags: Data for Progress, social",
     "date": "2026-10-12",
     "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Creating a permutation test, two ways",
+    "url": "https://www.r-bloggers.com/2026/10/creating-a-permutation-test-two-ways/",
+    "description": "In my last post on permute, I looked at ordered set partitions and the new formula interface for plots and blocks. This time I want to show two helper",
+    "date": "2026-10-12",
+    "cat": "技术",
     "lang": "en"
   },
   {
@@ -101,22 +117,6 @@
     "description": "Is there something that comes after we die? For the Pudding, Alvin Chang&#8230;Tags: Alvin Chang, life, mortality, Pudding, religion",
     "date": "2026-10-06",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Exposure to tariffs in Canada",
-    "url": "https://flowingdata.com/2026/10/06/exposure-to-tariffs-in-canada/",
-    "description": "Researchers at the School of Cities, a center at the University of Toronto,&#8230;Tags: Canada, School of Cities, tariff",
-    "date": "2026-10-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Connecting to Eureka2 using a university’s Microsoft Authenticator based login",
-    "url": "https://www.r-bloggers.com/2026/10/connecting-to-eureka2-using-a-universitys-microsoft-authenticator-based-login/",
-    "description": "Connecting to the computing cluster using a VPN tunnel\nContinue reading: Connecting to Eureka2 using a university’s Microsoft Authenticator based logi",
-    "date": "2026-10-06",
-    "cat": "书单",
     "lang": "en"
   }
 ]
