@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
+    "url": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
+    "description": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and product",
+    "date": "2026-10-13",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "5 AutoHotkey Scripts for Data Scientists",
+    "url": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
+    "description": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs t",
+    "date": "2026-10-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
     "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
     "description": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-",
@@ -61,22 +77,6 @@
     "description": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
     "date": "2026-10-08",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "OpenAI Dots: The Data Scientist’s Reality Check",
-    "url": "https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check",
-    "description": "Dots promises a lot. Before you hand it the keys to your workflow, here's what practitioners need to know.",
-    "date": "2026-10-07",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
-    "url": "https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026",
-    "description": "Same job postings, different titles. Here's what each role actually builds.",
-    "date": "2026-10-07",
-    "cat": "实习",
     "lang": "en"
   },
   {
