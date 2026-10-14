@@ -8,6 +8,14 @@
     "lang": "en"
   },
   {
+    "title": "Dogs of New York",
+    "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-2/",
+    "description": "I recently updated nycdogs, a data package for R that I originally made for teaching purposes. It bundles up New York City’s dog licensing and dog bit",
+    "date": "2026-10-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Searchable database of the enslaved in former British colonies",
     "url": "https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/",
     "description": "The Centre for the Study of the Legacies of British Slavery published a&#8230;Tags: database, Guardian, Legacies of British Slavery, slavery",
@@ -108,14 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/10/the-pit-of-success-and-what-a-data-science-language-would-need-to-make-it/",
     "description": "Rico Mariani, a long-time performance engineer at Microsoft, coined the idea of the pit of success. A system has a pit of success when the natural, la",
     "date": "2026-10-08",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "When data shows that everything causes cancer",
-    "url": "https://flowingdata.com/2026/10/07/when-data-shows-that-everything-causes-cancer/",
-    "description": "Harvard researchers published an analysis arguing that risk of cancer increases when people&#8230;Tags: Breakthrough Institute, cancer, causation, Cos",
-    "date": "2026-10-07",
     "cat": "技术",
     "lang": "en"
   }
