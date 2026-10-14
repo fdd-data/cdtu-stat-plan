@@ -88,6 +88,14 @@
     "lang": "en"
   },
   {
+    "title": "Going back to the basics: the correlation coefficient",
+    "url": "https://www.r-bloggers.com/2026/10/going-back-to-the-basics-the-correlation-coefficient-2/",
+    "description": "In statistics, dependence or association is any statistical relationship, whether causal or not, between two random variables or bivariate data. It is",
+    "date": "2026-10-08",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Validating data analyses written by coding agents",
     "url": "https://www.r-bloggers.com/2026/10/validating-data-analyses-written-by-coding-agents/",
     "description": "Claude Code (and many other agents) has been getting so good at ecological analysis that I find I’m increasingly tempted not to directly review the co",
@@ -109,14 +117,6 @@
     "description": "Harvard researchers published an analysis arguing that risk of cancer increases when people&#8230;Tags: Breakthrough Institute, cancer, causation, Cos",
     "date": "2026-10-07",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Bayesian workflow [book review]",
-    "url": "https://www.r-bloggers.com/2026/10/bayesian-workflow-book-review/",
-    "description": "“This original, thought-provoking, and transforming, book is much much more than an implementation manual for Bayesian Data Analysis, even though it s",
-    "date": "2026-10-07",
-    "cat": "书单",
     "lang": "en"
   }
 ]
