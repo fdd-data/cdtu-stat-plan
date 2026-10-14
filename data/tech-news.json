@@ -1,5 +1,13 @@
 [
   {
+    "title": "People holding up the internet",
+    "url": "https://flowingdata.com/2026/10/14/people-holding-up-the-internet/",
+    "description": "In reference to the xkcd comic that illustrates the internet as a stack&#8230;Tags: Internet, open-source, sheets.works",
+    "date": "2026-10-14",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "Searchable database of the enslaved in former British colonies",
     "url": "https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/",
     "description": "The Centre for the Study of the Legacies of British Slavery published a&#8230;Tags: database, Guardian, Legacies of British Slavery, slavery",
@@ -11,6 +19,14 @@
     "title": "Learning is the thing",
     "url": "https://flowingdata.com/2026/10/13/learning-is-the-thing/",
     "description": "Daniel Willingham, a professor at the University of Virginia, argues that students should&#8230;Tags: Daniel Willingham, education, students",
+    "date": "2026-10-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "A Bayesian Network to Explore Data Center Risks",
+    "url": "https://www.r-bloggers.com/2026/10/a-bayesian-network-to-explore-data-center-risks/",
+    "description": "Data centers required to fuel the ambitions of Artificial Intelligence companies have sparked a nationwide conversation. AI companies are moving quick",
     "date": "2026-10-13",
     "cat": "技术",
     "lang": "en"
@@ -101,22 +117,6 @@
     "description": "“This original, thought-provoking, and transforming, book is much much more than an implementation manual for Bayesian Data Analysis, even though it s",
     "date": "2026-10-07",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "A Collaboration Fest for research software interoperability",
-    "url": "https://www.r-bloggers.com/2026/10/a-collaboration-fest-for-research-software-interoperability/",
-    "description": "On 15-17 September 2026, members of the Bioconductor, Galaxy and nf-core communities came together at The Open University in Milton Keynes for the Bio",
-    "date": "2026-10-07",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Beliefs in life after death",
-    "url": "https://flowingdata.com/2026/10/06/beliefs-in-life-after-death/",
-    "description": "Is there something that comes after we die? For the Pudding, Alvin Chang&#8230;Tags: Alvin Chang, life, mortality, Pudding, religion",
-    "date": "2026-10-06",
-    "cat": "技术",
     "lang": "en"
   }
 ]
