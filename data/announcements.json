@@ -1,5 +1,85 @@
 [
   {
+    "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
+    "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
+    "description": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in ev",
+    "date": "2026-10-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
+    "url": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
+    "description": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
+    "date": "2026-10-15",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
+    "url": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
+    "description": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-h",
+    "date": "2026-10-15",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Few-Shot Text Classification with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm",
+    "description": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classificatio",
+    "date": "2026-10-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Fun Projects for LLM Inference Engineering",
+    "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
+    "description": "Want to understand what makes LLMs fast? Build the systems yourself.",
+    "date": "2026-10-14",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
+    "url": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
+    "description": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and product",
+    "date": "2026-10-13",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "5 AutoHotkey Scripts for Data Scientists",
+    "url": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
+    "description": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs t",
+    "date": "2026-10-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
+    "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
+    "description": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-",
+    "date": "2026-10-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found",
+    "url": "https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found",
+    "description": "Compare ChatGPT, Claude, and Gemini across the data science tasks that matter most to statisticians and analysts.",
+    "date": "2026-10-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "10 Hugging Face Models Worth Knowing in 2026",
+    "url": "https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026",
+    "description": "Explore 10 Hugging Face models used across text, vision, audio, and retrieval in 2026.",
+    "date": "2026-10-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
