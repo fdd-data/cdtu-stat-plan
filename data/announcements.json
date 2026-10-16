@@ -1,5 +1,21 @@
 [
   {
+    "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
+    "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
+    "description": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and",
+    "date": "2026-10-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Best Resources to Learn About World Models in 2026",
+    "url": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
+    "description": "World models could be the next big shift in AI. Learn more right now.",
+    "date": "2026-10-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
     "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
     "description": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in ev",
@@ -59,22 +75,6 @@
     "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
     "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
     "description": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-",
-    "date": "2026-10-12",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found",
-    "url": "https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found",
-    "description": "Compare ChatGPT, Claude, and Gemini across the data science tasks that matter most to statisticians and analysts.",
-    "date": "2026-10-12",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "10 Hugging Face Models Worth Knowing in 2026",
-    "url": "https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026",
-    "description": "Explore 10 Hugging Face models used across text, vision, audio, and retrieval in 2026.",
     "date": "2026-10-12",
     "cat": "技术",
     "lang": "en"
