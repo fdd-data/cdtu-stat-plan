@@ -1,121 +1,121 @@
 [
   {
-    "title": "Bayesian Causal Forests for Zero-Inflated Continuous Outcomes",
-    "url": "https://arxiv.org/abs/2610.18889",
-    "description": "arXiv:2610.18889v1 Announce Type: new \nAbstract: Estimating (heterogeneous) treatment effects is still challenging when the outcome is semicontinuous ",
-    "date": "2026-10-15",
+    "title": "Reverse Monte Carlo Modelling in Reduced Dimensions",
+    "url": "https://arxiv.org/abs/2610.20622",
+    "description": "arXiv:2610.20622v1 Announce Type: new \nAbstract: Physical experiments frequently result in inverse problems, where the recorded response is used to de",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "The LR2 Lifetime Distribution: Rate Crossing, Reliability Properties, and Estimation",
-    "url": "https://arxiv.org/abs/2610.18902",
-    "description": "arXiv:2610.18902v1 Announce Type: new \nAbstract: We study the LR2 one-parameter lifetime distribution obtained by mixing an exponential component of r",
-    "date": "2026-10-15",
+    "title": "A polylogarithmic bound for list replicability",
+    "url": "https://arxiv.org/abs/2610.20657",
+    "description": "arXiv:2610.20657v1 Announce Type: new \nAbstract: Zhang [Zha26] recently posted a manuscript announcing that the list-replicability number of every cla",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Delay Complexity Dimension: Learning with Delayed and Censored Labels",
-    "url": "https://arxiv.org/abs/2610.18935",
-    "description": "arXiv:2610.18935v1 Announce Type: new \nAbstract: We study PAC learning of binary classifiers when labels arrive after random delays and are censored b",
-    "date": "2026-10-15",
+    "title": "Latent Annealed Posterior Sampling with a Variance-Preserving Bridge for Sparsely Observed Random Fields",
+    "url": "https://arxiv.org/abs/2610.20659",
+    "description": "arXiv:2610.20659v1 Announce Type: new \nAbstract: Posterior inference for random fields from sparse observations presents two major challenges: accurat",
+    "date": "2026-10-16",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Graph Additive Models disentangling feature, topology, and interactions",
+    "url": "https://arxiv.org/abs/2610.20662",
+    "description": "arXiv:2610.20662v1 Announce Type: new \nAbstract: Graph Neural Additive Networks (GNANs) have emerged as effective, interpretable-by-design architectur",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Linear regression with probabilistic networks for network-linked data",
-    "url": "https://arxiv.org/abs/2610.18937",
-    "description": "arXiv:2610.18937v1 Announce Type: new \nAbstract: Network-linked data combine a network with covariates and responses observed for its nodes. Common re",
-    "date": "2026-10-15",
+    "title": "On the Stability and Convergence of Flow Map Training",
+    "url": "https://arxiv.org/abs/2610.20674",
+    "description": "arXiv:2610.20674v1 Announce Type: new \nAbstract: Flow maps are a recent method of probabilistic generation that amortize diffusion trajectories into o",
+    "date": "2026-10-16",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "The Reach of Treatment Effects: Randomization Inference for Zero-Effect Regions",
+    "url": "https://arxiv.org/abs/2610.20759",
+    "description": "arXiv:2610.20759v1 Announce Type: new \nAbstract: A treatment may affect some individuals while leaving others unaffected. We study the reach of treatm",
+    "date": "2026-10-16",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Precise Asymptotics for Dense High-Dimensional Huber Regression under Heteroscedasticity",
+    "url": "https://arxiv.org/abs/2610.20798",
+    "description": "arXiv:2610.20798v1 Announce Type: new \nAbstract: We study Huber regression in a heteroscedastic linear model in the proportional regime $n/p \\to \\delt",
+    "date": "2026-10-16",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Wong--Zakai Convergence and FNO Learning for Stochastic Volterra Equations",
-    "url": "https://arxiv.org/abs/2610.18939",
-    "description": "arXiv:2610.18939v1 Announce Type: new \nAbstract: This paper studies Wong--Zakai convergence and Fourier neural operator learning for stochastic Volter",
-    "date": "2026-10-15",
+    "title": "A Geometric Framework for the Bayesian Estimation of Joint Environmental Extremes",
+    "url": "https://arxiv.org/abs/2610.20799",
+    "description": "arXiv:2610.20799v1 Announce Type: new \nAbstract: Multivariate extreme events tend to have broader impacts on society compared to individual extremes. ",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Semi-Amortized Bayesian Inference with Reusable Local Posteriors",
-    "url": "https://arxiv.org/abs/2610.18945",
-    "description": "arXiv:2610.18945v1 Announce Type: new \nAbstract: Amortized Bayesian inference uses simulations to perform Bayesian estimation when likelihoods are exp",
-    "date": "2026-10-15",
+    "title": "Challenges and Opportunities in Statistical Analyses and Designs for Neuroscience Clinical Trials",
+    "url": "https://arxiv.org/abs/2610.20833",
+    "description": "arXiv:2610.20833v1 Announce Type: new \nAbstract: Drug development is a complex, costly, and high-risk process, with neuroscience representing one of t",
+    "date": "2026-10-16",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Complete or Sparse: A Tale of Two Identifiabilities",
+    "url": "https://arxiv.org/abs/2610.20851",
+    "description": "arXiv:2610.20851v1 Announce Type: new \nAbstract: Understanding when neural networks learn interpretable representations is central to mechanistic inte",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Discrete Diffusion Models are Minimax Optimal Under Sparsity",
-    "url": "https://arxiv.org/abs/2610.19020",
-    "description": "arXiv:2610.19020v1 Announce Type: new \nAbstract: Discrete diffusion models have emerged as a leading alternative to autoregressive models for generati",
-    "date": "2026-10-15",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Conformalized Physics-Informed Weak Regression for Parameter Estimation in Epidemic Models",
-    "url": "https://arxiv.org/abs/2610.19058",
-    "description": "arXiv:2610.19058v1 Announce Type: new \nAbstract: Compartment models of infectious diseases are often linear in coefficients that are physical paramete",
-    "date": "2026-10-15",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Neural Supervised Clustering for Learning Individualized Treatment Rules with Many Treatments",
-    "url": "https://arxiv.org/abs/2610.19104",
-    "description": "arXiv:2610.19104v1 Announce Type: new \nAbstract: Learning an individualized treatment rule (ITR) with many treatments requires estimating treatment-sp",
-    "date": "2026-10-15",
+    "title": "Calibrated Bayesian inference for overall and subgroup-specific causal effects in stepped-wedge cluster-randomized trials",
+    "url": "https://arxiv.org/abs/2610.20858",
+    "description": "arXiv:2610.20858v1 Announce Type: new \nAbstract: Stepped-wedge cluster-randomized trials (SW-CRTs) randomly assign clusters to sequences that determin",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Student Copula Markov Networks",
-    "url": "https://arxiv.org/abs/2610.19135",
-    "description": "arXiv:2610.19135v1 Announce Type: new \nAbstract: This paper extends the applicability of probabilistic graphical models to non Gaussian data. It estab",
-    "date": "2026-10-15",
+    "title": "Time-partitioning Gaussian Process Mixture Model",
+    "url": "https://arxiv.org/abs/2610.20860",
+    "description": "arXiv:2610.20860v1 Announce Type: new \nAbstract: We propose the Time-partitioning Gaussian Process Mixture Model (TPGPMM), a Bayesian nonparametric fr",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Structure-aware Bayesian full waveform inversion via diffusion-regularized Stein variational gradient descent",
-    "url": "https://arxiv.org/abs/2610.19187",
-    "description": "arXiv:2610.19187v1 Announce Type: new \nAbstract: Full waveform inversion (FWI) is a powerful tool for high-resolution subsurface model reconstruction,",
-    "date": "2026-10-15",
+    "title": "Flexible Doubly Robust Proximal Causal Inference for Censored Outcomes",
+    "url": "https://arxiv.org/abs/2610.20893",
+    "description": "arXiv:2610.20893v1 Announce Type: new \nAbstract: Estimating causal effects on right-censored time-to-event outcomes is challenging under unmeasured co",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Finite-sample certification of coverage regret for budgeted document selection under adaptive stratified auditing",
-    "url": "https://arxiv.org/abs/2610.19207",
-    "description": "arXiv:2610.19207v1 Announce Type: new \nAbstract: Selecting a budget-constrained set of documentary fragments, for instance the knowledge base of a ret",
-    "date": "2026-10-15",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Pointwise minimax lower bounds under a multi-index constraint: the price of an unknown orientation",
-    "url": "https://arxiv.org/abs/2610.19208",
-    "description": "arXiv:2610.19208v1 Announce Type: new \nAbstract: We consider nonparametric regression with random design and non-Gaussian noise, where the regression ",
-    "date": "2026-10-15",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Generalizing Identifiability Results in Causal Discovery from Complete Data to Missing Data Settings",
-    "url": "https://arxiv.org/abs/2610.19211",
-    "description": "arXiv:2610.19211v1 Announce Type: new \nAbstract: While causal discovery methods have matured for complete data, such algorithms for handling missing v",
-    "date": "2026-10-15",
+    "title": "Stochastic Gradient Descent: A Nonlinear Time Series Perspective",
+    "url": "https://arxiv.org/abs/2610.20894",
+    "description": "arXiv:2610.20894v1 Announce Type: new \nAbstract: This paper investigates the statistical behavior of Stochastic Gradient Descent (SGD) with constant s",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Multi-Sensitive Distributional Fairness: Joint Wasserstein Audits and Shapley Allocation",
-    "url": "https://arxiv.org/abs/2610.19252",
-    "description": "arXiv:2610.19252v1 Announce Type: new \nAbstract: Fairness audits with several sensitive attributes are often performed one coordinate at a time. This ",
-    "date": "2026-10-15",
+    "title": "Are continuous models better than areal models for spatial disease mapping with a large number of small areas?",
+    "url": "https://arxiv.org/abs/2610.20943",
+    "description": "arXiv:2610.20943v1 Announce Type: new \nAbstract: Classical methods for analysing areal mortality data typically rely on Poisson mixed models, which ac",
+    "date": "2026-10-16",
     "cat": "学术",
     "lang": "en"
   }
