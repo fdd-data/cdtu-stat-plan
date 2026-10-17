@@ -16,6 +16,14 @@
     "lang": "en"
   },
   {
+    "title": "[Statistics] Collinearity in regression",
+    "url": "https://www.r-bloggers.com/2026/10/statistics-collinearity-in-regression/",
+    "description": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/10/16/statistics-collinearity-in-regression/ -\nlibrary(knitr)\nlibrary(ggplot2)\nlibrary(dplyr)\nl",
+    "date": "2026-10-16",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "Scale of proposed billionaire wealth tax in California",
     "url": "https://flowingdata.com/2026/10/15/california-billionaire-tax/",
     "description": "There is a proposition on the California ballot this year to impose a&#8230;Tags: billionaires, California, New York Times, Nicholas Konrad, scale, ta",
@@ -108,14 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-2/",
     "description": "I recently updated nycdogs, a data package for R that I originally made for teaching purposes. It bundles up New York City’s dog licensing and dog bit",
     "date": "2026-10-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Searchable database of the enslaved in former British colonies",
-    "url": "https://flowingdata.com/2026/10/13/searchable-database-of-the-enslaved-in-former-british-colonies/",
-    "description": "The Centre for the Study of the Legacies of British Slavery published a&#8230;Tags: database, Guardian, Legacies of British Slavery, slavery",
-    "date": "2026-10-13",
     "cat": "技术",
     "lang": "en"
   }
