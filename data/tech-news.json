@@ -1,5 +1,13 @@
 [
   {
+    "title": "Estimate your BAC, now 100% in the browser",
+    "url": "https://www.r-bloggers.com/2026/10/estimate-your-bac-now-100-in-the-browser/",
+    "description": "Thanks to the awesomeness of\n  webR and\n  Shinylive,\n  the tool I made in back in 2014 to estimate your blood alcohol concentration (BAC) now runs 100",
+    "date": "2026-10-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Warming Stripes as a screensaver",
     "url": "https://flowingdata.com/2026/10/16/warming-stripes-as-a-screensaver/",
     "description": "This is fun, or I guess very serious depending on your point of&#8230;Tags: climate change, Georgios Karamanis, screensaver, stripes",
@@ -107,14 +115,6 @@
     "title": "A Trip from Covariance to Correlation and Back",
     "url": "https://www.r-bloggers.com/2026/10/a-trip-from-covariance-to-correlation-and-back/",
     "description": "When we have a multi-trait table of data, we might be interested in investigating variability structure and the reciprocal relationships (whether caus",
-    "date": "2026-10-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Dogs of New York",
-    "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-2/",
-    "description": "I recently updated nycdogs, a data package for R that I originally made for teaching purposes. It bundles up New York City’s dog licensing and dog bit",
     "date": "2026-10-14",
     "cat": "技术",
     "lang": "en"
