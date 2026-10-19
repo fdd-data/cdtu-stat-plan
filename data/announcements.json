@@ -1,5 +1,21 @@
 [
   {
+    "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
+    "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
+    "description": "Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking and a 1M token context window. Learn what broke from Haiku 4.5, and build classifi",
+    "date": "2026-10-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "LangChain vs. LlamaIndex vs. Building From Scratch: Here’s What I Suggest",
+    "url": "https://www.kdnuggets.com/langchain-vs-llamaindex-vs-building-from-scratch-heres-what-i-suggest",
+    "description": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
+    "date": "2026-10-19",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "7 Checks to Run Before Trusting AI-Generated Code",
     "url": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
     "description": "AI makes writing code cheap. Verifying it is still your job.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
     "description": "Want to understand what makes LLMs fast? Build the systems yourself.",
     "date": "2026-10-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
-    "url": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
-    "description": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and product",
-    "date": "2026-10-13",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "5 AutoHotkey Scripts for Data Scientists",
-    "url": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
-    "description": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs t",
-    "date": "2026-10-13",
     "cat": "技术",
     "lang": "en"
   },
