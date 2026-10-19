@@ -1,5 +1,13 @@
 [
   {
+    "title": "7 Checks to Run Before Trusting AI-Generated Code",
+    "url": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
+    "description": "AI makes writing code cheap. Verifying it is still your job.",
+    "date": "2026-10-19",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
     "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
     "description": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
     "description": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs t",
     "date": "2026-10-13",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
-    "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
-    "description": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-",
-    "date": "2026-10-12",
     "cat": "技术",
     "lang": "en"
   },
