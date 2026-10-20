@@ -8,6 +8,22 @@
     "lang": "en"
   },
   {
+    "title": "Getting the pipe shortcut to work in Positron",
+    "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
+    "description": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After c",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Celebrating 15 Years of rOpenSci: Then, Now & Next",
+    "url": "https://www.r-bloggers.com/2026/10/celebrating-15-years-of-ropensci-then-now-next/",
+    "description": "In June 2026, rOpenSci marked its 15th anniversary with three community celebration events: a themed coworking event and two extra events. This post c",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "From a raw spreadsheet to a published data package in a day",
     "url": "https://www.r-bloggers.com/2026/10/from-a-raw-spreadsheet-to-a-published-data-package-in-a-day/",
     "description": "On 22 July 2026 at 15:05, I made the first commit to a new repository. It held an empty R package and one Excel workbook with field data from a househ",
@@ -99,22 +115,6 @@
     "title": "What is an MCP server?",
     "url": "https://www.r-bloggers.com/2026/10/what-is-an-mcp-server/",
     "description": "The Model Context Protocol (MCP) is quietly\nbecoming one of the most useful ideas in AI tooling.\nHere, we describe what MCP is, why it matters, and ho",
-    "date": "2026-10-15",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Can we trust the correlation coefficient in designed field experiments?",
-    "url": "https://www.r-bloggers.com/2026/10/can-we-trust-the-correlation-coefficient-in-designed-field-experiments/",
-    "description": "One of the fundamental aims of field experiments is to explorare the relationships between several experimental traits, which have been recorded/measu",
-    "date": "2026-10-15",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "{brochure}: multipage {shiny} apps, now on CRAN",
-    "url": "https://www.r-bloggers.com/2026/10/brochure-multipage-shiny-apps-now-on-cran/",
-    "description": "You can read the original post in its original format on Rtask website by ThinkR here: {brochure}: multipage {shiny} apps, now on CRAN\nA {shiny} app i",
     "date": "2026-10-15",
     "cat": "技术",
     "lang": "en"

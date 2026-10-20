@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Roadmap to Becoming an AI Product Manager in 2026",
+    "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
+    "description": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product mana",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Docker Containers for Devs",
+    "url": "https://www.kdnuggets.com/5-docker-containers-for-devs",
+    "description": "Five self-hosted Docker containers replace the public utility sites where developer data quietly leaks. Learn which ones handle JWT decoding, data tra",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
     "url": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
     "description": "Claude Haiku 5.5 cuts list prices by 90% and adds adaptive thinking and a 1M token context window. Learn what broke from Haiku 4.5, and build classifi",
@@ -61,22 +77,6 @@
     "description": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-h",
     "date": "2026-10-15",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Few-Shot Text Classification with Scikit-LLM",
-    "url": "https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm",
-    "description": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classificatio",
-    "date": "2026-10-14",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Fun Projects for LLM Inference Engineering",
-    "url": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
-    "description": "Want to understand what makes LLMs fast? Build the systems yourself.",
-    "date": "2026-10-14",
-    "cat": "技术",
     "lang": "en"
   },
   {
