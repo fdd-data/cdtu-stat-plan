@@ -8,6 +8,22 @@
     "lang": "en"
   },
   {
+    "title": "J’avais écrit les règles. Je n’avais pas encore vérifié leurs effets.",
+    "url": "https://www.r-bloggers.com/2026/10/javais-ecrit-les-regles-je-navais-pas-encore-verifie-leurs-effets/",
+    "description": "REX d’une firme minimale : auditer sa veille IA, protéger ses notes et mesurer les limites du contrôle humain.\n\n\nContinue reading: J’avais écrit les r",
+    "date": "2026-10-20",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Get largest (e.g. mainland) polygons from a map",
+    "url": "https://www.r-bloggers.com/2026/10/get-largest-e-g-mainland-polygons-from-a-map/",
+    "description": "I often need to get mainland from country / administrative region polygons, so I finally decided to write a function to help automate it. It selects t",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Getting the pipe shortcut to work in Positron",
     "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
     "description": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After c",
@@ -99,22 +115,6 @@
     "title": "Richest getting richer",
     "url": "https://flowingdata.com/2026/10/15/richest-getting-richer/",
     "description": "This is really going to surprise you, but the wealthy people in the&#8230;Tags: rich, Wall Street Journal, wealth",
-    "date": "2026-10-15",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Spring 2027 data science training courses: January to June",
-    "url": "https://www.r-bloggers.com/2026/10/spring-2027-data-science-training-courses-january-to-june/",
-    "description": "If you plan to learn R or Python in the new year, book before the end of November. Our spring 2027 data science training courses run from January to J",
-    "date": "2026-10-15",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "What is an MCP server?",
-    "url": "https://www.r-bloggers.com/2026/10/what-is-an-mcp-server/",
-    "description": "The Model Context Protocol (MCP) is quietly\nbecoming one of the most useful ideas in AI tooling.\nHere, we describe what MCP is, why it matters, and ho",
     "date": "2026-10-15",
     "cat": "技术",
     "lang": "en"
