@@ -1,5 +1,13 @@
 [
   {
+    "title": "Increasing number of shots in movies",
+    "url": "https://flowingdata.com/2026/10/20/increasing-number-of-shots-in-movies/",
+    "description": "Stephen Follows counted the number of shots in movies, from 1920 through 2025.&#8230;Tags: movies, shots, Stephen Follows",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "From a raw spreadsheet to a published data package in a day",
     "url": "https://www.r-bloggers.com/2026/10/from-a-raw-spreadsheet-to-a-published-data-package-in-a-day/",
     "description": "On 22 July 2026 at 15:05, I made the first commit to a new repository. It held an empty R package and one Excel workbook with field data from a househ",
@@ -107,14 +115,6 @@
     "title": "{brochure}: multipage {shiny} apps, now on CRAN",
     "url": "https://www.r-bloggers.com/2026/10/brochure-multipage-shiny-apps-now-on-cran/",
     "description": "You can read the original post in its original format on Rtask website by ThinkR here: {brochure}: multipage {shiny} apps, now on CRAN\nA {shiny} app i",
-    "date": "2026-10-15",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "maestro 1.4.0 adds custom pipeline metrics",
-    "url": "https://www.r-bloggers.com/2026/10/maestro-1-4-0-adds-custom-pipeline-metrics/",
-    "description": "The 1.4.0 release of maestro is out, and with it comes the ability to record custom metrics from your pipelines. Execution time and success/failure we",
     "date": "2026-10-15",
     "cat": "技术",
     "lang": "en"
