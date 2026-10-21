@@ -1,122 +1,122 @@
 [
   {
-    "title": "Increasing number of shots in movies",
-    "url": "https://flowingdata.com/2026/10/20/increasing-number-of-shots-in-movies/",
-    "description": "Stephen Follows counted the number of shots in movies, from 1920 through 2025.&#8230;Tags: movies, shots, Stephen Follows",
-    "date": "2026-10-20",
-    "cat": "技术",
+    "title": "A parametric mixture cure rate model with competing risks",
+    "url": "https://arxiv.org/abs/2610.26934",
+    "description": "arXiv:2610.26934v1 Announce Type: new \nAbstract: The well-known standard mixture cure model is widely used to model long-term survivors by distinguish",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "J’avais écrit les règles. Je n’avais pas encore vérifié leurs effets.",
-    "url": "https://www.r-bloggers.com/2026/10/javais-ecrit-les-regles-je-navais-pas-encore-verifie-leurs-effets/",
-    "description": "REX d’une firme minimale : auditer sa veille IA, protéger ses notes et mesurer les limites du contrôle humain.\n\n\nContinue reading: J’avais écrit les r",
-    "date": "2026-10-20",
-    "cat": "书单",
+    "title": "Quadratic Sample Complexity for Strictly Replicable Realizable Learning with Unknown Marginals",
+    "url": "https://arxiv.org/abs/2610.26944",
+    "description": "arXiv:2610.26944v1 Announce Type: new \nAbstract: Under the quantifier $\\exists A\\,\\forall D$, where the realizable distribution and its marginal are u",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Get largest (e.g. mainland) polygons from a map",
-    "url": "https://www.r-bloggers.com/2026/10/get-largest-e-g-mainland-polygons-from-a-map/",
-    "description": "I often need to get mainland from country / administrative region polygons, so I finally decided to write a function to help automate it. It selects t",
-    "date": "2026-10-20",
-    "cat": "技术",
+    "title": "Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting",
+    "url": "https://arxiv.org/abs/2610.26987",
+    "description": "arXiv:2610.26987v1 Announce Type: new \nAbstract: Quantifying uncertainty in time series forecasting is particularly demanding because sequential data ",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Getting the pipe shortcut to work in Positron",
-    "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
-    "description": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After c",
-    "date": "2026-10-20",
-    "cat": "技术",
+    "title": "Robust Latent Variable Graphical Models: Exact Recovery and Fundamental Limits",
+    "url": "https://arxiv.org/abs/2610.27010",
+    "description": "arXiv:2610.27010v1 Announce Type: new \nAbstract: We study robust estimation of a Gaussian precision matrix that decomposes as a sparse matrix minus a ",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Celebrating 15 Years of rOpenSci: Then, Now & Next",
-    "url": "https://www.r-bloggers.com/2026/10/celebrating-15-years-of-ropensci-then-now-next/",
-    "description": "In June 2026, rOpenSci marked its 15th anniversary with three community celebration events: a themed coworking event and two extra events. This post c",
-    "date": "2026-10-20",
-    "cat": "技术",
+    "title": "Gaussian Approximation of Besov Functions for Logistic Classification on Manifolds",
+    "url": "https://arxiv.org/abs/2610.27022",
+    "description": "arXiv:2610.27022v1 Announce Type: new \nAbstract: We study Gaussian kernel approximation and regularized logistic classification on a connected compact",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "From a raw spreadsheet to a published data package in a day",
-    "url": "https://www.r-bloggers.com/2026/10/from-a-raw-spreadsheet-to-a-published-data-package-in-a-day/",
-    "description": "On 22 July 2026 at 15:05, I made the first commit to a new repository. It held an empty R package and one Excel workbook with field data from a househ",
-    "date": "2026-10-20",
-    "cat": "书单",
+    "title": "Modular Bayesian Inference for Partially Misspecified Mixtures with Uncertain Class Labels",
+    "url": "https://arxiv.org/abs/2610.27085",
+    "description": "arXiv:2610.27085v1 Announce Type: new \nAbstract: Scientific inference often involves observations from multiple latent populations whose class members",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Calculation volumes for AI training",
-    "url": "https://flowingdata.com/2026/10/19/calculation-volumes-for-ai-training/",
-    "description": "More big numbers coming in. For NYT&#8217;s the Upshot, Aatish Bhatia demonstrates the&#8230;Tags: Aatish Bhatia, calculations, scale, training, Upsho",
-    "date": "2026-10-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Choosing the size of the calibration set in conformal prediction with ahead::conformalize()",
-    "url": "https://www.r-bloggers.com/2026/10/choosing-the-size-of-the-calibration-set-in-conformal-prediction-with-aheadconformalize/",
-    "description": "This post explores the impact of the split_prob parameter in the ahead::conformalize() function on the resulting prediction intervals.\n\n\nContinue read",
-    "date": "2026-10-18",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Estimate your BAC, now 100% in the browser",
-    "url": "https://www.r-bloggers.com/2026/10/estimate-your-bac-now-100-in-the-browser/",
-    "description": "Thanks to the awesomeness of\n  webR and\n  Shinylive,\n  the tool I made in back in 2014 to estimate your blood alcohol concentration (BAC) now runs 100",
-    "date": "2026-10-17",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Warming Stripes as a screensaver",
-    "url": "https://flowingdata.com/2026/10/16/warming-stripes-as-a-screensaver/",
-    "description": "This is fun, or I guess very serious depending on your point of&#8230;Tags: climate change, Georgios Karamanis, screensaver, stripes",
-    "date": "2026-10-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "tsmp Is Back: A Faster, Friendlier Matrix Profile Workflow for R",
-    "url": "https://www.r-bloggers.com/2026/10/tsmp-is-back-a-faster-friendlier-matrix-profile-workflow-for-r/",
-    "description": "A new chapter for the Matrix Profile in R\nFor a while, tsmp looked quiet. The project was not standing still, though: the Matrix Profile tools for R h",
-    "date": "2026-10-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "[Statistics] Collinearity in regression",
-    "url": "https://www.r-bloggers.com/2026/10/statistics-collinearity-in-regression/",
-    "description": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/10/16/statistics-collinearity-in-regression/ -\nlibrary(knitr)\nlibrary(ggplot2)\nlibrary(dplyr)\nl",
-    "date": "2026-10-16",
+    "title": "Positive, monotone, and convex Gaussian process regression with Laplacian eigenfunctions",
+    "url": "https://arxiv.org/abs/2610.27177",
+    "description": "arXiv:2610.27177v1 Announce Type: new \nAbstract: We study how to condition an existing Hilbert space Gaussian process (HSGP) expansion on positivity, ",
+    "date": "2026-10-21",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Scale of proposed billionaire wealth tax in California",
-    "url": "https://flowingdata.com/2026/10/15/california-billionaire-tax/",
-    "description": "There is a proposition on the California ballot this year to impose a&#8230;Tags: billionaires, California, New York Times, Nicholas Konrad, scale, ta",
-    "date": "2026-10-15",
-    "cat": "技术",
+    "title": "Visualizing Joint Ranking Distributions in Network Meta-Analysis with Hammock Plots",
+    "url": "https://arxiv.org/abs/2610.27191",
+    "description": "arXiv:2610.27191v1 Announce Type: new \nAbstract: Treatment ranking provides a summary of the relative effectiveness of competing treatments and is a k",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "✚ Getting to know a dataset",
-    "url": "https://flowingdata.com/2026/10/15/process-410-know/",
-    "description": "This week, I walk through my own thinking as I poke at fresh data.Tags: analysis",
-    "date": "2026-10-15",
-    "cat": "技术",
+    "title": "Diffusion Score Estimation with Shallow Neural Networks: Regularity, Approximation, and Finite-Sample Rates",
+    "url": "https://arxiv.org/abs/2610.27206",
+    "description": "arXiv:2610.27206v1 Announce Type: new \nAbstract: We study the sample complexity of estimating Ornstein--Uhlenbeck diffusion scores in $\\mathbb R^d$ us",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Richest getting richer",
-    "url": "https://flowingdata.com/2026/10/15/richest-getting-richer/",
-    "description": "This is really going to surprise you, but the wealthy people in the&#8230;Tags: rich, Wall Street Journal, wealth",
-    "date": "2026-10-15",
-    "cat": "技术",
+    "title": "Inference for Directions in Canonical Correlation Analysis with Partially Paired Data",
+    "url": "https://arxiv.org/abs/2610.27320",
+    "description": "arXiv:2610.27320v1 Announce Type: new \nAbstract: Canonical correlation analysis (CCA) is a classical tool for learning linear associations between two",
+    "date": "2026-10-21",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A plug-in estimator of the non-iterative conditional expectation g-formula using long short-term memory models",
+    "url": "https://arxiv.org/abs/2610.27354",
+    "description": "arXiv:2610.27354v1 Announce Type: new \nAbstract: The non-iterative conditional expectation (NICE) plug-in estimator of the g-formula can be used to es",
+    "date": "2026-10-21",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Doubly Robust Estimation and Inference for Longitudinal Win Probabilities with Ordinal Outcomes in Observational Studies",
+    "url": "https://arxiv.org/abs/2610.27372",
+    "description": "arXiv:2610.27372v1 Announce Type: new \nAbstract: Repeated ordinal outcomes capture how treatment benefits and harms evolve over time. We develop doubl",
+    "date": "2026-10-21",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A copula-based competing risks model with application to cancer risk estimation in family studies",
+    "url": "https://arxiv.org/abs/2610.27388",
+    "description": "arXiv:2610.27388v1 Announce Type: new \nAbstract: Cancer risk estimation tools are used by clinicians to evaluate the risk of individuals who carry hig",
+    "date": "2026-10-21",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Choose your own adventure: How data source selection shapes urban accessibility analyses",
+    "url": "https://arxiv.org/abs/2610.27390",
+    "description": "arXiv:2610.27390v1 Announce Type: new \nAbstract: Urban park accessibility shapes mental health, physical well-being, and community cohesion. Measuring",
+    "date": "2026-10-21",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Communication Complexity of Universal Features",
+    "url": "https://arxiv.org/abs/2610.27402",
+    "description": "arXiv:2610.27402v1 Announce Type: new \nAbstract: Motivated by the notion of features from machine learning, we study the complexity of representing da",
+    "date": "2026-10-21",
+    "cat": "学术",
     "lang": "en"
   }
 ]
