@@ -1,122 +1,122 @@
 [
   {
-    "title": "A parametric mixture cure rate model with competing risks",
-    "url": "https://arxiv.org/abs/2610.26934",
-    "description": "arXiv:2610.26934v1 Announce Type: new \nAbstract: The well-known standard mixture cure model is widely used to model long-term survivors by distinguish",
-    "date": "2026-10-21",
+    "title": "Wavelet covariances under fixed finite observations: dilation symmetry breaking and distinct endpoint limits",
+    "url": "https://arxiv.org/abs/2610.28665",
+    "description": "arXiv:2610.28665v1 Announce Type: new \nAbstract: For a centered homogeneous generalized Gaussian field with spectral weight $C|\\omega|^{-\\gamma}$, we ",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Quadratic Sample Complexity for Strictly Replicable Realizable Learning with Unknown Marginals",
-    "url": "https://arxiv.org/abs/2610.26944",
-    "description": "arXiv:2610.26944v1 Announce Type: new \nAbstract: Under the quantifier $\\exists A\\,\\forall D$, where the realizable distribution and its marginal are u",
-    "date": "2026-10-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting",
-    "url": "https://arxiv.org/abs/2610.26987",
-    "description": "arXiv:2610.26987v1 Announce Type: new \nAbstract: Quantifying uncertainty in time series forecasting is particularly demanding because sequential data ",
-    "date": "2026-10-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Robust Latent Variable Graphical Models: Exact Recovery and Fundamental Limits",
-    "url": "https://arxiv.org/abs/2610.27010",
-    "description": "arXiv:2610.27010v1 Announce Type: new \nAbstract: We study robust estimation of a Gaussian precision matrix that decomposes as a sparse matrix minus a ",
-    "date": "2026-10-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Gaussian Approximation of Besov Functions for Logistic Classification on Manifolds",
-    "url": "https://arxiv.org/abs/2610.27022",
-    "description": "arXiv:2610.27022v1 Announce Type: new \nAbstract: We study Gaussian kernel approximation and regularized logistic classification on a connected compact",
-    "date": "2026-10-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Modular Bayesian Inference for Partially Misspecified Mixtures with Uncertain Class Labels",
-    "url": "https://arxiv.org/abs/2610.27085",
-    "description": "arXiv:2610.27085v1 Announce Type: new \nAbstract: Scientific inference often involves observations from multiple latent populations whose class members",
-    "date": "2026-10-21",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Positive, monotone, and convex Gaussian process regression with Laplacian eigenfunctions",
-    "url": "https://arxiv.org/abs/2610.27177",
-    "description": "arXiv:2610.27177v1 Announce Type: new \nAbstract: We study how to condition an existing Hilbert space Gaussian process (HSGP) expansion on positivity, ",
-    "date": "2026-10-21",
+    "title": "A Duality of the F Distribution",
+    "url": "https://arxiv.org/abs/2610.28690",
+    "description": "arXiv:2610.28690v1 Announce Type: new \nAbstract: The F distribution arises naturally in linear regression or analysis of variance. Elementary textbook",
+    "date": "2026-10-22",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Visualizing Joint Ranking Distributions in Network Meta-Analysis with Hammock Plots",
-    "url": "https://arxiv.org/abs/2610.27191",
-    "description": "arXiv:2610.27191v1 Announce Type: new \nAbstract: Treatment ranking provides a summary of the relative effectiveness of competing treatments and is a k",
-    "date": "2026-10-21",
+    "title": "Borrowing Strength Across Stores: Transfer Learning for Choice-Based Revenue Management",
+    "url": "https://arxiv.org/abs/2610.28708",
+    "description": "arXiv:2610.28708v1 Announce Type: new \nAbstract: Large retail chains must tailor assortment and pricing decisions to local customer preferences, yet e",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Diffusion Score Estimation with Shallow Neural Networks: Regularity, Approximation, and Finite-Sample Rates",
-    "url": "https://arxiv.org/abs/2610.27206",
-    "description": "arXiv:2610.27206v1 Announce Type: new \nAbstract: We study the sample complexity of estimating Ornstein--Uhlenbeck diffusion scores in $\\mathbb R^d$ us",
-    "date": "2026-10-21",
+    "title": "A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners",
+    "url": "https://arxiv.org/abs/2610.28747",
+    "description": "arXiv:2610.28747v1 Announce Type: new \nAbstract: Gold's theorem shows that no learner can identify an arbitrary language in a superfinite class from p",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Inference for Directions in Canonical Correlation Analysis with Partially Paired Data",
-    "url": "https://arxiv.org/abs/2610.27320",
-    "description": "arXiv:2610.27320v1 Announce Type: new \nAbstract: Canonical correlation analysis (CCA) is a classical tool for learning linear associations between two",
-    "date": "2026-10-21",
+    "title": "Depth Separation for Neural Networks under Gaussian Measure",
+    "url": "https://arxiv.org/abs/2610.28800",
+    "description": "arXiv:2610.28800v1 Announce Type: new \nAbstract: We revisit the problem of depth separation for neural networks, as studied by Eldan and Shamir, Danie",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A plug-in estimator of the non-iterative conditional expectation g-formula using long short-term memory models",
-    "url": "https://arxiv.org/abs/2610.27354",
-    "description": "arXiv:2610.27354v1 Announce Type: new \nAbstract: The non-iterative conditional expectation (NICE) plug-in estimator of the g-formula can be used to es",
-    "date": "2026-10-21",
+    "title": "Calibration scoring under dependent seed variables in Cooke's Classical Model: a Mehler-Hermite design-effect correction",
+    "url": "https://arxiv.org/abs/2610.28831",
+    "description": "arXiv:2610.28831v1 Announce Type: new \nAbstract: Cooke's Classical Model scores the statistical accuracy of experts by the $p$-value of a likelihood r",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Doubly Robust Estimation and Inference for Longitudinal Win Probabilities with Ordinal Outcomes in Observational Studies",
-    "url": "https://arxiv.org/abs/2610.27372",
-    "description": "arXiv:2610.27372v1 Announce Type: new \nAbstract: Repeated ordinal outcomes capture how treatment benefits and harms evolve over time. We develop doubl",
-    "date": "2026-10-21",
+    "title": "Are New Parties Shut Out of the UK House of Commons?",
+    "url": "https://arxiv.org/abs/2610.28866",
+    "description": "arXiv:2610.28866v1 Announce Type: new \nAbstract: In recent years it has been claimed that new political parties are shut out of the UK House of Common",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A copula-based competing risks model with application to cancer risk estimation in family studies",
-    "url": "https://arxiv.org/abs/2610.27388",
-    "description": "arXiv:2610.27388v1 Announce Type: new \nAbstract: Cancer risk estimation tools are used by clinicians to evaluate the risk of individuals who carry hig",
-    "date": "2026-10-21",
+    "title": "Backtracking Direct, Indirect and Total Effects",
+    "url": "https://arxiv.org/abs/2610.28910",
+    "description": "arXiv:2610.28910v1 Announce Type: new \nAbstract: Natural direct and indirect effects are defined through cross-world interventional counterfactuals. W",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Choose your own adventure: How data source selection shapes urban accessibility analyses",
-    "url": "https://arxiv.org/abs/2610.27390",
-    "description": "arXiv:2610.27390v1 Announce Type: new \nAbstract: Urban park accessibility shapes mental health, physical well-being, and community cohesion. Measuring",
-    "date": "2026-10-21",
+    "title": "Dual-Phase Flow Matching for Probabilistic Source Detection and Measurement in Astronomical Images",
+    "url": "https://arxiv.org/abs/2610.28919",
+    "description": "arXiv:2610.28919v1 Announce Type: new \nAbstract: Using the largest digital camera ever built, the NSF-DOE Vera C. Rubin Observatory's 10-year Legacy S",
+    "date": "2026-10-22",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Communication Complexity of Universal Features",
-    "url": "https://arxiv.org/abs/2610.27402",
-    "description": "arXiv:2610.27402v1 Announce Type: new \nAbstract: Motivated by the notion of features from machine learning, we study the complexity of representing da",
-    "date": "2026-10-21",
+    "title": "Boot-AVT: Asymptotically Anytime-Valid Testing with Degenerate U-Statistics via Bootstrap",
+    "url": "https://arxiv.org/abs/2610.28931",
+    "description": "arXiv:2610.28931v1 Announce Type: new \nAbstract: Many nonparametric tests are based on $U$-statistics that are degenerate under the null hypothesis. W",
+    "date": "2026-10-22",
     "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Is In-Context Reinforcement Learning A Posterior Sampler? An Empirical Study",
+    "url": "https://arxiv.org/abs/2610.28977",
+    "description": "arXiv:2610.28977v1 Announce Type: new \nAbstract: In-context reinforcement learning (ICRL) exploits the impressive in-context learning ability of large",
+    "date": "2026-10-22",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Anytime-Valid Inference in Conjoint Experiments",
+    "url": "https://arxiv.org/abs/2610.28979",
+    "description": "arXiv:2610.28979v1 Announce Type: new \nAbstract: Choosing an appropriate sample size is a fundamental challenge in experimental design. This challenge",
+    "date": "2026-10-22",
+    "cat": "竞赛",
+    "lang": "en"
+  },
+  {
+    "title": "Estimand frameworks for causal inference in clinical research and regulatory decision making",
+    "url": "https://arxiv.org/abs/2610.28983",
+    "description": "arXiv:2610.28983v1 Announce Type: new \nAbstract: Causal inference for clinical and regulatory decision making requires a precise definition of the cau",
+    "date": "2026-10-22",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Generalized survival energy models with exogenous covariates for mortality prediction",
+    "url": "https://arxiv.org/abs/2610.29002",
+    "description": "arXiv:2610.29002v1 Announce Type: new \nAbstract: We develop a generalized survival energy model that relates mortality to social and economic conditio",
+    "date": "2026-10-22",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Rare-Feature-Adaptive Subsampling for Big Data Regression",
+    "url": "https://arxiv.org/abs/2610.29083",
+    "description": "arXiv:2610.29083v1 Announce Type: new \nAbstract: Rare binary features cause instability and slow convergence in regression. Subsampling massive datase",
+    "date": "2026-10-22",
+    "cat": "考研",
     "lang": "en"
   }
 ]
