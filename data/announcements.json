@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Process Large JSON Files in Python With ijson",
+    "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
+    "description": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
+    "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
+    "description": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn m",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Named Entity Recognition Using Scikit-LLM",
     "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
     "description": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
     "description": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and",
     "date": "2026-10-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Best Resources to Learn About World Models in 2026",
-    "url": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
-    "description": "World models could be the next big shift in AI. Learn more right now.",
-    "date": "2026-10-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
-    "url": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
-    "description": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in ev",
-    "date": "2026-10-15",
     "cat": "技术",
     "lang": "en"
   },
