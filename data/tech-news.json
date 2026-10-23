@@ -1,122 +1,122 @@
 [
   {
-    "title": "Wavelet covariances under fixed finite observations: dilation symmetry breaking and distinct endpoint limits",
-    "url": "https://arxiv.org/abs/2610.28665",
-    "description": "arXiv:2610.28665v1 Announce Type: new \nAbstract: For a centered homogeneous generalized Gaussian field with spectral weight $C|\\omega|^{-\\gamma}$, we ",
-    "date": "2026-10-22",
+    "title": "Why Constrained Updates Still Forget: A Functional-Path Analysis of Continual SFT",
+    "url": "https://arxiv.org/abs/2610.30191",
+    "description": "arXiv:2610.30191v1 Announce Type: new \nAbstract: Supervised fine-tuning adapts language models to specialized tasks but can disrupt previously acquire",
+    "date": "2026-10-23",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Duality of the F Distribution",
-    "url": "https://arxiv.org/abs/2610.28690",
-    "description": "arXiv:2610.28690v1 Announce Type: new \nAbstract: The F distribution arises naturally in linear regression or analysis of variance. Elementary textbook",
-    "date": "2026-10-22",
+    "title": "Differentially Private Synthetic Data via Generalized Moment Matching",
+    "url": "https://arxiv.org/abs/2610.30196",
+    "description": "arXiv:2610.30196v1 Announce Type: new \nAbstract: We study $(\\varepsilon,\\delta)$-differentially private synthetic data for arbitrary databases of $n$ ",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bridge change-of-measure for propagator estimation of diffusions",
+    "url": "https://arxiv.org/abs/2610.30213",
+    "description": "arXiv:2610.30213v1 Announce Type: new \nAbstract: The propagator of one-dimensional diffusions has relevant applications in statistical inference and a",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "High-Value Training Data from Noisy, Diverse Sources",
+    "url": "https://arxiv.org/abs/2610.30421",
+    "description": "arXiv:2610.30421v1 Announce Type: new \nAbstract: Training state-of-the-art models increasingly requires learning from large, heterogeneous datasets wh",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Tag loss models for capture-recapture data without double tagging",
+    "url": "https://arxiv.org/abs/2610.30447",
+    "description": "arXiv:2610.30447v1 Announce Type: new \nAbstract: Standard capture-recapture (CR) models assume that marked individuals do not lose their tags during t",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Flow-based Spectral Kernel Learning for Nonstationary Attention",
+    "url": "https://arxiv.org/abs/2610.30465",
+    "description": "arXiv:2610.30465v1 Announce Type: new \nAbstract: Kernelized attention provides a useful perspective for understanding self-attention as a similarity-b",
+    "date": "2026-10-23",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Borrowing Strength Across Stores: Transfer Learning for Choice-Based Revenue Management",
-    "url": "https://arxiv.org/abs/2610.28708",
-    "description": "arXiv:2610.28708v1 Announce Type: new \nAbstract: Large retail chains must tailor assortment and pricing decisions to local customer preferences, yet e",
-    "date": "2026-10-22",
+    "title": "A Bayesian Copula Dirichlet Process GLM for Longitudinal Data",
+    "url": "https://arxiv.org/abs/2610.30467",
+    "description": "arXiv:2610.30467v1 Announce Type: new \nAbstract: We introduce a semiparametric Bayesian generalized linear model (GLM) for longitudinal continuous out",
+    "date": "2026-10-23",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners",
-    "url": "https://arxiv.org/abs/2610.28747",
-    "description": "arXiv:2610.28747v1 Announce Type: new \nAbstract: Gold's theorem shows that no learner can identify an arbitrary language in a superfinite class from p",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Depth Separation for Neural Networks under Gaussian Measure",
-    "url": "https://arxiv.org/abs/2610.28800",
-    "description": "arXiv:2610.28800v1 Announce Type: new \nAbstract: We revisit the problem of depth separation for neural networks, as studied by Eldan and Shamir, Danie",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Calibration scoring under dependent seed variables in Cooke's Classical Model: a Mehler-Hermite design-effect correction",
-    "url": "https://arxiv.org/abs/2610.28831",
-    "description": "arXiv:2610.28831v1 Announce Type: new \nAbstract: Cooke's Classical Model scores the statistical accuracy of experts by the $p$-value of a likelihood r",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Are New Parties Shut Out of the UK House of Commons?",
-    "url": "https://arxiv.org/abs/2610.28866",
-    "description": "arXiv:2610.28866v1 Announce Type: new \nAbstract: In recent years it has been claimed that new political parties are shut out of the UK House of Common",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Backtracking Direct, Indirect and Total Effects",
-    "url": "https://arxiv.org/abs/2610.28910",
-    "description": "arXiv:2610.28910v1 Announce Type: new \nAbstract: Natural direct and indirect effects are defined through cross-world interventional counterfactuals. W",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Dual-Phase Flow Matching for Probabilistic Source Detection and Measurement in Astronomical Images",
-    "url": "https://arxiv.org/abs/2610.28919",
-    "description": "arXiv:2610.28919v1 Announce Type: new \nAbstract: Using the largest digital camera ever built, the NSF-DOE Vera C. Rubin Observatory's 10-year Legacy S",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Boot-AVT: Asymptotically Anytime-Valid Testing with Degenerate U-Statistics via Bootstrap",
-    "url": "https://arxiv.org/abs/2610.28931",
-    "description": "arXiv:2610.28931v1 Announce Type: new \nAbstract: Many nonparametric tests are based on $U$-statistics that are degenerate under the null hypothesis. W",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Is In-Context Reinforcement Learning A Posterior Sampler? An Empirical Study",
-    "url": "https://arxiv.org/abs/2610.28977",
-    "description": "arXiv:2610.28977v1 Announce Type: new \nAbstract: In-context reinforcement learning (ICRL) exploits the impressive in-context learning ability of large",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Anytime-Valid Inference in Conjoint Experiments",
-    "url": "https://arxiv.org/abs/2610.28979",
-    "description": "arXiv:2610.28979v1 Announce Type: new \nAbstract: Choosing an appropriate sample size is a fundamental challenge in experimental design. This challenge",
-    "date": "2026-10-22",
-    "cat": "竞赛",
-    "lang": "en"
-  },
-  {
-    "title": "Estimand frameworks for causal inference in clinical research and regulatory decision making",
-    "url": "https://arxiv.org/abs/2610.28983",
-    "description": "arXiv:2610.28983v1 Announce Type: new \nAbstract: Causal inference for clinical and regulatory decision making requires a precise definition of the cau",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Generalized survival energy models with exogenous covariates for mortality prediction",
-    "url": "https://arxiv.org/abs/2610.29002",
-    "description": "arXiv:2610.29002v1 Announce Type: new \nAbstract: We develop a generalized survival energy model that relates mortality to social and economic conditio",
-    "date": "2026-10-22",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Rare-Feature-Adaptive Subsampling for Big Data Regression",
-    "url": "https://arxiv.org/abs/2610.29083",
-    "description": "arXiv:2610.29083v1 Announce Type: new \nAbstract: Rare binary features cause instability and slow convergence in regression. Subsampling massive datase",
-    "date": "2026-10-22",
+    "title": "Reorganizing Graduate Statistical Inference for Modern Biostatistical Practice",
+    "url": "https://arxiv.org/abs/2610.30483",
+    "description": "arXiv:2610.30483v1 Announce Type: new \nAbstract: First-year graduate courses in statistical inference within PhD programs in biostatistics often follo",
+    "date": "2026-10-23",
     "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "An F-Type Normal-Reference Calibration for High-Dimensional Covariance Testing",
+    "url": "https://arxiv.org/abs/2610.30497",
+    "description": "arXiv:2610.30497v1 Announce Type: new \nAbstract: An F-type normal-reference calibration is developed for testing equality of two high-dimensional cova",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bayesian Downscaling of Satellite-Derived Solar-Induced Chlorophyll Fluorescence",
+    "url": "https://arxiv.org/abs/2610.30508",
+    "description": "arXiv:2610.30508v1 Announce Type: new \nAbstract: We present an extendable Bayesian framework for spatial downscaling of satellite-derived measurements",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Rematching Estimators for Average Treatment Effects",
+    "url": "https://arxiv.org/abs/2610.30560",
+    "description": "arXiv:2610.30560v1 Announce Type: new \nAbstract: Matching estimators are widely applied in practice for their great intuitive appeal. However, simple ",
+    "date": "2026-10-23",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Lifetime-valid decisions by continually evolving AI analysts",
+    "url": "https://arxiv.org/abs/2610.30562",
+    "description": "arXiv:2610.30562v1 Announce Type: new \nAbstract: AI agents increasingly act as analysts whose decision can often be cast as hypothesis tests. Classica",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "DagFlow AI: Agentic Synthetic Data Generation for Personalized Statistics Learning",
+    "url": "https://arxiv.org/abs/2610.30580",
+    "description": "arXiv:2610.30580v1 Announce Type: new \nAbstract: To provide personalized learning experiences in courses that teach data analysis skills, instructors ",
+    "date": "2026-10-23",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "Sharp convergence rate of the estimation error of LASSO via the Feature Space Decomposition method",
+    "url": "https://arxiv.org/abs/2610.30622",
+    "description": "arXiv:2610.30622v1 Announce Type: new \nAbstract: In this paper, we use the Feature Space Decomposition (FSD) method to establish an explicit, non-asym",
+    "date": "2026-10-23",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity",
+    "url": "https://arxiv.org/abs/2610.30624",
+    "description": "arXiv:2610.30624v1 Announce Type: new \nAbstract: Statistical modeling of heavy-tailed data with bounded or finite body behaviour often relies on compo",
+    "date": "2026-10-23",
+    "cat": "学术",
     "lang": "en"
   }
 ]
