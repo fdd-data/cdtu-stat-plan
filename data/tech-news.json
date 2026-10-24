@@ -1,122 +1,122 @@
 [
   {
-    "title": "Why Constrained Updates Still Forget: A Functional-Path Analysis of Continual SFT",
-    "url": "https://arxiv.org/abs/2610.30191",
-    "description": "arXiv:2610.30191v1 Announce Type: new \nAbstract: Supervised fine-tuning adapts language models to specialized tasks but can disrupt previously acquire",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Differentially Private Synthetic Data via Generalized Moment Matching",
-    "url": "https://arxiv.org/abs/2610.30196",
-    "description": "arXiv:2610.30196v1 Announce Type: new \nAbstract: We study $(\\varepsilon,\\delta)$-differentially private synthetic data for arbitrary databases of $n$ ",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bridge change-of-measure for propagator estimation of diffusions",
-    "url": "https://arxiv.org/abs/2610.30213",
-    "description": "arXiv:2610.30213v1 Announce Type: new \nAbstract: The propagator of one-dimensional diffusions has relevant applications in statistical inference and a",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "High-Value Training Data from Noisy, Diverse Sources",
-    "url": "https://arxiv.org/abs/2610.30421",
-    "description": "arXiv:2610.30421v1 Announce Type: new \nAbstract: Training state-of-the-art models increasingly requires learning from large, heterogeneous datasets wh",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Tag loss models for capture-recapture data without double tagging",
-    "url": "https://arxiv.org/abs/2610.30447",
-    "description": "arXiv:2610.30447v1 Announce Type: new \nAbstract: Standard capture-recapture (CR) models assume that marked individuals do not lose their tags during t",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Flow-based Spectral Kernel Learning for Nonstationary Attention",
-    "url": "https://arxiv.org/abs/2610.30465",
-    "description": "arXiv:2610.30465v1 Announce Type: new \nAbstract: Kernelized attention provides a useful perspective for understanding self-attention as a similarity-b",
-    "date": "2026-10-23",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "A Bayesian Copula Dirichlet Process GLM for Longitudinal Data",
-    "url": "https://arxiv.org/abs/2610.30467",
-    "description": "arXiv:2610.30467v1 Announce Type: new \nAbstract: We introduce a semiparametric Bayesian generalized linear model (GLM) for longitudinal continuous out",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Reorganizing Graduate Statistical Inference for Modern Biostatistical Practice",
-    "url": "https://arxiv.org/abs/2610.30483",
-    "description": "arXiv:2610.30483v1 Announce Type: new \nAbstract: First-year graduate courses in statistical inference within PhD programs in biostatistics often follo",
-    "date": "2026-10-23",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "An F-Type Normal-Reference Calibration for High-Dimensional Covariance Testing",
-    "url": "https://arxiv.org/abs/2610.30497",
-    "description": "arXiv:2610.30497v1 Announce Type: new \nAbstract: An F-type normal-reference calibration is developed for testing equality of two high-dimensional cova",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bayesian Downscaling of Satellite-Derived Solar-Induced Chlorophyll Fluorescence",
-    "url": "https://arxiv.org/abs/2610.30508",
-    "description": "arXiv:2610.30508v1 Announce Type: new \nAbstract: We present an extendable Bayesian framework for spatial downscaling of satellite-derived measurements",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Rematching Estimators for Average Treatment Effects",
-    "url": "https://arxiv.org/abs/2610.30560",
-    "description": "arXiv:2610.30560v1 Announce Type: new \nAbstract: Matching estimators are widely applied in practice for their great intuitive appeal. However, simple ",
-    "date": "2026-10-23",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Lifetime-valid decisions by continually evolving AI analysts",
-    "url": "https://arxiv.org/abs/2610.30562",
-    "description": "arXiv:2610.30562v1 Announce Type: new \nAbstract: AI agents increasingly act as analysts whose decision can often be cast as hypothesis tests. Classica",
-    "date": "2026-10-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "DagFlow AI: Agentic Synthetic Data Generation for Personalized Statistics Learning",
-    "url": "https://arxiv.org/abs/2610.30580",
-    "description": "arXiv:2610.30580v1 Announce Type: new \nAbstract: To provide personalized learning experiences in courses that teach data analysis skills, instructors ",
+    "title": "Primer for geospatial embeddings",
+    "url": "https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/",
+    "description": "For Development Seed, Kiri Carini and Martha Morrissey explain what embeddings are and&#8230;Tags: Development Seed, embeddings, geospatial, guide, tr",
     "date": "2026-10-23",
     "cat": "资源",
     "lang": "en"
   },
   {
-    "title": "Sharp convergence rate of the estimation error of LASSO via the Feature Space Decomposition method",
-    "url": "https://arxiv.org/abs/2610.30622",
-    "description": "arXiv:2610.30622v1 Announce Type: new \nAbstract: In this paper, we use the Feature Space Decomposition (FSD) method to establish an explicit, non-asym",
+    "title": "What happens to math going forward",
+    "url": "https://flowingdata.com/2026/10/23/what-happens-to-math-going-forward/",
+    "description": "Terence Tao has become the unofficial spokesperson for the future of mathematics. Elisabeth&#8230;Tags: math, New York Times, OpenAI, Terence Tao",
     "date": "2026-10-23",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity",
-    "url": "https://arxiv.org/abs/2610.30624",
-    "description": "arXiv:2610.30624v1 Announce Type: new \nAbstract: Statistical modeling of heavy-tailed data with bounded or finite body behaviour often relies on compo",
-    "date": "2026-10-23",
-    "cat": "学术",
+    "title": "When AI comes for purpose",
+    "url": "https://flowingdata.com/2026/10/22/when-ai-comes-for-purpose/",
+    "description": "Mathematician and Cornell professor Steven Strogatz was a guest on NYT&#8217;s Daily podcast&#8230;Tags: math, New York Times, purpose, Steven Strogat",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "✚ Avoiding charts by default",
+    "url": "https://flowingdata.com/2026/10/22/process-411-default-avoid/",
+    "description": "This week, we switch the chart defaults to non-defaults.Tags: creativity, default",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Cost of electricity from investor-owned vs. public",
+    "url": "https://flowingdata.com/2026/10/22/cost-of-electricity-from-investor-owned-vs-public/",
+    "description": "If your electricity provider is an investor-owned company, it&#8217;s likely you&#8217;re paying more&#8230;Tags: Bloomberg, cost, electricity",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Automatically center a projection on the plotted map",
+    "url": "https://www.r-bloggers.com/2026/10/automatically-center-a-projection-on-the-plotted-map/",
+    "description": "Following this previous post and this discussion on Mastodon, I wrote a function that wraps a combination of functions from the ‘terra’ package to pro",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "rOpenSci News Digest, October 2026",
+    "url": "https://www.r-bloggers.com/2026/10/ropensci-news-digest-october-2026/",
+    "description": "Dear rOpenSci friends, it’s time for our monthly news roundup!\nYou can read this post on our blog.\nNow let’s dive into the activity at and around rOpe",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Rising to top net worth, by age",
+    "url": "https://flowingdata.com/2026/10/21/higher-net-worth/",
+    "description": "Results from the Survey of Consumer Finances were recently released, which means it is time for a rendition of seeing who has a higher net worth than ",
+    "date": "2026-10-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Hybrid Machine Learning & Financial Econometrics: Building Volatility-Aware Dynamic Forecast Bands for Bitcoin",
+    "url": "https://www.r-bloggers.com/2026/10/hybrid-machine-learning-financial-econometrics-building-volatility-aware-dynamic-forecast-bands-for-bitcoin/",
+    "description": "When forecasting high-volatility financial assets like Bitcoin (BTC-USD), standard point-prediction models—whether classical ARIMA or deep neural netw",
+    "date": "2026-10-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Mark Padgham: Building the Machinery of Software Peer Review",
+    "url": "https://www.r-bloggers.com/2026/10/mark-padgham-building-the-machinery-of-software-peer-review/",
+    "description": "Mark Padgham is leaving rOpenSci at the end of October, and we want to take this moment to recognize his impact and say thank you for helping to shape",
+    "date": "2026-10-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Increasing number of shots in movies",
+    "url": "https://flowingdata.com/2026/10/20/increasing-number-of-shots-in-movies/",
+    "description": "Stephen Follows counted the number of shots in movies, from 1920 through 2025.&#8230;Tags: movies, shots, Stephen Follows",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "TKCat meets LLMs: an MCP server for well-documented knowledge resources",
+    "url": "https://www.r-bloggers.com/2026/10/tkcat-meets-llms-an-mcp-server-for-well-documented-knowledge-resources/",
+    "description": "1 Documentation was always the point\nTKCat (Tailored Knowledge Catalog) is built on a simple idea: a knowledge resource is more than a set of tables. ",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "J’avais écrit les règles. Je n’avais pas encore vérifié leurs effets.",
+    "url": "https://www.r-bloggers.com/2026/10/javais-ecrit-les-regles-je-navais-pas-encore-verifie-leurs-effets/",
+    "description": "REX d’une firme minimale : auditer sa veille IA, protéger ses notes et mesurer les limites du contrôle humain.\n\n\nContinue reading: J’avais écrit les r",
+    "date": "2026-10-20",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Get largest (e.g. mainland) polygons from a map",
+    "url": "https://www.r-bloggers.com/2026/10/get-largest-e-g-mainland-polygons-from-a-map/",
+    "description": "I often need to get mainland from country / administrative region polygons, so I finally decided to write a function to help automate it. It selects t",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Getting the pipe shortcut to work in Positron",
+    "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
+    "description": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After c",
+    "date": "2026-10-20",
+    "cat": "技术",
     "lang": "en"
   }
 ]
