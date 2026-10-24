@@ -16,6 +16,14 @@
     "lang": "en"
   },
   {
+    "title": "Let’s peel the world",
+    "url": "https://www.r-bloggers.com/2026/10/lets-peel-the-world/",
+    "description": "What would happen if we peeled the Earth like an orange? The\ninterrupted Goode homolosine projection\ngives us something close to that! This equal-area",
+    "date": "2026-10-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "When AI comes for purpose",
     "url": "https://flowingdata.com/2026/10/22/when-ai-comes-for-purpose/",
     "description": "Mathematician and Cornell professor Steven Strogatz was a guest on NYT&#8217;s Daily podcast&#8230;Tags: math, New York Times, purpose, Steven Strogat",
@@ -107,14 +115,6 @@
     "title": "Get largest (e.g. mainland) polygons from a map",
     "url": "https://www.r-bloggers.com/2026/10/get-largest-e-g-mainland-polygons-from-a-map/",
     "description": "I often need to get mainland from country / administrative region polygons, so I finally decided to write a function to help automate it. It selects t",
-    "date": "2026-10-20",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Getting the pipe shortcut to work in Positron",
-    "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
-    "description": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After c",
     "date": "2026-10-20",
     "cat": "技术",
     "lang": "en"
