@@ -1,5 +1,13 @@
 [
   {
+    "title": "caretS3 and ahead for Tabular and Time Series Machine Learning",
+    "url": "https://www.r-bloggers.com/2026/10/carets3-and-ahead-for-tabular-and-time-series-machine-learning/",
+    "description": "Exploring the integration of caretS3 and ahead for tabular and time series machine learning tasks.\n\n\nContinue reading: caretS3 and ahead for Tabular a",
+    "date": "2026-10-25",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Price elasticity of demand for crude oil by @ellis2013nz",
     "url": "https://www.r-bloggers.com/2026/10/price-elasticity-of-demand-for-crude-oil-by-ellis2013nz/",
     "description": "This blog post is about me trying to make a better version of an existing diagram that I think is important, but difficult to read in the version it k",
@@ -109,14 +117,6 @@
     "description": "1 Documentation was always the point\nTKCat (Tailored Knowledge Catalog) is built on a simple idea: a knowledge resource is more than a set of tables. ",
     "date": "2026-10-20",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "J’avais écrit les règles. Je n’avais pas encore vérifié leurs effets.",
-    "url": "https://www.r-bloggers.com/2026/10/javais-ecrit-les-regles-je-navais-pas-encore-verifie-leurs-effets/",
-    "description": "REX d’une firme minimale : auditer sa veille IA, protéger ses notes et mesurer les limites du contrôle humain.\n\n\nContinue reading: J’avais écrit les r",
-    "date": "2026-10-20",
-    "cat": "书单",
     "lang": "en"
   }
 ]
