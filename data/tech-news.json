@@ -1,5 +1,13 @@
 [
   {
+    "title": "Price elasticity of demand for crude oil by @ellis2013nz",
+    "url": "https://www.r-bloggers.com/2026/10/price-elasticity-of-demand-for-crude-oil-by-ellis2013nz/",
+    "description": "This blog post is about me trying to make a better version of an existing diagram that I think is important, but difficult to read in the version it k",
+    "date": "2026-10-24",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Primer for geospatial embeddings",
     "url": "https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/",
     "description": "For Development Seed, Kiri Carini and Martha Morrissey explain what embeddings are and&#8230;Tags: Development Seed, embeddings, geospatial, guide, tr",
@@ -109,14 +117,6 @@
     "description": "REX d’une firme minimale : auditer sa veille IA, protéger ses notes et mesurer les limites du contrôle humain.\n\n\nContinue reading: J’avais écrit les r",
     "date": "2026-10-20",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Get largest (e.g. mainland) polygons from a map",
-    "url": "https://www.r-bloggers.com/2026/10/get-largest-e-g-mainland-polygons-from-a-map/",
-    "description": "I often need to get mainland from country / administrative region polygons, so I finally decided to write a function to help automate it. It selects t",
-    "date": "2026-10-20",
-    "cat": "技术",
     "lang": "en"
   }
 ]
