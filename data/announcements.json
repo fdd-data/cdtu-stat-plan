@@ -1,5 +1,85 @@
 [
   {
+    "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
+    "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
+    "description": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deploym",
+    "date": "2026-10-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
+    "url": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
+    "description": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-e",
+    "date": "2026-10-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 Advanced Python Design Patterns for Data Scientists",
+    "url": "https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists",
+    "description": "Learn seven design patterns for data science code, from Strategy and Adapter to Command and Proxy, each matched to the pressure it solves, with the Py",
+    "date": "2026-10-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
+    "url": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
+    "description": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
+    "date": "2026-10-23",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "5 Free AI Coding Agents You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
+    "description": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without pa",
+    "date": "2026-10-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Process Large JSON Files in Python With ijson",
+    "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
+    "description": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
+    "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
+    "description": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn m",
+    "date": "2026-10-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Named Entity Recognition Using Scikit-LLM",
+    "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
+    "description": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
+    "date": "2026-10-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Best GitHub Repositories for AI Agent Skills",
+    "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
+    "description": "Explore five popular AI agent skill collections that help coding agents plan, test, debug, review, and build better software.",
+    "date": "2026-10-21",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "The Roadmap to Becoming an AI Product Manager in 2026",
+    "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
+    "description": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product mana",
+    "date": "2026-10-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
