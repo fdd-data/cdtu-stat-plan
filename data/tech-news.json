@@ -1,122 +1,122 @@
 [
   {
-    "title": "Autoregressive Physics-Informed Neural Operator Surrogates and Joint 4-D Seismic-Production Bayesian History Matching",
-    "url": "https://arxiv.org/abs/2610.31677",
-    "description": "arXiv:2610.31677v1 Announce Type: new \nAbstract: We present a surrogate-accelerated Bayesian history-matching framework, demonstrated on a realistic s",
-    "date": "2026-10-26",
+    "title": "TGAge: A Phenotypic Aging Clock Based on Tabular Foundation Models and the Gompertz Law for Assisted Living Facility Residents",
+    "url": "https://arxiv.org/abs/2610.32994",
+    "description": "arXiv:2610.32994v1 Announce Type: new \nAbstract: Biological age captures overall health status beyond chronological age, yet existing biological aging",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Quantitative Resolvent Calculus for Sample Covariance Matrices",
+    "url": "https://arxiv.org/abs/2610.33087",
+    "description": "arXiv:2610.33087v1 Announce Type: new \nAbstract: In this work, we develop a quantitative resolvent calculus for sample covariance matrices tailored to",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "A Measure-Geometric Theory of Robustness in Machine Learning",
+    "url": "https://arxiv.org/abs/2610.33123",
+    "description": "arXiv:2610.33123v1 Announce Type: new \nAbstract: This paper develops a foundational measure-geometric theory of robustness in machine learning. Robust",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Smoothing splines with some discontinuities",
+    "url": "https://arxiv.org/abs/2610.33137",
+    "description": "arXiv:2610.33137v1 Announce Type: new \nAbstract: We generalize cubic smoothing splines to signals with a finite number of discontinuities at unknown p",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Kernelised covariance matrices, dimension reduction and imbalanced spectral clustering",
+    "url": "https://arxiv.org/abs/2610.33177",
+    "description": "arXiv:2610.33177v1 Announce Type: new \nAbstract: The Gaussian Mixture Model (abbrv. GMM) is a classic generative model for clustered data, for which s",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Self-thresholding angular-radial models of extremal dependence",
+    "url": "https://arxiv.org/abs/2610.33238",
+    "description": "arXiv:2610.33238v1 Announce Type: new \nAbstract: Assessing compound risks requires a model for routine and extreme joint behaviour together, and a pri",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Informative inference on the average treatment effect with instrumental variables",
+    "url": "https://arxiv.org/abs/2610.33254",
+    "description": "arXiv:2610.33254v1 Announce Type: new \nAbstract: Policy decisions often depend on whether the average treatment effect (ATE) exceeds a specific cutoff",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Not All Mislabels Are Equal: Efficient Task-Aware Auditing with Confidence Sequences",
+    "url": "https://arxiv.org/abs/2610.33262",
+    "description": "arXiv:2610.33262v1 Announce Type: new \nAbstract: We study efficient, adaptive auditing of categorical labels in a fixed dataset, motivated by biodiver",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Robust bootstrap methods for meta-analyses of diagnostic test accuracy studies",
+    "url": "https://arxiv.org/abs/2610.33270",
+    "description": "arXiv:2610.33270v1 Announce Type: new \nAbstract: Meta-analysis of diagnostic test accuracy (DTA) commonly relies on the bivariate linear mixed model (",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Sharp Bounds on Continuous Treatment Effects under Unobserved Confounding",
+    "url": "https://arxiv.org/abs/2610.33278",
+    "description": "arXiv:2610.33278v1 Announce Type: new \nAbstract: We study partial identification of conditional treatment effects with a continuous treatment under un",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "The kernel mean embedding of a random probability distribution and its principal components",
+    "url": "https://arxiv.org/abs/2610.33286",
+    "description": "arXiv:2610.33286v1 Announce Type: new \nAbstract: Given a random probability distribution \\(F\\), whose realizations are defined on \\(\\mathbb R^d\\), and",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Statistical inference for boundary constrained parameters",
+    "url": "https://arxiv.org/abs/2610.33321",
+    "description": "arXiv:2610.33321v1 Announce Type: new \nAbstract: Estimation and inference under boundary constraints arises in many areas of statistics, but the avail",
+    "date": "2026-10-27",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Recursive moment updates for scalable Bayesian nonparametric regression",
+    "url": "https://arxiv.org/abs/2610.33388",
+    "description": "arXiv:2610.33388v1 Announce Type: new \nAbstract: Bayesian nonparametric regression methods have wide applications in statistics and machine learning, ",
+    "date": "2026-10-27",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Where the Data End and the Mechanism Begins: Doubly Robust Causal Digital Twins for Treatment Strategies",
-    "url": "https://arxiv.org/abs/2610.31706",
-    "description": "arXiv:2610.31706v1 Announce Type: new \nAbstract: Digital twins are increasingly used to ask how a patient's health would evolve under alternative trea",
-    "date": "2026-10-26",
+    "title": "Fitting time-varying parameter models via partially noncentered parametrizations",
+    "url": "https://arxiv.org/abs/2610.33392",
+    "description": "arXiv:2610.33392v1 Announce Type: new \nAbstract: Time-varying parameter (TVP) models are widely used to capture evolving relationships but inference i",
+    "date": "2026-10-27",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Operationalising Weaker Faithfulness: Recovery, Ambiguity and Computational Limits",
-    "url": "https://arxiv.org/abs/2610.31724",
-    "description": "arXiv:2610.31724v1 Announce Type: new \nAbstract: Variables can predict an outcome jointly while each is individually independent of it, causing struct",
-    "date": "2026-10-26",
+    "title": "Exhaustive adjustment-set selection and causal effects for distribution-valued outcomes, with inference under latent Gaussian spatio-temporal dependence",
+    "url": "https://arxiv.org/abs/2610.33395",
+    "description": "arXiv:2610.33395v1 Announce Type: new \nAbstract: Selecting adjustment covariates for a distribution-valued outcome must preserve dependence that scala",
+    "date": "2026-10-27",
     "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Changing contribution of a shared neighbourhood pattern to reported sexual and non-sexual violence against women and girls in Medell\\'in, Colombia, 2018--2022",
-    "url": "https://arxiv.org/abs/2610.31741",
-    "description": "arXiv:2610.31741v1 Announce Type: new \nAbstract: During the COVID-19 restrictions, notifications of violence against women and girls may have changed ",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Early learning in large residual networks",
-    "url": "https://arxiv.org/abs/2610.31783",
-    "description": "arXiv:2610.31783v1 Announce Type: new \nAbstract: We study the early training dynamics of nonlinear residual networks with blocks of zero hidden layers",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Hierarchical Absorbing Markov Chain Models for Pooling Sparse Combat Sequence Data",
-    "url": "https://arxiv.org/abs/2610.31787",
-    "description": "arXiv:2610.31787v1 Announce Type: new \nAbstract: By viewing tactics in no-gi Brazilian jiu-jitsu (NGJJ) as discrete states, we estimate the transition",
-    "date": "2026-10-26",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "A Review of Bayesian Surrogate Modeling for High-Dimensional Computer Simulations",
-    "url": "https://arxiv.org/abs/2610.31870",
-    "description": "arXiv:2610.31870v1 Announce Type: new \nAbstract: Bayesian surrogate models play a central role in the analysis of computationally expensive physics-ba",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Combinatorial Characterizations of the Learnability of Conditional Distributions",
-    "url": "https://arxiv.org/abs/2610.31890",
-    "description": "arXiv:2610.31890v1 Announce Type: new \nAbstract: We study the PAC-learnability of function classes that map inputs to probability distributions over a",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Bayesian Propensity Score Predictive Inference for Extending Trial Findings to Target Populations",
-    "url": "https://arxiv.org/abs/2610.31915",
-    "description": "arXiv:2610.31915v1 Announce Type: new \nAbstract: The CODIACS Vanguard randomized trial compared a depression care intervention with usual care for pat",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Semiparametric inference for a Target Outcome Leveraging Heterogeneous External Summaries of Auxiliary Outcomes",
-    "url": "https://arxiv.org/abs/2610.31928",
-    "description": "arXiv:2610.31928v1 Announce Type: new \nAbstract: The integration of external information can substantially improve the efficiency of statistical infer",
-    "date": "2026-10-26",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "Mean estimation in spatial functional data",
-    "url": "https://arxiv.org/abs/2610.31949",
-    "description": "arXiv:2610.31949v1 Announce Type: new \nAbstract: Functional mean estimation exhibits a sparse-to-dense phase transition as the number of measurements ",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Proportion Outcomes in Interrupted Time Series Analysis: Why Both Boundedness and Autocorrelation Matter",
-    "url": "https://arxiv.org/abs/2610.31969",
-    "description": "arXiv:2610.31969v1 Announce Type: new \nAbstract: Background: Proportions are common in interrupted time series analysis (ITSA), but bounded outcomes a",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Parallel Trends as a Spectrum",
-    "url": "https://arxiv.org/abs/2610.31978",
-    "description": "arXiv:2610.31978v1 Announce Type: new \nAbstract: Difference-in-differences (DiD) designs are typically used to identify and estimate average causal ef",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Fitting Dynamic Conditional Densities to Cross-Sectional Returns with Persistent Tail Intensities",
-    "url": "https://arxiv.org/abs/2610.32011",
-    "description": "arXiv:2610.32011v1 Announce Type: new \nAbstract: We propose dynamic conditional densities with spline mixtures (DCD-SM) to detect whether the tail int",
-    "date": "2026-10-26",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Higher Order Asymptotics of Regression Adjustment Estimators for Causal Inference",
-    "url": "https://arxiv.org/abs/2610.32023",
-    "description": "arXiv:2610.32023v1 Announce Type: new \nAbstract: Regression adjustment is widely used to improve the precision of average treatment effect estimates f",
-    "date": "2026-10-26",
-    "cat": "考研",
     "lang": "en"
   }
 ]
