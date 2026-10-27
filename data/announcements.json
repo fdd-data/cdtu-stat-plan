@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
+    "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
+    "description": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting ",
+    "date": "2026-10-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
     "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
     "description": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deploym",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
     "description": "Explore five popular AI agent skill collections that help coding agents plan, test, debug, review, and build better software.",
     "date": "2026-10-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Roadmap to Becoming an AI Product Manager in 2026",
-    "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
-    "description": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product mana",
-    "date": "2026-10-20",
     "cat": "技术",
     "lang": "en"
   },
