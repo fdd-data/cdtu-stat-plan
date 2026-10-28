@@ -1,121 +1,121 @@
 [
   {
-    "title": "TGAge: A Phenotypic Aging Clock Based on Tabular Foundation Models and the Gompertz Law for Assisted Living Facility Residents",
-    "url": "https://arxiv.org/abs/2610.32994",
-    "description": "arXiv:2610.32994v1 Announce Type: new \nAbstract: Biological age captures overall health status beyond chronological age, yet existing biological aging",
-    "date": "2026-10-27",
+    "title": "Causal sensitivity analyses for indirect and spillover mediation effects in cluster-randomized trials: Application to a pragmatic trial on chronic pain management",
+    "url": "https://arxiv.org/abs/2610.35884",
+    "description": "arXiv:2610.35884v1 Announce Type: new \nAbstract: Causal mediation in cluster-randomized trials can clarify whether a cluster-level intervention change",
+    "date": "2026-10-28",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Quantitative Resolvent Calculus for Sample Covariance Matrices",
-    "url": "https://arxiv.org/abs/2610.33087",
-    "description": "arXiv:2610.33087v1 Announce Type: new \nAbstract: In this work, we develop a quantitative resolvent calculus for sample covariance matrices tailored to",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Measure-Geometric Theory of Robustness in Machine Learning",
-    "url": "https://arxiv.org/abs/2610.33123",
-    "description": "arXiv:2610.33123v1 Announce Type: new \nAbstract: This paper develops a foundational measure-geometric theory of robustness in machine learning. Robust",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Smoothing splines with some discontinuities",
-    "url": "https://arxiv.org/abs/2610.33137",
-    "description": "arXiv:2610.33137v1 Announce Type: new \nAbstract: We generalize cubic smoothing splines to signals with a finite number of discontinuities at unknown p",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Kernelised covariance matrices, dimension reduction and imbalanced spectral clustering",
-    "url": "https://arxiv.org/abs/2610.33177",
-    "description": "arXiv:2610.33177v1 Announce Type: new \nAbstract: The Gaussian Mixture Model (abbrv. GMM) is a classic generative model for clustered data, for which s",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Self-thresholding angular-radial models of extremal dependence",
-    "url": "https://arxiv.org/abs/2610.33238",
-    "description": "arXiv:2610.33238v1 Announce Type: new \nAbstract: Assessing compound risks requires a model for routine and extreme joint behaviour together, and a pri",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Informative inference on the average treatment effect with instrumental variables",
-    "url": "https://arxiv.org/abs/2610.33254",
-    "description": "arXiv:2610.33254v1 Announce Type: new \nAbstract: Policy decisions often depend on whether the average treatment effect (ATE) exceeds a specific cutoff",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Not All Mislabels Are Equal: Efficient Task-Aware Auditing with Confidence Sequences",
-    "url": "https://arxiv.org/abs/2610.33262",
-    "description": "arXiv:2610.33262v1 Announce Type: new \nAbstract: We study efficient, adaptive auditing of categorical labels in a fixed dataset, motivated by biodiver",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Robust bootstrap methods for meta-analyses of diagnostic test accuracy studies",
-    "url": "https://arxiv.org/abs/2610.33270",
-    "description": "arXiv:2610.33270v1 Announce Type: new \nAbstract: Meta-analysis of diagnostic test accuracy (DTA) commonly relies on the bivariate linear mixed model (",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Sharp Bounds on Continuous Treatment Effects under Unobserved Confounding",
-    "url": "https://arxiv.org/abs/2610.33278",
-    "description": "arXiv:2610.33278v1 Announce Type: new \nAbstract: We study partial identification of conditional treatment effects with a continuous treatment under un",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "The kernel mean embedding of a random probability distribution and its principal components",
-    "url": "https://arxiv.org/abs/2610.33286",
-    "description": "arXiv:2610.33286v1 Announce Type: new \nAbstract: Given a random probability distribution \\(F\\), whose realizations are defined on \\(\\mathbb R^d\\), and",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Statistical inference for boundary constrained parameters",
-    "url": "https://arxiv.org/abs/2610.33321",
-    "description": "arXiv:2610.33321v1 Announce Type: new \nAbstract: Estimation and inference under boundary constraints arises in many areas of statistics, but the avail",
-    "date": "2026-10-27",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Recursive moment updates for scalable Bayesian nonparametric regression",
-    "url": "https://arxiv.org/abs/2610.33388",
-    "description": "arXiv:2610.33388v1 Announce Type: new \nAbstract: Bayesian nonparametric regression methods have wide applications in statistics and machine learning, ",
-    "date": "2026-10-27",
+    "title": "Quantile Regression Postprocessing with Negative Electricity Price Forecasts",
+    "url": "https://arxiv.org/abs/2610.35885",
+    "description": "arXiv:2610.35885v1 Announce Type: new \nAbstract: Negative electricity prices create market-relevant risks for trading, bidding, renewable revenues, an",
+    "date": "2026-10-28",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Fitting time-varying parameter models via partially noncentered parametrizations",
-    "url": "https://arxiv.org/abs/2610.33392",
-    "description": "arXiv:2610.33392v1 Announce Type: new \nAbstract: Time-varying parameter (TVP) models are widely used to capture evolving relationships but inference i",
-    "date": "2026-10-27",
+    "title": "Evaluating the Predictive Validity of ICT's Accumulation-Manipulation-Distribution (AMD) Model on CME E-Mini NASDAQ-100 Futures",
+    "url": "https://arxiv.org/abs/2610.35887",
+    "description": "arXiv:2610.35887v1 Announce Type: new \nAbstract: To our knowledge, this paper provides the first systematic quantitative evaluation of the ICT Accumul",
+    "date": "2026-10-28",
     "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Exhaustive adjustment-set selection and causal effects for distribution-valued outcomes, with inference under latent Gaussian spatio-temporal dependence",
-    "url": "https://arxiv.org/abs/2610.33395",
-    "description": "arXiv:2610.33395v1 Announce Type: new \nAbstract: Selecting adjustment covariates for a distribution-valued outcome must preserve dependence that scala",
-    "date": "2026-10-27",
+    "title": "Manipulation-Resistant Oracles via Continuous Peer Prediction",
+    "url": "https://arxiv.org/abs/2610.35888",
+    "description": "arXiv:2610.35888v1 Announce Type: new \nAbstract: Blockchain oracle networks, including decentralised physical infrastructure networks (DePINs), report",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "CircaFMM: A Flexible Statistical Framework for Circadian Rhythmicity Detection in Transcriptomics",
+    "url": "https://arxiv.org/abs/2610.35891",
+    "description": "arXiv:2610.35891v1 Announce Type: new \nAbstract: Detecting circadian rhythmicity in large-scale transcriptomic data is challenging when sampling is ir",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Reconstructing the Human Development Index at the Individual Level from Survey Microdata: Development and Validation of a Methodology",
+    "url": "https://arxiv.org/abs/2610.35893",
+    "description": "arXiv:2610.35893v1 Announce Type: new \nAbstract: This study proposes and validates a methodology for reconstructing the Human Development Index (HDI) ",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Bayesian Recovery Trajectories Following Forced Sexual Experience: Healthcare Access and Social Support Among Women",
+    "url": "https://arxiv.org/abs/2610.35894",
+    "description": "arXiv:2610.35894v1 Announce Type: new \nAbstract: \\textbf{Background.} Women who experience forced sexual violence face elevated risks of poor mental a",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
+    "url": "https://arxiv.org/abs/2610.35895",
+    "description": "arXiv:2610.35895v1 Announce Type: new \nAbstract: Despite the proliferation of sovereign Environmental, Social, and Governance (ESG) metrics, tradition",
+    "date": "2026-10-28",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "A Sphericity Filter for Space-Filling Designs in Nondeterministic Experiments",
+    "url": "https://arxiv.org/abs/2610.36012",
+    "description": "arXiv:2610.36012v1 Announce Type: new \nAbstract: Space-filling designs support flexible modeling in noisy multi-response experiments, but an individua",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Priors and parameterizations for Bayesian regression with categorical variables and interactions",
+    "url": "https://arxiv.org/abs/2610.36017",
+    "description": "arXiv:2610.36017v1 Announce Type: new \nAbstract: Regression analysis commonly features categorical variables and their interactions to model heterogen",
+    "date": "2026-10-28",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling",
+    "url": "https://arxiv.org/abs/2610.36018",
+    "description": "arXiv:2610.36018v1 Announce Type: new \nAbstract: We introduce a Stein variational framework for sampling from a target density $p\\propto e^{-U}$ when ",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Causal DAG-Guided Reinforcement Learning for Long-Term Physical Activity Maintenance: Using Prior Data to Inform Future Deployment",
+    "url": "https://arxiv.org/abs/2610.36019",
+    "description": "arXiv:2610.36019v1 Announce Type: new \nAbstract: Digital health interventions can provide scalable, personalized support for physical activity (PA), y",
+    "date": "2026-10-28",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates",
+    "url": "https://arxiv.org/abs/2610.36078",
+    "description": "arXiv:2610.36078v1 Announce Type: new \nAbstract: Accelerated dynamics methods, such as parallel replica dynamics, require estimates of the decorrelati",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Not Just Why, but When and for Whom: Revisiting Common Estimands in Causal Inference",
+    "url": "https://arxiv.org/abs/2610.36084",
+    "description": "arXiv:2610.36084v1 Announce Type: new \nAbstract: Causal inference commonly defines an individual treatment effect as a quantity that varies across uni",
+    "date": "2026-10-28",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Setting Things Straight: On the Straightness and Non-Straightness of Two-Step Rectified Flow",
+    "url": "https://arxiv.org/abs/2610.36090",
+    "description": "arXiv:2610.36090v1 Announce Type: new \nAbstract: Rectified flow (RF) is an ODE-based generative modeling framework that has achieved remarkable succes",
+    "date": "2026-10-28",
     "cat": "学术",
     "lang": "en"
   }
