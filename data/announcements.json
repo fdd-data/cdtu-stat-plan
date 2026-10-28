@@ -1,5 +1,13 @@
 [
   {
+    "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+    "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
+    "description": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fa",
+    "date": "2026-10-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
     "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
     "description": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype i",
@@ -67,14 +75,6 @@
     "title": "How to Process Large JSON Files in Python With ijson",
     "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
     "description": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-    "date": "2026-10-22",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-    "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-    "description": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn m",
     "date": "2026-10-22",
     "cat": "技术",
     "lang": "en"
