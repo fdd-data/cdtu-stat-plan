@@ -1,5 +1,21 @@
 [
   {
+    "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
+    "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
+    "description": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype i",
+    "date": "2026-10-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Which Local LMs are Best For Which Tasks",
+    "url": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
+    "description": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run enti",
+    "date": "2026-10-28",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
     "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
     "description": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting ",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
     "description": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn m",
     "date": "2026-10-22",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Named Entity Recognition Using Scikit-LLM",
-    "url": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
-    "description": "Build standardized custom NER pipelines in a few simple steps, powered by the reasoning capabilities of LLMs.",
-    "date": "2026-10-21",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Best GitHub Repositories for AI Agent Skills",
-    "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
-    "description": "Explore five popular AI agent skill collections that help coding agents plan, test, debug, review, and build better software.",
-    "date": "2026-10-21",
     "cat": "技术",
     "lang": "en"
   },
