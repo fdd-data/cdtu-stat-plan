@@ -1,122 +1,122 @@
 [
   {
-    "title": "Causal sensitivity analyses for indirect and spillover mediation effects in cluster-randomized trials: Application to a pragmatic trial on chronic pain management",
-    "url": "https://arxiv.org/abs/2610.35884",
-    "description": "arXiv:2610.35884v1 Announce Type: new \nAbstract: Causal mediation in cluster-randomized trials can clarify whether a cluster-level intervention change",
+    "title": "Finding the real center actor of Hollywood",
+    "url": "https://flowingdata.com/2026/10/28/finding-the-real-center-actor-of-hollywood/",
+    "description": "For the Pudding, Owen Lacey analyzed the network of Hollywood actors connected by&#8230;Tags: Kevin Bacon, Owen Lacey, Pudding, separation",
     "date": "2026-10-28",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Quantile Regression Postprocessing with Negative Electricity Price Forecasts",
-    "url": "https://arxiv.org/abs/2610.35885",
-    "description": "arXiv:2610.35885v1 Announce Type: new \nAbstract: Negative electricity prices create market-relevant risks for trading, bidding, renewable revenues, an",
-    "date": "2026-10-28",
+    "title": "Why agents take unexpected routes",
+    "url": "https://flowingdata.com/2026/10/27/why-agents-take-unexpected-routes/",
+    "description": "For the New York Times, Raj Saha and Blacki Migliozzi used mazes to&#8230;Tags: New York Times, rogue, training",
+    "date": "2026-10-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Localized Wikipedia to your geographic area",
+    "url": "https://flowingdata.com/2026/10/27/localized-wikipedia-to-your-geographic-area/",
+    "description": "Local Wikipedia, by Ed Jefferson, subsets regular Wikipedia to people, places, and things&#8230;Tags: Ed Jefferson, local, Wikipedia",
+    "date": "2026-10-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Agents in Production Webinar: From a Chatbot to a Tool You Can Rely On",
+    "url": "https://www.r-bloggers.com/2026/10/agents-in-production-webinar-from-a-chatbot-to-a-tool-you-can-rely-on/",
+    "description": "Ask a large language model a question about your data, and you’ll probably get a confident answer.\nAsk it again, and you might get a different one.\nSo",
+    "date": "2026-10-27",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
+    "title": "Characteristic NYC Neighborhood Complaints",
+    "url": "https://www.r-bloggers.com/2026/10/characteristic-nyc-neighborhood-complaints/",
+    "description": "New York City month continues here at Kieran Healy Industries, an effort that will eventually produce something properly scholarly in nature. But in t",
+    "date": "2026-10-27",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Evaluating the Predictive Validity of ICT's Accumulation-Manipulation-Distribution (AMD) Model on CME E-Mini NASDAQ-100 Futures",
-    "url": "https://arxiv.org/abs/2610.35887",
-    "description": "arXiv:2610.35887v1 Announce Type: new \nAbstract: To our knowledge, this paper provides the first systematic quantitative evaluation of the ICT Accumul",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "Cutting the cost of tokens",
+    "url": "https://flowingdata.com/2026/10/26/cutting-the-cost-of-tokens/",
+    "description": "On a per token basis, the cost of using LLMs from Anthropic and&#8230;Tags: Anthropic, cost, Max Woolf, OpenAI",
+    "date": "2026-10-26",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Manipulation-Resistant Oracles via Continuous Peer Prediction",
-    "url": "https://arxiv.org/abs/2610.35888",
-    "description": "arXiv:2610.35888v1 Announce Type: new \nAbstract: Blockchain oracle networks, including decentralised physical infrastructure networks (DePINs), report",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "Full 3-D scan and live body metrics for Neal’s about page",
+    "url": "https://flowingdata.com/2026/10/26/full-3-d-scan-and-live-body-metrics-for-neals-about-page/",
+    "description": "You know the about pages on every site that provide a summary of&#8230;Tags: 3-D, body, Neal Agarwal",
+    "date": "2026-10-26",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "CircaFMM: A Flexible Statistical Framework for Circadian Rhythmicity Detection in Transcriptomics",
-    "url": "https://arxiv.org/abs/2610.35891",
-    "description": "arXiv:2610.35891v1 Announce Type: new \nAbstract: Detecting circadian rhythmicity in large-scale transcriptomic data is challenging when sampling is ir",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "Battles and space-filling curves",
+    "url": "https://www.r-bloggers.com/2026/10/battles-and-space-filling-curves/",
+    "description": "I recently learned about an interesting way of reducing the dimension of a data set. I’d like to illustrate it with a data set of about 550 historical",
+    "date": "2026-10-26",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Reconstructing the Human Development Index at the Individual Level from Survey Microdata: Development and Validation of a Methodology",
-    "url": "https://arxiv.org/abs/2610.35893",
-    "description": "arXiv:2610.35893v1 Announce Type: new \nAbstract: This study proposes and validates a methodology for reconstructing the Human Development Index (HDI) ",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "When Do Causal ML Models Beat LM / GLM / GBM?",
+    "url": "https://www.r-bloggers.com/2026/10/when-do-causal-ml-models-beat-lm-glm-gbm/",
+    "description": "Summary\nWho this is for: Data scientists and analysts who need to estimate what an intervention does (a call, a discount, a campaign) and want to know",
+    "date": "2026-10-25",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Bayesian Recovery Trajectories Following Forced Sexual Experience: Healthcare Access and Social Support Among Women",
-    "url": "https://arxiv.org/abs/2610.35894",
-    "description": "arXiv:2610.35894v1 Announce Type: new \nAbstract: \\textbf{Background.} Women who experience forced sexual violence face elevated risks of poor mental a",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "Dogs of New York, Shapes and Sizes Edition",
+    "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-shapes-and-sizes-edition/",
+    "description": "My recent Dogs of New\nYork, post\ngot circulated a little. On Friday I got a very nice note from William\nKornblum, an urban and\ncommunity studies socio",
+    "date": "2026-10-25",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
-    "url": "https://arxiv.org/abs/2610.35895",
-    "description": "arXiv:2610.35895v1 Announce Type: new \nAbstract: Despite the proliferation of sovereign Environmental, Social, and Governance (ESG) metrics, tradition",
-    "date": "2026-10-28",
-    "cat": "考研",
+    "title": "Make Your Own LLM Agent in R",
+    "url": "https://www.r-bloggers.com/2026/10/make-your-own-llm-agent-in-r/",
+    "description": "It’s really easy to make your own agent. You should do it once, just to understand how this technology works.\nLLM agents are becoming pervasive, with ",
+    "date": "2026-10-25",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "A Sphericity Filter for Space-Filling Designs in Nondeterministic Experiments",
-    "url": "https://arxiv.org/abs/2610.36012",
-    "description": "arXiv:2610.36012v1 Announce Type: new \nAbstract: Space-filling designs support flexible modeling in noisy multi-response experiments, but an individua",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "{poorman}: Tips and Tricks for Faster Grouped Operations in base R",
+    "url": "https://www.r-bloggers.com/2026/10/poorman-tips-and-tricks-for-faster-grouped-operations-in-base-r/",
+    "description": "Introduction\nWhen learning R, we are always told to vectorise, vectorise, vectorise. This is because R is an interpreted language.\nEvery time R runs a",
+    "date": "2026-10-25",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Priors and parameterizations for Bayesian regression with categorical variables and interactions",
-    "url": "https://arxiv.org/abs/2610.36017",
-    "description": "arXiv:2610.36017v1 Announce Type: new \nAbstract: Regression analysis commonly features categorical variables and their interactions to model heterogen",
-    "date": "2026-10-28",
-    "cat": "考研",
+    "title": "caretS3 and ahead for Tabular and Time Series Machine Learning",
+    "url": "https://www.r-bloggers.com/2026/10/carets3-and-ahead-for-tabular-and-time-series-machine-learning/",
+    "description": "Exploring the integration of caretS3 and ahead for tabular and time series machine learning tasks.\n\n\nContinue reading: caretS3 and ahead for Tabular a",
+    "date": "2026-10-25",
+    "cat": "书单",
     "lang": "en"
   },
   {
-    "title": "Anchored Stein Variational Gradient Descent Algorithm for Non-smooth Sampling",
-    "url": "https://arxiv.org/abs/2610.36018",
-    "description": "arXiv:2610.36018v1 Announce Type: new \nAbstract: We introduce a Stein variational framework for sampling from a target density $p\\propto e^{-U}$ when ",
-    "date": "2026-10-28",
-    "cat": "学术",
+    "title": "Price elasticity of demand for crude oil by @ellis2013nz",
+    "url": "https://www.r-bloggers.com/2026/10/price-elasticity-of-demand-for-crude-oil-by-ellis2013nz/",
+    "description": "This blog post is about me trying to make a better version of an existing diagram that I think is important, but difficult to read in the version it k",
+    "date": "2026-10-24",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Causal DAG-Guided Reinforcement Learning for Long-Term Physical Activity Maintenance: Using Prior Data to Inform Future Deployment",
-    "url": "https://arxiv.org/abs/2610.36019",
-    "description": "arXiv:2610.36019v1 Announce Type: new \nAbstract: Digital health interventions can provide scalable, personalized support for physical activity (PA), y",
-    "date": "2026-10-28",
+    "title": "Primer for geospatial embeddings",
+    "url": "https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/",
+    "description": "For Development Seed, Kiri Carini and Martha Morrissey explain what embeddings are and&#8230;Tags: Development Seed, embeddings, geospatial, guide, tr",
+    "date": "2026-10-23",
     "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Learning on-the-fly quasi-stationarity diagnostics from low-dimensional surrogates",
-    "url": "https://arxiv.org/abs/2610.36078",
-    "description": "arXiv:2610.36078v1 Announce Type: new \nAbstract: Accelerated dynamics methods, such as parallel replica dynamics, require estimates of the decorrelati",
-    "date": "2026-10-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Not Just Why, but When and for Whom: Revisiting Common Estimands in Causal Inference",
-    "url": "https://arxiv.org/abs/2610.36084",
-    "description": "arXiv:2610.36084v1 Announce Type: new \nAbstract: Causal inference commonly defines an individual treatment effect as a quantity that varies across uni",
-    "date": "2026-10-28",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Setting Things Straight: On the Straightness and Non-Straightness of Two-Step Rectified Flow",
-    "url": "https://arxiv.org/abs/2610.36090",
-    "description": "arXiv:2610.36090v1 Announce Type: new \nAbstract: Rectified flow (RF) is an ODE-based generative modeling framework that has achieved remarkable succes",
-    "date": "2026-10-28",
-    "cat": "学术",
     "lang": "en"
   }
 ]
