@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cost of greed, as unbearably tall chart",
+    "url": "https://flowingdata.com/2026/10/29/cost-of-greed-as-unbearably-tall-chart/",
+    "description": "Last month, the Wealth Inequality in America video by Politizane got an update&#8230;Tags: billionaires, scale, scroll, wealth",
+    "date": "2026-10-29",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "✚ Visualization tools and learning resources, October 2026 roundup",
     "url": "https://flowingdata.com/2026/10/29/process-412-roundup/",
     "description": "Every month, I gather tools and resources to make better charts that communicate and reveal. Here is what happened in October.Tags: roundup",
@@ -13,6 +21,14 @@
     "description": "For the New York Times, Arfa Momin and Ron Lieber charted median income&#8230;Tags: college, education, income, New York Times",
     "date": "2026-10-29",
     "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Le prix du jeton s’effondre. Votre facture, non.",
+    "url": "https://www.r-bloggers.com/2026/10/le-prix-du-jeton-seffondre-votre-facture-non/",
+    "description": "Le prix du jeton IA s'effondre, pas votre facture : seul compte le coût d'une tâche réussie, échecs et reprises humaines compris.\nContinue reading: Le",
+    "date": "2026-10-29",
+    "cat": "书单",
     "lang": "en"
   },
   {
@@ -56,6 +72,14 @@
     "lang": "en"
   },
   {
+    "title": "Operationalizing FAIR and CARE data stewardship principles in WASH systems",
+    "url": "https://www.r-bloggers.com/2026/10/operationalizing-fair-and-care-data-stewardship-principles-in-wash-systems/",
+    "description": "Note: This post was originally published by Emmanuel Mhango on LinkedIn on 27 October 2026 (https://www.linkedin.com/pulse/operationalizing-fair-care-",
+    "date": "2026-10-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Cutting the cost of tokens",
     "url": "https://flowingdata.com/2026/10/26/cutting-the-cost-of-tokens/",
     "description": "On a per token basis, the cost of using LLMs from Anthropic and&#8230;Tags: Anthropic, cost, Max Woolf, OpenAI",
@@ -93,30 +117,6 @@
     "description": "My recent Dogs of New\nYork, post\ngot circulated a little. On Friday I got a very nice note from William\nKornblum, an urban and\ncommunity studies socio",
     "date": "2026-10-25",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Make Your Own LLM Agent in R",
-    "url": "https://www.r-bloggers.com/2026/10/make-your-own-llm-agent-in-r/",
-    "description": "It’s really easy to make your own agent. You should do it once, just to understand how this technology works.\nLLM agents are becoming pervasive, with ",
-    "date": "2026-10-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "{poorman}: Tips and Tricks for Faster Grouped Operations in base R",
-    "url": "https://www.r-bloggers.com/2026/10/poorman-tips-and-tricks-for-faster-grouped-operations-in-base-r/",
-    "description": "Introduction\nWhen learning R, we are always told to vectorise, vectorise, vectorise. This is because R is an interpreted language.\nEvery time R runs a",
-    "date": "2026-10-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "caretS3 and ahead for Tabular and Time Series Machine Learning",
-    "url": "https://www.r-bloggers.com/2026/10/carets3-and-ahead-for-tabular-and-time-series-machine-learning/",
-    "description": "Exploring the integration of caretS3 and ahead for tabular and time series machine learning tasks.\n\n\nContinue reading: caretS3 and ahead for Tabular a",
-    "date": "2026-10-25",
-    "cat": "书单",
     "lang": "en"
   }
 ]

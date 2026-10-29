@@ -1,5 +1,13 @@
 [
   {
+    "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
+    "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+    "description": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
+    "date": "2026-10-29",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "5 Docker Containers You Need for a Home AI Lab",
     "url": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
     "description": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, an",
@@ -69,14 +77,6 @@
     "description": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
     "date": "2026-10-23",
     "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "5 Free AI Coding Agents You Should Try in 2026",
-    "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
-    "description": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without pa",
-    "date": "2026-10-23",
-    "cat": "技术",
     "lang": "en"
   },
   {
