@@ -1,5 +1,13 @@
 [
   {
+    "title": "5 Docker Containers You Need for a Home AI Lab",
+    "url": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
+    "description": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, an",
+    "date": "2026-10-29",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
     "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
     "description": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fa",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
     "description": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without pa",
     "date": "2026-10-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Process Large JSON Files in Python With ijson",
-    "url": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-    "description": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-    "date": "2026-10-22",
     "cat": "技术",
     "lang": "en"
   },

@@ -1,5 +1,21 @@
 [
   {
+    "title": "✚ Visualization tools and learning resources, October 2026 roundup",
+    "url": "https://flowingdata.com/2026/10/29/process-412-roundup/",
+    "description": "Every month, I gather tools and resources to make better charts that communicate and reveal. Here is what happened in October.Tags: roundup",
+    "date": "2026-10-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Cost of college versus the return on investement",
+    "url": "https://flowingdata.com/2026/10/29/cost-of-college-versus-the-return-on-investement/",
+    "description": "For the New York Times, Arfa Momin and Ron Lieber charted median income&#8230;Tags: college, education, income, New York Times",
+    "date": "2026-10-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Finding the real center actor of Hollywood",
     "url": "https://flowingdata.com/2026/10/28/finding-the-real-center-actor-of-hollywood/",
     "description": "For the Pudding, Owen Lacey analyzed the network of Hollywood actors connected by&#8230;Tags: Kevin Bacon, Owen Lacey, Pudding, separation",
@@ -101,22 +117,6 @@
     "description": "Exploring the integration of caretS3 and ahead for tabular and time series machine learning tasks.\n\n\nContinue reading: caretS3 and ahead for Tabular a",
     "date": "2026-10-25",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Price elasticity of demand for crude oil by @ellis2013nz",
-    "url": "https://www.r-bloggers.com/2026/10/price-elasticity-of-demand-for-crude-oil-by-ellis2013nz/",
-    "description": "This blog post is about me trying to make a better version of an existing diagram that I think is important, but difficult to read in the version it k",
-    "date": "2026-10-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Primer for geospatial embeddings",
-    "url": "https://flowingdata.com/2026/10/23/primer-for-geospatial-embeddings/",
-    "description": "For Development Seed, Kiri Carini and Martha Morrissey explain what embeddings are and&#8230;Tags: Development Seed, embeddings, geospatial, guide, tr",
-    "date": "2026-10-23",
-    "cat": "资源",
     "lang": "en"
   }
 ]
