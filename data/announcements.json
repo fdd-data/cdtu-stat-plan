@@ -1,5 +1,13 @@
 [
   {
+    "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+    "url": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+    "description": "4 bugs that pass every null check, duplicate check, and schema test.",
+    "date": "2026-10-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
     "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
     "description": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
@@ -69,14 +77,6 @@
     "description": "Learn seven design patterns for data science code, from Strategy and Adapter to Command and Proxy, each matched to the pressure it solves, with the Py",
     "date": "2026-10-26",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
-    "url": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
-    "description": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
-    "date": "2026-10-23",
-    "cat": "实习",
     "lang": "en"
   },
   {

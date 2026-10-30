@@ -1,5 +1,13 @@
 [
   {
+    "title": "Policing protests in India",
+    "url": "https://flowingdata.com/2026/10/30/policing-protests-in-india/",
+    "description": "With more demonstrations and protests in India, Reuters charts and illustrates current tactics&#8230;Tags: India, police, protest",
+    "date": "2026-10-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Cost of greed, as unbearably tall chart",
     "url": "https://flowingdata.com/2026/10/29/cost-of-greed-as-unbearably-tall-chart/",
     "description": "Last month, the Wealth Inequality in America video by Politizane got an update&#8230;Tags: billionaires, scale, scroll, wealth",
@@ -107,14 +115,6 @@
     "title": "When Do Causal ML Models Beat LM / GLM / GBM?",
     "url": "https://www.r-bloggers.com/2026/10/when-do-causal-ml-models-beat-lm-glm-gbm/",
     "description": "Summary\nWho this is for: Data scientists and analysts who need to estimate what an intervention does (a call, a discount, a campaign) and want to know",
-    "date": "2026-10-25",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Dogs of New York, Shapes and Sizes Edition",
-    "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-shapes-and-sizes-edition/",
-    "description": "My recent Dogs of New\nYork, post\ngot circulated a little. On Friday I got a very nice note from William\nKornblum, an urban and\ncommunity studies socio",
     "date": "2026-10-25",
     "cat": "技术",
     "lang": "en"
