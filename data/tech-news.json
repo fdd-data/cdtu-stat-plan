@@ -1,5 +1,13 @@
 [
   {
+    "title": "Worst Halloween candies, according to the data",
+    "url": "https://flowingdata.com/2026/10/30/worst-halloween-candies-according-to-the-data/",
+    "description": "What candies usually land in the throwaway pile?Tags: candy, Halloween",
+    "date": "2026-10-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Policing protests in India",
     "url": "https://flowingdata.com/2026/10/30/policing-protests-in-india/",
     "description": "With more demonstrations and protests in India, Reuters charts and illustrates current tactics&#8230;Tags: India, police, protest",
@@ -108,14 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/10/battles-and-space-filling-curves/",
     "description": "I recently learned about an interesting way of reducing the dimension of a data set. I’d like to illustrate it with a data set of about 550 historical",
     "date": "2026-10-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "When Do Causal ML Models Beat LM / GLM / GBM?",
-    "url": "https://www.r-bloggers.com/2026/10/when-do-causal-ml-models-beat-lm-glm-gbm/",
-    "description": "Summary\nWho this is for: Data scientists and analysts who need to estimate what an intervention does (a call, a discount, a campaign) and want to know",
-    "date": "2026-10-25",
     "cat": "技术",
     "lang": "en"
   }
