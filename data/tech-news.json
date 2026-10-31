@@ -16,6 +16,14 @@
     "lang": "en"
   },
   {
+    "title": "September 2026 Top 40 New CRAN Packages",
+    "url": "https://www.r-bloggers.com/2026/10/september-2026-top-40-new-cran-packages/",
+    "description": "Agriculture\nHRRI v1.0.9: Provides diagnostic functions for integrating longitudinal soil, plant and microbial observations during redox disturbance an",
+    "date": "2026-10-30",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Cost of greed, as unbearably tall chart",
     "url": "https://flowingdata.com/2026/10/29/cost-of-greed-as-unbearably-tall-chart/",
     "description": "Last month, the Wealth Inequality in America video by Politizane got an update&#8230;Tags: billionaires, scale, scroll, wealth",
@@ -107,14 +115,6 @@
     "title": "Full 3-D scan and live body metrics for Neal’s about page",
     "url": "https://flowingdata.com/2026/10/26/full-3-d-scan-and-live-body-metrics-for-neals-about-page/",
     "description": "You know the about pages on every site that provide a summary of&#8230;Tags: 3-D, body, Neal Agarwal",
-    "date": "2026-10-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Battles and space-filling curves",
-    "url": "https://www.r-bloggers.com/2026/10/battles-and-space-filling-curves/",
-    "description": "I recently learned about an interesting way of reducing the dimension of a data set. I’d like to illustrate it with a data set of about 550 historical",
     "date": "2026-10-26",
     "cat": "技术",
     "lang": "en"
