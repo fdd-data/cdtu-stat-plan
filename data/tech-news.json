@@ -1,5 +1,13 @@
 [
   {
+    "title": "Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R",
+    "url": "https://www.r-bloggers.com/2026/11/top-cited-scientists-in-clinical-medicine-by-country-the-stanford-elsevier-top-2-list-in-r/",
+    "description": "Clinical medicine is by far the largest field in the 2026 Stanford–Elsevier top 2% list: 76,155 of the 249,310 listed authors, 31%, have it…\n\n\nContinu",
+    "date": "2026-11-01",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "My Messy Notes of Learning MICE From Scratch",
     "url": "https://www.r-bloggers.com/2026/10/my-messy-notes-of-learning-mice-from-scratch/",
     "description": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but m",
@@ -109,14 +117,6 @@
     "description": "New York City month continues here at Kieran Healy Industries, an effort that will eventually produce something properly scholarly in nature. But in t",
     "date": "2026-10-27",
     "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Operationalizing FAIR and CARE data stewardship principles in WASH systems",
-    "url": "https://www.r-bloggers.com/2026/10/operationalizing-fair-and-care-data-stewardship-principles-in-wash-systems/",
-    "description": "Note: This post was originally published by Emmanuel Mhango on LinkedIn on 27 October 2026 (https://www.linkedin.com/pulse/operationalizing-fair-care-",
-    "date": "2026-10-27",
-    "cat": "技术",
     "lang": "en"
   }
 ]
