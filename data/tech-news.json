@@ -1,5 +1,13 @@
 [
   {
+    "title": "My Messy Notes of Learning MICE From Scratch",
+    "url": "https://www.r-bloggers.com/2026/10/my-messy-notes-of-learning-mice-from-scratch/",
+    "description": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but m",
+    "date": "2026-10-31",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Worst Halloween candies, according to the data",
     "url": "https://flowingdata.com/2026/10/30/worst-halloween-candies-according-to-the-data/",
     "description": "What candies usually land in the throwaway pile?Tags: candy, Halloween",
@@ -56,6 +64,14 @@
     "lang": "en"
   },
   {
+    "title": "Modelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study",
+    "url": "https://www.r-bloggers.com/2026/10/modelling-cell-type-proportions-in-repeated-measures-designs-with-sccomp-a-tma-case-study/",
+    "description": "Contributor: Pierre-Paul Axisa, Researcher, CBMR, Copenhagen, Denmark.\nIntroduction\nTesting cell proportional differences from single-cell-resolved co",
+    "date": "2026-10-29",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Finding the real center actor of Hollywood",
     "url": "https://flowingdata.com/2026/10/28/finding-the-real-center-actor-of-hollywood/",
     "description": "For the Pudding, Owen Lacey analyzed the network of Hollywood actors connected by&#8230;Tags: Kevin Bacon, Owen Lacey, Pudding, separation",
@@ -100,22 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/10/operationalizing-fair-and-care-data-stewardship-principles-in-wash-systems/",
     "description": "Note: This post was originally published by Emmanuel Mhango on LinkedIn on 27 October 2026 (https://www.linkedin.com/pulse/operationalizing-fair-care-",
     "date": "2026-10-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Cutting the cost of tokens",
-    "url": "https://flowingdata.com/2026/10/26/cutting-the-cost-of-tokens/",
-    "description": "On a per token basis, the cost of using LLMs from Anthropic and&#8230;Tags: Anthropic, cost, Max Woolf, OpenAI",
-    "date": "2026-10-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Full 3-D scan and live body metrics for Neal’s about page",
-    "url": "https://flowingdata.com/2026/10/26/full-3-d-scan-and-live-body-metrics-for-neals-about-page/",
-    "description": "You know the about pages on every site that provide a summary of&#8230;Tags: 3-D, body, Neal Agarwal",
-    "date": "2026-10-26",
     "cat": "技术",
     "lang": "en"
   }
