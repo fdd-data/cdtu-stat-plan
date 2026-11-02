@@ -1,122 +1,122 @@
 [
   {
-    "title": "Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R",
-    "url": "https://www.r-bloggers.com/2026/11/top-cited-scientists-in-clinical-medicine-by-country-the-stanford-elsevier-top-2-list-in-r/",
-    "description": "Clinical medicine is by far the largest field in the 2026 Stanford–Elsevier top 2% list: 76,155 of the 249,310 listed authors, 31%, have it…\n\n\nContinu",
-    "date": "2026-11-01",
-    "cat": "书单",
+    "title": "CausalGrade: Evidence-Guided Causal Graph Scoring with Jev",
+    "url": "https://arxiv.org/abs/2610.40692",
+    "description": "arXiv:2610.40692v1 Announce Type: new \nAbstract: Evaluating the structural quality of candidate causal graphs when the true causal structure is unknow",
+    "date": "2026-11-02",
+    "cat": "资源",
     "lang": "en"
   },
   {
-    "title": "My Messy Notes of Learning MICE From Scratch",
-    "url": "https://www.r-bloggers.com/2026/10/my-messy-notes-of-learning-mice-from-scratch/",
-    "description": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but m",
-    "date": "2026-10-31",
-    "cat": "技术",
+    "title": "The Geometry of Multitask Learning: Sharp Rates for Shared Subspace Estimation",
+    "url": "https://arxiv.org/abs/2610.40713",
+    "description": "arXiv:2610.40713v1 Announce Type: new \nAbstract: Learning a shared subspace in multitask learning is an important statistical problem, yet exact rates",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Worst Halloween candies, according to the data",
-    "url": "https://flowingdata.com/2026/10/30/worst-halloween-candies-according-to-the-data/",
-    "description": "What candies usually land in the throwaway pile?Tags: candy, Halloween",
-    "date": "2026-10-30",
-    "cat": "技术",
+    "title": "INLA for Adaptive UAV Sampling of Radio Environment Maps in IoT Networks: Prior Width Governs Accuracy and Calibration",
+    "url": "https://arxiv.org/abs/2610.40723",
+    "description": "arXiv:2610.40723v1 Announce Type: new \nAbstract: We study adaptive UAV sampling for radio environment map (REM) construction from non-Gaussian IoT obs",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Policing protests in India",
-    "url": "https://flowingdata.com/2026/10/30/policing-protests-in-india/",
-    "description": "With more demonstrations and protests in India, Reuters charts and illustrates current tactics&#8230;Tags: India, police, protest",
-    "date": "2026-10-30",
-    "cat": "技术",
+    "title": "Model-Agnostic Search for New Physics in the Presence of Imperfect Background by Smearing the Data",
+    "url": "https://arxiv.org/abs/2610.40734",
+    "description": "arXiv:2610.40734v1 Announce Type: new \nAbstract: In the search for new particles in high-energy physics, it is necessary to first define the signal re",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "September 2026 Top 40 New CRAN Packages",
-    "url": "https://www.r-bloggers.com/2026/10/september-2026-top-40-new-cran-packages/",
-    "description": "Agriculture\nHRRI v1.0.9: Provides diagnostic functions for integrating longitudinal soil, plant and microbial observations during redox disturbance an",
-    "date": "2026-10-30",
-    "cat": "技术",
+    "title": "Robust-by-Design Distributional Learning from Contaminated Samples",
+    "url": "https://arxiv.org/abs/2610.40884",
+    "description": "arXiv:2610.40884v1 Announce Type: new \nAbstract: Modern data analysis pipelines increasingly rely on large datasets assembled through retrieval, scrap",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Cost of greed, as unbearably tall chart",
-    "url": "https://flowingdata.com/2026/10/29/cost-of-greed-as-unbearably-tall-chart/",
-    "description": "Last month, the Wealth Inequality in America video by Politizane got an update&#8230;Tags: billionaires, scale, scroll, wealth",
-    "date": "2026-10-29",
+    "title": "Global Testing of Gaussian Means by Combining Marginal and Conditional Evidence",
+    "url": "https://arxiv.org/abs/2610.40899",
+    "description": "arXiv:2610.40899v1 Announce Type: new \nAbstract: We propose a test of the global null hypothesis of zero means in correlated multivariate Gaussian dat",
+    "date": "2026-11-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Quantum amplification of improbable futures",
+    "url": "https://arxiv.org/abs/2610.41024",
+    "description": "arXiv:2610.41024v1 Announce Type: new \nAbstract: Some consequential futures consist of entirely plausible steps arranged into an unlikely sequence, su",
+    "date": "2026-11-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Approximate Bayesian Fusion",
+    "url": "https://arxiv.org/abs/2610.41067",
+    "description": "arXiv:2610.41067v1 Announce Type: new \nAbstract: Distributed inference plays an important role in modern computational statistics and machine learning",
+    "date": "2026-11-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "What Paid Triangles Identify about Reserve Uncertainty: Information Boundaries in Loss Reserving",
+    "url": "https://arxiv.org/abs/2610.41087",
+    "description": "arXiv:2610.41087v1 Announce Type: new \nAbstract: Paid triangles identify some components of reserve uncertainty while others enter through modelling a",
+    "date": "2026-11-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Marginal effects for the stochastic actor-oriented model",
+    "url": "https://arxiv.org/abs/2610.41122",
+    "description": "arXiv:2610.41122v1 Announce Type: new \nAbstract: Parameter estimates of stochastic actor-oriented models for network evolution are notoriously hard to",
+    "date": "2026-11-02",
+    "cat": "学术",
+    "lang": "en"
+  },
+  {
+    "title": "Statistical inference for quantile correlation regression with bivariate outcomes",
+    "url": "https://arxiv.org/abs/2610.41126",
+    "description": "arXiv:2610.41126v1 Announce Type: new \nAbstract: It is increasing scientifically important to recognize, quantify and visualize the dependence structu",
+    "date": "2026-11-02",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "✚ Visualization tools and learning resources, October 2026 roundup",
-    "url": "https://flowingdata.com/2026/10/29/process-412-roundup/",
-    "description": "Every month, I gather tools and resources to make better charts that communicate and reveal. Here is what happened in October.Tags: roundup",
-    "date": "2026-10-29",
-    "cat": "技术",
+    "title": "Adaptive Uncertainty Quantification on Simplicial Complexes with Conformalized Simplicial Neural Networks",
+    "url": "https://arxiv.org/abs/2610.41166",
+    "description": "arXiv:2610.41166v1 Announce Type: new \nAbstract: Simplicial neural networks (SNNs) are powerful tools for prediction tasks on higher-order relational ",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Cost of college versus the return on investement",
-    "url": "https://flowingdata.com/2026/10/29/cost-of-college-versus-the-return-on-investement/",
-    "description": "For the New York Times, Arfa Momin and Ron Lieber charted median income&#8230;Tags: college, education, income, New York Times",
-    "date": "2026-10-29",
-    "cat": "技术",
+    "title": "Balancing Covariates for Continuous Treatments by Exploiting Continuity",
+    "url": "https://arxiv.org/abs/2610.41186",
+    "description": "arXiv:2610.41186v1 Announce Type: new \nAbstract: We consider causal effect estimation in observational studies with continuous treatment. We introduce",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Le prix du jeton s’effondre. Votre facture, non.",
-    "url": "https://www.r-bloggers.com/2026/10/le-prix-du-jeton-seffondre-votre-facture-non/",
-    "description": "Le prix du jeton IA s'effondre, pas votre facture : seul compte le coût d'une tâche réussie, échecs et reprises humaines compris.\nContinue reading: Le",
-    "date": "2026-10-29",
-    "cat": "书单",
+    "title": "Source projection for calibrated transfer learning in survival prediction",
+    "url": "https://arxiv.org/abs/2610.41230",
+    "description": "arXiv:2610.41230v1 Announce Type: new \nAbstract: Transfer learning can improve survival prediction in cohorts with few events. An external model may c",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   },
   {
-    "title": "Modelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study",
-    "url": "https://www.r-bloggers.com/2026/10/modelling-cell-type-proportions-in-repeated-measures-designs-with-sccomp-a-tma-case-study/",
-    "description": "Contributor: Pierre-Paul Axisa, Researcher, CBMR, Copenhagen, Denmark.\nIntroduction\nTesting cell proportional differences from single-cell-resolved co",
-    "date": "2026-10-29",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Finding the real center actor of Hollywood",
-    "url": "https://flowingdata.com/2026/10/28/finding-the-real-center-actor-of-hollywood/",
-    "description": "For the Pudding, Owen Lacey analyzed the network of Hollywood actors connected by&#8230;Tags: Kevin Bacon, Owen Lacey, Pudding, separation",
-    "date": "2026-10-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Why agents take unexpected routes",
-    "url": "https://flowingdata.com/2026/10/27/why-agents-take-unexpected-routes/",
-    "description": "For the New York Times, Raj Saha and Blacki Migliozzi used mazes to&#8230;Tags: New York Times, rogue, training",
-    "date": "2026-10-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Localized Wikipedia to your geographic area",
-    "url": "https://flowingdata.com/2026/10/27/localized-wikipedia-to-your-geographic-area/",
-    "description": "Local Wikipedia, by Ed Jefferson, subsets regular Wikipedia to people, places, and things&#8230;Tags: Ed Jefferson, local, Wikipedia",
-    "date": "2026-10-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Agents in Production Webinar: From a Chatbot to a Tool You Can Rely On",
-    "url": "https://www.r-bloggers.com/2026/10/agents-in-production-webinar-from-a-chatbot-to-a-tool-you-can-rely-on/",
-    "description": "Ask a large language model a question about your data, and you’ll probably get a confident answer.\nAsk it again, and you might get a different one.\nSo",
-    "date": "2026-10-27",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Characteristic NYC Neighborhood Complaints",
-    "url": "https://www.r-bloggers.com/2026/10/characteristic-nyc-neighborhood-complaints/",
-    "description": "New York City month continues here at Kieran Healy Industries, an effort that will eventually produce something properly scholarly in nature. But in t",
-    "date": "2026-10-27",
-    "cat": "考研",
+    "title": "Discrete total variation under the multinomial, Part 3: expectation under a general distribution",
+    "url": "https://arxiv.org/abs/2610.41255",
+    "description": "arXiv:2610.41255v1 Announce Type: new \nAbstract: For multinomial counts $X\\sim\\operatorname{Mult}(N;\\mathbf p)$ on $n$ ordered bins and a reference la",
+    "date": "2026-11-02",
+    "cat": "学术",
     "lang": "en"
   }
 ]
