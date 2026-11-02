@@ -1,5 +1,13 @@
 [
   {
+    "title": "5 AI Certifications Worth Paying For in 2026 (And Which to Skip)",
+    "url": "https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip",
+    "description": "A data-backed guide to the credentials that actually move the needle for data scientists and machine learning practitioners.",
+    "date": "2026-11-02",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
     "url": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
     "description": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration ra",
@@ -67,14 +75,6 @@
     "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
     "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
     "description": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deploym",
-    "date": "2026-10-26",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
-    "url": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
-    "description": "Build your first AI agent in Python with the OpenAI Agents SDK, adding web search, Python tools, conversation memory, and tracing in a simple end-to-e",
     "date": "2026-10-26",
     "cat": "技术",
     "lang": "en"
