@@ -1,5 +1,13 @@
 [
   {
+    "title": "8 LLM Inference Frameworks You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+    "description": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
     "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
     "description": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sand",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
     "description": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run enti",
     "date": "2026-10-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
-    "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
-    "description": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting ",
-    "date": "2026-10-27",
     "cat": "技术",
     "lang": "en"
   },
