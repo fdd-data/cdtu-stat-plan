@@ -1,5 +1,13 @@
 [
   {
+    "title": "Roche Open-Source TLG Packages Move to pharmaverse",
+    "url": "https://www.r-bloggers.com/2026/11/roche-open-source-tlg-packages-move-to-pharmaverse/",
+    "description": "Written on behalf of the NEST team.\nOver the past few months, we have reached an important milestone in our open-source journey: transitioning key cli",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "CausalGrade: Evidence-Guided Causal Graph Scoring with Jev",
     "url": "https://arxiv.org/abs/2610.40692",
     "description": "arXiv:2610.40692v1 Announce Type: new \nAbstract: Evaluating the structural quality of candidate causal graphs when the true causal structure is unknow",
@@ -107,14 +115,6 @@
     "title": "Source projection for calibrated transfer learning in survival prediction",
     "url": "https://arxiv.org/abs/2610.41230",
     "description": "arXiv:2610.41230v1 Announce Type: new \nAbstract: Transfer learning can improve survival prediction in cohorts with few events. An external model may c",
-    "date": "2026-11-02",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Discrete total variation under the multinomial, Part 3: expectation under a general distribution",
-    "url": "https://arxiv.org/abs/2610.41255",
-    "description": "arXiv:2610.41255v1 Announce Type: new \nAbstract: For multinomial counts $X\\sim\\operatorname{Mult}(N;\\mathbf p)$ on $n$ ordered bins and a reference la",
     "date": "2026-11-02",
     "cat": "学术",
     "lang": "en"

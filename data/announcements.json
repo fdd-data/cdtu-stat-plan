@@ -1,5 +1,13 @@
 [
   {
+    "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+    "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+    "description": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sand",
+    "date": "2026-11-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "5 AI Certifications Worth Paying For in 2026 (And Which to Skip)",
     "url": "https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip",
     "description": "A data-backed guide to the credentials that actually move the needle for data scientists and machine learning practitioners.",
@@ -68,14 +76,6 @@
     "url": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
     "description": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting ",
     "date": "2026-10-27",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The Roadmap to Becoming a Computer Vision Engineer in 2026",
-    "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026",
-    "description": "A four-stage technical roadmap for becoming a computer vision engineer, from spatial mathematics and ViTs through 3D neural rendering and edge deploym",
-    "date": "2026-10-26",
     "cat": "技术",
     "lang": "en"
   },
