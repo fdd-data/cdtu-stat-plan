@@ -1,5 +1,13 @@
 [
   {
+    "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+    "description": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unifi",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "8 LLM Inference Frameworks You Should Try in 2026",
     "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
     "description": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
@@ -67,14 +75,6 @@
     "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
     "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
     "description": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype i",
-    "date": "2026-10-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Which Local LMs are Best For Which Tasks",
-    "url": "https://www.kdnuggets.com/which-local-lms-are-best-for-which-tasks",
-    "description": "A local language model is one whose actual weights, the enormous file of learned numbers that constitutes the trained model, you download and run enti",
     "date": "2026-10-28",
     "cat": "技术",
     "lang": "en"

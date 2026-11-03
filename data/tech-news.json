@@ -1,10 +1,26 @@
 [
   {
+    "title": "Election night mirages",
+    "url": "https://flowingdata.com/2026/11/03/election-night-mirages/",
+    "description": "As midterm election results come in tonight, percentages can flip in favor of&#8230;Tags: election, forecast, New York Times, uncertainty",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Google cherrypicks small data for Gemini ad",
     "url": "https://flowingdata.com/2026/11/03/google-cherrypicks-small-data-for-gemini-ad/",
     "description": "During the World Series, Google ran an ad for Gemini that noted several&#8230;Tags: baseball, cherrypicking, Google, Marcos Huerta, moon",
     "date": "2026-11-03",
     "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "L’IA travaille. Il vous reste le plus difficile.",
+    "url": "https://www.r-bloggers.com/2026/11/lia-travaille-il-vous-reste-le-plus-difficile/",
+    "description": "Automatiser avec l'IA ne retire pas le travail humain : il reste la vérification et le jugement, là où l'erreur de confiance est la plus probable.\n\n\nC",
+    "date": "2026-11-03",
+    "cat": "书单",
     "lang": "en"
   },
   {
@@ -101,22 +117,6 @@
     "description": "With more demonstrations and protests in India, Reuters charts and illustrates current tactics&#8230;Tags: India, police, protest",
     "date": "2026-10-30",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "September 2026 Top 40 New CRAN Packages",
-    "url": "https://www.r-bloggers.com/2026/10/september-2026-top-40-new-cran-packages/",
-    "description": "Agriculture\nHRRI v1.0.9: Provides diagnostic functions for integrating longitudinal soil, plant and microbial observations during redox disturbance an",
-    "date": "2026-10-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Cost of greed, as unbearably tall chart",
-    "url": "https://flowingdata.com/2026/10/29/cost-of-greed-as-unbearably-tall-chart/",
-    "description": "Last month, the Wealth Inequality in America video by Politizane got an update&#8230;Tags: billionaires, scale, scroll, wealth",
-    "date": "2026-10-29",
-    "cat": "考研",
     "lang": "en"
   }
 ]
