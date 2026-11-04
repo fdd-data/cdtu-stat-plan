@@ -1,5 +1,29 @@
 [
   {
+    "title": "Percentage of votes counted so far",
+    "url": "https://flowingdata.com/2026/11/03/percentage-of-votes-counted-so-far/",
+    "description": "For the Washington Post, Dylan Moriarty has a live tracker for the percentage&#8230;Tags: turnout, voting, Washington Post",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Needle of uncertainty is live for Midterms 2026",
+    "url": "https://flowingdata.com/2026/11/03/needle-of-uncertainty-is-live-for-midterms-2026/",
+    "description": "If feeling uncertain is your thing, the Needle from the New York Times&#8230;Tags: election, midterm, needle, New York Times, uncertainty",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Roche and Appsilon Build on Their Collaboration to Support teal’s Continued Development",
+    "url": "https://www.r-bloggers.com/2026/11/roche-and-appsilon-build-on-their-collaboration-to-support-teals-continued-development/",
+    "description": "Following the recent migration of the teal framework to pharmaverse, Roche and Appsilon are building on their existing collaboration to support its co",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Election night mirages",
     "url": "https://flowingdata.com/2026/11/03/election-night-mirages/",
     "description": "As midterm election results come in tonight, percentages can flip in favor of&#8230;Tags: election, forecast, New York Times, uncertainty",
@@ -21,6 +45,22 @@
     "description": "Automatiser avec l'IA ne retire pas le travail humain : il reste la vérification et le jugement, là où l'erreur de confiance est la plus probable.\n\n\nC",
     "date": "2026-11-03",
     "cat": "书单",
+    "lang": "en"
+  },
+  {
+    "title": "Stratified Modeling for Imbalanced Data",
+    "url": "https://www.r-bloggers.com/2026/11/stratified-modeling-for-imbalanced-data/",
+    "description": "NOTE: Any updates to this article will be maintained here: https://medley.bryer.org/articles/stratified_glm.html\nIntroduction\nStatistical modeling whe",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Introducing tuiksdmx: A Metadata-Driven R Client for Turkish Official Statistics",
+    "url": "https://www.r-bloggers.com/2026/11/introducing-tuiksdmx-a-metadata-driven-r-client-for-turkish-official-statistics/",
+    "description": "The tuiksdmx R package logo\n1 Introduction\nAccessing official statistics programmatically should be straightforward. In practice, however, finding the",
+    "date": "2026-11-03",
+    "cat": "技术",
     "lang": "en"
   },
   {
@@ -76,46 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/11/carolina-pradier-ropensci-champion-and-mentor/",
     "description": "We started this article as an interview series with Champions from our program, and we decided to publish for our 15th anniversary series. This is the",
     "date": "2026-11-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R",
-    "url": "https://www.r-bloggers.com/2026/11/top-cited-scientists-in-clinical-medicine-by-country-the-stanford-elsevier-top-2-list-in-r/",
-    "description": "Clinical medicine is by far the largest field in the 2026 Stanford–Elsevier top 2% list: 76,155 of the 249,310 listed authors, 31%, have it…\n\n\nContinu",
-    "date": "2026-11-01",
-    "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Register for the Summer R Workshops in Brisbane, at UQ: Introduction to R and Statistical Modelling",
-    "url": "https://www.r-bloggers.com/2026/11/register-for-the-summer-r-workshops-in-brisbane-at-uq-introduction-to-r-and-statistical-modelling/",
-    "description": "Learn the R skills needed to analyse data confidently, build powerful statistical models, create publication-quality figures, and answer complex resea",
-    "date": "2026-11-01",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "My Messy Notes of Learning MICE From Scratch",
-    "url": "https://www.r-bloggers.com/2026/10/my-messy-notes-of-learning-mice-from-scratch/",
-    "description": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but m",
-    "date": "2026-10-31",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Worst Halloween candies, according to the data",
-    "url": "https://flowingdata.com/2026/10/30/worst-halloween-candies-according-to-the-data/",
-    "description": "What candies usually land in the throwaway pile?Tags: candy, Halloween",
-    "date": "2026-10-30",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Policing protests in India",
-    "url": "https://flowingdata.com/2026/10/30/policing-protests-in-india/",
-    "description": "With more demonstrations and protests in India, Reuters charts and illustrates current tactics&#8230;Tags: India, police, protest",
-    "date": "2026-10-30",
     "cat": "技术",
     "lang": "en"
   }
