@@ -1,5 +1,29 @@
 [
   {
+    "title": "Mountain peaks to show the shifts",
+    "url": "https://flowingdata.com/2026/11/04/mountain-peaks-to-show-the-shifts/",
+    "description": "Bloomberg used mountain peaks to show the shifts towards Democrats and Republicans. Taller&#8230;Tags: Bloomberg, elections, midterm",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Shift in margins for Midterms 2026, by county",
+    "url": "https://flowingdata.com/2026/11/04/shift-in-margins-for-midterms-2026-by-county/",
+    "description": "The New York Times brings back the angled arrows to map the shift&#8230;Tags: elections, midterm, New York Times",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Benchmark chair",
+    "url": "https://flowingdata.com/2026/11/04/benchmark-chair/",
+    "description": "James Birdle described his experiment using AI to assist in chair design:\nWhat&#8230;Tags: chair, creativity, Emergence Magazine, James Birdle, proces",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Percentage of votes counted so far",
     "url": "https://flowingdata.com/2026/11/03/percentage-of-votes-counted-so-far/",
     "description": "For the Washington Post, Dylan Moriarty has a live tracker for the percentage&#8230;Tags: turnout, voting, Washington Post",
@@ -13,6 +37,14 @@
     "description": "If feeling uncertain is your thing, the Needle from the New York Times&#8230;Tags: election, midterm, needle, New York Times, uncertainty",
     "date": "2026-11-04",
     "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Kindness, Curiosity, and Kitties: A rOpenSci 15th Anniversary Interview with Mo",
+    "url": "https://www.r-bloggers.com/2026/11/kindness-curiosity-and-kitties-a-ropensci-15th-anniversary-interview-with-mo/",
+    "description": "As part of rOpenSci’s 15th anniversary celebrations, Community Manager Yani sits down with community member Mo to talk about how a first software revi",
+    "date": "2026-11-04",
+    "cat": "讲座",
     "lang": "en"
   },
   {
@@ -83,38 +115,6 @@
     "title": "Early voting jumps",
     "url": "https://flowingdata.com/2026/11/02/early-voting-jumps/",
     "description": "Evan Reynolds and Christine Zhang, for the New York Times, have quick tabulations&#8230;Tags: election, midterm, New York Times, turnout",
-    "date": "2026-11-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Where the Musk money flows",
-    "url": "https://flowingdata.com/2026/11/02/where-the-musk-money-flows/",
-    "description": "Elon Musk has donated $446 million for the midterm elections, because sure why&#8230;Tags: election, Elon Musk, Guardian, midterm, spending",
-    "date": "2026-11-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Increasing Trump comments on body appearance",
-    "url": "https://flowingdata.com/2026/11/02/increasing-trump-comments-on-body-appearance/",
-    "description": "For the Washington Sun, Andrew Van Dam and Manuela Silva note the uptick&#8230;Tags: body, Washington Sun, words",
-    "date": "2026-11-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Agents in Production: Build Your First AI Agent in R with {ellmer}",
-    "url": "https://www.r-bloggers.com/2026/11/agents-in-production-build-your-first-ai-agent-in-r-with-ellmer/",
-    "description": "This is part one of a five-part series on putting AI agents into production with R.\nEach part builds on the same app, a clinical trial safety assistan",
-    "date": "2026-11-02",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Carolina Pradier, rOpenSci champion and mentor",
-    "url": "https://www.r-bloggers.com/2026/11/carolina-pradier-ropensci-champion-and-mentor/",
-    "description": "We started this article as an interview series with Champions from our program, and we decided to publish for our 15th anniversary series. This is the",
     "date": "2026-11-02",
     "cat": "技术",
     "lang": "en"

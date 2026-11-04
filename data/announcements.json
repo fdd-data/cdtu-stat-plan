@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
+    "url": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
+    "description": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to d",
+    "date": "2026-11-04",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
+    "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
+    "description": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing an",
+    "date": "2026-11-04",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
     "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
     "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
     "description": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unifi",
@@ -61,22 +77,6 @@
     "description": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, an",
     "date": "2026-10-29",
     "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "How to Access Multiple AI Models in Your Python Apps Using OpenRouter",
-    "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
-    "description": "Learn how to get started with the OpenRouter API to call multiple AI models through one API, compare responses, switch models, and set up automatic fa",
-    "date": "2026-10-28",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
-    "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
-    "description": "Can a free, open-source AI humanizer beat paid tools? We tested a 12B model locally and compared the results against AI detectors to see if the hype i",
-    "date": "2026-10-28",
-    "cat": "技术",
     "lang": "en"
   },
   {
