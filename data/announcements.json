@@ -1,5 +1,21 @@
 [
   {
+    "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
+    "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
+    "description": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "What I Did with Hermes Agent, Ollama & Local Models",
+    "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
+    "description": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest s",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
     "url": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
     "description": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to d",
@@ -61,22 +77,6 @@
     "description": "4 bugs that pass every null check, duplicate check, and schema test.",
     "date": "2026-10-30",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
-    "url": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
-    "description": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
-    "date": "2026-10-29",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "5 Docker Containers You Need for a Home AI Lab",
-    "url": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
-    "description": "Learn which five Docker containers make a reliable home AI lab, from Ollama and Open WebUI to Qdrant, n8n and Portainer CE, what job each one does, an",
-    "date": "2026-10-29",
-    "cat": "实习",
     "lang": "en"
   },
   {
