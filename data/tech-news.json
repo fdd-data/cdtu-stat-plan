@@ -1,122 +1,122 @@
 [
   {
-    "title": "ToroFit: Fitting Wedge Sums of Tori to High-Dimensional Data",
-    "url": "https://arxiv.org/abs/2611.06990",
-    "description": "arXiv:2611.06990v1 Announce Type: new \nAbstract: Data arising in scientific applications often exhibits complex nonlinear structure. Identifying and p",
+    "title": "Swings in Texas over the years",
+    "url": "https://flowingdata.com/2026/11/06/swings-in-texas-over-the-years/",
+    "description": "The New York Times produced a series of charts for the shift in&#8230;Tags: elections, New York Times, partisanship, Texas",
     "date": "2026-11-06",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "dsp: An R Package for Bayesian Time Series Modeling with the Dynamic Shrinkage Process",
-    "url": "https://arxiv.org/abs/2611.07096",
-    "description": "arXiv:2611.07096v1 Announce Type: new \nAbstract: dsp provides a unified state-space framework for modeling nonstationary time series using the Dynamic",
+    "title": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20",
+    "url": "https://www.r-bloggers.com/2026/11/free-ai-and-data-courses-with-365-data-science-unlimited-access-until-nov-20/",
+    "description": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20 365 Data Science opens its doors this November 100% for free! From Nove",
     "date": "2026-11-06",
-    "cat": "学术",
+    "cat": "资源",
     "lang": "en"
   },
   {
-    "title": "Bayesian Tensor Train Kernel Machines with Automatic Model Complexity Inference",
-    "url": "https://arxiv.org/abs/2611.07129",
-    "description": "arXiv:2611.07129v1 Announce Type: new \nAbstract: Tensor Network (TN) kernel machines accelerate supervised learning by using low-rank TNs to reduce co",
+    "title": "Nuclei, five years later: what a mean Dice hides",
+    "url": "https://www.r-bloggers.com/2026/11/nuclei-five-years-later-what-a-mean-dice-hides/",
+    "description": "In 2020 I trained a U-Net on the 2018 Data Science Bowl nuclei with the first version of this package, watched a Dice score climb during training, and",
     "date": "2026-11-06",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Sample size calculation comparing two survival curves in the presence of nonproportional hazards utilizing the concept of Weighted Relative Time using two different Weibull distributions",
-    "url": "https://arxiv.org/abs/2611.07158",
-    "description": "arXiv:2611.07158v1 Announce Type: new \nAbstract: Sample size calculations in two-arm clinical trials with survival endpoint often utilize the proporti",
-    "date": "2026-11-06",
-    "cat": "学术",
+    "title": "Hairy election margins map",
+    "url": "https://flowingdata.com/2026/11/05/hairy-election-margins-map/",
+    "description": "You&#8217;ve seen maps of the results and maps of the shifts. For the&#8230;Tags: elections, midterm, Wall Street Journal",
+    "date": "2026-11-05",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "ShapleyOG: Fast Adaptive Shapley Value Estimation with Odd Gaussian Processes",
-    "url": "https://arxiv.org/abs/2611.07173",
-    "description": "arXiv:2611.07173v1 Announce Type: new \nAbstract: Shapley values are a central tool for attribution in machine learning. Since their exact computation ",
-    "date": "2026-11-06",
-    "cat": "学术",
+    "title": "Data exploration, manually and intentionally",
+    "url": "https://flowingdata.com/2026/11/05/data-exploration-manually-and-intentionally/",
+    "description": "Randy Au on the manual process of exploratory data analysis that is still&#8230;Tags: automation, Large Language Model, Randy Au",
+    "date": "2026-11-05",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Task-Calibrated Random Features via Influence-Based Error Cancellation",
-    "url": "https://arxiv.org/abs/2611.07209",
-    "description": "arXiv:2611.07209v1 Announce Type: new \nAbstract: Random features approximate kernel integrals by Monte Carlo, yet only selected frequency-sampling err",
-    "date": "2026-11-06",
-    "cat": "学术",
+    "title": "✚ Shifting chart options",
+    "url": "https://flowingdata.com/2026/11/05/process-413-shifting/",
+    "description": "In this week's The Process, we look at the ones that highlight the big shifts and see how changing focus can change the story.Tags: options, switch",
+    "date": "2026-11-05",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Neyman Orthogonalized Specification Tests for Conditional Tail Index Models",
-    "url": "https://arxiv.org/abs/2611.07219",
-    "description": "arXiv:2611.07219v1 Announce Type: new \nAbstract: We develop specification tests for parametric conditional tail index models of heavy-tailed distribut",
-    "date": "2026-11-06",
-    "cat": "学术",
+    "title": "Postal codes and tessellations",
+    "url": "https://www.r-bloggers.com/2026/11/postal-codes-and-tessellations/",
+    "description": "From five imaginary points to a map of Slovenia: postal code areas with  Voronoi, giscoR and sf.\n\n\nContinue reading: Postal codes and tessellations",
+    "date": "2026-11-05",
+    "cat": "书单",
     "lang": "en"
   },
   {
-    "title": "Clouded Representatives and Score Matching for Distributed Quantile Regression",
-    "url": "https://arxiv.org/abs/2611.07273",
-    "description": "arXiv:2611.07273v1 Announce Type: new \nAbstract: Quantile regression is widely used in high-stakes applications where the data are distributed across ",
-    "date": "2026-11-06",
+    "title": "Environmental modelling in your web browser",
+    "url": "https://www.r-bloggers.com/2026/11/environmental-modelling-in-your-web-browser/",
+    "description": "I recall when the R shiny framework first came out. It suddenly got relatively easy for us ecological modellers and environmental statisticians to tur",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Shrink stored models with butcher",
+    "url": "https://www.r-bloggers.com/2026/11/shrink-stored-models-with-butcher/",
+    "description": "Scope\nFitted model objects in R often carry more than they need for prediction. A glm object keeps the training data, the fitted values, the residuals",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Mountain peaks to show the shifts",
+    "url": "https://flowingdata.com/2026/11/04/mountain-peaks-to-show-the-shifts/",
+    "description": "Bloomberg used mountain peaks to show the shifts towards Democrats and Republicans. Taller&#8230;Tags: Bloomberg, elections, midterm",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Shift in margins for Midterms 2026, by county",
+    "url": "https://flowingdata.com/2026/11/04/shift-in-margins-for-midterms-2026-by-county/",
+    "description": "The New York Times brings back the angled arrows to map the shift&#8230;Tags: elections, midterm, New York Times",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Benchmark chair",
+    "url": "https://flowingdata.com/2026/11/04/benchmark-chair/",
+    "description": "James Birdle described his experiment using AI to assist in chair design:\nWhat&#8230;Tags: chair, creativity, Emergence Magazine, James Birdle, proces",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Percentage of votes counted so far",
+    "url": "https://flowingdata.com/2026/11/03/percentage-of-votes-counted-so-far/",
+    "description": "For the Washington Post, Dylan Moriarty has a live tracker for the percentage&#8230;Tags: turnout, voting, Washington Post",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Needle of uncertainty is live for Midterms 2026",
+    "url": "https://flowingdata.com/2026/11/03/needle-of-uncertainty-is-live-for-midterms-2026/",
+    "description": "If feeling uncertain is your thing, the Needle from the New York Times&#8230;Tags: election, midterm, needle, New York Times, uncertainty",
+    "date": "2026-11-04",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "SAS to R: Why R, and Where Your Migration Budget Should Go",
+    "url": "https://www.r-bloggers.com/2026/11/sas-to-r-why-r-and-where-your-migration-budget-should-go/",
+    "description": "This post is part of our SAS to R series:\nPart 1: Is SAS still used, and is it worth keeping?\nPart 2: Why R, and where your migration budget should go",
+    "date": "2026-11-04",
     "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "When Do Sports Leagues Stop Being Competitive? Bayesian Detection of Competitive-Balance Eras from Match-Level Data",
-    "url": "https://arxiv.org/abs/2611.07335",
-    "description": "arXiv:2611.07335v1 Announce Type: new \nAbstract: Competitive balance shapes outcome uncertainty, fan interest, and league regulation, yet standard mea",
-    "date": "2026-11-06",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Partial-Matching Proof of the Neyman--Pearson Lemma",
-    "url": "https://arxiv.org/abs/2611.07368",
-    "description": "arXiv:2611.07368v1 Announce Type: new \nAbstract: Testing seeks to distinguish distributions, whereas matching seeks to identify their common mass. I s",
-    "date": "2026-11-06",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Unified Coordinate Descent Framework for Penalized Longitudinal Log-Contrast Quantile Regression",
-    "url": "https://arxiv.org/abs/2611.07379",
-    "description": "arXiv:2611.07379v1 Announce Type: new \nAbstract: Quantile regression characterizes heterogeneous covariate effects across the response distribution, b",
-    "date": "2026-11-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "Changepoint localization via nested exchangeability tests: from point estimates to confidence intervals",
-    "url": "https://arxiv.org/abs/2611.07399",
-    "description": "arXiv:2611.07399v1 Announce Type: new \nAbstract: We study distribution-free uncertainty quantification for a changepoint estimate in an offline settin",
-    "date": "2026-11-06",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Inference after selection on randomized p-values",
-    "url": "https://arxiv.org/abs/2611.07459",
-    "description": "arXiv:2611.07459v1 Announce Type: new \nAbstract: We consider inference on parameters and hypotheses selected using p-values. We provide a simple proce",
-    "date": "2026-11-06",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Statistical and Privacy Guarantees for Deep M-Regression via Stochastic Gradient Langevin Dynamics",
-    "url": "https://arxiv.org/abs/2611.07490",
-    "description": "arXiv:2611.07490v1 Announce Type: new \nAbstract: In this article, we study deep nonparametric regression trained via stochastic gradient Langevin dyna",
-    "date": "2026-11-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "marp: Model-Averaged Inference for Parametric Renewal Processes in R",
-    "url": "https://arxiv.org/abs/2611.07519",
-    "description": "arXiv:2611.07519v1 Announce Type: new \nAbstract: Renewal processes model inter-event times between recurrent events using a parametric distribution, b",
-    "date": "2026-11-06",
-    "cat": "学术",
     "lang": "en"
   }
 ]

@@ -1,5 +1,85 @@
 [
   {
+    "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+    "url": "https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
+    "description": "Get unlimited free access to 365 Data Science’s complete AI and data learning platform, including 134 courses, hands-on projects, and certifications, ",
+    "date": "2026-11-06",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "How to Give Your AI Agent Memory",
+    "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
+    "description": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information ac",
+    "date": "2026-11-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
+    "url": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
+    "description": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
+    "date": "2026-11-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
+    "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
+    "description": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "What I Did with Hermes Agent, Ollama & Local Models",
+    "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
+    "description": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest s",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
+    "url": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
+    "description": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to d",
+    "date": "2026-11-04",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
+    "url": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
+    "description": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing an",
+    "date": "2026-11-04",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+    "description": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unifi",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "8 LLM Inference Frameworks You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+    "description": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+    "date": "2026-11-03",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+    "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+    "description": "Cohere caught Alibaba’s Qwen model unexpectedly attempting to upload a test payload to Alibaba Cloud storage during a cybersecurity task, but the sand",
+    "date": "2026-11-02",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
