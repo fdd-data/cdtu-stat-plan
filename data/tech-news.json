@@ -1,10 +1,26 @@
 [
   {
+    "title": "Geolocation determined with background airplane noise",
+    "url": "https://flowingdata.com/2026/11/10/geolocation-determined-with-background-airplane-noise/",
+    "description": "Apparently inaudible background noise from airplanes in a blurry video clip is enough&#8230;Tags: airplane, Colsto, geolocation, OSINT",
+    "date": "2026-11-10",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "No Republican New England senators for the first time in a long time",
     "url": "https://flowingdata.com/2026/11/09/new-england-senators-2026/",
     "description": "For CT Insider, Philip Bump made a racetrack-like graphic to show the timeline&#8230;Tags: CT Insider, New England, Philip Bump, Senate, timeline",
     "date": "2026-11-10",
     "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "Growing the BiocAsia community",
+    "url": "https://www.r-bloggers.com/2026/11/growing-the-biocasia-community/",
+    "description": "With BiocAsia 2026 coming up in Melbourne, community members have been organising seminars and exploring ways to take part locally.\nMore than 200 peop",
+    "date": "2026-11-10",
+    "cat": "讲座",
     "lang": "en"
   },
   {
@@ -100,22 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/11/shrink-stored-models-with-butcher/",
     "description": "Scope\nFitted model objects in R often carry more than they need for prediction. A glm object keeps the training data, the fitted values, the residuals",
     "date": "2026-11-05",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Mountain peaks to show the shifts",
-    "url": "https://flowingdata.com/2026/11/04/mountain-peaks-to-show-the-shifts/",
-    "description": "Bloomberg used mountain peaks to show the shifts towards Democrats and Republicans. Taller&#8230;Tags: Bloomberg, elections, midterm",
-    "date": "2026-11-04",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Shift in margins for Midterms 2026, by county",
-    "url": "https://flowingdata.com/2026/11/04/shift-in-margins-for-midterms-2026-by-county/",
-    "description": "The New York Times brings back the angled arrows to map the shift&#8230;Tags: elections, midterm, New York Times",
-    "date": "2026-11-04",
     "cat": "技术",
     "lang": "en"
   }

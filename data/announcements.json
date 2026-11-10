@@ -1,5 +1,85 @@
 [
   {
+    "title": "How to Use AI for Enterprise BI",
+    "url": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
+    "description": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with ",
+    "date": "2026-11-10",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
+    "description": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language mo",
+    "date": "2026-11-10",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
+    "url": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
+    "description": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each te",
+    "date": "2026-11-10",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
+    "url": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
+    "description": "4 classic leaks, planted in real data, tested cold on 4 models.",
+    "date": "2026-11-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Useful Python Automation Scripts for Beginners",
+    "url": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
+    "description": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
+    "date": "2026-11-09",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+    "url": "https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
+    "description": "Get unlimited free access to 365 Data Science’s complete AI and data learning platform, including 134 courses, hands-on projects, and certifications, ",
+    "date": "2026-11-06",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
+    "title": "How to Give Your AI Agent Memory",
+    "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
+    "description": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information ac",
+    "date": "2026-11-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
+    "url": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
+    "description": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
+    "date": "2026-11-06",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
+    "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
+    "description": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "What I Did with Hermes Agent, Ollama & Local Models",
+    "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
+    "description": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest s",
+    "date": "2026-11-05",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
