@@ -1,5 +1,29 @@
 [
   {
+    "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
+    "url": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
+    "description": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells",
+    "date": "2026-11-11",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
+    "url": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
+    "description": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
+    "date": "2026-11-11",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
+    "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
+    "description": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
+    "date": "2026-11-11",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "How to Use AI for Enterprise BI",
     "url": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
     "description": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with ",
@@ -52,30 +76,6 @@
     "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
     "description": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information ac",
     "date": "2026-11-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Top 7 Python Libraries for Time Series Analysis and Modeling",
-    "url": "https://www.kdnuggets.com/top-7-python-libraries-for-time-series-analysis-and-modeling",
-    "description": "Working with time series data? These Python libraries cover everything from classical forecasting to deep learning and anomaly detection.",
-    "date": "2026-11-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
-    "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
-    "description": "Scrape thousands of pages in a few minutes with the Olostep Batch API, download Markdown, and measure what actually finished.",
-    "date": "2026-11-05",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "What I Did with Hermes Agent, Ollama & Local Models",
-    "url": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
-    "description": "Build a local multi-agent travel planner with Hermes Agent and Ollama: a coordinator and three specialist agents that research destinations, suggest s",
-    "date": "2026-11-05",
     "cat": "技术",
     "lang": "en"
   },
