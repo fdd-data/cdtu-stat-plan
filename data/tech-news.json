@@ -1,5 +1,29 @@
 [
   {
+    "title": "BikeNetKit is a toolkit to improve the bicycle network in your city",
+    "url": "https://flowingdata.com/2026/11/12/bikenetkit-is-a-toolkit-to-improve-the-bicycle-network-in-your-city/",
+    "description": "When your city doesn&#8217;t support a proper infrastructure for bicycles, it can be&#8230;Tags: bicyle, cities, Python, toolkit",
+    "date": "2026-11-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Semantic segmentation in rplatypus and pyplatypus: what is in the box",
+    "url": "https://www.r-bloggers.com/2026/11/semantic-segmentation-in-rplatypus-and-pyplatypus-what-is-in-the-box/",
+    "description": "The last post took one published model and one dataset and asked where the model is weakest. This one steps back and opens the box: everything rplatyp",
+    "date": "2026-11-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Bioconductor Carpentries workshops in Japanese: lessons from Japan",
+    "url": "https://www.r-bloggers.com/2026/11/bioconductor-carpentries-workshops-in-japanese-lessons-from-japan/",
+    "description": "An apology first\nThis post should have been written a year ago. The two workshops it describes took place in August and September 2025, and a report i",
+    "date": "2026-11-12",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
     "title": "Word Tree to visualize structure in a body of text",
     "url": "https://flowingdata.com/2026/11/11/word-tree-to-visualize-structure-in-a-body-of-text/",
     "description": "Word Tree got a refresh by Jason Davies. It works more smoothly and&#8230;Tags: Jason Davies, text",
@@ -93,30 +117,6 @@
     "description": "A demonstration of using caretS3 models for time series forecasting with ahead::ctxthetaf.\nContinue reading: Using caretS3 with ahead::ctxthetaf for T",
     "date": "2026-11-07",
     "cat": "书单",
-    "lang": "en"
-  },
-  {
-    "title": "Swings in Texas over the years",
-    "url": "https://flowingdata.com/2026/11/06/swings-in-texas-over-the-years/",
-    "description": "The New York Times produced a series of charts for the shift in&#8230;Tags: elections, New York Times, partisanship, Texas",
-    "date": "2026-11-06",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20",
-    "url": "https://www.r-bloggers.com/2026/11/free-ai-and-data-courses-with-365-data-science-unlimited-access-until-nov-20/",
-    "description": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20 365 Data Science opens its doors this November 100% for free! From Nove",
-    "date": "2026-11-06",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Nuclei, five years later: what a mean Dice hides",
-    "url": "https://www.r-bloggers.com/2026/11/nuclei-five-years-later-what-a-mean-dice-hides/",
-    "description": "In 2020 I trained a U-Net on the 2018 Data Science Bowl nuclei with the first version of this package, watched a Dice score climb during training, and",
-    "date": "2026-11-06",
-    "cat": "技术",
     "lang": "en"
   }
 ]

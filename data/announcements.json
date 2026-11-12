@@ -1,5 +1,21 @@
 [
   {
+    "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
+    "url": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
+    "description": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-sou",
+    "date": "2026-11-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "7 FREE Books to Learn About Building AI Systems",
+    "url": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
+    "description": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to ma",
+    "date": "2026-11-12",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
     "url": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
     "description": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
     "description": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
     "date": "2026-11-09",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
-    "url": "https://www.kdnuggets.com/2026/10/365careers/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
-    "description": "Get unlimited free access to 365 Data Science’s complete AI and data learning platform, including 134 courses, hands-on projects, and certifications, ",
-    "date": "2026-11-06",
-    "cat": "考研",
-    "lang": "en"
-  },
-  {
-    "title": "How to Give Your AI Agent Memory",
-    "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
-    "description": "Learn how to give AI agents long-term memory using the OpenAI Agents SDK, Mem0, and MCP to remember preferences, context, and important information ac",
-    "date": "2026-11-06",
     "cat": "技术",
     "lang": "en"
   },
