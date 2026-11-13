@@ -1,5 +1,21 @@
 [
   {
+    "title": "Timeline of gambling addicts",
+    "url": "https://flowingdata.com/2026/11/13/timeline-of-gambling-addicts/",
+    "description": "Using anonymized credit card data, Bloomberg illustrated a three-year timeline of online gambling.&#8230;Tags: Bloomberg, gambling, prediction market,",
+    "date": "2026-11-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Introducing PLaMo-based AI translation for Bioconductor lessons",
+    "url": "https://www.r-bloggers.com/2026/11/introducing-plamo-based-ai-translation-for-bioconductor-lessons/",
+    "description": "In the report on our Japanese workshops, I explained why our Crowdin integration had become difficult to maintain. Keeping executable R Markdown lesso",
+    "date": "2026-11-13",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
     "title": "✚ Annotating line charts for presentation",
     "url": "https://flowingdata.com/2026/11/12/process-414-line-chart-annotation/",
     "description": "This is No. 414 of The Process. I'm Nathan Yau, and this week we get into specifics for annotation on line charts to draw attention and communicate pa",
@@ -101,22 +117,6 @@
     "description": "With BiocAsia 2026 coming up in Melbourne, community members have been organising seminars and exploring ways to take part locally.\nMore than 200 peop",
     "date": "2026-11-10",
     "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "A brain from simple circuits",
-    "url": "https://flowingdata.com/2026/11/09/a-brain-from-simple-circuits/",
-    "description": "Aatish Bhatia and Arkarup Banerjee use a visual explainer for how a few&#8230;Tags: Aatish Bhatia, Arkarup Banerjee, brain, Myriad, neurons",
-    "date": "2026-11-09",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Using R to make an “informational video”",
-    "url": "https://www.r-bloggers.com/2026/11/using-r-to-make-an-informational-video/",
-    "description": "I volunteer at my local junior AFL club and my role as club registrar grants access to a sports management platform called PlayHQ. It’s a rich source ",
-    "date": "2026-11-09",
-    "cat": "技术",
     "lang": "en"
   }
 ]

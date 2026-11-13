@@ -1,5 +1,21 @@
 [
   {
+    "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
+    "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
+    "description": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0",
+    "date": "2026-11-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 FREE Open-Source Alternatives to Jev",
+    "url": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
+    "description": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models fo",
+    "date": "2026-11-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
     "url": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
     "description": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-sou",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
     "description": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each te",
     "date": "2026-11-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
-    "url": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
-    "description": "4 classic leaks, planted in real data, tested cold on 4 models.",
-    "date": "2026-11-09",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Useful Python Automation Scripts for Beginners",
-    "url": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
-    "description": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
-    "date": "2026-11-09",
     "cat": "技术",
     "lang": "en"
   },
