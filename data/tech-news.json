@@ -1,5 +1,13 @@
 [
   {
+    "title": "✚ Annotating line charts for presentation",
+    "url": "https://flowingdata.com/2026/11/12/process-414-line-chart-annotation/",
+    "description": "This is No. 414 of The Process. I'm Nathan Yau, and this week we get into specifics for annotation on line charts to draw attention and communicate pa",
+    "date": "2026-11-12",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "BikeNetKit is a toolkit to improve the bicycle network in your city",
     "url": "https://flowingdata.com/2026/11/12/bikenetkit-is-a-toolkit-to-improve-the-bicycle-network-in-your-city/",
     "description": "When your city doesn&#8217;t support a proper infrastructure for bicycles, it can be&#8230;Tags: bicyle, cities, Python, toolkit",
@@ -109,14 +117,6 @@
     "description": "I volunteer at my local junior AFL club and my role as club registrar grants access to a sports management platform called PlayHQ. It’s a rich source ",
     "date": "2026-11-09",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Using caretS3 with ahead::ctxthetaf for Time Series Forecasting",
-    "url": "https://www.r-bloggers.com/2026/11/using-carets3-with-aheadctxthetaf-for-time-series-forecasting/",
-    "description": "A demonstration of using caretS3 models for time series forecasting with ahead::ctxthetaf.\nContinue reading: Using caretS3 with ahead::ctxthetaf for T",
-    "date": "2026-11-07",
-    "cat": "书单",
     "lang": "en"
   }
 ]
