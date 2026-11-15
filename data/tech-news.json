@@ -1,5 +1,13 @@
 [
   {
+    "title": "pyr.js: Python and R in HTML pages, with one script tag",
+    "url": "https://www.r-bloggers.com/2026/11/pyr-js-python-and-r-in-html-pages-with-one-script-tag/",
+    "description": "pyr.js runs Python and R code directly in HTML pages, in the browser, with one script tag: no server, no build step, no install. Pyodide and webR do t",
+    "date": "2026-11-15",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Timeline of gambling addicts",
     "url": "https://flowingdata.com/2026/11/13/timeline-of-gambling-addicts/",
     "description": "Using anonymized credit card data, Bloomberg illustrated a three-year timeline of online gambling.&#8230;Tags: Bloomberg, gambling, prediction market,",
@@ -109,14 +117,6 @@
     "description": "The agent we built in part 1 lives in an R console, which suits one person. A trial team needs an app in the browser, where several people can ask que",
     "date": "2026-11-10",
     "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Growing the BiocAsia community",
-    "url": "https://www.r-bloggers.com/2026/11/growing-the-biocasia-community/",
-    "description": "With BiocAsia 2026 coming up in Melbourne, community members have been organising seminars and exploring ways to take part locally.\nMore than 200 peop",
-    "date": "2026-11-10",
-    "cat": "讲座",
     "lang": "en"
   }
 ]
