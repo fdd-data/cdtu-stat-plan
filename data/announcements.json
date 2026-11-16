@@ -1,5 +1,29 @@
 [
   {
+    "title": "5 Things That Break When AI Agents Start Acting on Their Own",
+    "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
+    "description": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and ",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
+    "url": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
+    "description": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Agentic System Design: A Self-Study Roadmap",
+    "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
+    "description": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
     "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
     "description": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0",
@@ -52,30 +76,6 @@
     "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
     "description": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
     "date": "2026-11-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Use AI for Enterprise BI",
-    "url": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
-    "description": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with ",
-    "date": "2026-11-10",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
-    "url": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
-    "description": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language mo",
-    "date": "2026-11-10",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-    "url": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-    "description": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each te",
-    "date": "2026-11-10",
     "cat": "技术",
     "lang": "en"
   },
