@@ -1,5 +1,21 @@
 [
   {
+    "title": "Flight traffic during the ground stop",
+    "url": "https://flowingdata.com/2026/11/17/flight-traffic-during-the-ground-stop/",
+    "description": "The New York Times mapped flights at major airports before and after the&#8230;Tags: flights, grounded, New York Times",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Poll margins versus reality",
+    "url": "https://flowingdata.com/2026/11/17/poll-margins-versus-reality/",
+    "description": "It seems to be getting more difficult to accurately estimate election results based&#8230;Tags: estimation, New York Times, polling, uncertainty",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "\"You get a free drink if you order a Burger or a Salad and a Dessert.\"",
     "url": "https://www.r-bloggers.com/2026/11/you-get-a-free-drink-if-you-order-a-burger-or-a-salad-and-a-dessert/",
     "description": "A restaurant advertises, \"You get a free drink if you order a Burger or a Salad and a Dessert.\" Suppose you only order a Burger. Should the restaurant",
@@ -99,22 +115,6 @@
     "title": "Text time-lapse",
     "url": "https://flowingdata.com/2026/11/11/text-time-lapse/",
     "description": "Text Time-Lapse by Lev Manovich is a tool that shows the additions, deletions,&#8230;Tags: Lev Manovich, text, time-lapse",
-    "date": "2026-11-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Preparing the Data: Cattell’s 16 Factor Personality Measure",
-    "url": "https://www.r-bloggers.com/2026/11/preparing-the-data-cattells-16-factor-personality-measure/",
-    "description": "As I said in my previous post, I'm working on a 2-part series where I show how to conduct psychometric analysis on a personality measure. Those posts ",
-    "date": "2026-11-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Distribution of race by ZCTA",
-    "url": "https://www.r-bloggers.com/2026/11/distribution-of-race-by-zcta/",
-    "description": "What's a ZCTA?\n     \n    For years I assumed that a city consists of a number of zipcodes, and the city's population was simply the sum of the populat",
     "date": "2026-11-11",
     "cat": "技术",
     "lang": "en"

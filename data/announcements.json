@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+    "url": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+    "description": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier sc",
+    "date": "2026-11-17",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+    "url": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+    "description": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Z",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "5 Things That Break When AI Agents Start Acting on Their Own",
     "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
     "description": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and ",
@@ -59,22 +75,6 @@
     "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
     "url": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
     "description": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells",
-    "date": "2026-11-11",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
-    "url": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
-    "description": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
-    "date": "2026-11-11",
-    "cat": "实习",
-    "lang": "en"
-  },
-  {
-    "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
-    "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
-    "description": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
     "date": "2026-11-11",
     "cat": "技术",
     "lang": "en"
