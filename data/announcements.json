@@ -1,5 +1,85 @@
 [
   {
+    "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
+    "url": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
+    "description": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass,",
+    "date": "2026-11-18",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
+    "url": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
+    "description": "Why models ace Olympiad math and still fumble simple everyday tasks.",
+    "date": "2026-11-18",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
+    "url": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
+    "description": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premiu",
+    "date": "2026-11-18",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+    "url": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+    "description": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier sc",
+    "date": "2026-11-17",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+    "url": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+    "description": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Z",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 Things That Break When AI Agents Start Acting on Their Own",
+    "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
+    "description": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and ",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
+    "url": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
+    "description": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Agentic System Design: A Self-Study Roadmap",
+    "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
+    "description": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
+    "date": "2026-11-16",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
+    "url": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
+    "description": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0",
+    "date": "2026-11-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "5 FREE Open-Source Alternatives to Jev",
+    "url": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
+    "description": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models fo",
+    "date": "2026-11-13",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "2026 年全国大学生数学建模竞赛报名通知——校内选拔7月30日截止",
     "url": "skills.html",
     "description": "CUMCM 国内规模最大的建模竞赛，大二大三同学重点关注",
