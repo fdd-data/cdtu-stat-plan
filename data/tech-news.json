@@ -3,7 +3,7 @@
     "title": "A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price",
     "url": "https://arxiv.org/abs/2611.23324",
     "description": "arXiv:2611.23324v1 Announce Type: new \nAbstract: Comparing AI models across resource budgets yields quality-resource frontiers relating error to laten",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -11,7 +11,7 @@
     "title": "Minimax estimation for simultaneous deconvolution model in random design using wavelets",
     "url": "https://arxiv.org/abs/2611.23439",
     "description": "arXiv:2611.23439v1 Announce Type: new \nAbstract: Simultaneous deconvolution model is investigated when the design points are random and follow bounded",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -19,7 +19,7 @@
     "title": "Wasserstein Target Diagram for Model Evaluation",
     "url": "https://arxiv.org/abs/2611.23459",
     "description": "arXiv:2611.23459v1 Announce Type: new \nAbstract: The target diagram is often used in geosciences, which provides a visualization tool for model evalua",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -27,7 +27,7 @@
     "title": "Laplace Bayesian transport maps for generative modeling of non-Gaussian climate fields",
     "url": "https://arxiv.org/abs/2611.23467",
     "description": "arXiv:2611.23467v1 Announce Type: new \nAbstract: Transport maps provide a powerful framework for the generative modeling of complex, non-Gaussian spat",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -35,7 +35,7 @@
     "title": "Balancing Partition Forest for Causal Weighting",
     "url": "https://arxiv.org/abs/2611.23524",
     "description": "arXiv:2611.23524v1 Announce Type: new \nAbstract: Balancing weights are used in observational causal inference to construct a population in which the t",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -43,7 +43,7 @@
     "title": "Bounded-Order Non-Identifiability in Latent Structure Block Models: The Fiber in Closed Form",
     "url": "https://arxiv.org/abs/2611.23547",
     "description": "arXiv:2611.23547v1 Announce Type: new \nAbstract: A graphon is determined by all of its homomorphism densities, but motif-based methods use finitely ma",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -51,7 +51,7 @@
     "title": "Federated Differential Privacy with Batch Contamination",
     "url": "https://arxiv.org/abs/2611.23551",
     "description": "arXiv:2611.23551v1 Announce Type: new \nAbstract: We study mean estimation under federated differential privacy (FDP) constraints and batch contaminati",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -59,7 +59,7 @@
     "title": "Spatial Extremes on Domains with Physical Barriers",
     "url": "https://arxiv.org/abs/2611.23565",
     "description": "arXiv:2611.23565v1 Announce Type: new \nAbstract: We propose a model for spatial extremes what realistically accommodates nonconvex domains. Most exist",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -67,7 +67,7 @@
     "title": "Confounding Heterogeneity in Multivariate Sensitivity Analysis for Observational Studies",
     "url": "https://arxiv.org/abs/2611.23568",
     "description": "arXiv:2611.23568v1 Announce Type: new \nAbstract: In observational studies, unmeasured confounding may bias causal conclusions even after matching on m",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -75,7 +75,7 @@
     "title": "Spectral Stability and Convergence of the Unnormalized Graph Laplacian on Noisy Point Clouds",
     "url": "https://arxiv.org/abs/2611.23573",
     "description": "arXiv:2611.23573v1 Announce Type: new \nAbstract: The first eigenvalues and eigenvectors of the unnormalized graph Laplacian of clean samples from a ma",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -83,7 +83,7 @@
     "title": "A Free Lunch: Gradient Averaging Achieves Optimal Statistical Efficiency in Newton Sketch",
     "url": "https://arxiv.org/abs/2611.23671",
     "description": "arXiv:2611.23671v1 Announce Type: new \nAbstract: We study statistical inference for online sketched Newton methods, in which each Newton system is app",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -91,15 +91,15 @@
     "title": "A Multisite Super Learner for Survival Prediction with Limited Target-Site Data",
     "url": "https://arxiv.org/abs/2611.23675",
     "description": "arXiv:2611.23675v1 Announce Type: new \nAbstract: Survival prediction models developed in multi-site studies may transport poorly to a new site because",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
   {
     "title": "Anytime-valid goodness-of-fit test by $e$-spacings",
     "url": "https://arxiv.org/abs/2611.23775",
-    "description": "arXiv:2611.23775v1 Announce Type: new \nAbstract: To perform an anytime-valid goodness-of-fit test, we propose spacing-based \\(e\\)-processes that contr",
-    "date": "2026-11-19",
+    "description": "arXiv:2611.23775v2 Announce Type: new \nAbstract: To perform an anytime-valid goodness-of-fit test, we propose spacing-based \\(e\\)-processes that contr",
+    "date": "2026-11-20",
     "cat": "学术",
     "lang": "en"
   },
@@ -107,7 +107,7 @@
     "title": "Improved Leverage Score Sampling for Constrained Active Linear Regression",
     "url": "https://arxiv.org/abs/2611.23801",
     "description": "arXiv:2611.23801v1 Announce Type: new \nAbstract: In this paper we study active learning for constrained linear regression. Given a design matrix $A\\in",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "考研",
     "lang": "en"
   },
@@ -115,7 +115,7 @@
     "title": "Sensor Monitoring Towards Industry 4.0: Bridging Concepts on the $C_n$ Multivariate Control Chart",
     "url": "https://arxiv.org/abs/2611.23820",
     "description": "arXiv:2611.23820v1 Announce Type: new \nAbstract: The main challenge in monitoring multiple sensors is the high dimensionality that a process can easil",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cat": "竞赛",
     "lang": "en"
   }
