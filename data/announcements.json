@@ -1,5 +1,21 @@
 [
   {
+    "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
+    "url": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
+    "description": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for ",
+    "date": "2026-11-20",
+    "cat": "资源",
+    "lang": "en"
+  },
+  {
+    "title": "Decision AI Explained in 5 Minutes",
+    "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+    "description": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
+    "date": "2026-11-20",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
     "url": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
     "description": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
@@ -59,22 +75,6 @@
     "title": "5 Things That Break When AI Agents Start Acting on Their Own",
     "url": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
     "description": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and ",
-    "date": "2026-11-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
-    "url": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
-    "description": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
-    "date": "2026-11-16",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Agentic System Design: A Self-Study Roadmap",
-    "url": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-    "description": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
     "date": "2026-11-16",
     "cat": "技术",
     "lang": "en"
