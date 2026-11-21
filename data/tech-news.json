@@ -1,122 +1,122 @@
 [
   {
-    "title": "A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price",
-    "url": "https://arxiv.org/abs/2611.23324",
-    "description": "arXiv:2611.23324v1 Announce Type: new \nAbstract: Comparing AI models across resource budgets yields quality-resource frontiers relating error to laten",
+    "title": "Tariff refunds for public companies",
+    "url": "https://flowingdata.com/2026/11/20/tariff-refunds-for-public-companies/",
+    "description": "Trump tariffs were overturned, which means companies received billions of dollars in refunds.&#8230;Tags: ProPublica, refund, tariff",
     "date": "2026-11-20",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Minimax estimation for simultaneous deconvolution model in random design using wavelets",
-    "url": "https://arxiv.org/abs/2611.23439",
-    "description": "arXiv:2611.23439v1 Announce Type: new \nAbstract: Simultaneous deconvolution model is investigated when the design points are random and follow bounded",
+    "title": "People not excited about AI",
+    "url": "https://flowingdata.com/2026/11/20/not-excited-about-ai/",
+    "description": "Our World in Data collected results from several polls about sentiment around AI.&#8230;Tags: Our World in Data, sentiment",
     "date": "2026-11-20",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Wasserstein Target Diagram for Model Evaluation",
-    "url": "https://arxiv.org/abs/2611.23459",
-    "description": "arXiv:2611.23459v1 Announce Type: new \nAbstract: The target diagram is often used in geosciences, which provides a visualization tool for model evalua",
+    "title": "Why Risk Ratio Is Preferred, What is Modified Poisson, and Why Do We Even Care About Standard Error?",
+    "url": "https://www.r-bloggers.com/2026/11/why-risk-ratio-is-preferred-what-is-modified-poisson-and-why-do-we-even-care-about-standard-error/",
+    "description": "Learnt about modified Poisson for the first time. Simulated RR vs OR, log-binomial and robust SE, then sprinkled in repeated measures. Turns out a 95%",
     "date": "2026-11-20",
-    "cat": "学术",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Laplace Bayesian transport maps for generative modeling of non-Gaussian climate fields",
-    "url": "https://arxiv.org/abs/2611.23467",
-    "description": "arXiv:2611.23467v1 Announce Type: new \nAbstract: Transport maps provide a powerful framework for the generative modeling of complex, non-Gaussian spat",
+    "title": "Hacking Two Hours of Contributions to R",
+    "url": "https://www.r-bloggers.com/2026/11/hacking-two-hours-of-contributions-to-r/",
+    "description": "Read it in: Español. LatinR is a conference on the use of R in Research and Development that brings together the Latin American community using our fa",
     "date": "2026-11-20",
-    "cat": "学术",
+    "cat": "讲座",
     "lang": "en"
   },
   {
-    "title": "Balancing Partition Forest for Causal Weighting",
-    "url": "https://arxiv.org/abs/2611.23524",
-    "description": "arXiv:2611.23524v1 Announce Type: new \nAbstract: Balancing weights are used in observational causal inference to construct a population in which the t",
-    "date": "2026-11-20",
-    "cat": "学术",
+    "title": "Eldercare and the “Sister” sketch on Saturday Night Live",
+    "url": "https://flowingdata.com/2026/11/19/eldercare-and-the-sister-sketch-on-saturday-night-live/",
+    "description": "Saturday Night Live ran a skit for an eldercare service that was simply&#8230;Tags: Bloomberg, eldercare, Saturday Night Live",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Bounded-Order Non-Identifiability in Latent Structure Block Models: The Fiber in Closed Form",
-    "url": "https://arxiv.org/abs/2611.23547",
-    "description": "arXiv:2611.23547v1 Announce Type: new \nAbstract: A graphon is determined by all of its homomorphism densities, but motif-based methods use finitely ma",
-    "date": "2026-11-20",
-    "cat": "学术",
+    "title": "Worst music subgenres in history",
+    "url": "https://flowingdata.com/2026/11/19/worst-music-subgenres-in-history/",
+    "description": "Upon realizing his past self&#8217;s poor taste in music, Daniel Parris went looking&#8230;Tags: Daniel Parris, music, Stat Significant",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Federated Differential Privacy with Batch Contamination",
-    "url": "https://arxiv.org/abs/2611.23551",
-    "description": "arXiv:2611.23551v1 Announce Type: new \nAbstract: We study mean estimation under federated differential privacy (FDP) constraints and batch contaminati",
-    "date": "2026-11-20",
-    "cat": "学术",
+    "title": "✚ Visualization tools and resources, November 2026 roundup",
+    "url": "https://flowingdata.com/2026/11/19/process-415-roundup/",
+    "description": "Every month I gather tools and resources to make charts with purpose and intention. Here is what happened in November.Tags: roundup",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Spatial Extremes on Domains with Physical Barriers",
-    "url": "https://arxiv.org/abs/2611.23565",
-    "description": "arXiv:2611.23565v1 Announce Type: new \nAbstract: We propose a model for spatial extremes what realistically accommodates nonconvex domains. Most exist",
-    "date": "2026-11-20",
-    "cat": "学术",
+    "title": "From Brisbane to the rOpenSci Community: Ten Years of Open Research Software",
+    "url": "https://www.r-bloggers.com/2026/11/from-brisbane-to-the-ropensci-community-ten-years-of-open-research-software/",
+    "description": "With rOpenSci turning 15 this year, it’s hard to believe that I’ve been part of it for 10 of those years.\nMy involvement started in Brisbane in 2016, ",
+    "date": "2026-11-19",
+    "cat": "讲座",
     "lang": "en"
   },
   {
-    "title": "Confounding Heterogeneity in Multivariate Sensitivity Analysis for Observational Studies",
-    "url": "https://arxiv.org/abs/2611.23568",
-    "description": "arXiv:2611.23568v1 Announce Type: new \nAbstract: In observational studies, unmeasured confounding may bias causal conclusions even after matching on m",
-    "date": "2026-11-20",
-    "cat": "学术",
+    "title": "Why the overall rate can flip: weighted means and Simpson’s paradox in R",
+    "url": "https://www.r-bloggers.com/2026/11/why-the-overall-rate-can-flip-weighted-means-and-simpsons-paradox-in-r/",
+    "description": "Introduction\nThe data\nAn overall rate is a weighted mean\nThe result depends on the reference mix\nWhen exactly does the comparison flip?\nWhich rate sho",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Spectral Stability and Convergence of the Unnormalized Graph Laplacian on Noisy Point Clouds",
-    "url": "https://arxiv.org/abs/2611.23573",
-    "description": "arXiv:2611.23573v1 Announce Type: new \nAbstract: The first eigenvalues and eigenvectors of the unnormalized graph Laplacian of clean samples from a ma",
-    "date": "2026-11-20",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Free Lunch: Gradient Averaging Achieves Optimal Statistical Efficiency in Newton Sketch",
-    "url": "https://arxiv.org/abs/2611.23671",
-    "description": "arXiv:2611.23671v1 Announce Type: new \nAbstract: We study statistical inference for online sketched Newton methods, in which each Newton system is app",
-    "date": "2026-11-20",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "A Multisite Super Learner for Survival Prediction with Limited Target-Site Data",
-    "url": "https://arxiv.org/abs/2611.23675",
-    "description": "arXiv:2611.23675v1 Announce Type: new \nAbstract: Survival prediction models developed in multi-site studies may transport poorly to a new site because",
-    "date": "2026-11-20",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Anytime-valid goodness-of-fit test by $e$-spacings",
-    "url": "https://arxiv.org/abs/2611.23775",
-    "description": "arXiv:2611.23775v2 Announce Type: new \nAbstract: To perform an anytime-valid goodness-of-fit test, we propose spacing-based \\(e\\)-processes that contr",
-    "date": "2026-11-20",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Improved Leverage Score Sampling for Constrained Active Linear Regression",
-    "url": "https://arxiv.org/abs/2611.23801",
-    "description": "arXiv:2611.23801v1 Announce Type: new \nAbstract: In this paper we study active learning for constrained linear regression. Given a design matrix $A\\in",
-    "date": "2026-11-20",
+    "title": "olsrr 0.7.1",
+    "url": "https://www.r-bloggers.com/2026/11/olsrr-0-7-1/",
+    "description": "olsrr 0.7.1 is on CRAN. olsrr provides tools for building and checking ordinary least squares regression models in R: regression summaries, variable s",
+    "date": "2026-11-19",
     "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Sensor Monitoring Towards Industry 4.0: Bridging Concepts on the $C_n$ Multivariate Control Chart",
-    "url": "https://arxiv.org/abs/2611.23820",
-    "description": "arXiv:2611.23820v1 Announce Type: new \nAbstract: The main challenge in monitoring multiple sensors is the high dimensionality that a process can easil",
-    "date": "2026-11-20",
-    "cat": "竞赛",
+    "title": "How daily routines change with age and responsibilities",
+    "url": "https://flowingdata.com/2026/11/18/american-daily-routine-age/",
+    "description": "Work, eat, sleep, and repeat. This is the wideout view of daily routines for working adults, but it changes depending on who you are and what you need",
+    "date": "2026-11-18",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Fox News loves WNBA, just not for basketball",
+    "url": "https://flowingdata.com/2026/11/18/fox-news-loves-wnba-just-not-for-basketball/",
+    "description": "Fox News took a liking to the WNBA this past season, but not&#8230;Tags: bait, Fox News, Jan Diehm, Melanie Walsh, Pudding, WNBA",
+    "date": "2026-11-18",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Flight traffic during the ground stop",
+    "url": "https://flowingdata.com/2026/11/17/flight-traffic-during-the-ground-stop/",
+    "description": "The New York Times mapped flights at major airports before and after the&#8230;Tags: flights, grounded, New York Times",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Poll margins versus reality",
+    "url": "https://flowingdata.com/2026/11/17/poll-margins-versus-reality/",
+    "description": "It seems to be getting more difficult to accurately estimate election results based&#8230;Tags: estimation, New York Times, polling, uncertainty",
+    "date": "2026-11-17",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "\"You get a free drink if you order a Burger or a Salad and a Dessert.\"",
+    "url": "https://www.r-bloggers.com/2026/11/you-get-a-free-drink-if-you-order-a-burger-or-a-salad-and-a-dessert/",
+    "description": "A restaurant advertises, \"You get a free drink if you order a Burger or a Salad and a Dessert.\" Suppose you only order a Burger. Should the restaurant",
+    "date": "2026-11-17",
+    "cat": "技术",
     "lang": "en"
   }
 ]
