@@ -1,5 +1,21 @@
 [
   {
+    "title": "Seeing nucleotides as images",
+    "url": "https://www.r-bloggers.com/2026/11/seeing-nucleotides-as-images/",
+    "description": "In 2022 I spent a few months on a problem far from anything I had done before: finding single letters in the tails of RNA molecules, from the electric",
+    "date": "2026-11-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "pyr.js: Python and R in HTML, documentation and examples",
+    "url": "https://www.r-bloggers.com/2026/11/pyr-js-python-and-r-in-html-documentation-and-examples/",
+    "description": "pyr.js runs Python and R code directly in HTML pages, in the browser, with one script tag: no server, no build step, no install. Pyodide and webR do t",
+    "date": "2026-11-22",
+    "cat": "书单",
+    "lang": "en"
+  },
+  {
     "title": "Classical Test Theory Analysis of the 16 Factor Personality Measure",
     "url": "https://www.r-bloggers.com/2026/11/classical-test-theory-analysis-of-the-16-factor-personality-measure/",
     "description": "In my\nlast\npost, I talked through how to clean the dataset of careless\nresponders, responders with too much missing data, and people older than\ntime i",
@@ -100,22 +116,6 @@
     "url": "https://flowingdata.com/2026/11/18/american-daily-routine-age/",
     "description": "Work, eat, sleep, and repeat. This is the wideout view of daily routines for working adults, but it changes depending on who you are and what you need",
     "date": "2026-11-18",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Fox News loves WNBA, just not for basketball",
-    "url": "https://flowingdata.com/2026/11/18/fox-news-loves-wnba-just-not-for-basketball/",
-    "description": "Fox News took a liking to the WNBA this past season, but not&#8230;Tags: bait, Fox News, Jan Diehm, Melanie Walsh, Pudding, WNBA",
-    "date": "2026-11-18",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Flight traffic during the ground stop",
-    "url": "https://flowingdata.com/2026/11/17/flight-traffic-during-the-ground-stop/",
-    "description": "The New York Times mapped flights at major airports before and after the&#8230;Tags: flights, grounded, New York Times",
-    "date": "2026-11-17",
     "cat": "技术",
     "lang": "en"
   }
