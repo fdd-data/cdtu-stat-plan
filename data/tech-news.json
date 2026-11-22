@@ -1,5 +1,21 @@
 [
   {
+    "title": "Classical Test Theory Analysis of the 16 Factor Personality Measure",
+    "url": "https://www.r-bloggers.com/2026/11/classical-test-theory-analysis-of-the-16-factor-personality-measure/",
+    "description": "In my\nlast\npost, I talked through how to clean the dataset of careless\nresponders, responders with too much missing data, and people older than\ntime i",
+    "date": "2026-11-21",
+    "cat": "讲座",
+    "lang": "en"
+  },
+  {
+    "title": "blorr 0.3.2",
+    "url": "https://www.r-bloggers.com/2026/11/blorr-0-3-2/",
+    "description": "blorr 0.3.2 is on CRAN. blorr provides tools for binary logistic regression in R: model fit statistics, variable selection, bivariate analysis, weight",
+    "date": "2026-11-21",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "Tariff refunds for public companies",
     "url": "https://flowingdata.com/2026/11/20/tariff-refunds-for-public-companies/",
     "description": "Trump tariffs were overturned, which means companies received billions of dollars in refunds.&#8230;Tags: ProPublica, refund, tariff",
@@ -99,22 +115,6 @@
     "title": "Flight traffic during the ground stop",
     "url": "https://flowingdata.com/2026/11/17/flight-traffic-during-the-ground-stop/",
     "description": "The New York Times mapped flights at major airports before and after the&#8230;Tags: flights, grounded, New York Times",
-    "date": "2026-11-17",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Poll margins versus reality",
-    "url": "https://flowingdata.com/2026/11/17/poll-margins-versus-reality/",
-    "description": "It seems to be getting more difficult to accurately estimate election results based&#8230;Tags: estimation, New York Times, polling, uncertainty",
-    "date": "2026-11-17",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "\"You get a free drink if you order a Burger or a Salad and a Dessert.\"",
-    "url": "https://www.r-bloggers.com/2026/11/you-get-a-free-drink-if-you-order-a-burger-or-a-salad-and-a-dessert/",
-    "description": "A restaurant advertises, \"You get a free drink if you order a Burger or a Salad and a Dessert.\" Suppose you only order a Burger. Should the restaurant",
     "date": "2026-11-17",
     "cat": "技术",
     "lang": "en"
