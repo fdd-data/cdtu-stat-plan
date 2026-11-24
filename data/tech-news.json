@@ -1,5 +1,13 @@
 [
   {
+    "title": "Monetizing MAHA",
+    "url": "https://flowingdata.com/2026/11/24/monetizing-maha/",
+    "description": "For the Washington Post, Lauren Weber, Drew Harwell, and Jeremy B. Merrill examine&#8230;Tags: MAHA, money, Washington Post",
+    "date": "2026-11-24",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Maps styled as roughly drawn sketches",
     "url": "https://flowingdata.com/2026/11/23/maps-styled-as-roughly-drawn-sketches/",
     "description": "While we&#8217;re on unitasking map tools, roughMaps is a fun application by Alessio&#8230;Tags: Alessio Coci, mapping, sketch",
@@ -11,6 +19,14 @@
     "title": "Contours on a map",
     "url": "https://flowingdata.com/2026/11/23/contours-on-a-map/",
     "description": "Contours by Axis Maps lets you easily draw and customize contour lines on&#8230;Tags: cartography, contour map",
+    "date": "2026-11-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Splitting Large Queries to Brazil’s Official Statistics API with ibger",
+    "url": "https://www.r-bloggers.com/2026/11/splitting-large-queries-to-brazils-official-statistics-api-with-ibger/",
+    "description": "The Brazilian Institute of Geography and Statistics (IBGE)\nproduces Brazil’s official statistics: the demographic census, the IPCA\ninflation index1, m",
     "date": "2026-11-23",
     "cat": "技术",
     "lang": "en"
@@ -99,22 +115,6 @@
     "title": "Eldercare and the “Sister” sketch on Saturday Night Live",
     "url": "https://flowingdata.com/2026/11/19/eldercare-and-the-sister-sketch-on-saturday-night-live/",
     "description": "Saturday Night Live ran a skit for an eldercare service that was simply&#8230;Tags: Bloomberg, eldercare, Saturday Night Live",
-    "date": "2026-11-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Worst music subgenres in history",
-    "url": "https://flowingdata.com/2026/11/19/worst-music-subgenres-in-history/",
-    "description": "Upon realizing his past self&#8217;s poor taste in music, Daniel Parris went looking&#8230;Tags: Daniel Parris, music, Stat Significant",
-    "date": "2026-11-19",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "✚ Visualization tools and resources, November 2026 roundup",
-    "url": "https://flowingdata.com/2026/11/19/process-415-roundup/",
-    "description": "Every month I gather tools and resources to make charts with purpose and intention. Here is what happened in November.Tags: roundup",
     "date": "2026-11-19",
     "cat": "技术",
     "lang": "en"
