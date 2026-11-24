@@ -1,122 +1,122 @@
 [
   {
-    "title": "SDG: State-Dependent Gating at Chunk Boundaries for Linear Attention",
-    "url": "https://arxiv.org/abs/2611.26637",
-    "description": "arXiv:2611.26637v1 Announce Type: new \nAbstract: Recent gated linear attention models use state-independent gates, computed from token representations",
+    "title": "Maps styled as roughly drawn sketches",
+    "url": "https://flowingdata.com/2026/11/23/maps-styled-as-roughly-drawn-sketches/",
+    "description": "While we&#8217;re on unitasking map tools, roughMaps is a fun application by Alessio&#8230;Tags: Alessio Coci, mapping, sketch",
     "date": "2026-11-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Contours on a map",
+    "url": "https://flowingdata.com/2026/11/23/contours-on-a-map/",
+    "description": "Contours by Axis Maps lets you easily draw and customize contour lines on&#8230;Tags: cartography, contour map",
+    "date": "2026-11-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "R Project Sprint 2027",
+    "url": "https://www.r-bloggers.com/2026/11/r-project-sprint-2027/",
+    "description": "We are pleased to announce another R Project Sprint, to be hosted in Boston, USA, for 3 days in the week of Monday April 12, 2027 (exact dates TBD). N",
+    "date": "2026-11-23",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "gratia 0.12.1",
+    "url": "https://www.r-bloggers.com/2026/11/gratia-0-12-1/",
+    "description": "A new version of gratia, 0.12.1, is now available on CRAN. This is a major new release, with a tonne of new features, improvements and bug fixes. Ther",
+    "date": "2026-11-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Seeing nucleotides as images",
+    "url": "https://www.r-bloggers.com/2026/11/seeing-nucleotides-as-images/",
+    "description": "In 2022 I spent a few months on a problem far from anything I had done before: finding single letters in the tails of RNA molecules, from the electric",
+    "date": "2026-11-22",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "pyr.js: Python and R in HTML, documentation and examples",
+    "url": "https://www.r-bloggers.com/2026/11/pyr-js-python-and-r-in-html-documentation-and-examples/",
+    "description": "pyr.js runs Python and R code directly in HTML pages, in the browser, with one script tag: no server, no build step, no install. Pyodide and webR do t",
+    "date": "2026-11-22",
     "cat": "书单",
     "lang": "en"
   },
   {
-    "title": "A functional Breuer-Major theorem under finite variance, with application to the $R/S$ test for long memory",
-    "url": "https://arxiv.org/abs/2611.26793",
-    "description": "arXiv:2611.26793v1 Announce Type: new \nAbstract: The Breuer-Major theorem (Breuer and Major, 1983) states that, for a function $G$ of Hermite rank $m$",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Classical Test Theory Analysis of the 16 Factor Personality Measure",
+    "url": "https://www.r-bloggers.com/2026/11/classical-test-theory-analysis-of-the-16-factor-personality-measure/",
+    "description": "In my\nlast\npost, I talked through how to clean the dataset of careless\nresponders, responders with too much missing data, and people older than\ntime i",
+    "date": "2026-11-21",
+    "cat": "讲座",
     "lang": "en"
   },
   {
-    "title": "Hidden Semi-Markov Models for Fully Functional Time Series",
-    "url": "https://arxiv.org/abs/2611.26838",
-    "description": "arXiv:2611.26838v1 Announce Type: new \nAbstract: Functional time series have a wide range of practical applications to modeling complex datasets such ",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "blorr 0.3.2",
+    "url": "https://www.r-bloggers.com/2026/11/blorr-0-3-2/",
+    "description": "blorr 0.3.2 is on CRAN. blorr provides tools for binary logistic regression in R: model fit statistics, variable selection, bivariate analysis, weight",
+    "date": "2026-11-21",
+    "cat": "考研",
     "lang": "en"
   },
   {
-    "title": "Exact Online $Q_n$ Estimation: Exploiting Sliding-Window Rank Invariance",
-    "url": "https://arxiv.org/abs/2611.26852",
-    "description": "arXiv:2611.26852v1 Announce Type: new \nAbstract: The $Q_n$ scale estimator (Rousseeuw and Croux, 1993) combines a 50% finite-sample breakdown point wi",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Tariff refunds for public companies",
+    "url": "https://flowingdata.com/2026/11/20/tariff-refunds-for-public-companies/",
+    "description": "Trump tariffs were overturned, which means companies received billions of dollars in refunds.&#8230;Tags: ProPublica, refund, tariff",
+    "date": "2026-11-20",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Estimating contextual networks via Fisher-scoring surrogate likelihood",
-    "url": "https://arxiv.org/abs/2611.26886",
-    "description": "arXiv:2611.26886v1 Announce Type: new \nAbstract: When networks are accompanied by vertex-level covariates, effectively integrating and aligning the in",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "People not excited about AI",
+    "url": "https://flowingdata.com/2026/11/20/not-excited-about-ai/",
+    "description": "Our World in Data collected results from several polls about sentiment around AI.&#8230;Tags: Our World in Data, sentiment",
+    "date": "2026-11-20",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Estimating conditional means under missingness-not-at-random with incomplete auxiliary variables",
-    "url": "https://arxiv.org/abs/2611.26891",
-    "description": "arXiv:2611.26891v1 Announce Type: new \nAbstract: Estimators assuming missingness at random (MAR) can fail under missingness not at random (MNAR). Intr",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Why Risk Ratio Is Preferred, What is Modified Poisson, and Why Do We Even Care About Standard Error?",
+    "url": "https://www.r-bloggers.com/2026/11/why-risk-ratio-is-preferred-what-is-modified-poisson-and-why-do-we-even-care-about-standard-error/",
+    "description": "Learnt about modified Poisson for the first time. Simulated RR vs OR, log-binomial and robust SE, then sprinkled in repeated measures. Turns out a 95%",
+    "date": "2026-11-20",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Uncovering Multimorbidity Patterns Through a Novel Randomized Clustering Algorithm",
-    "url": "https://arxiv.org/abs/2611.26927",
-    "description": "arXiv:2611.26927v1 Announce Type: new \nAbstract: Patients with several chronic conditions rarely share the same combination: in four years of the nati",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Hacking Two Hours of Contributions to R",
+    "url": "https://www.r-bloggers.com/2026/11/hacking-two-hours-of-contributions-to-r/",
+    "description": "Read it in: Español. LatinR is a conference on the use of R in Research and Development that brings together the Latin American community using our fa",
+    "date": "2026-11-20",
+    "cat": "讲座",
     "lang": "en"
   },
   {
-    "title": "MG-EDA: Maturity-Gated Skew-Normal Estimation of Distribution Algorithms",
-    "url": "https://arxiv.org/abs/2611.26938",
-    "description": "arXiv:2611.26938v1 Announce Type: new \nAbstract: Gaussian estimation of distribution algorithms shrink their variance on slopes and stall far from the",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Eldercare and the “Sister” sketch on Saturday Night Live",
+    "url": "https://flowingdata.com/2026/11/19/eldercare-and-the-sister-sketch-on-saturday-night-live/",
+    "description": "Saturday Night Live ran a skit for an eldercare service that was simply&#8230;Tags: Bloomberg, eldercare, Saturday Night Live",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "Spectral Estimation with Deformed Decompression",
-    "url": "https://arxiv.org/abs/2611.26945",
-    "description": "arXiv:2611.26945v1 Announce Type: new \nAbstract: Sample covariance matrices are fundamental objects in machine learning and statistics, with valuable ",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "Worst music subgenres in history",
+    "url": "https://flowingdata.com/2026/11/19/worst-music-subgenres-in-history/",
+    "description": "Upon realizing his past self&#8217;s poor taste in music, Daniel Parris went looking&#8230;Tags: Daniel Parris, music, Stat Significant",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   },
   {
-    "title": "A generalized Bayesian method for identifying local and global changepoints in dynamic network data",
-    "url": "https://arxiv.org/abs/2611.26955",
-    "description": "arXiv:2611.26955v1 Announce Type: new \nAbstract: We introduce a generalized Bayesian approach to multiple changepoint analysis in dynamic network data",
-    "date": "2026-11-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Subspace Inference for Multilayer Latent Space Networks: Intrinsic Geometry and One-Step Estimator",
-    "url": "https://arxiv.org/abs/2611.26985",
-    "description": "arXiv:2611.26985v1 Announce Type: new \nAbstract: Multilayer networks on a common node set, such as brain connectomes of several animals with one layer",
-    "date": "2026-11-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Beware of complexity bias: A hindrance to conceptual model generalization and interpretability",
-    "url": "https://arxiv.org/abs/2611.26995",
-    "description": "arXiv:2611.26995v1 Announce Type: new \nAbstract: In the field of rainfall-runoff modeling, lumped conceptual models have been shown to be powerful rep",
-    "date": "2026-11-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "graphMTP: An R Shiny Interface for Graphical Multiple Testing and Interim Monitoring",
-    "url": "https://arxiv.org/abs/2611.27052",
-    "description": "arXiv:2611.27052v1 Announce Type: new \nAbstract: Graphical multiple testing procedures provide a framework for controlling the family-wise error rate ",
-    "date": "2026-11-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Semiparametric Efficiency for Entropic Optimal Transport under Structured Distribution Shift",
-    "url": "https://arxiv.org/abs/2611.27261",
-    "description": "arXiv:2611.27261v1 Announce Type: new \nAbstract: Can structural information improve estimation of entropic optimal transport (EOT), and when is the ga",
-    "date": "2026-11-23",
-    "cat": "学术",
-    "lang": "en"
-  },
-  {
-    "title": "Smoothed Conformal Testing with Small Calibration Sets",
-    "url": "https://arxiv.org/abs/2611.27315",
-    "description": "arXiv:2611.27315v1 Announce Type: new \nAbstract: A small calibration sample restricts split conformal $p$-values to a coarse rank grid. Randomization ",
-    "date": "2026-11-23",
-    "cat": "学术",
+    "title": "✚ Visualization tools and resources, November 2026 roundup",
+    "url": "https://flowingdata.com/2026/11/19/process-415-roundup/",
+    "description": "Every month I gather tools and resources to make charts with purpose and intention. Here is what happened in November.Tags: roundup",
+    "date": "2026-11-19",
+    "cat": "技术",
     "lang": "en"
   }
 ]
