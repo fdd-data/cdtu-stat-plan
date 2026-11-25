@@ -1,8 +1,40 @@
 [
   {
+    "title": "Learning brain",
+    "url": "https://flowingdata.com/2026/11/25/learning-brain/",
+    "description": "Continuing their series on how our brains find the right paths, Aatish Bhatia&#8230;Tags: Aatish Bhatia, Arkarup Banerjee, brain, learning",
+    "date": "2026-11-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Survivor Stats DB: the companion site to {survivoR}",
+    "url": "https://www.r-bloggers.com/2026/11/survivor-stats-db-the-companion-site-to-survivor/",
+    "description": "The {survivoR} package has been the go-to home for Survivor data in R. It has 5 versions, 76 seasons, 1,198 […]\nThe post Survivor Stats DB: the compan",
+    "date": "2026-11-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Permutation tests in R: let your data build its own null distribution",
+    "url": "https://www.r-bloggers.com/2026/11/permutation-tests-in-r-let-your-data-build-its-own-null-distribution/",
+    "description": "Introduction\nExample 1: two independent groups (PlantGrowth)\nA small simulation study\nThe difference in medians\nExample 2: paired data (sleep)\nWhen to",
+    "date": "2026-11-25",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Monetizing MAHA",
     "url": "https://flowingdata.com/2026/11/24/monetizing-maha/",
     "description": "For the Washington Post, Lauren Weber, Drew Harwell, and Jeremy B. Merrill examine&#8230;Tags: MAHA, money, Washington Post",
+    "date": "2026-11-24",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "Is the Glass Half Filled or Almost Empty?",
+    "url": "https://www.r-bloggers.com/2026/11/is-the-glass-half-filled-or-almost-empty/",
+    "description": "Today I saw a fascinating dataviz (mis)interpretation case that featured a plot from a recent Stripe data analysis that claims that agentic commerce i",
     "date": "2026-11-24",
     "cat": "技术",
     "lang": "en"
@@ -84,38 +116,6 @@
     "url": "https://flowingdata.com/2026/11/20/tariff-refunds-for-public-companies/",
     "description": "Trump tariffs were overturned, which means companies received billions of dollars in refunds.&#8230;Tags: ProPublica, refund, tariff",
     "date": "2026-11-20",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "People not excited about AI",
-    "url": "https://flowingdata.com/2026/11/20/not-excited-about-ai/",
-    "description": "Our World in Data collected results from several polls about sentiment around AI.&#8230;Tags: Our World in Data, sentiment",
-    "date": "2026-11-20",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Why Risk Ratio Is Preferred, What is Modified Poisson, and Why Do We Even Care About Standard Error?",
-    "url": "https://www.r-bloggers.com/2026/11/why-risk-ratio-is-preferred-what-is-modified-poisson-and-why-do-we-even-care-about-standard-error/",
-    "description": "Learnt about modified Poisson for the first time. Simulated RR vs OR, log-binomial and robust SE, then sprinkled in repeated measures. Turns out a 95%",
-    "date": "2026-11-20",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Hacking Two Hours of Contributions to R",
-    "url": "https://www.r-bloggers.com/2026/11/hacking-two-hours-of-contributions-to-r/",
-    "description": "Read it in: Español. LatinR is a conference on the use of R in Research and Development that brings together the Latin American community using our fa",
-    "date": "2026-11-20",
-    "cat": "讲座",
-    "lang": "en"
-  },
-  {
-    "title": "Eldercare and the “Sister” sketch on Saturday Night Live",
-    "url": "https://flowingdata.com/2026/11/19/eldercare-and-the-sister-sketch-on-saturday-night-live/",
-    "description": "Saturday Night Live ran a skit for an eldercare service that was simply&#8230;Tags: Bloomberg, eldercare, Saturday Night Live",
-    "date": "2026-11-19",
     "cat": "技术",
     "lang": "en"
   }
