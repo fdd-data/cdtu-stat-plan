@@ -1,5 +1,21 @@
 [
   {
+    "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
+    "url": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
+    "description": "The skills that keep you irreplaceable when AI handles the boilerplate.",
+    "date": "2026-11-26",
+    "cat": "实习",
+    "lang": "en"
+  },
+  {
+    "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
+    "url": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
+    "description": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local",
+    "date": "2026-11-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
     "url": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
     "description": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, a",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
     "description": "Compare five lightweight ways to give AI agents tools without an MCP server, from a Python dispatcher to framework tools, REST adapters, subprocesses,",
     "date": "2026-11-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
-    "url": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
-    "description": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for ",
-    "date": "2026-11-20",
-    "cat": "资源",
-    "lang": "en"
-  },
-  {
-    "title": "Decision AI Explained in 5 Minutes",
-    "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-    "description": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-    "date": "2026-11-20",
     "cat": "技术",
     "lang": "en"
   },
