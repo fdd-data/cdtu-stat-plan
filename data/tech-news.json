@@ -16,6 +16,14 @@
     "lang": "en"
   },
   {
+    "title": "Customising gratia plots with ggplot2 themes",
+    "url": "https://www.r-bloggers.com/2026/11/customising-gratia-plots-with-ggplot2-themes/",
+    "description": "With gratia 0.12.1, you can change the colour of a smooth or the opacity of its interval after calling draw() using the new theme system. These settin",
+    "date": "2026-11-26",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "“Just ask the model for translation”",
     "url": "https://www.r-bloggers.com/2026/11/just-ask-the-model-for-translation/",
     "description": "You can read the original post in its original format on Rtask website by ThinkR here: “Just ask the model for translation”\nI was recently in charge o",
@@ -108,14 +116,6 @@
     "url": "https://www.r-bloggers.com/2026/11/r-project-sprint-2027/",
     "description": "We are pleased to announce another R Project Sprint, to be hosted in Boston, USA, for 3 days in the week of Monday April 12, 2027 (exact dates TBD). N",
     "date": "2026-11-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "gratia 0.12.1",
-    "url": "https://www.r-bloggers.com/2026/11/gratia-0-12-1/",
-    "description": "A new version of gratia, 0.12.1, is now available on CRAN. This is a major new release, with a tonne of new features, improvements and bug fixes. Ther",
-    "date": "2026-11-22",
     "cat": "技术",
     "lang": "en"
   }

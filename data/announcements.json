@@ -1,5 +1,21 @@
 [
   {
+    "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+    "description": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+    "date": "2026-11-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
+    "title": "10 GitHub Repositories to Master AI Decision Models",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+    "description": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decis",
+    "date": "2026-11-27",
+    "cat": "考研",
+    "lang": "en"
+  },
+  {
     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
     "url": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
     "description": "The skills that keep you irreplaceable when AI handles the boilerplate.",
@@ -60,22 +76,6 @@
     "url": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
     "description": "The most downloaded AI models on Hugging Face aren't the ones you'd expect. Discover why smaller, older, and specialized models dominate the rankings.",
     "date": "2026-11-24",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
-    "url": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
-    "description": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
-    "date": "2026-11-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
-    "url": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
-    "description": "Compare five lightweight ways to give AI agents tools without an MCP server, from a Python dispatcher to framework tools, REST adapters, subprocesses,",
-    "date": "2026-11-23",
     "cat": "技术",
     "lang": "en"
   },
