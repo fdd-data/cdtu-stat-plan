@@ -1,5 +1,13 @@
 [
   {
+    "title": "When will that elevator arrive?  Elevator dispatching",
+    "url": "https://www.r-bloggers.com/2026/11/when-will-that-elevator-arrive-elevator-dispatching/",
+    "description": "I was recently at a high-rise building with 23 floors and 6 elevators.  There always seemed to be a long wait for an elevator.  This made me think:  t",
+    "date": "2026-11-27",
+    "cat": "技术",
+    "lang": "en"
+  },
+  {
     "title": "mvgam 2.0 on CRAN: State-Space models built on brms",
     "url": "https://www.r-bloggers.com/2026/11/mvgam-2-0-on-cran-state-space-models-built-on-brms/",
     "description": "Welcoming mvgam 2.0 to CRAN\nVersion 2.0 of mvgam\nhas now been published on CRAN. When I\nannounced the first CRAN release, I finished with a list of fe",
@@ -107,14 +115,6 @@
     "title": "Splitting Large Queries to Brazil’s Official Statistics API with ibger",
     "url": "https://www.r-bloggers.com/2026/11/splitting-large-queries-to-brazils-official-statistics-api-with-ibger/",
     "description": "The Brazilian Institute of Geography and Statistics (IBGE)\nproduces Brazil’s official statistics: the demographic census, the IPCA\ninflation index1, m",
-    "date": "2026-11-23",
-    "cat": "技术",
-    "lang": "en"
-  },
-  {
-    "title": "R Project Sprint 2027",
-    "url": "https://www.r-bloggers.com/2026/11/r-project-sprint-2027/",
-    "description": "We are pleased to announce another R Project Sprint, to be hosted in Boston, USA, for 3 days in the week of Monday April 12, 2027 (exact dates TBD). N",
     "date": "2026-11-23",
     "cat": "技术",
     "lang": "en"
